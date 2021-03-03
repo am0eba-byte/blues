@@ -1,0 +1,64 @@
+            /* GENERAL STYLING */
+            
+body {
+    
+}
+
+header {
+    text-align: center;
+}
+
+div.navbar {
+    padding-bottom: 20px;
+    padding-top:10px;
+}
+
+a.navLink {
+    padding-left:20px;
+    padding-right: 20px;
+    font-size: 1.2em;
+}
+
+footer {
+    display:flex;
+}
+
+p.foot {
+    flex:1;
+    text-align:center;
+}
+
+
+                /* HOMEPAGE STYLING */
+               
+section.index {
+    padding-top: 20px;
+}
+
+div.homeImage {
+    display:flex;
+    margin:auto;
+    justify-content: center;
+}
+
+img#bluesArt {
+    width: 500px;
+}
+
+div.homePara {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom:10px;
+}
+
+
+
+                /* 404 ERROR PAGE STYLING */
+         
+section.error {
+    padding-top: 20px;
+}
+
+h3.errorPara {
+    text-align: center;
+}
