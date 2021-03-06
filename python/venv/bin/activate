@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/eeb4/Documents/GitHub/newtfire/introDH-Hub/radioPlays/venv"
+VIRTUAL_ENV="/Users/eeb4/Documents/GitHub/newtfire/digit210-projects/blues/python/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

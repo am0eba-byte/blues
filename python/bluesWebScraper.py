@@ -3,9 +3,9 @@ import bs4
 import requests
 # ebb: will lxml do just as well if not better?
 
-archive_url = "https://emruf.webs.com/"
+archive_url = "https://blueslyrics.tripod.com/bluessongs1.htm"
 
-def get_radioplays():
+def get_files():
     # create response object
     r = requests.get(archive_url)
 
@@ -13,10 +13,10 @@ def get_radioplays():
     soup = bs4.BeautifulSoup(r.content, 'html.parser')
 
     # find all links on web-page
-    links = soup.findAll('a')
+    links = soup.findAll('A')
 
     # filter the link sending with .mp4
-    hrefs = [archive_url + link['href'] for link in links]
+    hrefs = [archive_url + link['HREF'] for link in links]
 
     download_links(hrefs)
 
@@ -42,7 +42,7 @@ def download_links(hrefs):
 
         print( "%s downloaded!\n"%file_name )
 
-    print ("All radio plays downloaded!")
+    print ("All files downloaded!")
     return
 
 
@@ -52,7 +52,7 @@ def download_links(hrefs):
 if __name__ == "__main__":
 
     # getting all link to radio play files
-    get_radioplays = get_radioplays()
+    get_files = get_files()
 
     # download all linked radio play files
     # download_links(hrefs)
