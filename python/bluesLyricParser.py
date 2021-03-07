@@ -1,5 +1,9 @@
 # 2021-03-06 ebb: This script is for parsing the bad old HTML in the lyrics files we scraped, to see if we can write
 # just the text of the lyrics out into new files.
+# The XPaths we want to retrieve are:
+#   (//table[@border="0"]//string())[1],
+#     //table[@border="0"]/following::text()[not(parent::b)][not(parent::font[@size="-1"])]
+#
 import os
 import bs4
 # ebb: be sure to do pip install lxml (on mac os)
@@ -22,7 +26,15 @@ for filenames in lyrDir:
         parser = etree.HTMLParser()
         tree = etree.parse(StringIO(content), parser)
         rootParse = etree.tostring(tree.getroot(), pretty_print=True, method="html")
-        print(rootParse)
+        # print(rootParse)
+        stringRoot = str(rootParse, 'UTF-8')
+        parsedRoot = etree.parse(StringIO(stringRoot), parser)
+        songtitle = parsedRoot.xpath('//table[@border="0"]//text()')
+        # print(songtitle)
+        converted_songtitle = []
+        for wordstuff in songtitle:
+            converted_songtitle.append(wordstuff.strip())
+        print(converted_songtitle)
 
 
 # def get_files():
