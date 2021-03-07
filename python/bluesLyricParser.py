@@ -10,7 +10,9 @@ import bs4
 import lxml
 from lxml import html
 from lxml import etree
+import io
 from io import StringIO, BytesIO
+import glob
 
 
 
@@ -20,85 +22,32 @@ lyrDir = os.listdir(path)
 print(lyrDir)
 
 for filenames in lyrDir:
-    with open(os.path.join(path, filenames)) as file:
-        content = file.read()
-        file.close()
-        parser = etree.HTMLParser()
-        tree = etree.parse(StringIO(content), parser)
-        rootParse = etree.tostring(tree.getroot(), pretty_print=True, method="html")
-        # print(rootParse)
-        stringRoot = str(rootParse, 'UTF-8')
-        parsedRoot = etree.parse(StringIO(stringRoot), parser)
-        songtitle = parsedRoot.xpath('//table[@border="0"]//text()')
-        # print(songtitle)
-        converted_songtitle = []
-        for wordstuff in songtitle:
-            converted_songtitle.append(wordstuff.strip())
-        print(converted_songtitle)
+    if filenames.endswith(".htm"):
+        with open(os.path.join(path, filenames)) as file:
+            filerename = file.name.split('htm')[0] + "txt"
+            filename = '../lyrTexts/' + filerename.split('../sourceHTM/')[1]
+            # print(filename)
+            content = file.read()
+            file.close()
+            parser = etree.HTMLParser()
+            tree = etree.parse(StringIO(content), parser)
+            rootParse = etree.tostring(tree.getroot(), pretty_print=True, method="html")
+            # print(rootParse)
+            stringRoot = str(rootParse, 'UTF-8')
+            parsedRoot = etree.parse(StringIO(stringRoot), parser)
+            songtitle = parsedRoot.xpath('//table[@border="0"]//text()')
+            # print(songtitle)
+            converted_songtitle = []
+            for wordstuff in songtitle:
+                converted_songtitle.append(wordstuff.strip())
+            # print(converted_songtitle)
+            songtitle2 = [x.replace('\n         ', ' ') for x in converted_songtitle]
+            # print(songtitle2)
+            songlyrics = parsedRoot.xpath('//table[@border="0"]/following::text()[not(parent::b)][not(parent::font[@size="-1"])]')
+            # print(songlyrics)
 
-
-# def get_files():
-#     # create response object
-#     r = requests.get(archive_url)
-#     print(r)
-#     # ebb: Response [200] is good! It means "ok success."
-#     # access the file with lxml html
-#     root = html.fromstring(r.content)
-#
-#
-#     # find all links on web-page
-#     links = [archive_url.split('bluessongs1.htm')[0] + link.split('#top')[0] for link in root.xpath('//a[not(contains(@href, "http"))][contains(@href, "top")][contains(@href, "lyrics/")]/@href')]
-#
-#     print(len(links))
-#
-#     #check url status
-#     # ebb: From https://elitwilliams.medium.com/check-for-404-rrors-in-bulk-using-this-simple-python-script-and-a-list-of-urls-cf3cf6a97eca
-#     for link in links:
-#         try:
-#             r = requests.get(link)
-#             print(link + "\tStatus: " + str(r.status_code))
-#         except Exception as e:
-#             print(link + "\tNA FAILED TO CONNECT\t" + str(e))
-#
-#
-#     download_links(links)
-
-# def download_links(links):
-#     for link in links:
-#         # iterate through all links in hrefs
-#         # and download them one by one
-#
-#         # obtain filename by splitting url and getting
-#         # last string
-#         file_name = link.split('/')[-1]
-#
-#         print( "Downloading file:%s"%file_name)
-#
-#         # create response object
-#         r = requests.get(link, stream = True)
-#
-#         # download started
-#         with open(file_name, 'wb') as f:
-#             for chunk in r.iter_content(chunk_size = 1024*1024):
-#                 if chunk:
-#                     f.write(chunk)
-#
-#         print( "%s downloaded!\n"%file_name )
-#
-#     print ("All files downloaded!")
-#     return
-
-
-
-
-# ebb: On the line if __name__ == "__main__": , see: https://medium.com/@j.yanming/debugging-from-main-to-main-in-python-fe2a9784b36
-# if __name__ == "__main__":
-
-    # retrieving all links to files on a page:
-     # get_files = get_files()
-
-
-
-
-
-
+            newfile = open(filename, "w")
+            contents1 = '\n'.join(songtitle2)
+            contents2 = '\n'.join(songlyrics)
+            newfile.write(contents1 + contents2)
+            newfile.close()
