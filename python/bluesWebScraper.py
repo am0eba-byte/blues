@@ -10,7 +10,13 @@ from lxml import etree
 import requests
 # ebb: will lxml do just as well if not better?
 
-archive_url = 'https://blueslyrics.tripod.com/bluessongs1.htm'
+# archive_url = 'https://blueslyrics.tripod.com/bluessongs1.htm'
+# archive_url = 'https://blueslyrics.tripod.com/bluessongs2.htm'
+# archive_url = 'https://blueslyrics.tripod.com/bluessongs3.htm'
+# archive_url = 'https://blueslyrics.tripod.com/bluessongs4.htm'
+archive_url = 'https://blueslyrics.tripod.com/bluessongs5.htm'
+archiveFileName = archive_url.split('/')[-1]
+# print(archiveFileName)
 
 def get_files():
     # create response object
@@ -22,7 +28,7 @@ def get_files():
 
 
     # find all links on web-page
-    links = [archive_url.split('bluessongs1.htm')[0] + link.split('#top')[0] for link in root.xpath('//a[not(contains(@href, "http"))][contains(@href, "top")][contains(@href, "lyrics/")]/@href')]
+    links = [archive_url.split(archiveFileName)[0] + link.split('#top')[0] for link in root.xpath('//a[not(contains(@href, "http"))][contains(@href, "top")][contains(@href, "lyrics/")]/@href')]
 
     print(len(links))
 

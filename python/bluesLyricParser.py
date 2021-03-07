@@ -23,7 +23,7 @@ print(lyrDir)
 
 for filenames in lyrDir:
     if filenames.endswith(".htm"):
-        with open(os.path.join(path, filenames)) as file:
+        with open(os.path.join(path, filenames), encoding="utf8", errors='ignore') as file:
             filerename = file.name.split('htm')[0] + "txt"
             filename = '../lyrTexts/' + filerename.split('../sourceHTM/')[1]
             # print(filename)
