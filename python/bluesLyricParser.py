@@ -35,6 +35,8 @@ for filenames in lyrDir:
             # print(rootParse)
             stringRoot = str(rootParse, 'UTF-8')
             parsedRoot = etree.parse(StringIO(stringRoot), parser)
+            metatitle = parsedRoot.xpath('//title/text()')
+            metatitle2 = str(metatitle).replace('\n         ', ' ')
             songtitle = parsedRoot.xpath('//table[@border="0"]//text()')
             # print(songtitle)
             converted_songtitle = []
@@ -47,6 +49,7 @@ for filenames in lyrDir:
             # print(songlyrics)
 
             newfile = open(filename, "w")
+            contents0 = '\n'.join(metatitle2)
             contents1 = '\n'.join(songtitle2)
             contents2 = '\n'.join(songlyrics)
             newfile.write(contents1 + contents2)
