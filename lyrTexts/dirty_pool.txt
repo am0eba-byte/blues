@@ -15,7 +15,6 @@ soundclip
 
 
 
-
 by 
 Doyle
 Bramhall
@@ -24,7 +23,6 @@ Stevie
 Ray Vaughan
 
 recording of 1983
-
 
 from 
 Live
@@ -38,7 +36,6 @@ Flood (Epic EK-38734)
 
 copyright
 notice
-
 
 
 
@@ -88,8 +85,7 @@ MusicSearcher.com
  
   
 
-  
-(for your convenience the voting pages will open in new windows)
+  (for your convenience the voting pages will open in new windows)
 
 
 
@@ -144,6 +140,9 @@ MusicSearcher.com
 
 nbsp;
 
+
+
+(Trying out this banner exchange service)
 
 
 
