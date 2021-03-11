@@ -5,7 +5,7 @@ Bad To The Bone
 
 
 
-soundclip
+
 
 
 
@@ -35,7 +35,6 @@ Capitol 97718)
 , 
 copyright
 notice
-
 
 
 

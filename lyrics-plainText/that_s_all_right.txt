@@ -5,7 +5,7 @@ That's All Right
 
 
 
-soundclip
+
 
 
 
@@ -23,7 +23,6 @@ MCAD-10669)
 , 
 copyright
 notice
-
 
 
 

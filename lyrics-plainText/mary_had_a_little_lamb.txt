@@ -13,7 +13,6 @@ tab solo
 
 
 
-soundclip
 
 
 
@@ -26,7 +25,6 @@ Guy
 
 recording of 1983
 
-
 from 
 Texas
 Flood (Epic EK-38734)
@@ -37,7 +35,6 @@ Alive (Epic EGK-40511)
 , 
 copyright
 notice
-
 
 
 
@@ -81,8 +78,7 @@ MusicSearcher.com
  
   
 
-  
-(for your convenience the voting pages will open in new windows)
+  (for your convenience the voting pages will open in new windows)
 
 
 
@@ -135,8 +131,11 @@ MusicSearcher.com
 
 
 
- 
 
+
+
+
+(Trying out this banner exchange service)
 
 
 

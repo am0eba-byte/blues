@@ -5,7 +5,7 @@ You Talk Too Much
 
 
 
-soundclip
+
 
 
 
@@ -36,7 +36,6 @@ Capitol 97718)
 , 
 copyright
 notice
-
 
 
 

@@ -5,7 +5,6 @@ Rock Me
 
 
 
-soundclip
 
 
 
@@ -17,7 +16,6 @@ McKinley
 Morganfield a.k.a. Muddy Waters
 
 recording 19
-
 
 from 
 Chess

@@ -5,7 +5,6 @@ When A Guitar Plays The Blues
 
 
 
-soundclip
 
 
 
@@ -17,7 +16,6 @@ Albert
 Collins
 
 recording of 1983
-
 
 from 
 Don't

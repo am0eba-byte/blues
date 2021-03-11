@@ -5,7 +5,7 @@ Blues Man
 
 
 
-soundclip
+
 
 
 
@@ -17,7 +17,6 @@ B.B.
 King
 
 recording of 1998
-
 
 from 
 Blues
@@ -132,6 +131,7 @@ But I'm a good man, understand
 
 
 
+(Trying out this banner exchange service)
 
 
 

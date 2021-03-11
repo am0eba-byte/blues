@@ -5,7 +5,7 @@ Seven Days
 
 
 
-soundclip
+
 
 
 
@@ -28,7 +28,6 @@ MCAD-10669)
 , 
 copyright
 notice
-
 
 
 

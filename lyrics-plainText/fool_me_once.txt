@@ -5,7 +5,7 @@ Fool Me Once
 
 
 
-soundclip
+
 
 
 
@@ -21,14 +21,12 @@ Sample
 
 recording of 1992
 
-
 from 
 There
 Is Always One More Time (MCA MCAD-10295)
 ,
 
 copyright notice
-
 
 
 
@@ -188,7 +186,10 @@ Shame on me
 
 
 
- 
+
+
+
+(Trying out this banner exchange service)
 
 
 

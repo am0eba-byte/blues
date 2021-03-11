@@ -16,7 +16,6 @@ GuitarPro
 
 
 
-soundclip
 
 
 
@@ -36,7 +35,6 @@ amp; Columbia 4622 amp; Sony 64916)
 ,
 
 copyright notice
-
 
 
 
@@ -134,6 +132,9 @@ you bound to fall
 
 
 nbsp;
+
+
+(Trying out this banner exchange service)
 
 
 

@@ -5,7 +5,7 @@ Actions Speak Louder Than Words
 
 
 
-soundclip
+
 
 
 
@@ -17,7 +17,6 @@ B.B.
 King
 
 recording of 2000
-
 
 from 
 Makin'
@@ -126,6 +125,9 @@ Won't Listen
 
 
 
+
+
+(Trying out this banner exchange service)
 
 
 

@@ -9,7 +9,6 @@ tab
 
 
 
-soundclip
 
 
 
@@ -21,7 +20,6 @@ Stevie
 Ray Vaughan
 
 recording of 1983
-
 
 from 
 Texas
@@ -38,7 +36,6 @@ At Carnegie Hall (Sony 68163)
 
 copyright
 notice
-
 
 
 
@@ -104,8 +101,7 @@ MusicSearcher.com
  
   
 
-  
-(for your convenience the voting pages will open in new windows)
+  (for your convenience the voting pages will open in new windows)
 
 
 
@@ -158,8 +154,11 @@ MusicSearcher.com
 
 
 
- 
 
+
+
+
+(Trying out this banner exchange service)
 
 
 

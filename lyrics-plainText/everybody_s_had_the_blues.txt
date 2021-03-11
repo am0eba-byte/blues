@@ -5,7 +5,7 @@ Everybody's Had The Blues
 
 
 
-soundclip
+
 
 
 
@@ -20,7 +20,6 @@ Joe
 Louis Walker
 
 recording of 1993
-
 
 from 
 Blues
@@ -175,7 +174,10 @@ Over you
 
 
 
- 
+
+
+
+(Trying out this banner exchange service)
 
 
 

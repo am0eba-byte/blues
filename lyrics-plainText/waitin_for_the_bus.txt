@@ -5,7 +5,7 @@ Waitin' For The Bus
 
 
 
-soundclip
+
 
 
 
@@ -23,7 +23,6 @@ Dusty
 Hill
 
 recording of 1973
-
 
 from 
 Tres

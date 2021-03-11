@@ -5,7 +5,6 @@ You Gotta Move (version 1)
 
 
 
-soundclip
 
 
 
@@ -18,7 +17,6 @@ Fred McDowell
 
 recording of July 5 1965, Berkeley, California
 
-
 from 
 You
 Gotta Move (Arhoolie 304)
@@ -26,7 +24,6 @@ Gotta Move (Arhoolie 304)
 
 copyright
 notice
-
 
 
 

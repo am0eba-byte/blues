@@ -5,7 +5,6 @@ Bluebird
 
 
 
-soundclip
 
 
 
@@ -17,7 +16,6 @@ John
 Lee Hooker
 
 recording of 1951-1952
-
 
 from 
 The
@@ -34,7 +32,6 @@ CHD-9199)
 , 
 copyright
 notice
-
 
 
 

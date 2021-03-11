@@ -9,7 +9,6 @@ tab/chords
 
 
 
-soundclip
 
 
 
@@ -22,14 +21,12 @@ Bramhall
 
 recording of 1985
 
-
 from 
 Soul
 To Soul (Epic EK-40036)
 , 
 copyright
 notice
-
 
 
 
@@ -138,8 +135,11 @@ Yeah, I'm lookin' out the window, I'm lookin' at you
 
 
 
- 
 
+
+
+
+(Trying out this banner exchange service)
 
 
 

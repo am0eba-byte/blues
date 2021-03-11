@@ -5,7 +5,7 @@ Ego Rock
 
 
 
-soundclip
+
 
 
 
@@ -23,7 +23,6 @@ Janis
 Joplin
 
 recording of April 4 1970, San Fransisco
-
 
 from 
 Joplin

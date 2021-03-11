@@ -20,7 +20,6 @@ GuitarPro
 
 
 
-soundclip
 
 
 
@@ -71,8 +70,7 @@ Note 1: alternatively "more" instead of "harm"
 
          
 
-         
-by 
+         by 
 Robert
          Johnson
 
@@ -224,6 +222,9 @@ I woke up this mornin' and all my shrimps was dead and
 
 
 nbsp;
+
+
+(Trying out this banner exchange service)
 
 
 

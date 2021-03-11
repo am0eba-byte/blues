@@ -5,7 +5,7 @@ Guess Who
 
 
 
-soundclip
+
 
 
 
@@ -18,12 +18,10 @@ Belvin
 
 recording of 19
 
-
 from 
 Guess
 Who (MCA MCAD-10351)
-,
- 
+, 
 copyright
 notice
 
@@ -111,7 +109,10 @@ who really cares is me
 
 
 
- 
+
+
+
+(Trying out this banner exchange service)
 
 
 

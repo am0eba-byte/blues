@@ -17,7 +17,6 @@ GuitarPro
 
 
 
-soundclip
 
 
 
@@ -39,14 +38,12 @@ Ellsworth
 
 recording of 1989
 
-
 from 
 In
 Step (Epic EK-45024)
 , 
 copyright
 notice
-
 
 
 
@@ -124,8 +121,7 @@ MusicSearcher.com
  
   
 
-  
-(for your convenience the voting pages will open in new windows)
+  (for your convenience the voting pages will open in new windows)
 
 
 
@@ -180,6 +176,9 @@ MusicSearcher.com
 
 nbsp;
 
+
+
+(Trying out this banner exchange service)
 
 
 

@@ -5,7 +5,7 @@ Bar-B-Q
 
 
 
-soundclip
+
 
 
 
@@ -23,7 +23,6 @@ Bill
 Ham
 
 recording of 1972
-
 
 from 
 Rio

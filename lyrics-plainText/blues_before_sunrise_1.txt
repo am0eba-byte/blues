@@ -5,7 +5,6 @@ Blues Before Sunrise (Version 1)
 
 
 
-soundclip
 
 
 
@@ -16,11 +15,9 @@ by Leroy Carr
 
 recording 
 
-
 from , 
 copyright
 notice
-
 
 
 

@@ -5,7 +5,6 @@ Give Me My Blues
 
 
 
-soundclip
 
 
 
@@ -17,7 +16,6 @@ Albert
 Collins
 
 recording of 1980
-
 
 from 
 Frostbite

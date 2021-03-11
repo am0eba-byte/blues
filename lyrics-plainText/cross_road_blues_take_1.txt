@@ -16,7 +16,6 @@ GuitarPro
 
 
 
-soundclip
 
 
 
@@ -37,7 +36,6 @@ amp; Columbia 4622 amp; Sony 64916)
 ,
 
 copyright notice
-
 
 
 
@@ -169,6 +167,9 @@ guitar fine-tuned.
 
 
 nbsp;
+
+
+(Trying out this banner exchange service)
 
 
 

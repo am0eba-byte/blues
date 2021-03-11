@@ -5,7 +5,7 @@ Jailhouse Blues
 
 
 
-soundclip
+
 
 
 
@@ -33,10 +33,8 @@ notice
 
 
 
-
 Lord, this house is goin' to get raided, yes,
 sir!
-
 
 
 

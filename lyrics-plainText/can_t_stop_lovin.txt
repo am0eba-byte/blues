@@ -5,7 +5,7 @@ Can't Stop Lovin'
 
 
 
-soundclip
+
 
 
 
@@ -34,7 +34,6 @@ Live
 , 
 copyright
 notice
-
 
 
 

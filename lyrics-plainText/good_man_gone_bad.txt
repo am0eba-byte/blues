@@ -5,7 +5,7 @@ Good Man Gone Bad
 
 
 
-soundclip
+
 
 
 
@@ -21,7 +21,6 @@ Taub
 
 recording of 19
 
-
 from 
 The
 Soul of B. B. King (United 7714)
@@ -32,7 +31,6 @@ on the Bayou (MCA 11879)
 , 
 copyright
 notice
-
 
 
 
@@ -130,7 +128,10 @@ Makes me mad as a man can be
 
 
 
- 
+
+
+
+(Trying out this banner exchange service)
 
 
 

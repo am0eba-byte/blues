@@ -5,7 +5,7 @@ Better Not Look Down
 
 
 
-soundclip
+
 
 
 
@@ -20,7 +20,6 @@ Joe
 Sample
 
 recording of 1978
-
 
 from 
 King
@@ -185,6 +184,7 @@ You can keep it moving, if you don't look down
 
 
 
+(Trying out this banner exchange service)
 
 
 

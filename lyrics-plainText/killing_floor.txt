@@ -5,7 +5,7 @@ Killing Floor
 
 
 
-soundclip
+
 
 
 
@@ -17,7 +17,6 @@ Chester
 Burnett a.k.a. Howlin' Wolf
 
 recording of 19
-
 
 from 
 The

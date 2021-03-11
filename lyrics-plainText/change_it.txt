@@ -13,7 +13,6 @@ GuitarPro
 
 
 
-soundclip
 
 
 
@@ -26,14 +25,12 @@ Bramhall
 
 recording of 1985
 
-
 from 
 Soul
 To Soul (Epic EK-40036)
 , 
 copyright
 notice
-
 
 
 
@@ -166,6 +163,9 @@ let's go, let's go, I've come back for more
 
 nbsp;
 
+
+
+(Trying out this banner exchange service)
 
 
 

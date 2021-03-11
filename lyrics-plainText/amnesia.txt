@@ -5,7 +5,7 @@ Amnesia
 
 
 
-soundclip
+
 
 
 
@@ -17,7 +17,6 @@ Kim
 Wilson
 
 recording of 1986
-
 
 from 
 Tuff
