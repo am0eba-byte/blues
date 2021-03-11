@@ -9,7 +9,7 @@ chords
 
 
 
-soundclip
+
 
 
 
@@ -115,7 +115,7 @@ Take your place
 
 
 
- 
+
 
 
 

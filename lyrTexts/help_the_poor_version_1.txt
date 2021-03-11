@@ -5,7 +5,7 @@ Help The Poor (Version 1)
 
 
 
-soundclip
+
 
 
 
@@ -154,7 +154,7 @@ Help the poor, help the poor (chorus: sha-lala-lala-la)
 
 
 
- 
+
 
 
 (Trying out this banner exchange service)

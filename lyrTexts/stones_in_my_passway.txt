@@ -13,7 +13,7 @@ GuitarPro
 
 
 
-soundclip
+
 
 
 
@@ -149,7 +149,7 @@ Note 2: alternatively "legs" instead of "lane's"
 
 
 
- 
+
 
 
 (Trying out this banner exchange service)

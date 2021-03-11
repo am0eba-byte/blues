@@ -17,7 +17,7 @@ GuitarPro
 
 
 
-soundclip
+
 
 
 
@@ -145,7 +145,7 @@ Note 1: alternatively "a" instead of "my"
 
 
 
- 
+
 
 
 (Trying out this banner exchange service)

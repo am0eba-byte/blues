@@ -5,7 +5,7 @@ Blues Before Sunrise (Version 2)
 
 
 
-soundclip
+
 
 
 
@@ -70,7 +70,7 @@ _________
 * I'm not sure about the underlined part in the first verse
 
 Hear the 
-soundclip
+
 ,
 please 
 mail me

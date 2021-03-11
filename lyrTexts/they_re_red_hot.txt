@@ -25,7 +25,7 @@ GuitarPro
 
 
 
-soundclip
+
 
 
 
@@ -251,7 +251,7 @@ corn husks, and steamed.
 
 
 
- 
+
 
 
 (Trying out this banner exchange service)

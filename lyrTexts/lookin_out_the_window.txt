@@ -9,7 +9,7 @@ tab/chords
 
 
 
-soundclip
+
 
 
 
@@ -135,7 +135,7 @@ Yeah, I'm lookin' out the window, I'm lookin' at you
 
 
 
- 
+
 
 
 

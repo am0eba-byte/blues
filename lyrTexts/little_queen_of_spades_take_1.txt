@@ -13,7 +13,7 @@ GuitarPro
 
 
 
-soundclip
+
 
 
 
@@ -136,7 +136,7 @@ Note 1: alternatively "tremblin' " instead of "trimmin' "
 
 
 
- 
+
 
 
 (Trying out this banner exchange service)

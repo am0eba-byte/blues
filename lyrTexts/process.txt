@@ -5,7 +5,7 @@ Process
 
 
 
-soundclip
+
 
 
 
@@ -74,7 +74,7 @@ _________
 * I'm not sure about the underlined part in the last verse
 
 Hear the 
-soundclip
+
 ,
 please 
 mail me

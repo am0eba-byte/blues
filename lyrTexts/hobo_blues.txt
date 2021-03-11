@@ -5,7 +5,7 @@ Hobo Blues
 
 
 
-soundclip
+
 
 
 
@@ -69,10 +69,10 @@ _________
 verses
 
 Hear the 
-soundclip
+
 1
  and 
-soundclip
+
 2
 , please
 
