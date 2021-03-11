@@ -1,2 +1,2 @@
-let $blues := collection('../testXML/')
+let $blues := collection('../lyrTexts/')
 return $blues => count()
