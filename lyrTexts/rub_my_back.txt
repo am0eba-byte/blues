@@ -1,17 +1,5 @@
-Albert King - Rub My Back
-
-
-Rub My Back
-
-
-
-
-
-
-
-
-
-by Lewis
+<xml><metadata><artist>Albert King</artist><title> Rub My Back</title>
+<songInfo>by Lewis
 
 recording of 1976
 
@@ -19,8 +7,8 @@ from
 Albert
 (Rhino 70398)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -158,5 +146,4 @@ Fading:
 
 
 
-
-
+</lyrics></xml>

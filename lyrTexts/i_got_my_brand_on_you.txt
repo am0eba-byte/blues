@@ -1,17 +1,5 @@
-Muddy Waters - I Got My Brand On You
-
-
-I Got My Brand On You
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> I Got My Brand On You</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -22,8 +10,8 @@ One
 More Mile (MCA/Chess CHD2-9348)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +112,4 @@ I got my brand on you
 
 
 
-
-
+</lyrics></xml>

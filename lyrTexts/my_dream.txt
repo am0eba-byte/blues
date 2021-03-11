@@ -1,17 +1,5 @@
-John Lee Hooker - My Dream
-
-
-My Dream
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> My Dream</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ The
 Healer (Silvertone ZD74307)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +97,4 @@ Hmmm
 
 
 
-
-
+</lyrics></xml>

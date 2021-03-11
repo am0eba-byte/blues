@@ -1,18 +1,5 @@
-B.B. King - Sneakin' Around
-
-
-Sneakin' Around
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Sneakin' Around</title>
+<songInfo>by 
 Jessie
 Mae Robinson
 
@@ -23,8 +10,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -131,5 +118,4 @@ Oh, I'm so tired of sneaking around with you
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Keb' Mo' - Hand It Over
-
-
-Hand It Over
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Hand It Over</title>
+<songInfo>by 
 Kevin
 Moore
 
@@ -23,8 +10,8 @@ Just
 Like You (OKeh/Epic/Sony 484117 6)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -150,5 +137,4 @@ Get on your knees and pray
 
 
 
-
-
+</lyrics></xml>

@@ -1,20 +1,5 @@
-B.B. King - Come By Here
-
-
-Come By Here
-
-
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Come By Here</title>
+<songInfo>by
 
 recording of probably 1976
 
@@ -23,7 +8,8 @@ B.B.
 King Anthology (ABC 5611)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -146,5 +132,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

@@ -1,21 +1,5 @@
-B.B. King - It's A Great, Great Pleasure
-
-
-It's A Great, Great Pleasure
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> It's A Great, Great Pleasure</title>
+<songInfo>by 
 Louis
 Jordan
  / William Tennyson Jr.
@@ -27,8 +11,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -137,5 +121,4 @@ Bad deal
 
 
 
-
-
+</lyrics></xml>

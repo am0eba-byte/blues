@@ -1,17 +1,5 @@
-Albert Collins - Snowed In
-
-
-Snowed In
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Snowed In</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -21,8 +9,8 @@ from
 Frostbite
 (Alligator ALCD-4719)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -260,5 +248,4 @@ now"
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-B.B. King - You Put It On Me
-
-
-You Put It On Me
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> You Put It On Me</title>
+<songInfo>by 
 Maya
 Angelou
  / 
@@ -26,8 +13,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -160,5 +147,4 @@ Keep it up, keep on, keep on, keep on, keep on baby...
 
 
 
-
-
+</lyrics></xml>

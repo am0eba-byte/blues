@@ -1,17 +1,5 @@
-Howlin' Wolf - Who's Been Talkin'
-
-
-Who's Been Talkin'
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Who's Been Talkin'</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ The
 Rocking Chair (Vogue 600111)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -107,5 +95,4 @@ I'm the causin' of it all
 
 
 
-
-
+</lyrics></xml>

@@ -1,20 +1,5 @@
-Gary Moore - Stop Messin' Around
-
-
-Stop Messin' Around
-
-
-
-
-
-
- 
-
-
-
-
-
-by 
+<xml><metadata><artist>Gary Moore</artist><title> Stop Messin' Around</title>
+<songInfo>by 
 Peter
 Green
 
@@ -25,7 +10,8 @@ Still
 Got The Blues (Virgin CDV 2612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -141,5 +127,4 @@ Yeah!
 
 
 
-
-
+</lyrics></xml>

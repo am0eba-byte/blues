@@ -1,17 +1,5 @@
-Memphis Slim - This Life I'm Livin'
-
-
-This Life I'm Livin'
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Memphis Slim</artist><title> This Life I'm Livin'</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -22,7 +10,8 @@ The
 Bluebird Recordings 1940-1941 (RCA 66720)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +113,4 @@ woo, well, well, from the life that I used to live
 
 
 
-
-
+</lyrics></xml>

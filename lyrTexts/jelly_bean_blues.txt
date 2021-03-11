@@ -1,18 +1,5 @@
-Ma Rainey - Jelly Bean Blues
-
-
-Jelly Bean Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ma Rainey</artist><title> Jelly Bean Blues</title>
+<songInfo>by 
 Lina
 Arant
  / 
@@ -26,8 +13,8 @@ Mother
 of the Blues: 1923-1928 (Epm Musique
 159232)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +98,4 @@ Note 1: jelly bean, term of endearment for a lover.
 
 
 
-
-
+</lyrics></xml>

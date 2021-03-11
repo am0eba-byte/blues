@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - Hug You Squeeze You lyrics
-
-
-Hug You Squeeze You
-
-
-
-tab
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Hug You Squeeze You lyrics</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ Live
 At The El Mocambo (Sony Music Video
 49111)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -134,5 +122,4 @@ You'll know about that, baby, baby that I love you so
 
 
 
-
-
+</lyrics></xml>

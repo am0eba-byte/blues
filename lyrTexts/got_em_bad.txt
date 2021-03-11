@@ -1,17 +1,5 @@
-B.B. King - Got'em Bad
-
-
-Got'em Bad
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Got'em Bad</title>
+<songInfo>by
 
 recording of 1962-1967
 
@@ -27,8 +15,8 @@ Jungle (United 7742)
 Rock
 Me Baby (Kent KLP-5012)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -149,5 +137,4 @@ And it's all because I've got a dirty deal
 
 
 
-
-
+</lyrics></xml>

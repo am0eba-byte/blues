@@ -1,17 +1,5 @@
-John Mayall's Bluesbreakers - Have You Heard
-
-
-Have You Heard
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> Have You Heard</title>
+<songInfo>by 
 John
 Mayall
 
@@ -22,8 +10,8 @@ Bluesbreakers
 with Eric Clapton (Deram 800086 or Mobile Fidelity
 616)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +91,4 @@ Yes, no more next time
 
 
 
-
-
+</lyrics></xml>

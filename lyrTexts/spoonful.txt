@@ -1,17 +1,5 @@
-Howlin' Wolf - Spoonful
-
-
-Spoonful
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Spoonful</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -22,8 +10,8 @@ The
 Rocking Chair (Vogue 600111)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -136,5 +124,4 @@ That spoon, that spoon, that spoonful
 
 
 
-
-
+</lyrics></xml>

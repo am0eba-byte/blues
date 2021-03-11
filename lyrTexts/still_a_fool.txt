@@ -1,17 +1,5 @@
-Muddy Waters - Still A Fool
-
-
-Still A Fool
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Still A Fool</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,8 +10,8 @@ Chess
 Box (MCA/Chess CHD3-80002)
  & The Best
 Of Muddy Waters (Chess 1480), 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -131,5 +119,4 @@ she's all right, she's all right
 
 
 
-
-
+</lyrics></xml>

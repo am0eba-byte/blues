@@ -1,17 +1,5 @@
-Bessie Smith - 'T Ain't Nobody's Bizness If I Do
-
-
-'T Ain't Nobody's Bizness If I Do
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> 'T Ain't Nobody's Bizness If I Do</title>
+<songInfo>by 
 Porter
 Grainger
  / 
@@ -27,8 +15,8 @@ C2K-47091)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -127,5 +115,4 @@ If I'm beat up by my papa
 
 
 
-
-
+</lyrics></xml>

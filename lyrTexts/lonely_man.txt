@@ -1,16 +1,5 @@
-A.C. Reed - Lonely Man
-
-
-Lonely Man
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>A.C. Reed</artist><title> Lonely Man</title>
+<songInfo>by 
 Aaron
 Carthen Reed
 
@@ -20,8 +9,8 @@ from
 Junk
 Food (Delmark 3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +100,4 @@ I'm stayin' home 'til I die
 
 
 
-
-
+</lyrics></xml>

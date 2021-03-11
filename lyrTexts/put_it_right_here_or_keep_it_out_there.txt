@@ -1,17 +1,5 @@
-Bessie Smith - Put It Right Here (Or Keep It Out There)
-
-
-Put It Right Here (Or Keep It Out There)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Put It Right Here (Or Keep It Out There)</title>
+<songInfo>by 
 Porter
 Grainger
 
@@ -24,8 +12,8 @@ Complete Recordings, Vol. 4 (Columbia/Legacy
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -150,5 +138,4 @@ Note 1: gnat, any of various small usually biting flies.
 
 
 
-
-
+</lyrics></xml>

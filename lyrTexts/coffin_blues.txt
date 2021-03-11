@@ -1,17 +1,5 @@
-Ida Cox - Coffin Blues
-
-
-Coffin Blues
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Ida Cox</artist><title> Coffin Blues</title>
+<songInfo>by
 
 recording of September 15 1925, Chicago, Illinois
 
@@ -20,8 +8,8 @@ Complete
 Recorded Works, Vol. 3 (1925-1927) (Document
 5324)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -115,5 +103,4 @@ Note 1: run, alternate text "rubbed".
 
 
 
-
-
+</lyrics></xml>

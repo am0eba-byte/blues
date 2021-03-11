@@ -1,20 +1,5 @@
-B.B. King - Downhearted
-
-
-Downhearted
-
-
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Downhearted</title>
+<songInfo>by
 
 recording of probably 1962
 
@@ -27,7 +12,8 @@ Heart
 Full of Blues (United 7703)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -168,5 +154,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

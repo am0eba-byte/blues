@@ -1,18 +1,5 @@
-B.B. King - Please Accept My Love
-
-
-Please Accept My Love
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Please Accept My Love</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -34,8 +21,8 @@ How
 Blue Can You Get: Classic Live 1964-94 (MCA
 11443)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +139,4 @@ Yes, I will!
 
 
 
-
-
+</lyrics></xml>

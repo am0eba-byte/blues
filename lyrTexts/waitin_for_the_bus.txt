@@ -1,21 +1,5 @@
-ZZ Top - Waitin' For The Bus
-
-
-Waitin' For The Bus
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Waitin' For The Bus</title>
+<songInfo>by 
 Billy
 Gibbons
  / 
@@ -29,7 +13,8 @@ Tres
 Hombres (Warner Brothers 2-3270)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +96,4 @@ Well, I'll be ridin' on the bus till I Cadillac
 
 
 
-
-
+</lyrics></xml>

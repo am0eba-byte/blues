@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - Good Texan
-
-
-Good Texan
-
-
-
-tab/chords
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Good Texan</title>
+<songInfo>by 
 Jimmy
 Vaughan
  / 
@@ -28,8 +12,8 @@ from
 Family
 Style (Epic ZK-46225)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -180,5 +164,4 @@ MusicSearcher.com
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-B.B. King - Niji Baby
-
-
-Niji Baby
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Niji Baby</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,8 +10,8 @@ Live
 In Japan (MCA Victor MVCM-253 & MCA
 11810)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -167,5 +154,4 @@ I think I'going out of my mind
 
 
 
-
-
+</lyrics></xml>

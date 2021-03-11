@@ -1,18 +1,5 @@
-Memphis Slim - I Believe I'll Settle Down
-
-
-I Believe I'll Settle Down
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Memphis Slim</artist><title> I Believe I'll Settle Down</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -23,7 +10,8 @@ The
 Bluebird Recordings 1940-1941 (RCA 66720)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -98,5 +86,4 @@ knees
 
 
 
-
-
+</lyrics></xml>

@@ -1,21 +1,5 @@
-ZZ Top - My Head's In Mississippi
-
-
-My Head's In Mississippi
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> My Head's In Mississippi</title>
+<songInfo>by 
 Frank
 Beard
  / 
@@ -32,7 +16,8 @@ Recycler
 (Warner Brothers 2-26265)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +108,4 @@ healin'
 
 
 
-
-
+</lyrics></xml>

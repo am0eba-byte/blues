@@ -1,17 +1,5 @@
-Albert Collins - Quicksand
-
-
-Quicksand
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Quicksand</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -22,7 +10,8 @@ Don't
 Lose Your Cool (Alligator ALCD-4730)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -95,5 +84,4 @@ Hey!
 
 
 
-
-
+</lyrics></xml>

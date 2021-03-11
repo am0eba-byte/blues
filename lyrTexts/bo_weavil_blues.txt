@@ -1,18 +1,5 @@
-Ma Rainey - Bo-Weavil Blues
-
-
-Bo-Weavil Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ma Rainey</artist><title> Bo-Weavil Blues</title>
+<songInfo>by 
 Ma
 Rainey
 
@@ -23,8 +10,8 @@ Complete
 Recorded Works, Vol. 1 (1923-1924) (Document
 5581)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +98,4 @@ drawing
 
 
 
-
-
+</lyrics></xml>

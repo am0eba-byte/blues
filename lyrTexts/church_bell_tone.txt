@@ -1,17 +1,5 @@
-John Lee Hooker - Church Bell Tone
-
-
-Church Bell Tone
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Church Bell Tone</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ The
 Country Blues of John Lee Hooker (Original Blues Classics 542 or
 Riverside OBCCD-542-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -100,5 +88,4 @@ darlin'nbsp;"
 
 
 
-
-
+</lyrics></xml>

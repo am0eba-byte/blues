@@ -1,23 +1,12 @@
-Jonny Lang - Cherry Red Wine
-
-
-Cherry Red Wine
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Cherry Red Wine</title>
+<songInfo>by
 Luther Allison
 recording of 1998
 from
 Wander This World (Aamp;M 540984)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -76,5 +65,4 @@ Even the glass that grows on your grave will be cherry red
 
 
 
-
-
+</lyrics></xml>

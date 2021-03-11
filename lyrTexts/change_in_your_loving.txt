@@ -1,21 +1,5 @@
-B.B. King - Change In Your Loving
-
-
-Change In Your Loving
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Change In Your Loving</title>
+<songInfo>by 
 Joe
 Amato
  / 
@@ -29,8 +13,8 @@ King
 of Blues: 1989 (MCA MCAD-42183)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -201,5 +185,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

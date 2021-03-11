@@ -1,21 +1,5 @@
-B.B. King - Come Rain Or Come Shine
-
-
-Come Rain Or Come Shine
-
-
-
-
-
-
-
-
-
-
-
-
-
-by probably 
+<xml><metadata><artist>B.B. King</artist><title> Come Rain Or Come Shine</title>
+<songInfo>by probably 
 Johnny
 Mercer
  / 
@@ -29,7 +13,8 @@ Riding
 With The King (Warner Brothers 47612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -174,5 +159,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

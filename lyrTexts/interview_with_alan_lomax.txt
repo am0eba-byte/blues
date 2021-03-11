@@ -1,17 +1,5 @@
-Muddy Waters - Interview With Alan Lomax
-
-
-Interview With Alan Lomax
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Interview With Alan Lomax</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -23,8 +11,8 @@ The
 Complete Plantation Recordings (Chess/MCA
 CHD-9344)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -339,5 +327,4 @@ you when I'm ready
 
 
 
-
-
+</lyrics></xml>

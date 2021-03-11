@@ -1,17 +1,5 @@
-Howlin' Wolf - Baby, How Long
-
-
-Baby, How Long
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Baby, How Long</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -19,8 +7,8 @@ recording of 19
 
 from Moanin' At Midnight (Blue City 2652292),
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -118,5 +106,4 @@ gettin' do somebody wrong
 
 
 
-
-
+</lyrics></xml>

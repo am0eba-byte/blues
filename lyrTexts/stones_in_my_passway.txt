@@ -1,25 +1,5 @@
-Robert Johnson - Stones In My Passway
-
-
-Stones In My Passway
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> Stones In My Passway</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -31,7 +11,8 @@ Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222
 & Columbia 4622 & Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -166,5 +147,4 @@ Note 2: alternatively "legs" instead of "lane's"
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-B.B. King - Lets Get Down To Business
-
-
-Lets Get Down To Business
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Lets Get Down To Business</title>
+<songInfo>by 
 B.B.
 King
 
@@ -22,7 +10,8 @@ Live
 & Well (MCA MCAD-31191)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -193,5 +182,4 @@ You been gone such a long time
 
 
 
-
-
+</lyrics></xml>

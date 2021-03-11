@@ -1,21 +1,5 @@
-Janis Joplin - What Good Can Drinkin' Do
-
-
-What Good Can Drinkin' Do
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> What Good Can Drinkin' Do</title>
+<songInfo>by 
 Janis
 Joplin
 
@@ -26,8 +10,8 @@ From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -115,5 +99,4 @@ Well, I drink all night but the next day I still feel blue!
 
 
 
-
-
+</lyrics></xml>

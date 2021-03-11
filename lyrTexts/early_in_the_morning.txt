@@ -1,17 +1,5 @@
-Sonny Boy Williamson I (John Lee) - Early In The Morning
-
-
-Early In The Morning
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Sonny Boy Williamson I (John Lee)</artist><title> Early In The Morning</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -22,8 +10,8 @@ The
 Bluebird Recordings 1937-1938 (RCA 66723)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -129,5 +117,4 @@ Where my baby used to lay
 
 
 
-
-
+</lyrics></xml>

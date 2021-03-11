@@ -1,23 +1,11 @@
-T-Bone Walker - Evenin'
-
-
-Evenin'
-
-
-
-
-
-
-
-
-
-by Mitchell Parish / Harry White
+<xml><metadata><artist>T-Bone Walker</artist><title> Evenin'</title>
+<songInfo>by Mitchell Parish / Harry White
 
 recording of 19
 
 from T-Bone Walker Blues (), 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -119,5 +107,4 @@ My baby's gone
 
 
 
-
-
+</lyrics></xml>

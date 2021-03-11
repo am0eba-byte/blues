@@ -1,18 +1,5 @@
-Keb' Mo' - Love Blues
-
-
-Love Blues
-
-
-
-
-
-
-
- 
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Love Blues</title>
+<songInfo>by 
 Kevin
 Moore
  / G. Graper
@@ -23,8 +10,8 @@ from
 Keb'
 Mo' (OKeh/Epic EK 57863)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -121,5 +108,4 @@ Note:
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Howlin' Wolf - My Last Affair (Take 1)
-
-
-My Last Affair (Take 1)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> My Last Affair (Take 1)</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ Cadillac
 Daddy: Memphis Recordings 1952 (Rounder
 28)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -94,5 +82,4 @@ have done me wrong
 
 
 
-
-
+</lyrics></xml>

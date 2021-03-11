@@ -1,17 +1,5 @@
-Bessie Smith - Dirty No-Gooder's Blues
-
-
-Dirty No-Gooder's Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Dirty No-Gooder's Blues</title>
+<songInfo>by 
 Bessie
 Smith
 
@@ -24,8 +12,8 @@ Complete Recordings, Vol. 4 (Columbia/Legacy
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -116,5 +104,4 @@ That dirty no-good man treats me just like I'm a dog
 
 
 
-
-
+</lyrics></xml>

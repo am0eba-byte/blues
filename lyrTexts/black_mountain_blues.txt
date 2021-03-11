@@ -1,21 +1,5 @@
-Janis Joplin - Black Mountain Blues
-
-
-Black Mountain Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by H. Cole
+<xml><metadata><artist>Janis Joplin</artist><title> Black Mountain Blues</title>
+<songInfo>by H. Cole
 
 recording of 19
 
@@ -24,8 +8,8 @@ From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -112,5 +96,4 @@ Now my man can clear off, I've got the Blackest Mountain blues
 
 
 
-
-
+</lyrics></xml>

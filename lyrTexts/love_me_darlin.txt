@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - Love Me Darlin'
-
-
-Love Me Darlin'
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Love Me Darlin'</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 In
 Step (Epic EK-45024)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -120,5 +108,4 @@ I love you honey
 
 
 
-
-
+</lyrics></xml>

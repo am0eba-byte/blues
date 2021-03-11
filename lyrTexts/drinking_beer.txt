@@ -1,18 +1,5 @@
-Jimmy Witherspoon - Drinking Beer
-
-
-Drinking Beer
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Jimmy Witherspoon</artist><title> Drinking Beer</title>
+<songInfo>by 
 Jimmy
 Witherspoon
 
@@ -23,8 +10,8 @@ Evenin'
 Blues (Original Blues Classics 511)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +119,4 @@ Wine is fine but give me lots of beer!
 
 
 
-
-
+</lyrics></xml>

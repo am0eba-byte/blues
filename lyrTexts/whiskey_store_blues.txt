@@ -1,17 +1,5 @@
-Memphis Slim - Whiskey Store Blues
-
-
-Whiskey Store Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Memphis Slim</artist><title> Whiskey Store Blues</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -22,7 +10,8 @@ The
 Bluebird Recordings 1940-1941 (RCA 66720)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -142,5 +131,4 @@ You're layin' around some whiskey bar
 
 
 
-
-
+</lyrics></xml>

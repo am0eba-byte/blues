@@ -1,17 +1,5 @@
-B.B. King - My Silent Prayer
-
-
-My Silent Prayer
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> My Silent Prayer</title>
+<songInfo>by
 
 recording of 19
 
@@ -20,8 +8,8 @@ B.B.
 King Anthology (ABC 5611)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +114,4 @@ For my silent love is for you and only for you
 
 
 
-
-
+</lyrics></xml>

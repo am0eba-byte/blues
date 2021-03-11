@@ -1,18 +1,5 @@
-B.B. King - Slowly Losing My Mind
-
-
-Slowly Losing My Mind
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Slowly Losing My Mind</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -26,8 +13,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -142,5 +129,4 @@ now I wonder why was I born
 
 
 
-
-
+</lyrics></xml>

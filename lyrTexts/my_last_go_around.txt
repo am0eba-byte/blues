@@ -1,18 +1,5 @@
-Big Maceo Merriweather - My Last Go Around
-
-
-My Last Go Around
-
-
-
-
-
-
-
-
-
-
-by Dan Howell
+<xml><metadata><artist>Big Maceo Merriweather</artist><title> My Last Go Around</title>
+<songInfo>by Dan Howell
 
 recording of 1941-'42
 
@@ -21,8 +8,8 @@ Bluebird
 Recordings 1941-1942 (RCA 66715)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -99,5 +86,4 @@ down
 
 
 
-
-
+</lyrics></xml>

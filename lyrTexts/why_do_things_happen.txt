@@ -1,17 +1,5 @@
-B.B. King - Why Do Things Happen
-
-
-Why Do Things Happen
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Why Do Things Happen</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -25,7 +13,8 @@ Singin'
 the Blues/The Blues (Flair 86296)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -134,5 +123,4 @@ But bad luck had hit me, now I'm down again
 
 
 
-
-
+</lyrics></xml>

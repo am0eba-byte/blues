@@ -1,17 +1,5 @@
-Mississippi Fred McDowell - I Heard Somebody Call
-
-
-I Heard Somebody Call
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Mississippi Fred McDowell</artist><title> I Heard Somebody Call</title>
+<songInfo>by 
 Mississippi
 Fred McDowell
 
@@ -23,8 +11,8 @@ You
 Gotta Move (Arhoolie 304)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -99,5 +87,4 @@ Lord I got the mean, meanest woman, Lord I ever, ever seen Lord
 
 
 
-
-
+</lyrics></xml>

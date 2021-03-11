@@ -1,17 +1,5 @@
-John Lee Hooker - I'mLeaving Baby
-
-
-I'mLeaving Baby
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> I'mLeaving Baby</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -20,8 +8,8 @@ recording of 1963
 from The Vee Jay Years 1955-1964 (Charly 82333-1754-2) &
 
 Vee Jay No. 3310, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -102,5 +90,4 @@ Oh baby
 
 
 
-
-
+</lyrics></xml>

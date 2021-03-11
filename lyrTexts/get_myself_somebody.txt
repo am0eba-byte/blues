@@ -1,18 +1,5 @@
-B.B. King - Get Myself Somebody
-
-
-Get Myself Somebody
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Get Myself Somebody</title>
+<songInfo>by 
 Maya
 Angelou
  / 
@@ -26,8 +13,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -164,5 +151,4 @@ I'm all alone
 
 
 
-
-
+</lyrics></xml>

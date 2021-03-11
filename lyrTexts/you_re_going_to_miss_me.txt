@@ -1,16 +1,5 @@
-A.C. Reed - You're Going To Miss Me
-
-
-You're Going To Miss Me
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>A.C. Reed</artist><title> You're Going To Miss Me</title>
+<songInfo>by 
 Aaron
 Carthen Reed
 
@@ -20,8 +9,8 @@ from
 Junk
 Food (Delmark 3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -144,5 +133,4 @@ Note: vocal by Sammy Fender.
 
 
 
-
-
+</lyrics></xml>

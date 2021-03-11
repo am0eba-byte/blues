@@ -1,25 +1,5 @@
-Robert Johnson - Kindhearted Woman Blues, take 2
-
-
-Kindhearted Woman Blues (Take 2)
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> Kindhearted Woman Blues, take 2</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -32,7 +12,8 @@ Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222
 & Columbia 4622 & Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -165,5 +146,4 @@ usage
 
 
 
-
-
+</lyrics></xml>

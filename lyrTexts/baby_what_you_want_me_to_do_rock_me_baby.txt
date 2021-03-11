@@ -1,17 +1,5 @@
-Albert Collins - Baby What You Want Me To Do/Rock Me Baby
-
-
-Baby What You Want Me To Do/Rock Me Baby
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Baby What You Want Me To Do/Rock Me Baby</title>
+<songInfo>by 
 Jimmy
 Reed
  / 
@@ -25,7 +13,8 @@ The
 Complete Imperial Recordings (EMI 96740)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -95,5 +84,4 @@ I want 'cha to roll me baby, 'til I'm in love with you
 
 
 
-
-
+</lyrics></xml>

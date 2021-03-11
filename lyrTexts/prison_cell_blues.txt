@@ -1,17 +1,5 @@
-Blind Lemon Jefferson - Prison Cell Blues
-
-
-Prison Cell Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> Prison Cell Blues</title>
+<songInfo>by 
 Blind
 Lemon Jefferson
 
@@ -34,8 +22,8 @@ of the Country Blues [LP] (Yazoo
 Matchbox
 Blues (Indigo 2075)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -138,5 +126,4 @@ Note: issued by Paramount under catalogue no. 12622.
 
 
 
-
-
+</lyrics></xml>

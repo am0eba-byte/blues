@@ -1,17 +1,5 @@
-B.B. King - Going Home
-
-
-Going Home
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Going Home</title>
+<songInfo>by
 
 recording of 19
 
@@ -20,8 +8,8 @@ The
 Soul Of B.B. King (United 7714)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -164,5 +152,4 @@ I'm going home to see my baby, I'm going home
 
 
 
-
-
+</lyrics></xml>

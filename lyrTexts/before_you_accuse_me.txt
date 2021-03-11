@@ -1,25 +1,13 @@
-Bo Diddley - Before You Accuse Me
-
-
-Before You Accuse Me
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bo Diddley</artist><title> Before You Accuse Me</title>
+<songInfo>by 
 Ellas
 McDaniel a.k.a. Bo Diddley
 
 recording of 19
 
 from , 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -93,5 +81,4 @@ You've been gone away so long, I'm just about to lose my mind
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Muddy Waters - Gypsy Woman
-
-
-Gypsy Woman
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Gypsy Woman</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -23,8 +11,8 @@ Chess Box (MCA 80002)
  & (Chess CHD
 9274) & The Beginnings Of Rock (Aristocrat 1302),
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +112,4 @@ record again.
 
 
 
-
-
+</lyrics></xml>

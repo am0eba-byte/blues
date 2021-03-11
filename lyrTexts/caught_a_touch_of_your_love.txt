@@ -1,21 +1,5 @@
-B.B. King - Caught A Touch Of Your Love
-
-
-Caught A Touch Of Your Love
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Caught A Touch Of Your Love</title>
+<songInfo>by 
 Craig
 Bickhart
  / 
@@ -30,7 +14,8 @@ Lucille
 amp; Friends (MCA 33008)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -165,5 +150,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

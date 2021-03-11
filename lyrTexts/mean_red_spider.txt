@@ -1,17 +1,5 @@
-Muddy Waters - Mean Red Spider
-
-
-Mean Red Spider
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Mean Red Spider</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -26,8 +14,8 @@ Aristocrat
 of the Blues (Chess 50th Anniversary Collection) (MCA/Chess
 9387)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -121,5 +109,4 @@ and female. This is the 1948 version for the Aristocrat label.
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Albert Collins - Cash Talkin' (The Workingman's Blues)
-
-
-Cash Talkin' (The Workingman's Blues)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Cash Talkin' (The Workingman's Blues)</title>
+<songInfo>by 
 Doug
 MacLeod
 
@@ -22,7 +10,8 @@ Cold
 Snap (Alligator ALCD-4752)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -183,5 +172,4 @@ word.
 
 
 
-
-
+</lyrics></xml>

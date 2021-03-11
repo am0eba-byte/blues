@@ -1,18 +1,5 @@
-Ida Cox - Wild WomenDon't Have The Blues
-
-
-Wild WomenDon't Have The Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Wild WomenDon't Have The Blues</title>
+<songInfo>by 
 Ida
 Cox
 
@@ -23,8 +10,8 @@ Complete
 Recorded Works, Vol. 2 (1924-1925) (Document
 5323)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -135,5 +122,4 @@ unimportant.
 
 
 
-
-
+</lyrics></xml>

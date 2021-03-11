@@ -1,18 +1,5 @@
-Ma Rainey - Blues And Booze
-
-
-Blues And Booze
-
-
-
-
-
-
-
-
-
-
-by Suddoth
+<xml><metadata><artist>Ma Rainey</artist><title> Blues And Booze</title>
+<songInfo>by Suddoth
 
 recording of 1924
 
@@ -21,8 +8,8 @@ Complete
 Recorded Works, Vol. 2 (1924-1925) (Document
 5582)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +90,4 @@ blues
 
 
 
-
-
+</lyrics></xml>

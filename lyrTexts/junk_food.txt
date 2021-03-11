@@ -1,17 +1,5 @@
-A.C. Reed - Junk Food
-
-
-Junk Food
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>A.C. Reed</artist><title> Junk Food</title>
+<songInfo>by 
 Aaron
 Carthen Reed
 
@@ -21,8 +9,8 @@ from
 Junk
 Food (Delmark 3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -189,5 +177,4 @@ Street
 
 
 
-
-
+</lyrics></xml>

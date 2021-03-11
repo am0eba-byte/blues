@@ -1,17 +1,5 @@
-Bessie Smith - Gimme A Pigfoot And A Bottle Of Beer
-
-
-Gimme A Pigfoot And A Bottle Of Beer
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Gimme A Pigfoot And A Bottle Of Beer</title>
+<songInfo>by 
 Wesley
 Wilson
 
@@ -22,8 +10,8 @@ Complete
 Recordings, Vol. 5: The Final Chapter (Columbia/Legacy
 57546)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -130,5 +118,4 @@ till the risin' sun
 
 
 
-
-
+</lyrics></xml>

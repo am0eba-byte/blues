@@ -1,20 +1,5 @@
-Stevie Ray Vaughan - Close To You
-
-
-Close To You
-
-
-
-tab/chords
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Close To You</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -25,7 +10,8 @@ The
 Sky Is Crying (Epic EK-47390)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -166,5 +152,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

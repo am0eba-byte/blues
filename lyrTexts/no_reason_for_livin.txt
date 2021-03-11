@@ -1,21 +1,5 @@
-Janis Joplin - No Reason For Livin'
-
-
-No Reason For Livin'
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> No Reason For Livin'</title>
+<songInfo>by 
 Janis
 Joplin
 
@@ -26,8 +10,8 @@ From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -97,5 +81,4 @@ I got these blues, Lord I gotta finally know why
 
 
 
-
-
+</lyrics></xml>

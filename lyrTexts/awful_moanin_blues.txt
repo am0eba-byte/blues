@@ -1,17 +1,5 @@
-Clara Smith - Awful Moanin' Blues
-
-
-Awful Moanin' Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Clara Smith</artist><title> Awful Moanin' Blues</title>
+<songInfo>by 
 Stanley
 Miller
 
@@ -22,8 +10,8 @@ Complete
 Recorded Works, Vol. 1 (1923-1924) (Document
 5364)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -121,5 +109,4 @@ Just to cure these awful moanin' blues
 
 
 
-
-
+</lyrics></xml>

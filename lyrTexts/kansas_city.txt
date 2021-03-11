@@ -1,18 +1,5 @@
-Jimmy Witherspoon - Kansas City
-
-
-Kansas City
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Jimmy Witherspoon</artist><title> Kansas City</title>
+<songInfo>by 
 Jerry
 Leiber
  / 
@@ -26,8 +13,8 @@ Evenin'
 Blues (Original Blues Classics 511)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -121,5 +108,4 @@ Yeah!
 
 
 
-
-
+</lyrics></xml>

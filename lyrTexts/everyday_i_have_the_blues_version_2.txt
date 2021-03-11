@@ -1,21 +1,5 @@
-B.B. King - Everyday I Have The Blues (Version 2)
-
-
-Everyday I Have The Blues (Version 2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Everyday I Have The Blues (Version 2)</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -26,8 +10,8 @@ Live
 In Japan (MCA Victor MVCM-253 & MCA
 11810)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +108,4 @@ you know I'll having my share
 
 
 
-
-
+</lyrics></xml>

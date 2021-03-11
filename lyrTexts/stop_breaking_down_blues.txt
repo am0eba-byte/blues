@@ -1,28 +1,13 @@
-ZZ Top - Stop Breaking Down Blues
-
-
-Stop Breaking Down Blues
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Stop Breaking Down Blues</title>
+<songInfo>by 
 Robert
 Johnson
 
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -116,5 +101,4 @@ Oh yeah
 
 
 
-
-
+</lyrics></xml>

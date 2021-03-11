@@ -1,18 +1,5 @@
-B.B. King - Worry, Worry, Worry
-
-
-Worry, Worry, Worry
-
-
-
-
-
-
-
-
-
-
-by Plumber Davis / 
+<xml><metadata><artist>B.B. King</artist><title> Worry, Worry, Worry</title>
+<songInfo>by Plumber Davis / 
 Jules
 Taub
 
@@ -22,7 +9,8 @@ from various albums listed
 here
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -128,5 +116,4 @@ loose my doggone mind
 
 
 
-
-
+</lyrics></xml>

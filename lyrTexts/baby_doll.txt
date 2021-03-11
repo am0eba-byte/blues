@@ -1,17 +1,5 @@
-Bessie Smith - Baby Doll
-
-
-Baby Doll
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Baby Doll</title>
+<songInfo>by 
 Bessie
 Smith
  / Webman
@@ -25,8 +13,8 @@ C2K-47091)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -125,5 +113,4 @@ me please if you know a/the meaning
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Keb' Mo' - Kindhearted Woman Blues
-
-
-Kindhearted Woman Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Kindhearted Woman Blues</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -22,8 +9,8 @@ from
 Keb'
 Mo' (OKeh/Epic EK 57863)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +88,4 @@ take
 
 
 
-
-
+</lyrics></xml>

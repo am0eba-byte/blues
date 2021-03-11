@@ -1,17 +1,5 @@
-B.B. King - I'm Crackin' Up Over You
-
-
-I'm Crackin' Up Over You
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> I'm Crackin' Up Over You</title>
+<songInfo>by
 
 recording of 19
 
@@ -23,8 +11,8 @@ King Anthology (ABC 5611)
 Lucille
 Had a Baby (ACE 271)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -147,5 +135,4 @@ I'm cracking up over you
 
 
 
-
-
+</lyrics></xml>

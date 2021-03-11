@@ -1,18 +1,5 @@
-B.B. King - Ain't Nobody Like My Baby
-
-
-Ain't Nobody Like My Baby
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Ain't Nobody Like My Baby</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,7 +10,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -141,5 +129,4 @@ Like A Million
 
 
 
-
-
+</lyrics></xml>

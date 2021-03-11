@@ -1,25 +1,5 @@
-Robert Johnson - Little Queen Of Spades, take 2
-
-
-Little Queen Of Spades (Take 2)
-
-
-
-lyrics
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> Little Queen Of Spades, take 2</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -31,7 +11,8 @@ Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222
 & Columbia 4622 & Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -160,5 +141,4 @@ Note 2: alternatively "tremblin' " instead of "trimmin' "
 
 
 
-
-
+</lyrics></xml>

@@ -1,21 +1,5 @@
-Gary Moore - Merry Go Round
-
-
-Merry Go Round
-
-
-
-
-
-
-
- 
-
-
-
-
-
-by 
+<xml><metadata><artist>Gary Moore</artist><title> Merry Go Round</title>
+<songInfo>by 
 Peter
 Green
 
@@ -26,7 +10,8 @@ Blues
 For Greeny (Virgin CDV 2784)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -129,5 +114,4 @@ goes
 
 
 
-
-
+</lyrics></xml>

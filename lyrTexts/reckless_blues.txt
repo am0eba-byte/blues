@@ -1,17 +1,5 @@
-Bessie Smith - Reckless Blues
-
-
-Reckless Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Reckless Blues</title>
+<songInfo>by 
 Bessie
 Smith
 
@@ -22,8 +10,8 @@ The
 Complete Recordings, Vol. 2 (1924-1925) (Columbia/Legacy
 C2K-47471)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -95,5 +83,4 @@ Darn pretty papa, mama wants some lovin' right now
 
 
 
-
-
+</lyrics></xml>

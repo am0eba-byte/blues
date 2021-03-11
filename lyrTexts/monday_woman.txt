@@ -1,18 +1,5 @@
-B.B. King - Monday Woman
-
-
-Monday Woman
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Monday Woman</title>
+<songInfo>by 
 Willie
 Mabon
 
@@ -23,7 +10,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +140,4 @@ The woman don't mean no good
 
 
 
-
-
+</lyrics></xml>

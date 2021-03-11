@@ -1,16 +1,5 @@
-John Lee Hooker - Queen Bee
-
-
-Queen Bee
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Queen Bee</title>
+<songInfo>by 
 John
 Lee Hooker
  / Bernard Besman
@@ -22,8 +11,8 @@ Half
 a Stranger (Mainstream 903)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -85,5 +74,4 @@ Every time she stings me, Lord, it makes my blood run warm
 
 
 
-
-
+</lyrics></xml>

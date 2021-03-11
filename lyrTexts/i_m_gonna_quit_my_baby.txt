@@ -1,18 +1,5 @@
-B.B. King - (I'm Gonna) Quit My Baby
-
-
-(I'm Gonna) Quit My Baby
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> (I'm Gonna) Quit My Baby</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -35,7 +22,8 @@ Sweet Little Angel (Flair V2-39103)
 ,
 
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -161,5 +149,4 @@ I caught my baby doin' the mambo too
 
 
 
-
-
+</lyrics></xml>

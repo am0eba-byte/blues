@@ -1,25 +1,5 @@
-Robert Johnson - Preachin' Blues (Up Jumped The Devil)
-
-
-Preachin' Blues (Up Jumped The Devil)
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> Preachin' Blues (Up Jumped The Devil)</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -32,7 +12,8 @@ Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222
 & Columbia 4622 & Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -166,5 +147,4 @@ distillery
 
 
 
-
-
+</lyrics></xml>

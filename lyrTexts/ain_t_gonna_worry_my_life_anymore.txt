@@ -1,18 +1,5 @@
-B.B. King - Ain't Gonna Worry My Life Anymore
-
-
-Ain't Gonna Worry My Life Anymore
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Ain't Gonna Worry My Life Anymore</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,7 +10,8 @@ Indianola
 Mississippi Seeds (MCA MCAD-31343)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -117,5 +105,4 @@ Oh but someday, baby, I ain't gonna worry my life any more
 
 
 
-
-
+</lyrics></xml>

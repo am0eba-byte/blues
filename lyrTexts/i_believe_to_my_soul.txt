@@ -1,18 +1,5 @@
-Albert King - I Believe To My Soul
-
-
-I Believe To My Soul
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> I Believe To My Soul</title>
+<songInfo>by 
 Ray
 Charles
 
@@ -24,8 +11,8 @@ Live
 at Montreux Blues at Sunrise (Stax or Fantasy
 8546)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -135,5 +122,4 @@ Thank you very much!
 
 
 
-
-
+</lyrics></xml>

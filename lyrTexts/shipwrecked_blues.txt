@@ -1,17 +1,5 @@
-Clara Smith - Shipwrecked Blues
-
-
-Shipwrecked Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Clara Smith</artist><title> Shipwrecked Blues</title>
+<songInfo>by 
 Spencer
 Williams
 
@@ -26,8 +14,8 @@ Ladies
 of Blues (Columbia River 1124)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +98,4 @@ blues
 
 
 
-
-
+</lyrics></xml>

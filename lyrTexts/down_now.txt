@@ -1,20 +1,5 @@
-B.B. King - Down Now
-
-
-Down Now
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Down Now</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -28,8 +13,8 @@ Blues
 Around Midnight (Ace 235 or Virgin/Alliance 86258 or Atlantic
 91801)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -156,5 +141,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

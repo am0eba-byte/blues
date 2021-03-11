@@ -1,17 +1,5 @@
-Bessie Smith - Standin' In The Rain Blues
-
-
-Standin' In The Rain Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Standin' In The Rain Blues</title>
+<songInfo>by 
 Bessie
 Smith
 
@@ -24,8 +12,8 @@ Complete Recordings, Vol. 4 (Columbia/Legacy
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -95,5 +83,4 @@ Rain, rain, rain don't rain on me all day
 
 
 
-
-
+</lyrics></xml>

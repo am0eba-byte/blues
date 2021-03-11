@@ -1,21 +1,5 @@
-ZZ Top - Neighbor, Neighbor
-
-
-Neighbor, Neighbor
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Neighbor, Neighbor</title>
+<songInfo>by 
 Billy
 Gibbons
 
@@ -26,8 +10,8 @@ ZZ
 Top's First Album (Warner brothers
 2-3268)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +94,4 @@ Note 1: brine,
 
 
 
-
-
+</lyrics></xml>

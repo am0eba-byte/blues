@@ -1,17 +1,5 @@
-Bessie Smith - Keep It To Yourself
-
-
-Keep It To Yourself
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Keep It To Yourself</title>
+<songInfo>by 
 Clarence
 Williams
 
@@ -24,8 +12,8 @@ Complete Recordings, Vol. 4 (Columbia/Legacy
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -131,5 +119,4 @@ Oh yes, keep it to yourself
 
 
 
-
-
+</lyrics></xml>

@@ -1,24 +1,13 @@
-Jonny Lang - Missing Your Love
-
-
-Missing Your Love
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Missing Your Love</title>
+<songInfo>by
 Jonny Lang
 / Dennis Morgan
 recording of 1997
 from
 Lie To Me (A&M 540640)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -85,5 +74,4 @@ I'm still missin'; your love
 
 
 
-
-
+</lyrics></xml>

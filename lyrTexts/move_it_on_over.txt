@@ -1,21 +1,5 @@
-George Thorogood - Move It On Over
-
-
-Move It On Over
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>George Thorogood</artist><title> Move It On Over</title>
+<songInfo>by 
 Hank
 Williams
 
@@ -34,8 +18,8 @@ The
 Baddest Of George Thorogood And The Destroyers (EMI E2-97718 or
 Capitol 97718)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -153,5 +137,4 @@ Move over cool dog, the hot dog's movin' in
 
 
 
-
-
+</lyrics></xml>

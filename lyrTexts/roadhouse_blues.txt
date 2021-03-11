@@ -1,16 +1,5 @@
-A.C. Reed - Roadhouse Blues
-
-
-Roadhouse Blues
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>A.C. Reed</artist><title> Roadhouse Blues</title>
+<songInfo>by 
 John
 Densmore
  / 
@@ -29,8 +18,8 @@ from
 Junk
 Food (Delmark 3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -234,5 +223,4 @@ Mines
 
 
 
-
-
+</lyrics></xml>

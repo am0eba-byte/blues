@@ -1,18 +1,5 @@
-The Fabulous Thunderbirds - Wrap It Up
-
-
-Wrap It Up
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> Wrap It Up</title>
+<songInfo>by 
 Isaac
 Hayes
  / 
@@ -33,7 +20,8 @@ Hot
 Stuff: The Greatest Hits (Epic ZK-53007)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +111,4 @@ Chorus 4x
 
 
 
-
-
+</lyrics></xml>

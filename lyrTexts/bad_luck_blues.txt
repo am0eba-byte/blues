@@ -1,18 +1,5 @@
-Sonny Boy Williamson I (John Lee) - Bad Luck Blues
-
-
-Bad Luck Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Sonny Boy Williamson I (John Lee)</artist><title> Bad Luck Blues</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -23,8 +10,8 @@ Blues
 Classics by Sonny Boy Williamson, vol. 3 (Blues Classics
 3)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -106,5 +93,4 @@ Resurrection Day
 
 
 
-
-
+</lyrics></xml>

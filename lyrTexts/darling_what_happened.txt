@@ -1,21 +1,5 @@
-B.B. King - Darling What Happened
-
-
-Darling What Happened
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Darling What Happened</title>
+<songInfo>by 
 B.B.
 King
 
@@ -25,8 +9,8 @@ from
 Blues
 on the Bayou (MCA 11879)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -145,5 +129,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

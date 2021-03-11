@@ -1,21 +1,5 @@
-B.B. King - Ain't Nobody Here But Us Chickens
-
-
-Ain't Nobody Here But Us Chickens
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Ain't Nobody Here But Us Chickens</title>
+<songInfo>by 
 Alex
 Kramer
  / 
@@ -29,8 +13,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -186,5 +170,4 @@ It's easy, pickin's, there ain't nobody here but us chickens
 
 
 
-
-
+</lyrics></xml>

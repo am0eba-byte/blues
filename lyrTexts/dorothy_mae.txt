@@ -1,17 +1,5 @@
-Howlin' Wolf - Dorothy Mae
-
-
-Dorothy Mae
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Dorothy Mae</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ Cadillac
 Daddy: Memphis Recordings 1952 (Rounder
 28)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -119,5 +107,4 @@ Note: previously unissued in North America.
 
 
 
-
-
+</lyrics></xml>

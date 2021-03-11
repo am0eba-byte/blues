@@ -1,17 +1,5 @@
-Muddy Waters - Crosseyed Cat
-
-
-Crosseyed Cat
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Crosseyed Cat</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,8 +10,8 @@ Hard
 Again (Blue Sky ZK-34449, Columbia 34449)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +114,4 @@ but it seem like everything I do is wrong
 
 
 
-
-
+</lyrics></xml>

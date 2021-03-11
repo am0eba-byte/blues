@@ -1,18 +1,5 @@
-B.B. King - Playing With My Friends
-
-
-Playing With My Friends
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Playing With My Friends</title>
+<songInfo>by 
 Robert
 Cray
  / 
@@ -22,8 +9,8 @@ Walker
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -192,5 +179,4 @@ playin' with my friends
 
 
 
-
-
+</lyrics></xml>

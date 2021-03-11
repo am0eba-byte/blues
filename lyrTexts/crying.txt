@@ -1,16 +1,5 @@
-John Mayall's Bluesbreakers - Crying
-
-
-Crying
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> Crying</title>
+<songInfo>by 
 John
 Mayall
 
@@ -20,8 +9,8 @@ from
 U.S.A.
 Union (Polygram 527458)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +98,4 @@ I was crying
 
 
 
-
-
+</lyrics></xml>

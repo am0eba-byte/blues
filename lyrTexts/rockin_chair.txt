@@ -1,17 +1,5 @@
-John Lee Hooker - Rockin' Chair
-
-
-Rockin' Chair
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Rockin' Chair</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ The
 Healer (Silvertone ZD74307)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -120,5 +108,4 @@ Rock these blues, rock these blues away from me
 
 
 
-
-
+</lyrics></xml>

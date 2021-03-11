@@ -1,18 +1,5 @@
-B.B. King - Long Nights
-
-
-Long Nights
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Long Nights</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -38,8 +25,8 @@ Edition (Intercontinental 4011)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +139,4 @@ call the blues
 
 
 
-
-
+</lyrics></xml>

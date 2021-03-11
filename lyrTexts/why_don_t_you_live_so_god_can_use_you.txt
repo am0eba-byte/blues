@@ -1,17 +1,5 @@
-Muddy Waters - Why Don't You Live So God Can Use You
-
-
-Why Don't You Live So God Can Use You
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Why Don't You Live So God Can Use You</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -23,8 +11,8 @@ The
 Complete Plantation Recordings (Chess/MCA
 CHD-9344)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -100,5 +88,4 @@ Why don't you sing so, God can use you, anywhere Lord
 
 
 
-
-
+</lyrics></xml>

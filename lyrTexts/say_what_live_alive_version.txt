@@ -1,16 +1,5 @@
-Stevie Ray Vaughan - Say What! (Live Alive Version)
-
-
-Say What! (Live Alive Version)
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Say What! (Live Alive Version)</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
 
@@ -20,8 +9,8 @@ from
 Live
 Alive (Epic EGK-40511)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -118,5 +107,4 @@ Soul to soul, Soul to soul, Soul to soul
 
 
 
-
-
+</lyrics></xml>

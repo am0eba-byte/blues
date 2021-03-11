@@ -1,17 +1,5 @@
-B.B. King - I Can't Let You Go
-
-
-I Can't Let You Go
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Can't Let You Go</title>
+<songInfo>by 
 B.B.
 King
 
@@ -22,7 +10,8 @@ Blues
 'n' Jazz (MCA MCAD-27119)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -133,5 +122,4 @@ I just can't let you go
 
 
 
-
-
+</lyrics></xml>

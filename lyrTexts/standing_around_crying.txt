@@ -1,17 +1,5 @@
-Muddy Waters - Standing Around Crying
-
-
-Standing Around Crying
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Standing Around Crying</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,7 +10,8 @@ Chess
 Box (MCA/Chess CHD3-80002)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -107,5 +96,4 @@ you was just sweet as an apple on a tree
 
 
 
-
-
+</lyrics></xml>

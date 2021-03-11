@@ -1,18 +1,5 @@
-B.B. King - Let The Good Times Roll (Version 1)
-
-
-Let The Good Times Roll (Version 1)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Let The Good Times Roll (Version 1)</title>
+<songInfo>by 
 Fleecie
 Moore
  / 
@@ -28,7 +15,8 @@ Bland & B.B. King Together Again...Live
 ,
 
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -178,5 +166,4 @@ Let's get together and let the good times roll
 
 
 
-
-
+</lyrics></xml>

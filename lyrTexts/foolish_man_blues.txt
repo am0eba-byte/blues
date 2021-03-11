@@ -1,17 +1,5 @@
-Bessie Smith - Foolish Man Blues
-
-
-Foolish Man Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Foolish Man Blues</title>
+<songInfo>by 
 Bessie
 Smith
 
@@ -24,8 +12,8 @@ C2K-47474)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -99,5 +87,4 @@ And when she let him kiss her, the fool blabbed it all over town
 
 
 
-
-
+</lyrics></xml>

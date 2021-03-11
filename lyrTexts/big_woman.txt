@@ -1,21 +1,5 @@
-A.C. Reed - Big Woman
-
-
-Big Woman
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>A.C. Reed</artist><title> Big Woman</title>
+<songInfo>by 
 Aaron
 Carthen Reed
 
@@ -25,8 +9,8 @@ from
 Junk
 Food (Delmark 3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -105,5 +89,4 @@ slim and fine
 
 
 
-
-
+</lyrics></xml>

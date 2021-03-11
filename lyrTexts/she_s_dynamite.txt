@@ -1,18 +1,5 @@
-B.B. King - She's Dynamite
-
-
-She's Dynamite
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> She's Dynamite</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,8 +10,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -147,5 +134,4 @@ She knows what to do and she knows what it's all about
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-John Lee Hooker - Frisco Blues
-
-
-Frisco Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Frisco Blues</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -20,8 +8,8 @@ recording of 1962
 from The Vee Jay Years 1955-1964 (Charly 82333-1754-2) &
 
 Vee Jay No. 2799, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -120,5 +108,4 @@ my heart is there, my heart is there, in San Francisco
 
 
 
-
-
+</lyrics></xml>

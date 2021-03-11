@@ -1,16 +1,5 @@
-Albert Collins - Trash Talkin'
-
-
-Trash Talkin'
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Trash Talkin'</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -21,7 +10,8 @@ The
 Complete Imperial Recordings (EMI 96740)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -171,5 +161,4 @@ Note 1: may be referring to his song "Do The Sissy".
 
 
 
-
-
+</lyrics></xml>

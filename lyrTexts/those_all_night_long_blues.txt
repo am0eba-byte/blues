@@ -1,18 +1,5 @@
-Ma Rainey - Those All Night Long Blues
-
-
-Those All Night Long Blues
-
-
-
-
-
-
-
-
-
-
-by J.G. Sudath
+<xml><metadata><artist>Ma Rainey</artist><title> Those All Night Long Blues</title>
+<songInfo>by J.G. Sudath
 
 recording of December 1923
 
@@ -21,8 +8,8 @@ Complete
 Recorded Works, Vol. 1 (1923-1924) (Document
 5581)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -92,5 +79,4 @@ And I suffer with those all night blues
 
 
 
-
-
+</lyrics></xml>

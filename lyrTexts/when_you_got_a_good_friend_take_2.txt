@@ -1,81 +1,5 @@
-Robert Johnson - When You Got A Good Friend, take 2
-
-
-When You Got A Good Friend (Take 2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-tab
-
-
-
-chord
-
-
-
-ChordPro
-
-
-
-GuitarPro
-
-
-
- 
-
-   
-
-      
-
-         
-
-      
-
-      
-
-         
-tab
-
-      
-
-      
-
-         
-chord
-
-      
-
-      
-
-         
-ChordPro
-
-      
-
-      
-
-         
-GuitarPro
-
-      
-
-   
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> When You Got A Good Friend, take 2</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -88,7 +12,8 @@ Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222
 & Columbia 4622 & Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -211,5 +136,4 @@ Give her all of your spare time, try to love and treat her right
 
 
 
-
-
+</lyrics></xml>

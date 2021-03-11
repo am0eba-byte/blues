@@ -1,23 +1,11 @@
-B.B. King - Parting Time
-
-
-Parting Time
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Parting Time</title>
+<songInfo>by
 
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +112,4 @@ Yes, I wanna know, tell me why
 
 
 
-
-
+</lyrics></xml>

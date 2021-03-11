@@ -1,21 +1,5 @@
-B.B. King - Hold On I'm Coming
-
-
-Hold On I'm Coming
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Hold On I'm Coming</title>
+<songInfo>by 
 Isaac
 Hayes
  / 
@@ -29,7 +13,8 @@ Riding
 With The King (Warner Brothers 47612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -180,5 +165,4 @@ I'm coming, I'm coming
 
 
 
-
-
+</lyrics></xml>

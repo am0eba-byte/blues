@@ -1,25 +1,13 @@
-John Lee Hooker - Please Don't Go
-
-
-Please Don't Go
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Please Don't Go</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
 recording of
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +91,4 @@ Baby please don't go
 
 
 
-
-
+</lyrics></xml>

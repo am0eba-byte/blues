@@ -1,21 +1,5 @@
-Janis Joplin - Turtle Blues
-
-
-Turtle Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> Turtle Blues</title>
+<songInfo>by 
 Janis
 Joplin
 
@@ -26,8 +10,8 @@ Cheap
 Thrills (Columbia 09700, Sony 65784)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +116,4 @@ Alright, yeah
 
 
 
-
-
+</lyrics></xml>

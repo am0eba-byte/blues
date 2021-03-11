@@ -1,25 +1,5 @@
-Robert Johnson - Stop Breaking Down Blues, take 2
-
-
-Stop Breaking Down Blues (Take 2)
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> Stop Breaking Down Blues, take 2</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -31,7 +11,8 @@ Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222
 & Columbia 4622 & Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -169,5 +150,4 @@ violin
 
 
 
-
-
+</lyrics></xml>

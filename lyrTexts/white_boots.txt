@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - White Boots
-
-
-White Boots
-
-
-
-
-
-
-
-
-
-by Billy Swan / Jim Leslie
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> White Boots</title>
+<songInfo>by Billy Swan / Jim Leslie
 
 recording of 1990
 
@@ -19,8 +7,8 @@ from
 Family
 Style (Epic ZK-46225)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -215,5 +203,4 @@ MusicSearcher.com
 
 
 
-
-
+</lyrics></xml>

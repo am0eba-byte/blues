@@ -1,20 +1,5 @@
-ZZ Top - I Got The Message
-
-
-I Got The Message
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> I Got The Message</title>
+<songInfo>by 
 Frank
 Beard
  / 
@@ -31,7 +16,8 @@ Afterburner
 (Warner Brothers 2-25342)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +89,4 @@ I got the message but I wanna get it straight from you
 
 
 
-
-
+</lyrics></xml>

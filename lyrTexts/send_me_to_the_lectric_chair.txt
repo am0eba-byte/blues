@@ -1,17 +1,5 @@
-Bessie Smith - Send Me To The 'Lectric Chair
-
-
-Send Me To The 'Lectric Chair
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Send Me To The 'Lectric Chair</title>
+<songInfo>by 
 George
 Brooks
 
@@ -24,8 +12,8 @@ C2K-47474)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +114,4 @@ Note 1: barlow, a sturdy inexpensive jackknife.
 
 
 
-
-
+</lyrics></xml>

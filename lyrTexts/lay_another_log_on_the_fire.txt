@@ -1,18 +1,5 @@
-B.B. King - Lay Another Log On The Fire
-
-
-Lay Another Log On The Fire
-
-
-
-
-
-
-
-
-
-
-by Knight
+<xml><metadata><artist>B.B. King</artist><title> Lay Another Log On The Fire</title>
+<songInfo>by Knight
 
 recording of 1988
 
@@ -21,8 +8,8 @@ King
 of Blues: 1989 (MCA MCAD-42183)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -199,5 +186,4 @@ Just trying to keep Jody from my door...
 
 
 
-
-
+</lyrics></xml>

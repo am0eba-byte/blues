@@ -1,17 +1,5 @@
-Bessie Smith - Keeps On A-Rainin'
-
-
-Keeps On A-Rainin'
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Keeps On A-Rainin'</title>
+<songInfo>by 
 Max
 Kortlander
  / Williams
@@ -23,8 +11,8 @@ The
 Complete Recordings, Vol. 1 (Columbia/Legacy
 C2K-47091)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +97,4 @@ Note 1: clime, climate.
 
 
 
-
-
+</lyrics></xml>

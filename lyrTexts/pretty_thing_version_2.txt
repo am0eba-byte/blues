@@ -1,24 +1,11 @@
-Bo Diddley - Pretty Thing (version 2)
-
-
-Pretty Thing (version 2)
-
-
-
-
-
-
-
-
-
-
-by Willie Dixon
+<xml><metadata><artist>Bo Diddley</artist><title> Pretty Thing (version 2)</title>
+<songInfo>by Willie Dixon
 
 recording of 1955
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +95,4 @@ Oh, you pretty thing
 
 
 
-
-
+</lyrics></xml>

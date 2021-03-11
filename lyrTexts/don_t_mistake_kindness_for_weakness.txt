@@ -1,17 +1,5 @@
-Albert Collins - Don't Mistake Kindness For Weakness
-
-
-Don't Mistake Kindness For Weakness
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Don't Mistake Kindness For Weakness</title>
+<songInfo>by 
 Gwendolyn
 Collins
  / 
@@ -25,7 +13,8 @@ Iceman
 (Capitol or Virgin 86197)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +98,4 @@ last fool
 
 
 
-
-
+</lyrics></xml>

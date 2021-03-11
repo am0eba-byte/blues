@@ -1,17 +1,5 @@
-B.B. King - Worried Life
-
-
-Worried Life
-
-
-
-
-
-
-
-
-
-by probably 
+<xml><metadata><artist>B.B. King</artist><title> Worried Life</title>
+<songInfo>by probably 
 Lightnin'
 Hopkins
 
@@ -22,7 +10,8 @@ Turn
 on to B.B. King (United 7763)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +112,4 @@ Oh, but some day, baby, I ain't gonna worry my life anymore
 
 
 
-
-
+</lyrics></xml>

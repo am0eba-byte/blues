@@ -1,17 +1,5 @@
-John Lee Hooker - I Need Some Money
-
-
-I Need Some Money
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> I Need Some Money</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ That's
 My Story (Original Blues Classics 538)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +111,4 @@ What I want
 
 
 
-
-
+</lyrics></xml>

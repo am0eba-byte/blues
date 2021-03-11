@@ -1,17 +1,5 @@
-John Lee Hooker - Bluebird
-
-
-Bluebird
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Bluebird</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -30,8 +18,8 @@ John
 Lee Hooker Plays and Sings the Blues (MCA/Chess
 CHD-9199)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -90,5 +78,4 @@ If you see my baby, tell her I want her to come back home to me
 
 
 
-
-
+</lyrics></xml>

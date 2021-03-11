@@ -1,18 +1,5 @@
-Ida Cox - Graveyard Dream Blues
-
-
-Graveyard Dream Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Graveyard Dream Blues</title>
+<songInfo>by 
 Ida
 Cox
 
@@ -23,8 +10,8 @@ Complete
 Recorded Works, Vol. 1 (1923) (Document
 5322)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -98,5 +85,4 @@ Said, "Sorry for you lady, your man's said his last goodbye"
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Kenny Wayne Shepherd - Aberdeen
-
-
-Aberdeen
-
-
-
-
-
-
-
- 
-
-by 
+<xml><metadata><artist>Kenny Wayne Shepherd</artist><title> Aberdeen</title>
+<songInfo>by 
 Bukka
 White
 
@@ -21,8 +9,8 @@ from
 Ledbetter
 Heights (Giant 24621)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -160,5 +148,4 @@ still knockin' at my door
 
 
 
-
-
+</lyrics></xml>

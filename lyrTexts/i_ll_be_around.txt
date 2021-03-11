@@ -1,17 +1,5 @@
-Howlin' Wolf - I'll Be Around
-
-
-I'll Be Around
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> I'll Be Around</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ More
 Real Folk Blues (MCA 9279)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +101,4 @@ I don't want you runnin' around
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Albert Collins - My Mind Is Trying To Leave Me
-
-
-My Mind Is Trying To Leave Me
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> My Mind Is Trying To Leave Me</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -22,7 +10,8 @@ Don't
 Lose Your Cool (Alligator ALCD-4730)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +99,4 @@ An' now my mind is tryin' to leave me too
 
 
 
-
-
+</lyrics></xml>

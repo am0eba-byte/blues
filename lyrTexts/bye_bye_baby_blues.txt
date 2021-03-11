@@ -1,7 +1,5 @@
-Big Maceo Merriweather - Bye Bye, Baby Blues
-
-
-Bye Bye, Baby Blues
+<xml><metadata><artist>Big Maceo Merriweather</artist><title> Bye Bye, Baby Blues</title>
+<songInfo>Bye Bye, Baby Blues
 
 
 
@@ -23,8 +21,8 @@ Bluebird
 Recordings 1941-1942 (RCA 66715)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -100,5 +98,4 @@ Because you you don't mean, me no good, no how
 
 
 
-
-
+</lyrics></xml>

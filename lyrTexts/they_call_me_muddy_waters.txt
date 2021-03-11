@@ -1,17 +1,5 @@
-Muddy Waters - They Call Me Muddy Waters
-
-
-They Call Me Muddy Waters
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> They Call Me Muddy Waters</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,8 +10,8 @@ Muddy
 Waters on Chess 1951-1959, Vol. 2 (Vogue
 600059)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -120,5 +108,4 @@ him Muddy Waters.
 
 
 
-
-
+</lyrics></xml>

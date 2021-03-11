@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - Look At Little Sister
-
-
-Look At Little Sister
-
-
-
-
-
-
-
-
-
-by H. Ballard
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Look At Little Sister</title>
+<songInfo>by H. Ballard
 
 recording of 1985
 
@@ -25,8 +13,8 @@ Alive (Epic EGK-40511)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -145,5 +133,4 @@ Hey hey hey hey, look at little sister
 
 
 
-
-
+</lyrics></xml>

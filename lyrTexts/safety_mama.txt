@@ -1,17 +1,5 @@
-Bessie Smith - Safety Mama
-
-
-Safety Mama
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Safety Mama</title>
+<songInfo>by 
 Bessie
 Smith
 
@@ -22,8 +10,8 @@ Complete
 Recordings, Vol. 5: The Final Chapter (Columbia/Legacy
 57546)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -130,5 +118,4 @@ gas, electricity and water.
 
 
 
-
-
+</lyrics></xml>

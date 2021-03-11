@@ -1,18 +1,5 @@
-Bo Diddley - Ooh Baby
-
-
-Ooh Baby
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bo Diddley</artist><title> Ooh Baby</title>
+<songInfo>by 
 Ellas
 McDaniel a.k.a. Bo Diddley
 
@@ -23,8 +10,8 @@ Chuck
 Berry & Bo Diddley: Guitar Legends (MCA Special Products
 20974)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -191,5 +178,4 @@ She kept talkin' 'bout
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Susan Tedeschi - It Hurts Me Too
-
-
-It Hurts Me Too
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> It Hurts Me Too</title>
+<songInfo>by 
 Elmore
 James
  / 
@@ -25,8 +12,8 @@ from
 Better
 Days (Oarfin 950215)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -128,5 +115,4 @@ It hurts me too
 
 
 
-
-
+</lyrics></xml>

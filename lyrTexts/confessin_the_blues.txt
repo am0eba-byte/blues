@@ -1,21 +1,5 @@
-B.B. King - Confessin' The Blues
-
-
-Confessin' The Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Confessin' The Blues</title>
+<songInfo>by 
 Walter
 Brown
  / 
@@ -29,8 +13,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -193,5 +177,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

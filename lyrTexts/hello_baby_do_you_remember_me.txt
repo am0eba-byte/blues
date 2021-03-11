@@ -1,16 +1,5 @@
-John Lee Hooker - Hello Baby (Do You Remember Me?)
-
-
-Hello Baby (Do You Remember Me?)
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Hello Baby (Do You Remember Me?)</title>
+<songInfo>by 
 John
 Lee Hooker
  / 
@@ -24,8 +13,8 @@ from
 Anniversary Album (DCC CZS 042)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -98,5 +87,4 @@ Lord, straighten up, baby, and see things 'lil' Johnny's way
 
 
 
-
-
+</lyrics></xml>

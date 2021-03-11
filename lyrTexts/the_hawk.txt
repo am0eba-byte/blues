@@ -1,17 +1,5 @@
-Albert Collins - The Hawk
-
-
-The Hawk
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> The Hawk</title>
+<songInfo>by 
 Gwendolyn
 Collins
  / J.B. Richardson
@@ -23,7 +11,8 @@ Iceman
 (Capitol or Virgin 86197)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -122,5 +111,4 @@ Oh man, I tell you, tell you, let out a squawk
 
 
 
-
-
+</lyrics></xml>

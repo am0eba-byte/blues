@@ -1,17 +1,5 @@
-Bessie Smith - My Sweetie Went Away
-
-
-My Sweetie Went Away
-
-
-
-
-
-
-
-
-
-by Handman / 
+<xml><metadata><artist>Bessie Smith</artist><title> My Sweetie Went Away</title>
+<songInfo>by Handman / 
 Roy
 Turk
 
@@ -22,8 +10,8 @@ The
 Complete Recordings, Vol. 1 (Columbia/Legacy
 C2K-47091)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +101,4 @@ Why don't he hurry home
 
 
 
-
-
+</lyrics></xml>

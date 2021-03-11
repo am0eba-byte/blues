@@ -1,17 +1,5 @@
-Blind Lemon Jefferson - Hangman's Blues
-
-
-Hangman's Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> Hangman's Blues</title>
+<songInfo>by 
 Blind
 Lemon Jefferson
 
@@ -26,8 +14,8 @@ Complete
 Recorded Works, Vol. 3 (1928) (Document
 DOCD-5019)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -136,5 +124,4 @@ unimportant.
 
 
 
-
-
+</lyrics></xml>

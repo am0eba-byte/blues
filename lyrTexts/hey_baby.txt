@@ -1,20 +1,5 @@
-Janis Joplin - Hey Baby
-
-
-Hey Baby
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> Hey Baby</title>
+<songInfo>by 
 Peter
 Albin
  / 
@@ -36,8 +21,8 @@ from
 Cheaper
 Thrills (Edsel ED CD135)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -147,5 +132,4 @@ Have a ham sandwich?
 
 
 
-
-
+</lyrics></xml>

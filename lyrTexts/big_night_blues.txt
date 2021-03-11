@@ -1,16 +1,5 @@
-Blind Lemon Jefferson - Big Night Blues
-
-
-Big Night Blues
-
-
-
-
-
-
-
-
-by probably 
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> Big Night Blues</title>
+<songInfo>by probably 
 Blind
 Lemon Jefferson
 
@@ -29,8 +18,8 @@ King
 of the Country Blues #91;LP#93; (Yazoo
 1069)
  
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -104,5 +93,4 @@ Note: issued by Paramount under catalogue no. 12801.
 
 
 
-
-
+</lyrics></xml>

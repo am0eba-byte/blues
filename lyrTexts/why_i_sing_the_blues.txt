@@ -1,18 +1,5 @@
-B.B. King - Why I Sing The Blues
-
-
-Why I Sing The Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Why I Sing The Blues</title>
+<songInfo>by 
 B.B.
 King
  / Dave Clark
@@ -26,7 +13,8 @@ The Boogie! B.B. King's Early 50's Classics (Virgin
 ,
 
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -146,5 +134,4 @@ married"
 
 
 
-
-
+</lyrics></xml>

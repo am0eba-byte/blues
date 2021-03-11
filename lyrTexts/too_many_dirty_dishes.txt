@@ -1,17 +1,5 @@
-Albert Collins - Too Many Dirty Dishes
-
-
-Too Many Dirty Dishes
-
-
-
-
-
-
-
-
-
-by Newton
+<xml><metadata><artist>Albert Collins</artist><title> Too Many Dirty Dishes</title>
+<songInfo>by Newton
 
 recording of 1986
 
@@ -20,7 +8,8 @@ Cold
 Snap (Alligator ALCD-4752)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -188,5 +177,4 @@ Who in the hell is makin' dirty dishes with you?
 
 
 
-
-
+</lyrics></xml>

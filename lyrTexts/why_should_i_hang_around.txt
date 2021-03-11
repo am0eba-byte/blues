@@ -1,17 +1,5 @@
-Big Maceo Merriweather - Why Should I Hang Around
-
-
-Why Should I Hang Around
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Big Maceo Merriweather</artist><title> Why Should I Hang Around</title>
+<songInfo>by 
 Big
 Maceo Merriweather
 
@@ -22,8 +10,8 @@ Bluebird
 Recordings 1941-1942 (RCA 66715)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +89,4 @@ He's 'bout to get her back again
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-B.B. King - Patches
-
-
-Patches
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Patches</title>
+<songInfo>by 
 George
 Jones
  / 
@@ -25,7 +13,8 @@ Rhythm
 Country & Blues (MCA 10965)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -249,5 +238,4 @@ My son, it's all left up to you
 
 
 
-
-
+</lyrics></xml>

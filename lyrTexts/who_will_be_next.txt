@@ -1,17 +1,5 @@
-Howlin' Wolf - Who Will Be Next
-
-
-Who Will Be Next
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Who Will Be Next</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ More
 Real Folk Blues (MCA 9279)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -97,5 +85,4 @@ Come back and love me, when you can find a little time
 
 
 
-
-
+</lyrics></xml>

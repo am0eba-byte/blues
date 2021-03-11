@@ -1,21 +1,5 @@
-B.B. King - Don't Look Now But I've Got The Blues
-
-
-Don't Look Now But I've Got The Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Don't Look Now But I've Got The Blues</title>
+<songInfo>by 
 Lee
 Hazlewood
 
@@ -26,7 +10,8 @@ My
 Sweet Little Angel (Flair V2-39103)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -139,5 +124,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-T-Bone Walker - Play On Little Girl
-
-
-Play On Little Girl
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>T-Bone Walker</artist><title> Play On Little Girl</title>
+<songInfo>by 
 Aaron
 Thibeaux "T-Bone" Walker
 
@@ -22,8 +9,8 @@ from
 T-Bone
 Blues (Atlantic 8020-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -95,5 +82,4 @@ You don't live but once, so you're playing days are done
 
 
 
-
-
+</lyrics></xml>

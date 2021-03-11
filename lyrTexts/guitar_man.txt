@@ -1,18 +1,5 @@
-Albert King - Guitar Man
-
-
-Guitar Man
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> Guitar Man</title>
+<songInfo>by 
 Bert
 de Coteaux
  / Cherry
@@ -23,8 +10,8 @@ from
 Albert
 (Rhino 70398)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -182,5 +169,4 @@ Fading:
 
 
 
-
-
+</lyrics></xml>

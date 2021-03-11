@@ -1,18 +1,5 @@
-Albert King - I Don't Care What My Baby Do
-
-
-I Don't Care What My Baby Do
-
-
-
-
-
-
-
-
-
-
-by Lewis
+<xml><metadata><artist>Albert King</artist><title> I Don't Care What My Baby Do</title>
+<songInfo>by Lewis
 
 recording of 1976
 
@@ -20,8 +7,8 @@ from
 Albert
 (Rhino 70398)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -239,5 +226,4 @@ Fading:
 
 
 
-
-
+</lyrics></xml>

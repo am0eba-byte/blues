@@ -1,17 +1,5 @@
-Muddy Waters - Elevate Me Mama
-
-
-Elevate Me Mama
-
-
-
-
-
-
-
-
-
-by probably 
+<xml><metadata><artist>Muddy Waters</artist><title> Elevate Me Mama</title>
+<songInfo>by probably 
 Sonny
 Boy Williamson II (Rice Miller)
 
@@ -22,8 +10,8 @@ One
 More Mile (MCA/Chess CHD2-9348)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +101,4 @@ town
 
 
 
-
-
+</lyrics></xml>

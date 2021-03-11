@@ -1,17 +1,5 @@
-A.C. Reed - Broke Music
-
-
-Broke Music
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>A.C. Reed</artist><title> Broke Music</title>
+<songInfo>by 
 Aaron
 Carthen Reed
 
@@ -22,8 +10,8 @@ from
 Junk
 Food (Delmark 3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +96,4 @@ I gotta find my baby, 'cause just don't want nobody else
 
 
 
-
-
+</lyrics></xml>

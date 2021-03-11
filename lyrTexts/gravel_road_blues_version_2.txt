@@ -1,17 +1,5 @@
-Mississippi Fred McDowell - Gravel Road Blues (version 2)
-
-
-Gravel Road Blues (version 2)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Mississippi Fred McDowell</artist><title> Gravel Road Blues (version 2)</title>
+<songInfo>by 
 Mississippi
 Fred McDowell
 
@@ -19,8 +7,8 @@ recording of 19
 
 from Fred McDowell, Vol. 2 (Arhoolie F1027),
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +99,4 @@ are derived from Newburn's recording.
 
 
 
-
-
+</lyrics></xml>

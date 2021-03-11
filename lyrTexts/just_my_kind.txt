@@ -1,17 +1,5 @@
-Howlin' Wolf - Just My Kind
-
-
-Just My Kind
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Just My Kind</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ More
 Real Folk Blues (MCA 9279)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -93,5 +81,4 @@ Well you just my color darlin', you done me wrong
 
 
 
-
-
+</lyrics></xml>

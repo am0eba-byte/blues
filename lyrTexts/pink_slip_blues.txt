@@ -1,17 +1,5 @@
-Ida Cox - Pink Slip Blues
-
-
-Pink Slip Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Pink Slip Blues</title>
+<songInfo>by 
 Porter
 Grainger
 
@@ -22,7 +10,8 @@ I
 Can't Quit My Man (Affinity 1015)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -127,5 +116,4 @@ bridges etc.).
 
 
 
-
-
+</lyrics></xml>

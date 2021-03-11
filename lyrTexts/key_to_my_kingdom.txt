@@ -1,18 +1,5 @@
-B.B. King - Key To My Kingdom
-
-
-Key To My Kingdom
-
-
-
-
-
-
-
-
-
-
-by Davis / 
+<xml><metadata><artist>B.B. King</artist><title> Key To My Kingdom</title>
+<songInfo>by Davis / 
 Joe
 Josea
  / Baum
@@ -24,7 +11,8 @@ Completely
 Live & Well (Charly 14)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -179,5 +167,4 @@ And your love, your love is my crown
 
 
 
-
-
+</lyrics></xml>

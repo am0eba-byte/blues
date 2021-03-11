@@ -1,17 +1,5 @@
-John Lee Hooker - This Is Hip
-
-
-This Is Hip
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> This Is Hip</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -20,8 +8,8 @@ recording of 1963
 from The Vee Jay Years 1955-1964 (Charly 82333-1754-2) &
 
 Vee Jay No. 3112, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -143,5 +131,4 @@ I messed around and fell in love
 
 
 
-
-
+</lyrics></xml>

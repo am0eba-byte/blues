@@ -1,25 +1,13 @@
-John Lee Hooker - Groundhog Blues
-
-
-Groundhog Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Groundhog Blues</title>
+<songInfo>by 
 John
 Lee Hooker
 
 recording of
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -117,5 +105,4 @@ yeah an' I believe I'll go back in
 
 
 
-
-
+</lyrics></xml>

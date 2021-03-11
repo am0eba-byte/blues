@@ -1,25 +1,13 @@
-John Lee Hooker - Redhouse
-
-
-Redhouse
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Redhouse</title>
+<songInfo>by 
 John
 Lee Hooker
 
 recording
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -106,5 +94,4 @@ Sounds to me like Larry knows what he's talkin' 'bout ;-).
 
 
 
-
-
+</lyrics></xml>

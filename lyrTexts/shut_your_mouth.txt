@@ -1,17 +1,5 @@
-B.B. King - Shut Your Mouth
-
-
-Shut Your Mouth
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Shut Your Mouth</title>
+<songInfo>by
 
 recording of 1951-1957
 
@@ -19,8 +7,8 @@ from
 RPM
 Hits 1951-1957 (ACE 712)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -153,5 +141,4 @@ Just to get along with you?
 
 
 
-
-
+</lyrics></xml>

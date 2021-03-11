@@ -1,17 +1,5 @@
-John Lee Hooker - How Can You Do It?
-
-
-How Can You Do It?
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> How Can You Do It?</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ Burning
 Hell (Original Blues Classics 555)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -141,5 +129,4 @@ throw my money around?
 
 
 
-
-
+</lyrics></xml>

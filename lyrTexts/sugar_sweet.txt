@@ -1,20 +1,5 @@
-Freddie King - Sugar Sweet
-
-
-Sugar Sweet
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> Sugar Sweet</title>
+<songInfo>by 
 Mel
 London
 
@@ -29,7 +14,8 @@ Burglar
 (Polygram 831815 & BGO 137)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -99,5 +85,4 @@ I can't call her sugar 'cause sugar never was so sweet
 
 
 
-
-
+</lyrics></xml>

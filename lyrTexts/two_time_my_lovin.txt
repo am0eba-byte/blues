@@ -1,18 +1,5 @@
-The Fabulous Thunderbirds - Two Time My Lovin'
-
-
-Two Time My Lovin'
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> Two Time My Lovin'</title>
+<songInfo>by 
 Kim
 Wilson
 
@@ -27,7 +14,8 @@ Hot
 Stuff: The Greatest Hits (Epic ZK-53007)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -145,5 +133,4 @@ Note 1: ... this part of the lyrics is unclear.
 
 
 
-
-
+</lyrics></xml>

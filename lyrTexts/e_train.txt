@@ -1,22 +1,12 @@
-Jonny Lang - "E" Train
-
-
-"E" Train
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> "E" Train</title>
+<songInfo>by
 Jonny Lang
 recording of 1995
 from
 Smokin' (Oarfin 9523)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -76,5 +66,4 @@ Lord knows when you'll come home
 
 
 
-
-
+</lyrics></xml>

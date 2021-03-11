@@ -1,17 +1,5 @@
-B.B. King - Freedom
-
-
-Freedom
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Freedom</title>
+<songInfo>by 
 Tommy
 Faragher
  / 
@@ -24,8 +12,8 @@ from
 Heart
 to Heart (GRP 9767)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -242,5 +230,4 @@ Freedom, she wants freedom...
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-B.B. King - Blind Love
-
-
-Blind Love
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Blind Love</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -25,8 +12,8 @@ from
 RPM
 Hits 1951-1957 (ACE 712)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +119,4 @@ Well, I could hear my baby say, "Lord, I ain't got no man"
 
 
 
-
-
+</lyrics></xml>

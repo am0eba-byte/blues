@@ -1,18 +1,5 @@
-Albert King - Crosscut Saw
-
-
-Crosscut Saw
-
-
-
-
-
-
-
-
-
-
-by Ford
+<xml><metadata><artist>Albert King</artist><title> Crosscut Saw</title>
+<songInfo>by Ford
 
 recording of 19
 
@@ -36,7 +23,8 @@ I
 Wanna Get Funky (Stax SCD-8536-2)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +101,4 @@ dog!'
 
 
 
-
-
+</lyrics></xml>

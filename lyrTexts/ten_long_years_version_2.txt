@@ -1,21 +1,5 @@
-B.B. King - Ten Long Years (Version 2)
-
-
-Ten Long Years (Version 2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Ten Long Years (Version 2)</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -29,7 +13,8 @@ Riding
 With The King (Warner Brothers 47612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +117,4 @@ yeah you know my baby's gone, she's gone she's gone
 
 
 
-
-
+</lyrics></xml>

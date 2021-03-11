@@ -1,23 +1,11 @@
-B.B. King - That's How Much You Mean To Me
-
-
-That's How Much You Mean To Me
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> That's How Much You Mean To Me</title>
+<songInfo>by
 
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -130,5 +118,4 @@ While it out big so the world can see
 
 
 
-
-
+</lyrics></xml>

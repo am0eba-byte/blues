@@ -1,17 +1,5 @@
-Mississippi Fred McDowell - You Gonna Be Sorry
-
-
-You Gonna Be Sorry
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Mississippi Fred McDowell</artist><title> You Gonna Be Sorry</title>
+<songInfo>by 
 Mississippi
 Fred McDowell
 
@@ -23,8 +11,8 @@ You
 Gotta Move (Arhoolie 304)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +120,4 @@ part.
 
 
 
-
-
+</lyrics></xml>

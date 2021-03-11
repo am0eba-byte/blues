@@ -1,28 +1,5 @@
-Robert Johnson - Drunken Hearted Man, take 1
-
-
-Drunken Hearted Man (Take 1)
-
-
-
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> Drunken Hearted Man, take 1</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -34,7 +11,8 @@ Complete Recordings (CBS 467246 2 amp; Columbia/Legacy C2K-46222
 amp; Columbia 4622 amp; Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -148,5 +126,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

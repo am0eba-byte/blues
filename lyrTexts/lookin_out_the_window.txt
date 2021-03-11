@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - Lookin' Out The Window lyrics
-
-
-Lookin' Out The Window
-
-
-
-tab/chords
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Lookin' Out The Window lyrics</title>
+<songInfo>by 
 Doyle
 Bramhall
 
@@ -25,8 +9,8 @@ from
 Soul
 To Soul (Epic EK-40036)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -151,5 +135,4 @@ Yeah, I'm lookin' out the window, I'm lookin' at you
 
 
 
-
-
+</lyrics></xml>

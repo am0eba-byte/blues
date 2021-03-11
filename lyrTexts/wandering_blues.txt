@@ -1,25 +1,13 @@
-John Lee Hooker - Wandering Blues
-
-
-Wandering Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Wandering Blues</title>
+<songInfo>by 
 John
 Lee Hooker
 
 recording
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +97,4 @@ Because I never get the loving, that I really should
 
 
 
-
-
+</lyrics></xml>

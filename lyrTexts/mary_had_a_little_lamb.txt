@@ -1,25 +1,5 @@
-Stevie Ray Vaughan - Mary Had A Little Lamb lyrics
-
-
-Mary Had A Little Lamb
-
-
-
-tab
-
-
-
-tab solo
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Mary Had A Little Lamb lyrics</title>
+<songInfo>by 
 Buddy
 Guy
 
@@ -33,8 +13,8 @@ Flood (Epic EK-38734)
 Live
 Alive (Epic EGK-40511)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -147,5 +127,4 @@ MusicSearcher.com
 
 
 
-
-
+</lyrics></xml>

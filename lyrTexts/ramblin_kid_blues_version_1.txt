@@ -1,17 +1,5 @@
-Muddy Waters - Ramblin' Kid Blues (version 1)
-
-
-Ramblin' Kid Blues (version 1)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Ramblin' Kid Blues (version 1)</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,8 +10,8 @@ The
 Complete Plantation Recordings (Chess/MCA
 CHD-9344)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -116,5 +104,4 @@ Mississippi Delta group.
 
 
 
-
-
+</lyrics></xml>

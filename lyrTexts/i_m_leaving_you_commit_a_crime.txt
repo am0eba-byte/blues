@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - I'm Leaving You (Commit A Crime)
-
-
-I'm Leaving You (Commit A Crime)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> I'm Leaving You (Commit A Crime)</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 Live
 Alive (Epic EGK-40511)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -121,5 +109,4 @@ You better be watchin' me baby, just might be your time
 
 
 
-
-
+</lyrics></xml>

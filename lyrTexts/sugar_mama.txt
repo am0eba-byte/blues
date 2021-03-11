@@ -1,17 +1,5 @@
-B.B. King - Sugar Mama
-
-
-Sugar Mama
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Sugar Mama</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -22,8 +10,8 @@ The
 Best of B.B. King, Vol. 2 (ACE 199)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +140,4 @@ Oh yes, I don't feel right
 
 
 
-
-
+</lyrics></xml>

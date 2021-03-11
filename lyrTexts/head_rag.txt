@@ -1,17 +1,5 @@
-Albert Collins - Head Rag
-
-
-Head Rag
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Head Rag</title>
+<songInfo>by 
 Gwendolyn
 Collins
  / 
@@ -26,7 +14,8 @@ Iceman
 (Capitol or Virgin 86197)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -106,5 +95,4 @@ Eeow!
 
 
 
-
-
+</lyrics></xml>

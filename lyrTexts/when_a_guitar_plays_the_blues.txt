@@ -1,17 +1,5 @@
-Albert Collins - When A Guitar Plays The Blues
-
-
-When A Guitar Plays The Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> When A Guitar Plays The Blues</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -22,7 +10,8 @@ Don't
 Lose Your Cool (Alligator ALCD-4730)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +112,4 @@ Your soul has just got to move
 
 
 
-
-
+</lyrics></xml>

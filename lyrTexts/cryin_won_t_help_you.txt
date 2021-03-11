@@ -1,21 +1,5 @@
-B.B. King - Cryin' Won't Help You
-
-
-Cryin' Won't Help You
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Cryin' Won't Help You</title>
+<songInfo>by 
 Hudson
 Whittaker a.k.a. Tampa Red
 
@@ -26,7 +10,8 @@ The
 Best of the Memphis Masters (ACE 801)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -169,5 +154,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Ida Cox - Seven Day Blues
-
-
-Seven Day Blues
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Ida Cox</artist><title> Seven Day Blues</title>
+<songInfo>by
 
 recording of 1927
 
@@ -21,8 +8,8 @@ Complete
 Recorded Works, Vol. 4 (1927-1938) (Document
 5325)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -112,5 +99,4 @@ I ain't got nobody to lend me a helpin' hand
 
 
 
-
-
+</lyrics></xml>

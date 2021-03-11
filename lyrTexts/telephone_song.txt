@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - Telephone Song
-
-
-Telephone Song
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Telephone Song</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
  / 
@@ -24,8 +12,8 @@ from
 Family
 Style (Epic ZK-46225)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -130,5 +118,4 @@ long distance lovin's gonna drive me out of my mind
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Ida Cox - Last Mile Blues
-
-
-Last Mile Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Last Mile Blues</title>
+<songInfo>by 
 Ida
 Cox
  / 
@@ -26,7 +14,8 @@ I
 Can't Quit My Man (Affinity 1015)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +115,4 @@ With a smile on his face that's how my daddy died
 
 
 
-
-
+</lyrics></xml>

@@ -1,25 +1,13 @@
-B.B. King - Sundown
-
-
-Sundown
-
-
-
-
-
-
-
-
-
-by probably 
+<xml><metadata><artist>B.B. King</artist><title> Sundown</title>
+<songInfo>by probably 
 Eddie
 "Son" House
 
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -117,5 +105,4 @@ When I knock on the door, I wonder will she let me in
 
 
 
-
-
+</lyrics></xml>

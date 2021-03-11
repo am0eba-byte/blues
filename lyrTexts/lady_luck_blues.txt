@@ -1,17 +1,5 @@
-Bessie Smith - Lady Luck Blues
-
-
-Lady Luck Blues
-
-
-
-
-
-
-
-
-
-by Weber / Williams
+<xml><metadata><artist>Bessie Smith</artist><title> Lady Luck Blues</title>
+<songInfo>by Weber / Williams
 
 recording of June 14, 1923
 
@@ -20,8 +8,8 @@ The
 Complete Recordings, Vol. 1 (Columbia/Legacy
 C2K-47091)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -118,5 +106,4 @@ I've got those Lady Luck blues
 
 
 
-
-
+</lyrics></xml>

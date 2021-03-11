@@ -1,17 +1,5 @@
-Albert Collins - I Ain't Drunk
-
-
-I Ain't Drunk
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> I Ain't Drunk</title>
+<songInfo>by 
 Jimmy
 Liggins
 
@@ -22,7 +10,8 @@ Cold
 Snap (Alligator ALCD-4752)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -178,5 +167,4 @@ Six, seven, eight, nine, ten, eleven, twelve
 
 
 
-
-
+</lyrics></xml>

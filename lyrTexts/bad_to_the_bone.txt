@@ -1,21 +1,5 @@
-George Thorogood - Bad To The Bone
-
-
-Bad To The Bone
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>George Thorogood</artist><title> Bad To The Bone</title>
+<songInfo>by 
 George
 Thorogood
 
@@ -33,8 +17,8 @@ The
 Baddest Of George Thorogood And The Destroyers (EMI E2-97718 or
 Capitol 97718)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -146,5 +130,4 @@ Bad to the bone
 
 
 
-
-
+</lyrics></xml>

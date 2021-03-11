@@ -1,17 +1,5 @@
-Muddy Waters - Rollin' And Tumblin'
-
-
-Rollin' And Tumblin'
-
-
-
-
-
-
-
-
-
-by traditional
+<xml><metadata><artist>Muddy Waters</artist><title> Rollin' And Tumblin'</title>
+<songInfo>by traditional
 
 recording 19
 
@@ -20,7 +8,8 @@ Chess
 Box (MCA/Chess CHD3-80002)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -112,5 +101,4 @@ Well, all whiskey and women, would not let me pray
 
 
 
-
-
+</lyrics></xml>

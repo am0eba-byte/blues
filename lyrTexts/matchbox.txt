@@ -1,23 +1,12 @@
-Jonny Lang - Matchbox
-
-
-Matchbox
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Matchbox</title>
+<songInfo>by
 Ike Turner
 recording of 1997
 from
 Lie To Me (A&M 540640)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -77,5 +66,4 @@ I got my clothes in a matchbox, gonna forget about you
 
 
 
-
-
+</lyrics></xml>

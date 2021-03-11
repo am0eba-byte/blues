@@ -1,21 +1,5 @@
-ZZ Top - Back Door Love Affair
-
-
-Back Door Love Affair
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Back Door Love Affair</title>
+<songInfo>by 
 Billy
 Gibbons
  / 
@@ -29,8 +13,8 @@ ZZ
 Top's First Album (Warner brothers
 2-3268)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -97,5 +81,4 @@ door love affair"
 
 
 
-
-
+</lyrics></xml>

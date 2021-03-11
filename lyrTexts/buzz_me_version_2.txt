@@ -1,21 +1,5 @@
-B.B. King - Buzz Me (Version 2)
-
-
-Buzz Me (Version 2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-by Baxter / 
+<xml><metadata><artist>B.B. King</artist><title> Buzz Me (Version 2)</title>
+<songInfo>by Baxter / 
 Fleecie
 Moore
 
@@ -26,8 +10,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -140,5 +124,4 @@ But when I get my arm around you, ain't gonna let go till 2003
 
 
 
-
-
+</lyrics></xml>

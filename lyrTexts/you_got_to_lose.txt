@@ -1,21 +1,5 @@
-George Thorogood - You Got To Lose
-
-
-You Got To Lose
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>George Thorogood</artist><title> You Got To Lose</title>
+<songInfo>by 
 Earl
 Hooker
 
@@ -29,8 +13,8 @@ CD-3013)
 Live
 (EMI E 2-46329)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -148,5 +132,4 @@ I see trouble comin' down the line
 
 
 
-
-
+</lyrics></xml>

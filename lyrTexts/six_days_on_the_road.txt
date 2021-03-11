@@ -1,21 +1,5 @@
-George Thorogood - Six Days On The Road
-
-
-Six Days On The Road
-
-
-
-
-
-
-
-
-
-
-
-
-
-by Green / Montgomery
+<xml><metadata><artist>George Thorogood</artist><title> Six Days On The Road</title>
+<songInfo>by Green / Montgomery
 
 recording of 1991
 
@@ -23,8 +7,8 @@ from
 Boogie
 People (EMI E2-92514)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -166,5 +150,4 @@ Six days on the road and I gotta see my baby tonight
 
 
 
-
-
+</lyrics></xml>

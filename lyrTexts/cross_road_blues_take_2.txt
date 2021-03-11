@@ -1,28 +1,5 @@
-Robert Johnson - Cross Road Blues, take 2
-
-
-Cross Road Blues (Take 2)
-
-
-
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> Cross Road Blues, take 2</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -35,7 +12,8 @@ Complete Recordings (CBS 467246 2 amp; Columbia/Legacy C2K-46222
 amp; Columbia 4622 amp; Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -182,5 +160,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

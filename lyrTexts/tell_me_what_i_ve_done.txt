@@ -1,17 +1,5 @@
-Howlin' Wolf - Tell Me What I've Done
-
-
-Tell Me What I've Done
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Tell Me What I've Done</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 Real
 Folk Blues (MCA 9273)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -100,5 +88,4 @@ I didn't mean no harm, I'm goin' home...
 
 
 
-
-
+</lyrics></xml>

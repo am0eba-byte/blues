@@ -1,17 +1,5 @@
-Kenny Wayne Shepherd - Shame, Shame, Shame
-
-
-Shame, Shame, Shame
-
-
-
-
-
-
-
- 
-
-by 
+<xml><metadata><artist>Kenny Wayne Shepherd</artist><title> Shame, Shame, Shame</title>
+<songInfo>by 
 Kenny
 Wayne Shepherd
  / Joe Nadeau
@@ -22,8 +10,8 @@ from
 Ledbetter
 Heights (Giant 24621)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -107,5 +95,4 @@ what's this poor boy to do
 
 
 
-
-
+</lyrics></xml>

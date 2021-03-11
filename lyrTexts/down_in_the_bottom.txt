@@ -1,17 +1,5 @@
-Howlin' Wolf - Down In The Bottom
-
-
-Down In The Bottom
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Down In The Bottom</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -22,8 +10,8 @@ The
 Rocking Chair (Vogue 600111)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -102,5 +90,4 @@ I got to leave here. Get caught in there
 
 
 
-
-
+</lyrics></xml>

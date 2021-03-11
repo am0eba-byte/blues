@@ -1,16 +1,5 @@
-John Mayall's Bluesbreakers - Took The Car
-
-
-Took The Car
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> Took The Car</title>
+<songInfo>by 
 John
 Mayall
 
@@ -20,8 +9,8 @@ from
 U.S.A.
 Union (Polygram 527458)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -93,5 +82,4 @@ Me and Nancy running hand in hand
 
 
 
-
-
+</lyrics></xml>

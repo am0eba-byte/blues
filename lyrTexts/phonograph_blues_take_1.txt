@@ -1,28 +1,5 @@
-Robert Johnson - Phonograph Blues, take 1
-
-
-Phonograph Blues (Take 1)
-
-
-
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> Phonograph Blues, take 1</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -35,7 +12,8 @@ Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222
 & Columbia 4622 & Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -161,5 +139,4 @@ of "why don't"
 
 
 
-
-
+</lyrics></xml>

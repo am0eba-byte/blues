@@ -1,18 +1,5 @@
-B.B. King - I'll Survive
-
-
-I'll Survive
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I'll Survive</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -31,8 +18,8 @@ Heart
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -179,5 +166,4 @@ Baby, I'll survive
 
 
 
-
-
+</lyrics></xml>

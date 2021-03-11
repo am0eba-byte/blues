@@ -1,29 +1,5 @@
-Stevie Ray Vaughan - Crossfire lyrics
-
-
-Crossfire
-
-
-
-bass tab
-
-
-
-chords
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Crossfire lyrics</title>
+<songInfo>by 
 Tommy
 Shannon
 /
@@ -42,8 +18,8 @@ from
 In
 Step (Epic EK-45024)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -190,5 +166,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

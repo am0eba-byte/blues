@@ -1,18 +1,5 @@
-Susan Tedeschi - Can't Leave You Alone
-
-
-Can't Leave You Alone
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> Can't Leave You Alone</title>
+<songInfo>by 
 Adrienne
 Hayes
 
@@ -23,7 +10,8 @@ Just
 Won't Burn (Tone-Cool 1164)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -131,5 +119,4 @@ Oh praying that you come my way
 
 
 
-
-
+</lyrics></xml>

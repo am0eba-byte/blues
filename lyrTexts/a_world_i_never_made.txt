@@ -1,18 +1,5 @@
-B.B. King - A World I Never Made
-
-
-A World I Never Made
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> A World I Never Made</title>
+<songInfo>by 
 Doc
 Pomus
  / 
@@ -25,8 +12,8 @@ from
 Love
 Me Tender (MCA MCAD-886)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -150,5 +137,4 @@ In a world I never made
 
 
 
-
-
+</lyrics></xml>

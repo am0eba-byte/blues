@@ -1,18 +1,5 @@
-B.B. King - Goin' Down Slow
-
-
-Goin' Down Slow
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Goin' Down Slow</title>
+<songInfo>by 
 James
 Burke Oden
 
@@ -23,8 +10,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -219,5 +206,4 @@ Hey, you know I'm out in the world somewhere
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Albert King - For The Love Of A Woman
-
-
-For The Love Of A Woman
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> For The Love Of A Woman</title>
+<songInfo>by 
 Don
 Nix
 
@@ -24,8 +11,8 @@ Live
 at Montreux Blues at Sunrise (Stax or Fantasy
 8546)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +100,4 @@ Come on!
 
 
 
-
-
+</lyrics></xml>

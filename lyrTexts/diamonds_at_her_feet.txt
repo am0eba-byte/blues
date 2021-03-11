@@ -1,24 +1,13 @@
-Muddy Waters - Diamonds At Her Feet
-
-
-Diamonds At Her Feet
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Diamonds At Her Feet</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +102,4 @@ She would have to go down to the promised land
 
 
 
-
-
+</lyrics></xml>

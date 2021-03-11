@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - Boot Hill lyrics
-
-
-Boot Hill
-
-
-
-tab
-
-
-
-
-
-
-
-
-
-by unknown
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Boot Hill lyrics</title>
+<songInfo>by unknown
 
 recording of 1991
 
@@ -24,8 +8,8 @@ The
 Sky Is Crying (Epic EK-47390)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -149,5 +133,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

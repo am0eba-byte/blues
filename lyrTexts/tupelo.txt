@@ -1,17 +1,5 @@
-John Lee Hooker - Tupelo
-
-
-Tupelo
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Tupelo</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -20,8 +8,8 @@ recording of 1960
 from The Vee Jay Years 1955-1964 (Charly 82333-1754-2) &
 
 Vee Jay No. 1624, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +101,4 @@ I never forget it and I know you won't either
 
 
 
-
-
+</lyrics></xml>

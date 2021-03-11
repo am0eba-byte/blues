@@ -1,18 +1,5 @@
-B.B. King - Since I Fell For You
-
-
-Since I Fell For You
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Since I Fell For You</title>
+<songInfo>by 
 Buddy
 Johnson
 
@@ -23,7 +10,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -154,5 +142,4 @@ Since I fell for you
 
 
 
-
-
+</lyrics></xml>

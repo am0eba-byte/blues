@@ -1,18 +1,5 @@
-B.B. King - You're Losing Me
-
-
-You're Losing Me
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> You're Losing Me</title>
+<songInfo>by
 
 recording of 19
 
@@ -20,8 +7,8 @@ from
 Completely
 Well (MCA MCAD-31039)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -165,5 +152,4 @@ What you say now!
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-The Fabulous Thunderbirds - TuffEnuff
-
-
-TuffEnuff
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> TuffEnuff</title>
+<songInfo>by 
 Kim
 Wilson
 
@@ -30,7 +17,8 @@ Hot
 Stuff: The Greatest Hits (Epic ZK-53007)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -120,5 +108,4 @@ just to have you baby, close to me
 
 
 
-
-
+</lyrics></xml>

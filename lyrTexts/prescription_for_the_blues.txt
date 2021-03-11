@@ -1,17 +1,5 @@
-Clara Smith - Prescription For The Blues
-
-
-Prescription For The Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Clara Smith</artist><title> Prescription For The Blues</title>
+<songInfo>by 
 Porter
 Grainger
 
@@ -22,8 +10,8 @@ Complete
 Recorded Works, Vol. 2 (1924) (Document
 5365)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -118,5 +106,4 @@ The plain old blues
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Ida Cox - Take Him Off My Mind
-
-
-Take Him Off My Mind
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Take Him Off My Mind</title>
+<songInfo>by 
 Porter
 Grainger
 
@@ -22,7 +10,8 @@ I
 Can't Quit My Man (Affinity 1015)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -112,5 +101,4 @@ Just fix him so he will love me, but please take him off my mind
 
 
 
-
-
+</lyrics></xml>

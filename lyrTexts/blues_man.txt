@@ -1,18 +1,5 @@
-B.B. King - Blues Man
-
-
-Blues Man
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Blues Man</title>
+<songInfo>by 
 B.B.
 King
 
@@ -22,8 +9,8 @@ from
 Blues
 on the Bayou (MCA 11879)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -145,5 +132,4 @@ But I'm a good man, understand
 
 
 
-
-
+</lyrics></xml>

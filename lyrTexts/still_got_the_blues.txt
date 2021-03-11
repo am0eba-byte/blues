@@ -1,21 +1,5 @@
-Gary Moore - Still Got The Blues
-
-
-Still Got The Blues
-
-
-
-
-
-
-
- 
-
-
-
-
-
-by 
+<xml><metadata><artist>Gary Moore</artist><title> Still Got The Blues</title>
+<songInfo>by 
 Gary
 Moore
 
@@ -26,7 +10,8 @@ Still
 Got The Blues (Virgin CDV 2612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -138,5 +123,4 @@ I've still got the blues for you
 
 
 
-
-
+</lyrics></xml>

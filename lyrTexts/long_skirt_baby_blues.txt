@@ -1,18 +1,5 @@
-T-Bone Walker - Long Skirt Baby Blues
-
-
-Long Skirt Baby Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>T-Bone Walker</artist><title> Long Skirt Baby Blues</title>
+<songInfo>by 
 Aaron
 Thibeaux "T-Bone" Walker
 
@@ -23,8 +10,8 @@ The
 Very Best Of T-Bone Walker (Koch International
 8066)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +95,4 @@ Well ain't no long skirt baby, gonna be no gal a-mine
 
 
 
-
-
+</lyrics></xml>

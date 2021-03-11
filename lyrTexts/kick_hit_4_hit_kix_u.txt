@@ -1,17 +1,5 @@
-John Lee Hooker - Kick Hit 4 Hit Kix U (Blues For Jimi And Janis)
-
-
-Kick Hit 4 Hit Kix U (Blues For Jimi And Janis)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Kick Hit 4 Hit Kix U (Blues For Jimi And Janis)</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -21,8 +9,8 @@ from
 Tantalizing
 The Blues (MCA 1686)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -168,5 +156,4 @@ Hey, it's too heavy for you
 
 
 
-
-
+</lyrics></xml>

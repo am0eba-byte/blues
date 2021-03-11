@@ -1,21 +1,5 @@
-George Thorogood - Get A Haircut
-
-
-Get A Haircut
-
-
-
-
-
-
-
-
-
-
-
-
-
-by David Avery
+<xml><metadata><artist>George Thorogood</artist><title> Get A Haircut</title>
+<songInfo>by David Avery
 
 recording of 1993
 
@@ -27,8 +11,8 @@ Let's
 Work Together Live (EMI 31948 or EMI
 3718)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -154,5 +138,4 @@ I even tried that 9 to 5 scene
 
 
 
-
-
+</lyrics></xml>

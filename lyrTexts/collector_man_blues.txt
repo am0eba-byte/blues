@@ -1,18 +1,5 @@
-Sonny Boy Williamson I (John Lee) - Collector Man Blues
-
-
-Collector Man Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Sonny Boy Williamson I (John Lee)</artist><title> Collector Man Blues</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -23,8 +10,8 @@ Blues
 Classics by Sonny Boy Williamson, vol. 3 (Blues Classics
 3)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +111,4 @@ owner.
 
 
 
-
-
+</lyrics></xml>

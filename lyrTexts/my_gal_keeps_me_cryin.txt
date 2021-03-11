@@ -1,18 +1,5 @@
-B.B. King - My Gal Keeps Me Cryin'
-
-
-My Gal Keeps Me Cryin'
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> My Gal Keeps Me Cryin'</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -23,7 +10,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -138,5 +126,4 @@ Then again she makes feel so sad
 
 
 
-
-
+</lyrics></xml>

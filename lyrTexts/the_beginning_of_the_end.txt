@@ -1,18 +1,5 @@
-B.B. King - The Beginning Of The End
-
-
-The Beginning Of The End
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> The Beginning Of The End</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -25,8 +12,8 @@ from
 Take
 It Home (MCA 11770)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -141,5 +128,4 @@ Baby don't ya know that's the beginning of the end
 
 
 
-
-
+</lyrics></xml>

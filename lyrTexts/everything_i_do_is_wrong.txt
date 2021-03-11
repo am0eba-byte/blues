@@ -1,20 +1,5 @@
-B.B. King - Everything I Do Is Wrong
-
-
-Everything I Do Is Wrong
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Everything I Do Is Wrong</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -39,8 +24,8 @@ the Tracks (ACE 230)
 One
 Nighter Blues (ACE 201)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -149,5 +134,4 @@ We can't get together, baby, you were no good no how
 
 
 
-
-
+</lyrics></xml>

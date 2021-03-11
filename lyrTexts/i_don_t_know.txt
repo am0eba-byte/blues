@@ -1,18 +1,5 @@
-Keb' Mo' - I Don't Know
-
-
-I Don't Know
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> I Don't Know</title>
+<songInfo>by 
 Kevin
 Moore
  / G. Graper
@@ -24,8 +11,8 @@ Slow
 Down (OKeh/550/Epic/Sony 491613 9)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -149,5 +136,4 @@ Fear is in the past
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-John Lee Hooker - Maudie (Version 1)
-
-
-Maudie (Version 1)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Maudie (Version 1)</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -20,8 +8,8 @@ recording of 1959
 from The Vee Jay Years 1955-1964 (Charly 82333-1754-2) &
 
 Vee Jay No. 1067, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -81,5 +69,4 @@ You been gone so long
 
 
 
-
-
+</lyrics></xml>

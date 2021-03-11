@@ -1,17 +1,5 @@
-Albert Collins - But I Was Cool
-
-
-But I Was Cool
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> But I Was Cool</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -26,7 +14,8 @@ Albert
 Collins Deluxe Edition (Alligator 5601)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -142,5 +131,4 @@ I was overheard to say,
 
 
 
-
-
+</lyrics></xml>

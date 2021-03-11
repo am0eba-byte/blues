@@ -1,18 +1,5 @@
-Susan Tedeschi - You Need To Be With Me
-
-
-You Need To Be With Me
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> You Need To Be With Me</title>
+<songInfo>by 
 Susan
 Tedeschi
 
@@ -23,7 +10,8 @@ Just
 Won't Burn (Tone-Cool 1164)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +114,4 @@ I said, you need to be with me
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Muddy Waters - Blurr Clover Blues
-
-
-Blurr Clover Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Blurr Clover Blues</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -23,8 +11,8 @@ The
 Complete Plantation Recordings (Chess/MCA
 CHD-9344)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +111,4 @@ before I go away
 
 
 
-
-
+</lyrics></xml>

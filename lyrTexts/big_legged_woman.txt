@@ -1,21 +1,5 @@
-Freddie King - Big Legged Women
-
-
-Big Legged Women
-
-
-
-
-
-
-
-
-
-
-
-
-
-by Tolbert
+<xml><metadata><artist>Freddie King</artist><title> Big Legged Women</title>
+<songInfo>by Tolbert
 
 recording of 1972
 
@@ -24,7 +8,8 @@ The
 Texas Cannonball (Capitol 53867B)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -116,5 +101,4 @@ She's alright she's...
 
 
 
-
-
+</lyrics></xml>

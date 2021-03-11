@@ -1,17 +1,5 @@
-B.B. King - I Wonder Why
-
-
-I Wonder Why
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Wonder Why</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -24,8 +12,8 @@ from
 King
 Size (ABC 977)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -134,5 +122,4 @@ Every now and then I wonder will my baby be home tonight
 
 
 
-
-
+</lyrics></xml>

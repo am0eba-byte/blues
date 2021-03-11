@@ -1,23 +1,12 @@
-Jonny Lang - Before You Hit The Ground
-
-
-Before You Hit The Ground
-
-
-
-
-
-
-
-
-
-by Kevin Bowe /
+<xml><metadata><artist>Jonny Lang</artist><title> Before You Hit The Ground</title>
+<songInfo>by Kevin Bowe /
 Jonny Lang
 recording of 1998
 from
 Wander This World (Aamp;M 540984)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -83,5 +72,4 @@ before you hit the ground
 
 
 
-
-
+</lyrics></xml>

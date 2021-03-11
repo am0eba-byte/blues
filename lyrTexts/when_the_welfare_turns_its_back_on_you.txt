@@ -1,17 +1,5 @@
-Albert Collins - When The Welfare Turns Its Back On You
-
-
-When The Welfare Turns Its Back On You
-
-
-
-
-
-
-
-
-
-by Weaver / Thompson
+<xml><metadata><artist>Albert Collins</artist><title> When The Welfare Turns Its Back On You</title>
+<songInfo>by Weaver / Thompson
 
 recording of 1978
 
@@ -20,7 +8,8 @@ Ice
 Pickin (Alligator ALCD-4713)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +98,4 @@ that you can do
 
 
 
-
-
+</lyrics></xml>

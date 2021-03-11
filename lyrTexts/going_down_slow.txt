@@ -1,17 +1,5 @@
-Howlin' Wolf - Going Down Slow
-
-
-Going Down Slow
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Going Down Slow</title>
+<songInfo>by 
 James
 Burke Oden
 
@@ -22,8 +10,8 @@ The
 Rocking Chair (Vogue 600111)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -122,5 +110,4 @@ Forgive me for my sins
 
 
 
-
-
+</lyrics></xml>

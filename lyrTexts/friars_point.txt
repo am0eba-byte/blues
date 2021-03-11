@@ -1,18 +1,5 @@
-Susan Tedeschi - Friars Point
-
-
-Friars Point
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> Friars Point</title>
+<songInfo>by 
 Susan
 Tedeschi
  / 
@@ -26,7 +13,8 @@ Just
 Won't Burn (Tone-Cool 1164)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -115,5 +103,4 @@ And these are the people all ready to make a move
 
 
 
-
-
+</lyrics></xml>

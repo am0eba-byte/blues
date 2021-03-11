@@ -1,17 +1,5 @@
-Muddy Waters - (I'm Your)Hoochie Coochie Man
-
-
-(I'm Your)Hoochie Coochie Man
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> (I'm Your)Hoochie Coochie Man</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -22,8 +10,8 @@ Muddy
 Waters on Chess 1951-1959, Vol. 2 (Vogue
 600059)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -158,5 +146,4 @@ Everybody knows I'm him
 
 
 
-
-
+</lyrics></xml>

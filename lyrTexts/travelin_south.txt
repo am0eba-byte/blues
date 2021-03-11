@@ -1,17 +1,5 @@
-Albert Collins - Travelin' South
-
-
-Travelin' South
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Travelin' South</title>
+<songInfo>by 
 Gwendolyn
 Collins
 
@@ -22,7 +10,8 @@ Iceman
 (Capitol or Virgin 86197)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -95,5 +84,4 @@ I'm so broke an' hungry, ain't got no money for the telephone
 
 
 
-
-
+</lyrics></xml>

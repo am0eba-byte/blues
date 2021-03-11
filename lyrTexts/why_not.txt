@@ -1,18 +1,5 @@
-T-Bone Walker - Why Not
-
-
-Why Not
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>T-Bone Walker</artist><title> Why Not</title>
+<songInfo>by
 
 recording of 19
 
@@ -20,8 +7,8 @@ from
 T-Bone
 Blues (Atlantic 8020-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -117,5 +104,4 @@ Why not let me love you anymore?
 
 
 
-
-
+</lyrics></xml>

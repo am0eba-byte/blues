@@ -1,21 +1,5 @@
-Freddie King - Country Boy
-
-
-Country Boy
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> Country Boy</title>
+<songInfo>by 
 Margaret
 Whitfield
 
@@ -26,8 +10,8 @@ Hide
 Away: The Best of Freddie King (Rhino
 R2-71510)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -168,5 +152,4 @@ El-Bee Single # 157, 1957.
 
 
 
-
-
+</lyrics></xml>

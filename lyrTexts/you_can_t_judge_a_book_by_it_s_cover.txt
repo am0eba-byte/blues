@@ -1,24 +1,11 @@
-Bo Diddley - You Can't Judge A Book By It's Cover
-
-
-You Can't Judge A Book By It's Cover
-
-
-
-
-
-
-
-
-
-
-by Willie Dixon
+<xml><metadata><artist>Bo Diddley</artist><title> You Can't Judge A Book By It's Cover</title>
+<songInfo>by Willie Dixon
 
 recording of 1962
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -122,5 +109,4 @@ You can't judge a book by looking at the cover
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-T-Bone Walker - Street Walkin' Woman
-
-
-Street Walkin' Woman
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>T-Bone Walker</artist><title> Street Walkin' Woman</title>
+<songInfo>by 
 Aaron
 Thibeaux "T-Bone" Walker
 
@@ -22,8 +10,8 @@ The
 Very Best Of T-Bone Walker (Koch International
 8066)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +98,4 @@ town
 
 
 
-
-
+</lyrics></xml>

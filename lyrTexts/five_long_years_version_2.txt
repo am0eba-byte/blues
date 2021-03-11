@@ -1,17 +1,5 @@
-B.B. King - Five Long Years (Version 2)
-
-
-Five Long Years (Version 2)
-
-
-
-
-
-
-
- 
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Five Long Years (Version 2)</title>
+<songInfo>by
 Eddie
 Boyd
 
@@ -22,8 +10,8 @@ The
 Jungle (Blues Interactions PCD-3009)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +120,4 @@ me out
 
 
 
-
-
+</lyrics></xml>

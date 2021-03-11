@@ -1,18 +1,5 @@
-B.B. King - You're The Boss
-
-
-You're The Boss
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> You're The Boss</title>
+<songInfo>by 
 Jerry
 Leiber
  / 
@@ -25,8 +12,8 @@ from
 Blues
 Summit (MCA 10710)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -293,5 +280,4 @@ Lucille
 
 
 
-
-
+</lyrics></xml>

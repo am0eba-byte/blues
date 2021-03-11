@@ -1,21 +1,5 @@
-ZZ Top - Bar-B-Q
-
-
-Bar-B-Q
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Bar-B-Q</title>
+<songInfo>by 
 Billy
 Gibbons
  / 
@@ -29,7 +13,8 @@ Rio
 Grande Mud (Warner Brothers 2-3269)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -93,5 +78,4 @@ Aw, make me some of your fine famous bar-B-Q?
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-John Lee Hooker - I'm Wanderin'
-
-
-I'm Wanderin'
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> I'm Wanderin'</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ That's
 My Story (Original Blues Classics 538)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -121,5 +109,4 @@ just like a ship lost out on the foam
 
 
 
-
-
+</lyrics></xml>

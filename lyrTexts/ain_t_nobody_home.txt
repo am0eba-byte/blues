@@ -1,18 +1,5 @@
-B.B. King - Ain't Nobody Home
-
-
-Ain't Nobody Home
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Ain't Nobody Home</title>
+<songInfo>by 
 Jerry
 Ragovoy
 
@@ -23,8 +10,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -168,5 +155,4 @@ I hear you knockin' (chorus: ain't nobody, ain't nobody home)
 
 
 
-
-
+</lyrics></xml>

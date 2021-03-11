@@ -1,18 +1,5 @@
-T-Bone Walker - Midnight Blues
-
-
-Midnight Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>T-Bone Walker</artist><title> Midnight Blues</title>
+<songInfo>by 
 Aaron
 Thibeaux "T-Bone" Walker
 
@@ -23,8 +10,8 @@ The
 Very Best Of T-Bone Walker (Koch International
 8066)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +98,4 @@ You better take my advise, unless you want this midnight blues
 
 
 
-
-
+</lyrics></xml>

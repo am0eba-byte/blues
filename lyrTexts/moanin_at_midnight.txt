@@ -1,20 +1,5 @@
-Janis Joplin - Moanin' At Midnight
-
-
-Moanin' At Midnight
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> Moanin' At Midnight</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -24,8 +9,8 @@ from
 Cheaper
 Thrills (Edsel ED CD135)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -174,5 +159,4 @@ Midnight
 
 
 
-
-
+</lyrics></xml>

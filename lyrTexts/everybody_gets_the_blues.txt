@@ -1,17 +1,5 @@
-Kenny Wayne Shepherd - Everybody Gets The Blues
-
-
-Everybody Gets The Blues
-
-
-
-
-
-
-
- 
-
-by Angel Michael
+<xml><metadata><artist>Kenny Wayne Shepherd</artist><title> Everybody Gets The Blues</title>
+<songInfo>by Angel Michael
 
 recording of 1995
 
@@ -19,8 +7,8 @@ from
 Ledbetter
 Heights (Giant 24621)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -166,5 +154,4 @@ Everybody gets the blues
 
 
 
-
-
+</lyrics></xml>

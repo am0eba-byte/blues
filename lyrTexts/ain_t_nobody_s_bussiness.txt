@@ -1,19 +1,5 @@
-Freddie King - Ain't Nobody's Business
-
-
-Ain't Nobody's Business
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> Ain't Nobody's Business</title>
+<songInfo>by 
 Porter
 Granger
 
@@ -26,8 +12,8 @@ Live
 at the Electric Ballroom, 1974 (Black Top
 1127)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +97,4 @@ And it ain't nobody's business what I'll do
 
 
 
-
-
+</lyrics></xml>

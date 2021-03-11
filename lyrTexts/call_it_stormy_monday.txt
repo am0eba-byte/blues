@@ -1,22 +1,5 @@
-B.B. King - Call It Stormy Monday (With Albert Collins)
-
-
-Call It Stormy Monday
-(With Albert Collins)
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Call It Stormy Monday (With Albert Collins)</title>
+<songInfo>by 
 Aaron
 T. Walker
 
@@ -26,8 +9,8 @@ from
 Blues
 Summit (MCAD-10710)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -171,5 +154,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

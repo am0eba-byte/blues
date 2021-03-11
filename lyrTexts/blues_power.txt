@@ -1,18 +1,5 @@
-Albert King - Blues Power
-
-
-Blues Power
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> Blues Power</title>
+<songInfo>by 
 Albert
 King
 
@@ -23,8 +10,8 @@ The
 Best Of Albert King (Stax 60-005 or Fantasy
 60005)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -250,5 +237,4 @@ Woo!
 
 
 
-
-
+</lyrics></xml>

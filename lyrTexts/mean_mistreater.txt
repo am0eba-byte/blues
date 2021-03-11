@@ -1,17 +1,5 @@
-Muddy Waters - Mean Mistreater
-
-
-Mean Mistreater
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Mean Mistreater</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -24,7 +12,8 @@ CHD-9291)
 ,
 
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -136,5 +125,4 @@ she is loving someone else
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Kenny Wayne Shepherd - The King's Highway
-
-
-The King's Highway
-
-
-
-
-
-
-
- 
-
-by 
+<xml><metadata><artist>Kenny Wayne Shepherd</artist><title> The King's Highway</title>
+<songInfo>by 
 Kenny
 Wayne Shepherd
  / 
@@ -28,7 +16,8 @@ Trouble
 Is (Revolution/Warner Brothers 24689)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -106,5 +95,4 @@ Yeah
 
 
 
-
-
+</lyrics></xml>

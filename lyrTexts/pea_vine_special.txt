@@ -1,17 +1,5 @@
-John Lee Hooker - Pea Vine Special
-
-
-Pea Vine Special
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Pea Vine Special</title>
+<songInfo>by 
 Charley
 Patton
 , arranged by 
@@ -25,8 +13,8 @@ The
 Country Blues of John Lee Hooker (Original Blues Classics 542 or
 Riverside OBCCD-542-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -140,5 +128,4 @@ Delta
 
 
 
-
-
+</lyrics></xml>

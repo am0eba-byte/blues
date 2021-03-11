@@ -1,17 +1,5 @@
-Bessie Smith - Baby Won't You Please Come Home
-
-
-Baby Won't You Please Come Home
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Baby Won't You Please Come Home</title>
+<songInfo>by 
 Clarence
 Williams
  / Charles Warfield
@@ -23,8 +11,8 @@ The
 Complete Recordings, Vol. 1 (Columbia/Legacy
 C2K-47091)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -122,5 +110,4 @@ Baby won't you please come home
 
 
 
-
-
+</lyrics></xml>

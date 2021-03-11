@@ -1,17 +1,5 @@
-Bessie Smith - After You've Gone
-
-
-After You've Gone
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> After You've Gone</title>
+<songInfo>by 
 Henry
 Creamer
  / 
@@ -27,8 +15,8 @@ C2K-47091)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -122,5 +110,4 @@ After I'm gone, after I'm gone away
 
 
 
-
-
+</lyrics></xml>

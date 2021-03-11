@@ -1,17 +1,5 @@
-Bessie Smith - Take Me For A Buggy Ride
-
-
-Take Me For A Buggy Ride
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Take Me For A Buggy Ride</title>
+<songInfo>by 
 Leola
 P. Wilson
  / 
@@ -25,8 +13,8 @@ Complete
 Recordings, Vol. 5: The Final Chapter (Columbia/Legacy
 57546)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -119,5 +107,4 @@ I can't kick but I'm satisfied when you take me for a buggy ride
 
 
 
-
-
+</lyrics></xml>

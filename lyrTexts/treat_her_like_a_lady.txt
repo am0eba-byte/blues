@@ -1,18 +1,5 @@
-Alvin Youngblood Hart - Treat Her Like A Lady
-
-
-Treat Her Like A Lady
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Alvin Youngblood Hart</artist><title> Treat Her Like A Lady</title>
+<songInfo>by 
 E.
 Cornelius Jr.
 
@@ -23,7 +10,8 @@ Start
 With The Soul (Rykodisc or Hannibal 1449)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -207,5 +195,4 @@ Fading:
 
 
 
-
-
+</lyrics></xml>

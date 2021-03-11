@@ -1,21 +1,5 @@
-George Thorogood - Can't Stop Lovin'
-
-
-Can't Stop Lovin'
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>George Thorogood</artist><title> Can't Stop Lovin'</title>
+<songInfo>by 
 Elmore
 James
  / 
@@ -32,8 +16,8 @@ CD-3013)
 Live
 (EMI E 2-46329)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -125,5 +109,4 @@ No matter what I do, she won't treat me right
 
 
 
-
-
+</lyrics></xml>

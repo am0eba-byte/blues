@@ -1,18 +1,5 @@
-Albert King - Little Brother (Make A Way)
-
-
-Little Brother (Make A Way)
-
-
-
-
-
-
-
-
-
-
-by Bush / Jones / Smith
+<xml><metadata><artist>Albert King</artist><title> Little Brother (Make A Way)</title>
+<songInfo>by Bush / Jones / Smith
 
 recording of July 1 1973, Jazz Festival Montreux,
 Switzerland
@@ -22,8 +9,8 @@ Live
 at Montreux Blues at Sunrise (Stax or Fantasy
 8546)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -157,5 +144,4 @@ I said take it on, little brother, an' make a way
 
 
 
-
-
+</lyrics></xml>

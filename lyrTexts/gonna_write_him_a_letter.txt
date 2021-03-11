@@ -1,18 +1,5 @@
-Susan Tedeschi - Gonna Write Him A Letter
-
-
-Gonna Write Him A Letter
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> Gonna Write Him A Letter</title>
+<songInfo>by 
 Susan
 Tedeschi
 
@@ -22,8 +9,8 @@ from
 Better
 Days (Oarfin 950215)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -117,5 +104,4 @@ I'm gonna find that man and he won't get away alive
 
 
 
-
-
+</lyrics></xml>

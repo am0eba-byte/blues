@@ -1,18 +1,5 @@
-Keb' Mo' - I Was Wrong
-
-
-I Was Wrong
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> I Was Wrong</title>
+<songInfo>by 
 Kevin
 Moore
  / A. Osbourne
@@ -24,8 +11,8 @@ Slow
 Down (OKeh/550/Epic/Sony 491613 9)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -135,5 +122,4 @@ It's bigger than life
 
 
 
-
-
+</lyrics></xml>

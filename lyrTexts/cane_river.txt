@@ -1,18 +1,5 @@
-Jimmy Witherspoon - Cane River
-
-
-Cane River
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Jimmy Witherspoon</artist><title> Cane River</title>
+<songInfo>by 
 Jimmy
 Witherspoon
 
@@ -23,8 +10,8 @@ Evenin'
 Blues (Original Blues Classics 511)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -92,5 +79,4 @@ Back to Cane River, that's where I'm gonna stay
 
 
 
-
-
+</lyrics></xml>

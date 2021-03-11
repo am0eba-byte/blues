@@ -1,17 +1,5 @@
-Bessie Smith - Whoa, Tillie, Take Your Time
-
-
-Whoa, Tillie, Take Your Time
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Whoa, Tillie, Take Your Time</title>
+<songInfo>by 
 Turner
 Layton
  / 
@@ -25,8 +13,8 @@ The
 Complete Recordings, Vol. 1 (Columbia/Legacy
 C2K-47091)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +114,4 @@ Whoa, Tillie, take your time
 
 
 
-
-
+</lyrics></xml>

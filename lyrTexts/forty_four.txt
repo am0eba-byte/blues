@@ -1,17 +1,5 @@
-Howlin' Wolf - Forty Four
-
-
-Forty Four
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Forty Four</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -19,8 +7,8 @@ recording of 19??
 
 from The Chess Box - Disc 2 1952-54 (Chess),
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -88,5 +76,4 @@ Well, I'm lookin' for me some money, pawned gun to have some gold
 
 
 
-
-
+</lyrics></xml>

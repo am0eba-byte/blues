@@ -1,22 +1,12 @@
-Jonny Lang - Too Tired
-
-
-Too Tired
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Too Tired</title>
+<songInfo>by
 Jonny Lang
 recording of 1995
 from
 Smokin' (Oarfin 9523)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -78,5 +68,4 @@ Too tired for anything, I'm tired babe
 
 
 
-
-
+</lyrics></xml>

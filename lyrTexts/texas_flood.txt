@@ -1,25 +1,5 @@
-Stevie Ray Vaughan - Texas Flood lyrics
-
-
-Texas Flood
-
-
-
-tab version 1
-
-
-
-tab version 2
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Texas Flood lyrics</title>
+<songInfo>by 
 L.C.
 Davis
  / J.W. Scott
@@ -34,8 +14,8 @@ Flood (Epic EK-38734)
 Live
 Alive (Epic EGK-40511)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -155,5 +135,4 @@ MusicSearcher.com
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-B.B. King - I Want You So Bad
-
-
-I Want You So Bad
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Want You So Bad</title>
+<songInfo>by 
 B.B.
 King
 
@@ -22,7 +10,8 @@ Live
 & Well (MCA MCAD-31191)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -159,5 +148,4 @@ When you leave I'll be so sad
 
 
 
-
-
+</lyrics></xml>

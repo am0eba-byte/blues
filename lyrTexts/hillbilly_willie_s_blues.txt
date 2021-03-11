@@ -1,18 +1,5 @@
-Alvin Youngblood Hart - Hillbilly Willie's Blues
-
-
-Hillbilly Willie's Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Alvin Youngblood Hart</artist><title> Hillbilly Willie's Blues</title>
+<songInfo>by 
 Blind
 Willie McTell
 
@@ -24,8 +11,8 @@ Big
 Mama's Door (OKeh/550 Music or Sony
 67593)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -159,5 +146,4 @@ thanks!.
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Mississippi Fred McDowell - I Looked At The Sun
-
-
-I Looked At The Sun
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Mississippi Fred McDowell</artist><title> I Looked At The Sun</title>
+<songInfo>by 
 Mississippi
 Fred McDowell
 
@@ -22,8 +10,8 @@ Good
 Morning Little School Girl (Arhoolie 424)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -88,5 +76,4 @@ and correctness.
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-B.B. King - You Shouldn't Have Left Me
-
-
-You Shouldn't Have Left Me
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> You Shouldn't Have Left Me</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -30,7 +17,8 @@ The
 Soul of B. B. King (United 7714)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -145,5 +133,4 @@ Baby, and how it feels to say goodbye
 
 
 
-
-
+</lyrics></xml>

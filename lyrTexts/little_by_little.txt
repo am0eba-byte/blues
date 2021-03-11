@@ -1,18 +1,5 @@
-Susan Tedeschi - Little By Little
-
-
-Little By Little
-
-
-
-
-
-
-
-
-
-
-by Junior Wells
+<xml><metadata><artist>Susan Tedeschi</artist><title> Little By Little</title>
+<songInfo>by Junior Wells
 
 recording of 1998
 
@@ -21,7 +8,8 @@ Just
 Won't Burn (Tone-Cool 1164)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +120,4 @@ Note 1: ..., text unknown
 
 
 
-
-
+</lyrics></xml>

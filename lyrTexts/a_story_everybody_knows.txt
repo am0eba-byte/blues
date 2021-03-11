@@ -1,18 +1,5 @@
-B.B. King - A Story Everybody Knows
-
-
-A Story Everybody Knows
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> A Story Everybody Knows</title>
+<songInfo>by 
 Nesbert
 "Stix" Hooper
  / 
@@ -25,8 +12,8 @@ from
 Take
 It Home (MCA 11770)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -143,5 +130,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

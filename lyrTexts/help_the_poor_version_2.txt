@@ -1,21 +1,5 @@
-B.B. King - Help The Poor (Version 2)
-
-
-Help The Poor (Version 2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Help The Poor (Version 2)</title>
+<songInfo>by 
 Charlie
 Singleton
 
@@ -26,7 +10,8 @@ Riding
 With The King (Warner Brothers 47612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -197,5 +182,4 @@ Oh baby won't you help poor me
 
 
 
-
-
+</lyrics></xml>

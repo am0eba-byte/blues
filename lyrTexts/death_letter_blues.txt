@@ -1,18 +1,5 @@
-Ida Cox - Death Letter Blues
-
-
-Death Letter Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Death Letter Blues</title>
+<songInfo>by 
 Ida
 Cox
  / 
@@ -26,7 +13,8 @@ I
 Can't Quit My Man (Affinity 1015)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -116,5 +104,4 @@ Mama love you sweet papa but I wish I could take your place
 
 
 
-
-
+</lyrics></xml>

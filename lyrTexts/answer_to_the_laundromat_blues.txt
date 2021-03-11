@@ -1,18 +1,5 @@
-Albert King - Answer To The Laundromat Blues
-
-
-Answer To The Laundromat Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> Answer To The Laundromat Blues</title>
+<songInfo>by 
 Albert
 King
 
@@ -23,8 +10,8 @@ The
 Best Of Albert King (Stax 60-005 or Fantasy
 60005)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -166,5 +153,4 @@ That I'll be there too!
 
 
 
-
-
+</lyrics></xml>

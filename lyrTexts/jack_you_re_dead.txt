@@ -1,21 +1,5 @@
-B.B. King - Jack, You're Dead
-
-
-Jack, You're Dead
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Jack, You're Dead</title>
+<songInfo>by 
 Walter
 Bishop
  / 
@@ -29,8 +13,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -197,5 +181,4 @@ Jack, you're dead!
 
 
 
-
-
+</lyrics></xml>

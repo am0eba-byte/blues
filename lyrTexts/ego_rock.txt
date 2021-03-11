@@ -1,21 +1,5 @@
-Janis Joplin - Ego Rock
-
-
-Ego Rock
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> Ego Rock</title>
+<songInfo>by 
 Nick
 Gravenites
  / 
@@ -29,7 +13,8 @@ Joplin
 in Concert (Columbia CGK-31160)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -255,5 +240,4 @@ All right, rock, rock & roll song
 
 
 
-
-
+</lyrics></xml>

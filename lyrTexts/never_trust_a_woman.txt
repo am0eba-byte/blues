@@ -1,18 +1,5 @@
-B.B. King - Never Trust A Woman
-
-
-Never Trust A Woman
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Never Trust A Woman</title>
+<songInfo>by 
 Bill
 Doggett
  / 
@@ -26,8 +13,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -151,5 +138,4 @@ you in the street
 
 
 
-
-
+</lyrics></xml>

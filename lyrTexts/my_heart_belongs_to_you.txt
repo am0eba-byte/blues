@@ -1,18 +1,5 @@
-B.B. King - My Heart Belongs To You
-
-
-My Heart Belongs To You
-
-
-
-
-
-
-
-
-
-
-by J. Miles / K. Harrison
+<xml><metadata><artist>B.B. King</artist><title> My Heart Belongs To You</title>
+<songInfo>by J. Miles / K. Harrison
 
 recording of 19
 
@@ -21,7 +8,8 @@ Heart
 & Soul (Virgin 40072)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -154,5 +142,4 @@ Only you
 
 
 
-
-
+</lyrics></xml>

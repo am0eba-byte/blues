@@ -1,18 +1,5 @@
-Ida Cox - Lovin' Is The Thing I'm Wild About
-
-
-Lovin' Is The Thing I'm Wild About
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Lovin' Is The Thing I'm Wild About</title>
+<songInfo>by 
 Ida
 Cox
  / 
@@ -26,8 +13,8 @@ Complete
 Recorded Works, Vol. 1 (1923) (Document
 5322)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -131,5 +118,4 @@ Because lovin', lovin' is the thing I'm just wild about
 
 
 
-
-
+</lyrics></xml>

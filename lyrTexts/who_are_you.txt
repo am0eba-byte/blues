@@ -1,18 +1,5 @@
-B.B. King - Who Are You
-
-
-Who Are You
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Who Are You</title>
+<songInfo>by 
 Dave
 Crawford
  / Howard Johnson
@@ -24,8 +11,8 @@ To
 Know You Is to Love You (MCA MCAD-10414)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -202,5 +189,4 @@ Where did you come from, baby...
 
 
 
-
-
+</lyrics></xml>

@@ -1,21 +1,5 @@
-George Thorogood - You Talk Too Much
-
-
-You Talk Too Much
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>George Thorogood</artist><title> You Talk Too Much</title>
+<songInfo>by 
 George
 Thorogood
 
@@ -34,8 +18,8 @@ The
 Baddest Of George Thorogood And The Destroyers (EMI E2-97718 or
 Capitol 97718)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -167,5 +151,4 @@ you know you're bound to drive me away
 
 
 
-
-
+</lyrics></xml>

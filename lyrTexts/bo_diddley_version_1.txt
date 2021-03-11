@@ -1,25 +1,13 @@
-Bo Diddley - Bo Diddley (version 1)
-
-
-Bo Diddley (version 1)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bo Diddley</artist><title> Bo Diddley (version 1)</title>
+<songInfo>by 
 Ellas
 McDaniel a.k.a. Bo Diddley
 
 recording of 19
 
 from , 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -94,5 +82,4 @@ My pretty baby says she wants a bird
 
 
 
-
-
+</lyrics></xml>

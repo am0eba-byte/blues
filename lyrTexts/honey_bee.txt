@@ -1,17 +1,5 @@
-Muddy Waters - Honey Bee
-
-
-Honey Bee
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Honey Bee</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -21,8 +9,8 @@ from probably
 The
 Chess Box (MCA 80002)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -105,5 +93,4 @@ But now she is coming back home to me
 
 
 
-
-
+</lyrics></xml>

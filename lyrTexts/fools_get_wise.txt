@@ -1,18 +1,5 @@
-B.B. King - Fools Get Wise
-
-
-Fools Get Wise
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Fools Get Wise</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,8 +10,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -134,5 +121,4 @@ You better open up you're eyes woman, fools do get wise
 
 
 
-
-
+</lyrics></xml>

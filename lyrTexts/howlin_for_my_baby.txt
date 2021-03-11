@@ -1,17 +1,5 @@
-Howlin' Wolf - Howlin' For My Baby
-
-
-Howlin' For My Baby
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Howlin' For My Baby</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -22,8 +10,8 @@ The
 Rocking Chair (Vogue 600111)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -127,5 +115,4 @@ Pretty baby
 
 
 
-
-
+</lyrics></xml>

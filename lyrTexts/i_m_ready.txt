@@ -1,21 +1,5 @@
-George Thorogood - I'm Ready
-
-
-I'm Ready
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>George Thorogood</artist><title> I'm Ready</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -34,8 +18,8 @@ Let's
 Work Together Live (EMI 31948 or EMI
 3718)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -151,5 +135,4 @@ I hope you're ready for me
 
 
 
-
-
+</lyrics></xml>

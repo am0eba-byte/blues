@@ -1,17 +1,5 @@
-John Lee Hooker - Sally Mae
-
-
-Sally Mae
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Sally Mae</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ The
 Healer (Silvertone ZD74307)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +112,4 @@ Note 1: weed, .
 
 
 
-
-
+</lyrics></xml>

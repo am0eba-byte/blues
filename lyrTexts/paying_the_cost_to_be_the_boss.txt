@@ -1,18 +1,5 @@
-B.B. King - Paying The Cost To Be The Boss
-
-
-Paying The Cost To Be The Boss
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Paying The Cost To Be The Boss</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,8 +10,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -175,5 +162,4 @@ I'm paying the cost to be the boss
 
 
 
-
-
+</lyrics></xml>

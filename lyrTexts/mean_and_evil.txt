@@ -1,18 +1,5 @@
-B.B. King - Mean And Evil
-
-
-Mean And Evil
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Mean And Evil</title>
+<songInfo>by 
 Arthur
 Adams
 
@@ -23,7 +10,8 @@ There
 Is Always One More Time (MCA MCAD-10295)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -206,5 +194,4 @@ You're so mean
 
 
 
-
-
+</lyrics></xml>

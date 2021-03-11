@@ -1,21 +1,5 @@
-B.B. King - Everybody's Had The Blues
-
-
-Everybody's Had The Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Everybody's Had The Blues</title>
+<songInfo>by 
 Joe
 Louis Walker
 
@@ -25,8 +9,8 @@ from
 Blues
 Summit (MCA 10710)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -191,5 +175,4 @@ Over you
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Susan Tedeschi - It's Up To You
-
-
-It's Up To You
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> It's Up To You</title>
+<songInfo>by 
 James
 Lamond
  / 
@@ -25,8 +12,8 @@ from
 Better
 Days (Oarfin 950215)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +139,4 @@ Oh, it's up to you baby, it's up to you baby
 
 
 
-
-
+</lyrics></xml>

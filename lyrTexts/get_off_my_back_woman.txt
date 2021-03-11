@@ -1,18 +1,5 @@
-B.B. King - Get Off My Back Woman
-
-
-Get Off My Back Woman
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Get Off My Back Woman</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -26,7 +13,8 @@ Live
 & Well (MCA MCAD-31191)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -157,5 +145,4 @@ Can't you see you're hurting me
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Albert Collins - Brick
-
-
-Brick
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Brick</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -21,8 +9,8 @@ from
 Frostbite
 (Alligator ALCD-4719)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -104,5 +92,4 @@ Hey!
 
 
 
-
-
+</lyrics></xml>

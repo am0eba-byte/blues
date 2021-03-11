@@ -1,21 +1,5 @@
-George Thorogood - Night Time
-
-
-Night Time
-
-
-
-
-
-
-
-
-
-
-
-
-
-by Feldman / Goldstein
+<xml><metadata><artist>George Thorogood</artist><title> Night Time</title>
+<songInfo>by Feldman / Goldstein
 
 recording of 1980
 
@@ -27,8 +11,8 @@ George Thorogood And The Destroyers (Rounder
 Live
 (EMI E2-46329)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -184,5 +168,4 @@ in the night time
 
 
 
-
-
+</lyrics></xml>

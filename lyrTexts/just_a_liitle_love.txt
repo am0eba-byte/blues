@@ -1,18 +1,5 @@
-B.B. King - Just A Little Love
-
-
-Just A Little Love
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Just A Little Love</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,7 +10,8 @@ Live
 & Well (MCA MCAD-31191)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -188,5 +176,4 @@ Is just a little bit of love
 
 
 
-
-
+</lyrics></xml>

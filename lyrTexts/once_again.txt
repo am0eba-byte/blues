@@ -1,18 +1,5 @@
-Alvin Youngblood Hart - Once Again
-
-
-Once Again
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Alvin Youngblood Hart</artist><title> Once Again</title>
+<songInfo>by 
 Alvin
 Youngblood Hart
 
@@ -23,7 +10,8 @@ Start
 With The Soul (Rykodisc or Hannibal 1449)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -93,5 +81,4 @@ For love, yeah for love
 
 
 
-
-
+</lyrics></xml>

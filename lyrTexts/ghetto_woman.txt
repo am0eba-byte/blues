@@ -1,18 +1,5 @@
-B.B. King - Ghetto Woman
-
-
-Ghetto Woman
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Ghetto Woman</title>
+<songInfo>by 
 B.B.
 King
  / Dave Clark
@@ -24,7 +11,8 @@ B.B.
 King In London (ABC 730 / MCA 10843)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -134,5 +122,4 @@ Sometimes I look in your face, can't help but cry
 
 
 
-
-
+</lyrics></xml>

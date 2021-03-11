@@ -1,18 +1,5 @@
-The Fabulous Thunderbirds - Wait On Time
-
-
-Wait On Time
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> Wait On Time</title>
+<songInfo>by 
 Kim
 Wilson
 
@@ -34,7 +21,8 @@ Different
 Tacos (Country Town Music 1006)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -166,5 +154,4 @@ All I can do is hope and pray
 
 
 
-
-
+</lyrics></xml>

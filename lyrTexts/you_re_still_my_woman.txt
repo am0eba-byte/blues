@@ -1,18 +1,5 @@
-B.B. King - You're Still My Woman
-
-
-You're Still My Woman
-
-
-
-
-
-
-
-
-
-
-by Dave Clark / 
+<xml><metadata><artist>B.B. King</artist><title> You're Still My Woman</title>
+<songInfo>by Dave Clark / 
 B.B.
 King
 
@@ -23,7 +10,8 @@ Indianola
 Mississippi Seeds (MCA MCAD-31343)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -180,5 +168,4 @@ You are still my woman
 
 
 
-
-
+</lyrics></xml>

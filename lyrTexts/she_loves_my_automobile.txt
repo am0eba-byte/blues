@@ -1,21 +1,5 @@
-ZZ Top - She Loves My Automobile
-
-
-She Loves My Automobile
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> She Loves My Automobile</title>
+<songInfo>by 
 Frank
 Beard
  / 
@@ -31,8 +15,8 @@ from
 Deguello
 (Warner Brothers 2-3361)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -117,5 +101,4 @@ Long as she got the keys and there's a spare wheel in her trunk
 
 
 
-
-
+</lyrics></xml>

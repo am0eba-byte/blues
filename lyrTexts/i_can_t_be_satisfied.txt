@@ -1,17 +1,5 @@
-Muddy Waters - I Can't Be Satisfied
-
-
-I Can't Be Satisfied
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> I Can't Be Satisfied</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,8 +10,8 @@ Muddy
 Waters on Chess 1948-1951, Vol. 1 (Vogue
 600052)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -149,5 +137,4 @@ finally broke through.
 
 
 
-
-
+</lyrics></xml>

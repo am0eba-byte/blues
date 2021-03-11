@@ -1,18 +1,5 @@
-T-Bone Walker - T-Bone Blues
-
-
-T-Bone Blues
-
-
-
-
-
-
-
-
-
-
-by Hite
+<xml><metadata><artist>T-Bone Walker</artist><title> T-Bone Blues</title>
+<songInfo>by Hite
 
 recording of 19
 
@@ -20,8 +7,8 @@ from
 T-Bone
 Blues (Atlantic 8020-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -102,5 +89,4 @@ Say the reason why I ask you baby, you sure look good to me
 
 
 
-
-
+</lyrics></xml>

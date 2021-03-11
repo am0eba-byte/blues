@@ -1,18 +1,5 @@
-Freddie King - See See Baby
-
-
-See See Baby
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> See See Baby</title>
+<songInfo>by 
 Freddie
 King
  / 
@@ -26,8 +13,8 @@ Hide
 Away: The Best of Freddie King (Rhino
 R2-71510)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +97,4 @@ Note: Federal Single #12428, July 1961.
 
 
 
-
-
+</lyrics></xml>

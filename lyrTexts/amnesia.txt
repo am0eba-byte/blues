@@ -1,18 +1,5 @@
-The Fabulous Thunderbirds - Amnesia
-
-
-Amnesia
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> Amnesia</title>
+<songInfo>by 
 Kim
 Wilson
 
@@ -22,8 +9,8 @@ from
 Tuff
 Enuff (Epic ZK-40304)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -125,5 +112,4 @@ Baby what I do
 
 
 
-
-
+</lyrics></xml>

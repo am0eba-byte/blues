@@ -1,21 +1,5 @@
-Janis Joplin - Daddy, Daddy, Daddy
-
-
-Daddy, Daddy, Daddy
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> Daddy, Daddy, Daddy</title>
+<songInfo>by 
 Janis
 Joplin
 
@@ -26,8 +10,8 @@ From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -125,5 +109,4 @@ If I'm awake or if I'm dreamin' Lord, my daddy daddy's on my mind
 
 
 
-
-
+</lyrics></xml>

@@ -1,16 +1,5 @@
-John Lee Hooker - It's You I Love Baby
-
-
-It's You I Love Baby
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> It's You I Love Baby</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -18,8 +7,8 @@ recording of November 1962
 
 from John Lee Hooker: Boogie Chillun (),
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +102,4 @@ Hmm, hmm
 
 
 
-
-
+</lyrics></xml>

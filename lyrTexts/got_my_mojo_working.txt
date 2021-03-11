@@ -1,17 +1,5 @@
-Muddy Waters - Got My Mojo Working
-
-
-Got My Mojo Working
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Got My Mojo Working</title>
+<songInfo>by 
 Preston
 Foster
  / 
@@ -24,8 +12,8 @@ from probably
 The
 Chess Box (MCA 80002)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -187,5 +175,4 @@ contributing this information and the lyrics!
 
 
 
-
-
+</lyrics></xml>

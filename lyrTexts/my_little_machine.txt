@@ -1,17 +1,5 @@
-Sonny Boy Williamson I (John Lee) - My Little Machine
-
-
-My Little Machine
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Sonny Boy Williamson I (John Lee)</artist><title> My Little Machine</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -22,8 +10,8 @@ Blues
 Classics by Sonny Boy Williamson, vol. 3 (Blues Classics
 3)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +97,4 @@ gasoline
 
 
 
-
-
+</lyrics></xml>

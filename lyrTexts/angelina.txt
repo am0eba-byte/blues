@@ -1,18 +1,5 @@
-Keb' Mo' - Angelina
-
-
-Angelina
-
-
-
-
-
-
-
- 
-
-
-by G. Graper / 
+<xml><metadata><artist>Keb' Mo'</artist><title> Angelina</title>
+<songInfo>by G. Graper / 
 Kevin
 Moore
 
@@ -22,8 +9,8 @@ from
 Keb'
 Mo' (OKeh/Epic EK 57863)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -119,5 +106,4 @@ You know my heart is aching and all my dreams have gone
 
 
 
-
-
+</lyrics></xml>

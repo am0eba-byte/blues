@@ -1,17 +1,5 @@
-T-Bone Walker - Alimony Blues
-
-
-Alimony Blues
-
-
-
-
-
-
-
-
-
-by E. Vinson
+<xml><metadata><artist>T-Bone Walker</artist><title> Alimony Blues</title>
+<songInfo>by E. Vinson
 
 recording of 19
 
@@ -20,8 +8,8 @@ The
 Very Best Of T-Bone Walker (Koch International
 8066)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -94,5 +82,4 @@ choose
 
 
 
-
-
+</lyrics></xml>

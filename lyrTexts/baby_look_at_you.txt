@@ -1,17 +1,5 @@
-B.B. King - Baby Look At You
-
-
-Baby Look At You
-
-
-
-
-
-
-
-
-
-by y 
+<xml><metadata><artist>B.B. King</artist><title> Baby Look At You</title>
+<songInfo>by y 
 B.B.
 King
  / 
@@ -32,8 +20,8 @@ B. B. King on Stage (Kent 7736)
 Lucille
 Had a Baby (ACE 271)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -151,5 +139,4 @@ and said, "Go and do the best you can"
 
 
 
-
-
+</lyrics></xml>

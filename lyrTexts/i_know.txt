@@ -1,18 +1,5 @@
-B.B. King - I Know
-
-
-I Know
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Know</title>
+<songInfo>by 
 Barbara
 George
 
@@ -23,7 +10,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -174,5 +162,4 @@ Ain't no use you hangin' round
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Blind Lemon Jefferson - Pneumonia Blues
-
-
-Pneumonia Blues
-
-
-
-
-
-
-
-
-
-by probably 
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> Pneumonia Blues</title>
+<songInfo>by probably 
 Blind
 Lemon Jefferson
 
@@ -26,8 +14,8 @@ Complete
 Recorded Works, Vol. 4 (1929) (Document
 DOCD-5020)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -116,5 +104,4 @@ Note 1: B.V.D.'s, trademark, generally used for underwear.
 
 
 
-
-
+</lyrics></xml>

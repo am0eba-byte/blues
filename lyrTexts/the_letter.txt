@@ -1,18 +1,5 @@
-B.B. King - The Letter
-
-
-The Letter
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> The Letter</title>
+<songInfo>by 
 B.B.
 King
  / Adams
@@ -28,7 +15,8 @@ Paying
 the Cost to Be the Boss (Delta 17141)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +120,4 @@ Because my best friend have taken my girl
 
 
 
-
-
+</lyrics></xml>

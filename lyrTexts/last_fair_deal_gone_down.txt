@@ -1,18 +1,5 @@
-Keb' Mo' - Last Fair Deal Gone Down
-
-
-Last Fair Deal Gone Down
-
-
-
-
-
-
-
- 
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Last Fair Deal Gone Down</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -23,8 +10,8 @@ Just
 Like You (OKeh/Epic/Sony 484117 6)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -141,5 +128,4 @@ Jackson.
 
 
 
-
-
+</lyrics></xml>

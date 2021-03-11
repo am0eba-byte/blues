@@ -1,17 +1,5 @@
-Sonny Boy Williamson I (John Lee) - Fridgidaire Blues
-
-
-Fridgidaire Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Sonny Boy Williamson I (John Lee)</artist><title> Fridgidaire Blues</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -22,8 +10,8 @@ The
 Bluebird Recordings 1937-1938 (RCA 66723)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -114,5 +102,4 @@ yourself, a sealed refrigerant kept the box cold.
 
 
 
-
-
+</lyrics></xml>

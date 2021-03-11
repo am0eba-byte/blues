@@ -1,17 +1,5 @@
-Muddy Waters - One More Mile
-
-
-One More Mile
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> One More Mile</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,8 +10,8 @@ One
 More Mile (MCA/Chess CHD2-9348)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -117,5 +105,4 @@ but I don't have to cry 'bout you no more
 
 
 
-
-
+</lyrics></xml>

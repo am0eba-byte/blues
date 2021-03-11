@@ -1,18 +1,5 @@
-B.B. King - I'm King
-
-
-I'm King
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I'm King</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -36,8 +23,8 @@ Heart
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -150,5 +137,4 @@ I'm the king of the blues
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Albert Collins - Get To Gettin'
-
-
-Get To Gettin'
-
-
-
-
-
-
-
-
-
-by Price, publisher unknown
+<xml><metadata><artist>Albert Collins</artist><title> Get To Gettin'</title>
+<songInfo>by Price, publisher unknown
 
 recording of 1983
 
@@ -20,7 +8,8 @@ Don't
 Lose Your Cool (Alligator ALCD-4730)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -162,5 +151,4 @@ Hey!
 
 
 
-
-
+</lyrics></xml>

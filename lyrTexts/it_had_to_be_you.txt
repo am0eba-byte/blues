@@ -1,17 +1,5 @@
-B.B. King - It Had To Be You
-
-
-It Had To Be You
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> It Had To Be You</title>
+<songInfo>by 
 Isham
 Jones
  / 
@@ -24,8 +12,8 @@ from
 Heart
 to Heart (GRP 9767)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -190,5 +178,4 @@ Wonderful you, yeah
 
 
 
-
-
+</lyrics></xml>

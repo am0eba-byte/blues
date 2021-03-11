@@ -1,21 +1,5 @@
-B.B. King - Somebody Done Changed The Lock On My Door
-
-
-Somebody Done Changed The Lock On My Door
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Somebody Done Changed The Lock On My Door</title>
+<songInfo>by 
 William
 Weldon
 
@@ -26,8 +10,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -155,5 +139,4 @@ And the key I got won't fit that lock no more
 
 
 
-
-
+</lyrics></xml>

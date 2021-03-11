@@ -1,20 +1,5 @@
-Gary Moore - Further On Up the Road
-
-
-Further On Up the Road
-
-
-
-
-
-
- 
-
-
-
-
-
-by 
+<xml><metadata><artist>Gary Moore</artist><title> Further On Up the Road</title>
+<songInfo>by 
 Joe
 Medwick
  / Robey
@@ -25,8 +10,8 @@ from
 Blues
 Alive (Virgin CDV 2716)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -158,5 +143,4 @@ Someone's gonna hurt you
 
 
 
-
-
+</lyrics></xml>

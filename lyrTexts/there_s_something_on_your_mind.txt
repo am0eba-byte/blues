@@ -1,18 +1,5 @@
-B.B. King - There's Something On Your Mind
-
-
-There's Something On Your Mind
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> There's Something On Your Mind</title>
+<songInfo>by 
 Cecil
 James McNeely
 
@@ -22,8 +9,8 @@ from
 Blues
 Summit (MCA 10710)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -220,5 +207,4 @@ Oh and it can bring misery
 
 
 
-
-
+</lyrics></xml>

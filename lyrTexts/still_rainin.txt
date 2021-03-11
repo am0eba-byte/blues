@@ -1,23 +1,12 @@
-Jonny Lang - Still Rainin'
-
-
-Still Rainin'
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Still Rainin'</title>
+<songInfo>by
 Bruce McCabe
 recording of 1998
 from
 Wander This World (A&M 540984)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -85,5 +74,4 @@ Look out my window, it's still rainin'
 
 
 
-
-
+</lyrics></xml>

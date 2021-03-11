@@ -1,17 +1,5 @@
-Bessie Smith - Empty Bed Blues
-
-
-Empty Bed Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Empty Bed Blues</title>
+<songInfo>by 
 J.
 C. Johnson
 
@@ -24,8 +12,8 @@ Complete Recordings, Vol. 4 (Columbia/Legacy
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -157,5 +145,4 @@ blues
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-B.B. King - Baby Get Lost
-
-
-Baby Get Lost
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Baby Get Lost</title>
+<songInfo>by 
 Leonard
 Feather
 
@@ -23,7 +10,8 @@ Great
 Moments With B.B. King (MCA MCAD-4124)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -140,5 +128,4 @@ I can tell you, "Baby, get lost!"
 
 
 
-
-
+</lyrics></xml>

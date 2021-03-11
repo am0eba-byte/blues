@@ -1,18 +1,5 @@
-B.B. King - You Shook Me
-
-
-You Shook Me
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> You Shook Me</title>
+<songInfo>by 
 Willie
 Dixon
  / 
@@ -25,8 +12,8 @@ from
 Blues
 Summit (MCA 10710)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -295,5 +282,4 @@ No more, yeah
 
 
 
-
-
+</lyrics></xml>

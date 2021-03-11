@@ -1,21 +1,5 @@
-B.B. King - Riding With The King
-
-
-Riding With The King
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Riding With The King</title>
+<songInfo>by 
 John
 Hiatt
 
@@ -26,7 +10,8 @@ Riding
 With The King (Warner Brothers 47612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -195,5 +180,4 @@ Yes you're ridin' with King
 
 
 
-
-
+</lyrics></xml>

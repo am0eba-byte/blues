@@ -1,17 +1,5 @@
-Bessie Smith - Gulf Coast Blues
-
-
-Gulf Coast Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Gulf Coast Blues</title>
+<songInfo>by 
 Clarence
 Williams
 
@@ -24,8 +12,8 @@ C2K-47091)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -97,5 +85,4 @@ You've got a mouthful of "gimme", a handful of "much oblige"
 
 
 
-
-
+</lyrics></xml>

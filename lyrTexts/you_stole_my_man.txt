@@ -1,17 +1,5 @@
-Ida Cox - You Stole My Man
-
-
-You Stole My Man
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Ida Cox</artist><title> You Stole My Man</title>
+<songInfo>by
 
 recording of 1927
 
@@ -20,8 +8,8 @@ Complete
 Recorded Works, Vol. 4 (1927-1938) (Document
 5325)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +91,4 @@ But that's no sign we should take each other's man
 
 
 
-
-
+</lyrics></xml>

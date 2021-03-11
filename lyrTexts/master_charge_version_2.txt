@@ -1,18 +1,5 @@
-Albert Collins - Master Charge (version 2)
-
-
-Master Charge (version 2)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Master Charge (version 2)</title>
+<songInfo>by 
 Gwendolyn
 Collins
 
@@ -23,7 +10,8 @@ Albert
 Collins Deluxe Edition (Alligator 5601)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -197,5 +185,4 @@ Get too much chargin', now
 
 
 
-
-
+</lyrics></xml>

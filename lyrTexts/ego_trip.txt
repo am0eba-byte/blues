@@ -1,17 +1,5 @@
-Albert Collins - Ego Trip
-
-
-Ego Trip
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Ego Trip</title>
+<songInfo>by 
 Albert
 Collins
 , arrangement by 
@@ -26,7 +14,8 @@ Don't
 Lose Your Cool (Alligator ALCD-4730)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -166,5 +155,4 @@ Fading:
 
 
 
-
-
+</lyrics></xml>

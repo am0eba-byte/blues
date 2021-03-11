@@ -1,18 +1,5 @@
-B.B. King - Peace Of Mind (Version 2)
-
-
-Peace Of Mind (Version 2)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Peace Of Mind (Version 2)</title>
+<songInfo>by 
 Joe
 Josea
  / 
@@ -26,7 +13,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -197,5 +185,4 @@ Darling, in my lifetime
 
 
 
-
-
+</lyrics></xml>

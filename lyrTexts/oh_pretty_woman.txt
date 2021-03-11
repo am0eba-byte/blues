@@ -1,18 +1,5 @@
-Albert King - Oh Pretty Woman
-
-
-Oh Pretty Woman
-
-
-
-
-
-
-
-
-
-
-by Williams
+<xml><metadata><artist>Albert King</artist><title> Oh Pretty Woman</title>
+<songInfo>by Williams
 
 recording of 19
 
@@ -35,8 +22,8 @@ of the Blues Guitar (Atlantic 8213)
 The
 Pinch (Stax 4101)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -130,5 +117,4 @@ Can't make you love me, no matter what I do
 
 
 
-
-
+</lyrics></xml>

@@ -1,21 +1,5 @@
-Freddie King - I'm Tore Down
-
-
-I'm Tore Down
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> I'm Tore Down</title>
+<songInfo>by 
 Freddie
 King
  / 
@@ -32,8 +16,8 @@ Hide
 Away: The Best of Freddie King (Rhino
 R2-71510)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -137,5 +121,4 @@ Note: Federal Single #12432, August 1961.
 
 
 
-
-
+</lyrics></xml>

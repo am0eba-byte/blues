@@ -1,37 +1,5 @@
-Robert Johnson - They're Red Hot
-
-
-They're Red Hot
-
-
-
-tab v 1
-
-
-
-tab v 2
-
-
-
-chords
-
-
-
-ChordPro
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> They're Red Hot</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -44,7 +12,8 @@ Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222
 & Columbia 4622 & Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -268,5 +237,4 @@ corn husks, and steamed.
 
 
 
-
-
+</lyrics></xml>

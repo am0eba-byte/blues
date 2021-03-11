@@ -1,17 +1,5 @@
-B.B. King - I Need You Baby
-
-
-I Need You Baby
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Need You Baby</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -29,8 +17,8 @@ Heart
 Full of Blues (United 7703)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -135,5 +123,4 @@ Every night about this time baby, my love comes tumbling down
 
 
 
-
-
+</lyrics></xml>

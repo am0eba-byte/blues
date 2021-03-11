@@ -1,18 +1,5 @@
-Junior Parker - Yonder's Wall
-
-
-Yonder's Wall
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Junior Parker</artist><title> Yonder's Wall</title>
+<songInfo>by 
 Eddie
 James
 
@@ -23,8 +10,8 @@ Junior's
 Blues/The Duke Recordings, Vol. 1 (MCA
 MCAD-10669)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -102,5 +89,4 @@ I got another woman, baby yonder come your man
 
 
 
-
-
+</lyrics></xml>

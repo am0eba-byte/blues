@@ -1,17 +1,5 @@
-Bessie Smith - Downhearted Blues
-
-
-Downhearted Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Downhearted Blues</title>
+<songInfo>by 
 Lovie
 Austin
  / 
@@ -27,8 +15,8 @@ C2K-47091)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -151,5 +139,4 @@ she's, gal/woman, sister and mother when the speaker is male.
 
 
 
-
-
+</lyrics></xml>

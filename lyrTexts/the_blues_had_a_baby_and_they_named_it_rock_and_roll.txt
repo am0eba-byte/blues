@@ -1,17 +1,5 @@
-Muddy Waters - The Blues Had A Baby And They Named It Rock And Roll
-
-
-The Blues Had A Baby And They Named It Rock And Roll
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> The Blues Had A Baby And They Named It Rock And Roll</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -21,8 +9,8 @@ from
 Hard
 Again (Columbia 34449)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +99,4 @@ Well the blues had a baby and they named the baby Rock & Roll
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-B.B. King - All You Ever Give Me Is The Blues
-
-
-All You Ever Give Me Is The Blues
-
-
-
-
-
-
-
-
-
-
-by probably 
+<xml><metadata><artist>B.B. King</artist><title> All You Ever Give Me Is The Blues</title>
+<songInfo>by probably 
 Jon
 Tiven
  / 
@@ -29,7 +16,8 @@ Lucille
 amp; Friends (MCA 33008)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -180,5 +168,4 @@ Nothing but the blues
 
 
 
-
-
+</lyrics></xml>

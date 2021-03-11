@@ -1,17 +1,5 @@
-Bessie Smith - St. Louis Gal
-
-
-St. Louis Gal
-
-
-
-
-
-
-
-
-
-by Robinson
+<xml><metadata><artist>Bessie Smith</artist><title> St. Louis Gal</title>
+<songInfo>by Robinson
 
 recording of September 24, 1923
 
@@ -22,8 +10,8 @@ C2K-47091)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -96,5 +84,4 @@ You know just what I'm gonna do, you stole my pal, St. Louis gal
 
 
 
-
-
+</lyrics></xml>

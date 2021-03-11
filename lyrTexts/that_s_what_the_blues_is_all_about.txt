@@ -1,18 +1,5 @@
-Albert King - That's What The Blues Is All About
-
-
-That's What The Blues Is All About
-
-
-
-
-
-
-
-
-
-
-by Strickland / Patterson
+<xml><metadata><artist>Albert King</artist><title> That's What The Blues Is All About</title>
+<songInfo>by Strickland / Patterson
 
 recording of 1973
 
@@ -21,8 +8,8 @@ The
 Best Of Albert King (Stax 60-005 or Fantasy
 60005)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -168,5 +155,4 @@ Oh, when you find out what the blues is all about
 
 
 
-
-
+</lyrics></xml>

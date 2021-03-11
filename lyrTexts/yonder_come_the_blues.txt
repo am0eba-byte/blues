@@ -1,18 +1,5 @@
-Ma Rainey - Yonder Come The Blues
-
-
-Yonder Come The Blues
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Ma Rainey</artist><title> Yonder Come The Blues</title>
+<songInfo>by
 
 recording of 1926
 
@@ -25,8 +12,8 @@ Classic
 Blues Women (Rhino R2 71134)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -115,5 +102,4 @@ come those blues
 
 
 
-
-
+</lyrics></xml>

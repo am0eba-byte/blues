@@ -1,18 +1,5 @@
-Ma Rainey - Black Cat, Hoot Owl Blues
-
-
-Black Cat, Hoot Owl Blues
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Ma Rainey</artist><title> Black Cat, Hoot Owl Blues</title>
+<songInfo>by
 
 recording of June 1928, Chicago, Illinois
 
@@ -21,8 +8,8 @@ Paramounts
 Chronologically, Vol. 5 (Black Swan 5)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -98,5 +85,4 @@ me
 
 
 
-
-
+</lyrics></xml>

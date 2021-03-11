@@ -1,21 +1,5 @@
-Gary Moore - Driftin'
-
-
-Driftin'
-
-
-
-
-
-
-
- 
-
-
-
-
-
-by 
+<xml><metadata><artist>Gary Moore</artist><title> Driftin'</title>
+<songInfo>by 
 Peter
 Green
 
@@ -26,7 +10,8 @@ Blues
 For Greeny (Virgin CDV 2784)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +94,4 @@ nobody like I miss my baby now, yeah
 
 
 
-
-
+</lyrics></xml>

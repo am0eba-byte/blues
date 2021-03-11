@@ -1,21 +1,5 @@
-ZZ Top - Just Got Paid
-
-
-Just Got Paid
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Just Got Paid</title>
+<songInfo>by 
 Billy
 Gibbons
  / 
@@ -29,7 +13,8 @@ Rio
 Grande Mud (Warner Brothers 2-3269)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -107,5 +92,4 @@ what's second best
 
 
 
-
-
+</lyrics></xml>

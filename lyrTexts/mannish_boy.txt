@@ -1,17 +1,5 @@
-Muddy Waters - Mannish Boy
-
-
-Mannish Boy
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Mannish Boy</title>
+<songInfo>by 
 Elias
 McDaniel a.k.a. Bo Diddley
  / adapted by
@@ -25,8 +13,8 @@ from probably
 Chess
 Box (Chess 9340)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -238,5 +226,4 @@ for this contribution!.
 
 
 
-
-
+</lyrics></xml>

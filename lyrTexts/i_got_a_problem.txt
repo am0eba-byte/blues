@@ -1,17 +1,5 @@
-Albert Collins - I Got A Problem
-
-
-I Got A Problem
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> I Got A Problem</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -21,8 +9,8 @@ from
 Frostbite
 (Alligator ALCD-4719)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -135,5 +123,4 @@ me
 
 
 
-
-
+</lyrics></xml>

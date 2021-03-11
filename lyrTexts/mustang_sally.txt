@@ -1,16 +1,5 @@
-Albert Collins - Mustang Sally
-
-
-Mustang Sally
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Mustang Sally</title>
+<songInfo>by 
 Bill
 Rice
 
@@ -22,7 +11,8 @@ Rockin'
 with the Iceman (Culture Press 1001)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +98,4 @@ Gonna be wipin' your weepin' eyes
 
 
 
-
-
+</lyrics></xml>

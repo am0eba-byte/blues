@@ -1,17 +1,5 @@
-B.B. King - Part Time Love
-
-
-Part Time Love
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Part Time Love</title>
+<songInfo>by 
 Clay
 Hammond
 
@@ -21,8 +9,8 @@ from
 In
 London (MCA 10843)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -201,5 +189,4 @@ I need, oh, I need...
 
 
 
-
-
+</lyrics></xml>

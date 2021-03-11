@@ -1,18 +1,5 @@
-Keb' Mo' - I'm On Your Side
-
-
-I'm On Your Side
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> I'm On Your Side</title>
+<songInfo>by 
 Kevin
 Moore
 
@@ -23,8 +10,8 @@ Just
 Like You (OKeh/Epic/Sony 484117 6)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -159,5 +146,4 @@ I'm on your side
 
 
 
-
-
+</lyrics></xml>

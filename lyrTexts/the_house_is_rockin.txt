@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - The House Is Rockin' lyrics
-
-
-The House Is Rockin'
-
-
-
-chords
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> The House Is Rockin' lyrics</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
  / 
@@ -28,8 +12,8 @@ from
 In
 Step (Epic EK-45024)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -177,5 +161,4 @@ MusicSearcher.com
 
 
 
-
-
+</lyrics></xml>

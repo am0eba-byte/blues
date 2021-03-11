@@ -1,18 +1,5 @@
-Albert Collins - Master Charge (version 1)
-
-
-Master Charge (version 1)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Master Charge (version 1)</title>
+<songInfo>by 
 Gwendolyn
 Collins
 
@@ -27,7 +14,8 @@ Collins
 Mix (Virgin 39097 or Pointblank V2-39097)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -268,5 +256,4 @@ Yeah, I know, I know... (fades out to end)
 
 
 
-
-
+</lyrics></xml>

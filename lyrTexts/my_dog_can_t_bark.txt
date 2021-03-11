@@ -1,17 +1,5 @@
-Muddy Waters - My Dog Can't Bark
-
-
-My Dog Can't Bark
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Muddy Waters</artist><title> My Dog Can't Bark</title>
+<songInfo>by
 
 Otis Smothers
 
@@ -22,8 +10,8 @@ One
 More Mile (MCA/Chess CHD2-9348)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +96,4 @@ I done got tired, I'm gonna talk some too
 
 
 
-
-
+</lyrics></xml>

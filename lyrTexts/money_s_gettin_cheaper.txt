@@ -1,18 +1,5 @@
-Jimmy Witherspoon - Money's Gettin' Cheaper
-
-
-Money's Gettin' Cheaper
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Jimmy Witherspoon</artist><title> Money's Gettin' Cheaper</title>
+<songInfo>by 
 Jimmy
 Witherspoon
 
@@ -23,8 +10,8 @@ Evenin'
 Blues (Original Blues Classics 511)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -112,5 +99,4 @@ I make a lot of money, I just keep spendin' the stuff
 
 
 
-
-
+</lyrics></xml>

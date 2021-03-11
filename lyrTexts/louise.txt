@@ -1,22 +1,12 @@
-Jonny Lang - Louise
-
-
-Louise
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Louise</title>
+<songInfo>by
 Jonny Lang
 recording of 1995
 from
 Smokin' (Oarfin 9523)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +98,4 @@ Louise
 
 
 
-
-
+</lyrics></xml>

@@ -1,25 +1,5 @@
-Stevie Ray Vaughan - Change It lyrics
-
-
-Change It
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Change It lyrics</title>
+<songInfo>by 
 Doyle
 Bramhall
 
@@ -29,8 +9,8 @@ from
 Soul
 To Soul (Epic EK-40036)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -177,5 +157,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

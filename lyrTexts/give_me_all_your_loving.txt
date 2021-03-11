@@ -1,18 +1,5 @@
-The Fabulous Thunderbirds - Give Me All Your Loving
-
-
-Give Me All Your Loving
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> Give Me All Your Loving</title>
+<songInfo>by 
 Kim
 Wilson
 
@@ -31,7 +18,8 @@ Rockin'/T-Bird Rhythm (BGO
 193)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +111,4 @@ I'm the one who love you best
 
 
 
-
-
+</lyrics></xml>

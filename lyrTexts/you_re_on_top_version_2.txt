@@ -1,18 +1,5 @@
-B.B. King - You're On Top (Version 2)
-
-
-You're On Top (Version 2)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> You're On Top (Version 2)</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -26,7 +13,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -134,5 +122,4 @@ What could have been, baby, hey, now has done fell through
 
 
 
-
-
+</lyrics></xml>

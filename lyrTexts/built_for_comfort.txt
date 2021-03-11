@@ -1,17 +1,5 @@
-Howlin' Wolf - Built For Comfort
-
-
-Built For Comfort
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Built For Comfort</title>
+<songInfo>by 
 Willie
 Dixon
 , arranged by 
@@ -25,8 +13,8 @@ The
 Howlin' Wolf Album (Chess 4543)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +114,4 @@ But I got everything all the good girls need
 
 
 
-
-
+</lyrics></xml>

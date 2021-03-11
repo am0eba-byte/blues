@@ -1,17 +1,5 @@
-B.B. King - Strange Things
-
-
-Strange Things
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Strange Things</title>
+<songInfo>by
 
 recording of probably 1962
 
@@ -25,7 +13,8 @@ Full of Blues (United 7703)
 ,
 
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -127,5 +116,4 @@ happen to you
 
 
 
-
-
+</lyrics></xml>

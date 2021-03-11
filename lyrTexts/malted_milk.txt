@@ -1,22 +1,12 @@
-Jonny Lang - Malted Milk
-
-
-Malted Milk
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Malted Milk</title>
+<songInfo>by
 Robert Johnson
 recording of 1995
 from
 Smokin' (Oarfin 9523)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -76,5 +66,4 @@ Malted Milk
 
 
 
-
-
+</lyrics></xml>

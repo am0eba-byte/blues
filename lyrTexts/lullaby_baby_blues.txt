@@ -1,18 +1,5 @@
-Keb' Mo' - Lullaby Baby Blues
-
-
-Lullaby Baby Blues
-
-
-
-
-
-
-
- 
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Lullaby Baby Blues</title>
+<songInfo>by 
 Kevin
 Moore
  / G. Graper
@@ -24,8 +11,8 @@ Just
 Like You (OKeh/Epic/Sony 484117 6)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -121,5 +108,4 @@ Close your eyes baby blues
 
 
 
-
-
+</lyrics></xml>

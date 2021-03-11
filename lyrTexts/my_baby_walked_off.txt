@@ -1,16 +1,5 @@
-Howlin' Wolf - My Baby Walked Off
-
-
-My Baby Walked Off
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> My Baby Walked Off</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +10,8 @@ Cadillac
 Daddy: Memphis Recordings 1952 (Rounder
 28)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +98,4 @@ Note: previously unissued in North America.
 
 
 
-
-
+</lyrics></xml>

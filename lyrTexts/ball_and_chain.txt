@@ -1,18 +1,5 @@
-Janis Joplin - Ball And Chain
-
-
-Ball And Chain
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> Ball And Chain</title>
+<songInfo>by 
 Willie
 Mae Thornton a.k.a. Big Mama Thornton
 
@@ -22,8 +9,8 @@ from
 Cheaper
 Thrills (Edsel ED CD135)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -137,5 +124,4 @@ like a ball and chain
 
 
 
-
-
+</lyrics></xml>

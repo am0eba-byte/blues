@@ -1,16 +1,5 @@
-Albert Collins - I Need You So
-
-
-I Need You So
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> I Need You So</title>
+<songInfo>by 
 Ivory
 Joe Hunter
 
@@ -21,7 +10,8 @@ The
 Complete Imperial Recordings (EMI 96740)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -91,5 +81,4 @@ Come back in a hurry, because I need you so
 
 
 
-
-
+</lyrics></xml>

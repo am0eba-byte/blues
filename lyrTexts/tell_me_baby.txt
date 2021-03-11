@@ -1,18 +1,5 @@
-B.B. King - Tell Me Baby
-
-
-Tell Me Baby
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Tell Me Baby</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -25,8 +12,8 @@ from
 Blues
 on the Bayou (MCA 11879)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -155,5 +142,4 @@ Keep me worried all the time
 
 
 
-
-
+</lyrics></xml>

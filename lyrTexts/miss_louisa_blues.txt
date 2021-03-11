@@ -1,18 +1,5 @@
-Sonny Boy Williamson I (John Lee) - Miss Louisa Blues
-
-
-Miss Louisa Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Sonny Boy Williamson I (John Lee)</artist><title> Miss Louisa Blues</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -23,8 +10,8 @@ The
 Bluebird Recordings 1937-1938 (RCA 66723)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -106,5 +93,4 @@ have no place to stay
 
 
 
-
-
+</lyrics></xml>

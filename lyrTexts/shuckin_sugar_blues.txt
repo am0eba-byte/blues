@@ -1,16 +1,5 @@
-Blind Lemon Jefferson - Shuckin' Sugar Blues
-
-
-Shuckin' Sugar Blues
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> Shuckin' Sugar Blues</title>
+<songInfo>by 
 Blind
 Lemon Jefferson
 
@@ -21,7 +10,8 @@ Blind
 Lemon Jefferson (Milestone 47022)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -120,5 +110,4 @@ I only wanna be like I am in a different kind of town
 
 
 
-
-
+</lyrics></xml>

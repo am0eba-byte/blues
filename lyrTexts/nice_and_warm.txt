@@ -1,22 +1,12 @@
-Jonny Lang - Nice And Warm
-
-
-Nice And Warm
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Nice And Warm</title>
+<songInfo>by
 Jonny Lang
 recording of 1995
 from
 Smokin' (Oarfin 9523)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -88,5 +78,4 @@ and that old nasty chill is gone
 
 
 
-
-
+</lyrics></xml>

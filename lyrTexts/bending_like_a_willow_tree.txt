@@ -1,17 +1,5 @@
-Albert Collins - Bending Like A Willow Tree
-
-
-Bending Like A Willow Tree
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Bending Like A Willow Tree</title>
+<songInfo>by 
 Lowell
 Fulson
 
@@ -22,7 +10,8 @@ Cold
 Snap (Alligator ALCD-4752)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -104,5 +93,4 @@ Weepin' and bendin' like a willow tree
 
 
 
-
-
+</lyrics></xml>

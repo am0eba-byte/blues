@@ -1,17 +1,5 @@
-Albert King - Call My Job
-
-
-Call My Job
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> Call My Job</title>
+<songInfo>by 
 Detroit
 Junior
  / Al Perkins
@@ -26,8 +14,8 @@ Years (Rhino/Tomato R2 71623)
 King
 Albert (Rhino 70395)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -94,5 +82,4 @@ I must've had too much weekend
 
 
 
-
-
+</lyrics></xml>

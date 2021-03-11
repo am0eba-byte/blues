@@ -1,17 +1,5 @@
-B.B. King - I Can Hear My Name
-
-
-I Can Hear My Name
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> I Can Hear My Name</title>
+<songInfo>by
 
 recording of 19
 
@@ -23,8 +11,8 @@ Jungle (United 7742)
 Rock
 Me Baby (Kent 5012)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +114,4 @@ love with nobody else
 
 
 
-
-
+</lyrics></xml>

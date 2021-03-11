@@ -1,17 +1,5 @@
-Howlin' Wolf - I've Been Abused
-
-
-I've Been Abused
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> I've Been Abused</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 Change
 My Way (MCA 93001)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -94,5 +82,4 @@ I've been abused, and I've been kicked out
 
 
 
-
-
+</lyrics></xml>

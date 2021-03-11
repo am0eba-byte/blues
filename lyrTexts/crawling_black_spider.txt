@@ -1,16 +1,5 @@
-John Lee Hooker - Crawlin' Black Spider
-
-
-Crawlin' Black Spider
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Crawlin' Black Spider</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -20,8 +9,8 @@ from The Vee Jay Years 1955-1964 (Charly
 82333-1754-2) amp;
 
 Vee Jay No. 57-636, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +98,4 @@ you'self for myself
 
 
 
-
-
+</lyrics></xml>

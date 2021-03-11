@@ -1,21 +1,5 @@
-B.B. King - Let The Good Times Roll (Version 2)
-
-
-Let The Good Times Roll (Version 2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Let The Good Times Roll (Version 2)</title>
+<songInfo>by 
 Fleecie
 Moore
  / 
@@ -29,8 +13,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -179,5 +163,4 @@ Go out and get together and let the good times roll
 
 
 
-
-
+</lyrics></xml>

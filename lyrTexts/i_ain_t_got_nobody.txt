@@ -1,17 +1,5 @@
-Bessie Smith - I Ain't Got Nobody
-
-
-I Ain't Got Nobody
-
-
-
-
-
-
-
-
-
-by Graham / 
+<xml><metadata><artist>Bessie Smith</artist><title> I Ain't Got Nobody</title>
+<songInfo>by Graham / 
 Clarence
 Williams
  / 
@@ -25,8 +13,8 @@ The
 Complete Recordings, Vol. 2 (1924-1925) (Columbia/Legacy
 C2K-47471)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -100,5 +88,4 @@ but since my daddy left me, I'm a gal with her heart bowed down
 
 
 
-
-
+</lyrics></xml>

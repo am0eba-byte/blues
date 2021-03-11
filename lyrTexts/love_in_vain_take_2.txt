@@ -1,29 +1,5 @@
-Robert Johnson - Love In Vain, take 2
-
-
-Love In Vain (Take 2)
-
-
-
-tab v 1
-
-
-
-tab v 2
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> Love In Vain, take 2</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -35,7 +11,8 @@ Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222
 & Columbia 4622 & Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -162,5 +139,4 @@ Note 1: alternatively "a" instead of "my"
 
 
 
-
-
+</lyrics></xml>

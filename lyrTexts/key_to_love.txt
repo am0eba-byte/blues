@@ -1,17 +1,5 @@
-John Mayall's Bluesbreakers - Key To Love
-
-
-Key To Love
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> Key To Love</title>
+<songInfo>by 
 John
 Mayall
 
@@ -22,8 +10,8 @@ Bluesbreakers
 with Eric Clapton (Deram 800086 or Mobile Fidelity
 616)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -91,5 +79,4 @@ Life is so bad, baby, when you find the key to love
 
 
 
-
-
+</lyrics></xml>

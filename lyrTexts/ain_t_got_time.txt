@@ -1,16 +1,5 @@
-Albert Collins - Ain't Got Time
-
-
-Ain't Got Time
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Ain't Got Time</title>
+<songInfo>by 
 Stephen
 Hollister
 
@@ -21,7 +10,8 @@ The
 Complete Imperial Recordings (EMI 96740)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -93,5 +83,4 @@ Ah man, it's too late now!
 
 
 
-
-
+</lyrics></xml>

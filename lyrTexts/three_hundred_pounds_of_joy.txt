@@ -1,17 +1,5 @@
-Howlin' Wolf - Three Hundred Pounds Of Joy
-
-
-Three Hundred Pounds Of Joy
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Three Hundred Pounds Of Joy</title>
+<songInfo>by 
 Willie
 Dixon
 , arranged by 
@@ -25,8 +13,8 @@ The
 Howlin' Wolf Album (Chess 4543)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -141,5 +129,4 @@ and weighing close to 300 pounds (136 kg).
 
 
 
-
-
+</lyrics></xml>

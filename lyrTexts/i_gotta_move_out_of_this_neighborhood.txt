@@ -1,18 +1,5 @@
-B.B. King - I Gotta Move Out Of This Neighborhood
-
-
-I Gotta Move Out Of This Neighborhood
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Gotta Move Out Of This Neighborhood</title>
+<songInfo>by 
 B.B.
 King
 
@@ -22,8 +9,8 @@ from
 Blues
 Summit (MCA 10710)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -227,5 +214,4 @@ Loves Me But My Mother".
 
 
 
-
-
+</lyrics></xml>

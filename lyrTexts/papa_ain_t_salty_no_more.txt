@@ -1,18 +1,5 @@
-T-Bone Walker - Papa Ain't Salty No More
-
-
-Papa Ain't Salty No More
-
-
-
-
-
-
-
-
-
-
-by McDaniel / 
+<xml><metadata><artist>T-Bone Walker</artist><title> Papa Ain't Salty No More</title>
+<songInfo>by McDaniel / 
 Aaron
 Thibeaux "T-Bone" Walker
 
@@ -22,8 +9,8 @@ from
 T-Bone
 Blues (Atlantic 8020-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -98,5 +85,4 @@ Papa ain't salty no more
 
 
 
-
-
+</lyrics></xml>

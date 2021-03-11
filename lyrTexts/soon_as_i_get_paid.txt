@@ -1,18 +1,5 @@
-Keb' Mo' - Soon As I Get Paid
-
-
-Soon As I Get Paid
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Soon As I Get Paid</title>
+<songInfo>by 
 Kevin
 Moore
  / 
@@ -26,8 +13,8 @@ Slow
 Down (OKeh/550/Epic/Sony 491613 9)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -163,5 +150,4 @@ Soon as you get paid
 
 
 
-
-
+</lyrics></xml>

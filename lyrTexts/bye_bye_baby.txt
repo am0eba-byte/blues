@@ -1,7 +1,5 @@
-T-Bone Walker - Bye Bye Baby
-
-
-Bye Bye Baby
+<xml><metadata><artist>T-Bone Walker</artist><title> Bye Bye Baby</title>
+<songInfo>Bye Bye Baby
 
 
 
@@ -22,8 +20,8 @@ The
 Very Best Of T-Bone Walker (Koch International
 8066)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +101,4 @@ You know I love ya baby, my old time 'used to be'
 
 
 
-
-
+</lyrics></xml>

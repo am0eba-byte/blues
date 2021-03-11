@@ -1,18 +1,5 @@
-Alvin Youngblood Hart - Fightin' Hard
-
-
-Fightin' Hard
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Alvin Youngblood Hart</artist><title> Fightin' Hard</title>
+<songInfo>by 
 Alvin
 Youngblood Hart
 
@@ -23,7 +10,8 @@ Start
 With The Soul (Rykodisc or Hannibal 1449)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -115,5 +103,4 @@ An' I'm fightin' hard
 
 
 
-
-
+</lyrics></xml>

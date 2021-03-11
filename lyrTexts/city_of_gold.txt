@@ -1,20 +1,5 @@
-Gary Moore - City Of Gold
-
-
-City Of Gold
-
-
-
-
-
-
- 
-
-
-
-
-
-by 
+<xml><metadata><artist>Gary Moore</artist><title> City Of Gold</title>
+<songInfo>by 
 Jack
 Bruce
  / 
@@ -31,7 +16,8 @@ Around
 The Next Dream (Virgin CDV 2745)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -146,5 +132,4 @@ but the truth's already been sold
 
 
 
-
-
+</lyrics></xml>

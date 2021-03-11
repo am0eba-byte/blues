@@ -1,18 +1,5 @@
-B.B. King - Bad Case Of Love
-
-
-Bad Case Of Love
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Bad Case Of Love</title>
+<songInfo>by 
 B.B.
 King
 
@@ -22,8 +9,8 @@ from
 Blues
 on the Bayou (MCA 11879)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -159,5 +146,4 @@ People my heart is full of misery
 
 
 
-
-
+</lyrics></xml>

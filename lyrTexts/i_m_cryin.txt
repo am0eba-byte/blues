@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - I'm Cryin' lyrics
-
-
-I'm Cryin'
-
-
-
-tab
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> I'm Cryin' lyrics</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
 
@@ -25,8 +9,8 @@ from
 Texas
 Flood (Epic EK-38734)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -147,5 +131,4 @@ I'll be lovin' my little baby, every night and every day
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Sonny Boy Williamson I (John Lee) - Down South
-
-
-Down South
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Sonny Boy Williamson I (John Lee)</artist><title> Down South</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -23,8 +10,8 @@ The
 Bluebird Recordings 1937-1938 (RCA 66723)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -106,5 +93,4 @@ To come way back up here, no how
 
 
 
-
-
+</lyrics></xml>

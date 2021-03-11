@@ -1,17 +1,5 @@
-Howlin' Wolf - Change My Way
-
-
-Change My Way
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Change My Way</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 Change
 My Way (MCA CHD 93001)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -90,5 +78,4 @@ evil way
 
 
 
-
-
+</lyrics></xml>

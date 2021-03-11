@@ -1,16 +1,5 @@
-Albert Collins - Same Old Thing
-
-
-Same Old Thing
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Same Old Thing</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -21,7 +10,8 @@ Collins
 Mix (Virgin 39097 or Pointblank V2-39097)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -221,5 +211,4 @@ I'm really in love wit' cha baby
 
 
 
-
-
+</lyrics></xml>

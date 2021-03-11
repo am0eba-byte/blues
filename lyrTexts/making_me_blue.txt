@@ -1,23 +1,11 @@
-B.B. King - Making Me Blue
-
-
-Making Me Blue
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Making Me Blue</title>
+<songInfo>by
 
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -154,5 +142,4 @@ You don't do nothing but making me blue
 
 
 
-
-
+</lyrics></xml>

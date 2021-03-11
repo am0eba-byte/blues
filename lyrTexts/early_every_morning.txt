@@ -1,21 +1,5 @@
-B.B. King - Early Every Morning
-
-
-Early Every Morning
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Early Every Morning</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -37,7 +21,8 @@ Singin'
 the Blues/The Blues (ACE CHD-320)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -134,5 +119,4 @@ You can't tell what may happen that's the reason I love to sing
 
 
 
-
-
+</lyrics></xml>

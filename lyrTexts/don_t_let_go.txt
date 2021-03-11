@@ -1,18 +1,5 @@
-Jimmy Witherspoon - Don't Let Go
-
-
-Don't Let Go
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Jimmy Witherspoon</artist><title> Don't Let Go</title>
+<songInfo>by 
 Jesse
 Stone
 
@@ -23,8 +10,8 @@ Evenin'
 Blues (Original Blues Classics 511)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -196,5 +183,4 @@ Please hold me, don't let go
 
 
 
-
-
+</lyrics></xml>

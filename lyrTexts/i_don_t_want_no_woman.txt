@@ -1,17 +1,5 @@
-Susan Tedeschi - I Don't Want No Woman
-
-
-I Don't Want No Woman
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> I Don't Want No Woman</title>
+<songInfo>by 
 Robey
 
 (original title: I Don't Want Nobody), adapted lyrics by
@@ -25,8 +13,8 @@ from
 Better
 Days (Oarfin 950215)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -106,5 +94,4 @@ Oh I'm gonna leave you darlin', 'cause I'm just as grown as you
 
 
 
-
-
+</lyrics></xml>

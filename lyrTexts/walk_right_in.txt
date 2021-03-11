@@ -1,21 +1,5 @@
-Janis Joplin - Walk Right In
-
-
-Walk Right In
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> Walk Right In</title>
+<songInfo>by 
 Gus
 Cannon
  / 
@@ -33,8 +17,8 @@ From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -114,5 +98,4 @@ on!
 
 
 
-
-
+</lyrics></xml>

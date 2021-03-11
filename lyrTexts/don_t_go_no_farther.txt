@@ -1,18 +1,5 @@
-B.B. King - Don't Go No Farther
-
-
-Don't Go No Farther
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Don't Go No Farther</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,7 +10,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -178,5 +166,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Kenny Wayne Shepherd - Born With A Broken Heart
-
-
-Born With A Broken Heart
-
-
-
-
-
-
-
- 
-
-by 
+<xml><metadata><artist>Kenny Wayne Shepherd</artist><title> Born With A Broken Heart</title>
+<songInfo>by 
 Kenny
 Wayne Shepherd
  / Danny Tate
@@ -22,8 +10,8 @@ from
 Ledbetter
 Heights (Giant 24621)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -117,5 +105,4 @@ Born with a broken heart
 
 
 
-
-
+</lyrics></xml>

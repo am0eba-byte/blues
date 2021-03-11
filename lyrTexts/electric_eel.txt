@@ -1,17 +1,5 @@
-Alvin Youngblood Hart - Electric Eel
-
-
-Electric Eel
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Alvin Youngblood Hart</artist><title> Electric Eel</title>
+<songInfo>by 
 Alvin
 Youngblood Hart
 
@@ -22,7 +10,8 @@ Start
 With The Soul (Rykodisc or Hannibal 1449)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -96,5 +85,4 @@ Through tests of time
 
 
 
-
-
+</lyrics></xml>

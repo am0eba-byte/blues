@@ -1,18 +1,5 @@
-B.B. King - If You Love Me
-
-
-If You Love Me
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> If You Love Me</title>
+<songInfo>by 
 Van
 Morrison
 
@@ -22,8 +9,8 @@ from
 Deuces
 Wild (MCA 11711)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -156,5 +143,4 @@ If it's meant to be
 
 
 
-
-
+</lyrics></xml>

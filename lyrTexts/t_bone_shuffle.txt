@@ -1,17 +1,5 @@
-Albert Collins - T-Bone Shuffle
-
-
-T-Bone Shuffle
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> T-Bone Shuffle</title>
+<songInfo>by 
 T-Bone
 Walker
 
@@ -21,8 +9,8 @@ from
 Showdown
 (Alligator ALCD-4743)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -88,5 +76,4 @@ I've got somethin' pretty baby, somethin' that's ailin' me
 
 
 
-
-
+</lyrics></xml>

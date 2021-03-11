@@ -1,17 +1,5 @@
-John Lee Hooker - Good Mornin' Lil' School Girl
-
-
-Good Mornin' Lil' School Girl
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Good Mornin' Lil' School Girl</title>
+<songInfo>by 
 Sonny
 Boy Williamson II (Rice Miller)
 , arranged
@@ -24,8 +12,8 @@ The
 Country Blues of John Lee Hooker (Original Blues Classics 542 or
 Riverside OBCCD-542-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -128,5 +116,4 @@ ring
 
 
 
-
-
+</lyrics></xml>

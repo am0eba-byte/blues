@@ -1,17 +1,5 @@
-Howlin' Wolf - (My Country) Sugar Mama
-
-
-(My Country) Sugar Mama
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> (My Country) Sugar Mama</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 Real
 Folk Blues (MCA 9273)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -98,5 +86,4 @@ They say that's granulated sugar, best ever to come off the farm
 
 
 
-
-
+</lyrics></xml>

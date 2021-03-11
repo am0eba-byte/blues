@@ -1,20 +1,5 @@
-B.B. King - Early In The Morning (Version 1)
-
-
-Early In The Morning (Version 1)
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Early In The Morning (Version 1)</title>
+<songInfo>by 
 Dallas
 Bartley
  / L. Hickman / 
@@ -27,8 +12,8 @@ from
 The
 Blues (Crown 5063)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -125,5 +110,4 @@ You can't tell what may happen that's the reason I love to sing
 
 
 
-
-
+</lyrics></xml>

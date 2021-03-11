@@ -1,17 +1,5 @@
-Keb' Mo' - Everything I Need
-
-
-Everything I Need
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Everything I Need</title>
+<songInfo>by 
 Kevin
 Moore
  / C. Streetman
@@ -23,8 +11,8 @@ Slow
 Down (OKeh/550/Epic/Sony 491613 9)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -168,5 +156,4 @@ Hear me when I call
 
 
 
-
-
+</lyrics></xml>

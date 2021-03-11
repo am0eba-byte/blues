@@ -1,17 +1,5 @@
-Ida Cox - Worn Down Daddy
-
-
-Worn Down Daddy
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Ida Cox</artist><title> Worn Down Daddy</title>
+<songInfo>by
 
 recording of 1927
 
@@ -20,8 +8,8 @@ Complete
 Recorded Works, Vol. 4 (1927-1938) (Document
 5325)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +91,4 @@ Say I'm through with you, and I hope you don't feel hurt
 
 
 
-
-
+</lyrics></xml>

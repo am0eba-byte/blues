@@ -1,18 +1,5 @@
-Keb' Mo' - Standin' At The Station
-
-
-Standin' At The Station
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Standin' At The Station</title>
+<songInfo>by 
 Kevin
 Moore
  / P. Ramocon
@@ -24,8 +11,8 @@ Just
 Like You (OKeh/Epic/Sony 484117 6)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +100,4 @@ Stop that train, back it on up
 
 
 
-
-
+</lyrics></xml>

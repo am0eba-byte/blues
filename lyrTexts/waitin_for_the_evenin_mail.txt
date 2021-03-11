@@ -1,17 +1,5 @@
-Clara Smith - Waitin' For The Evenin' Mail
-
-
-Waitin' For The Evenin' Mail
-
-
-
-
-
-
-
-
-
-by Baskette
+<xml><metadata><artist>Clara Smith</artist><title> Waitin' For The Evenin' Mail</title>
+<songInfo>by Baskette
 
 recording of October 1, 1923
 
@@ -20,8 +8,8 @@ Complete
 Recorded Works, Vol. 1 (1923-1924) (Document
 5364)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 , 
 copyright
@@ -125,5 +113,4 @@ Waitin' for that evenin' mail
 
 
 
-
-
+</lyrics></xml>

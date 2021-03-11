@@ -1,22 +1,11 @@
-Jonny Lang - Back For A Taste Of Your Love
-
-
-Back For A Taste Of Your Love
-
-
-
-
-
-
-
-
-
-by Syl Johnson / Darryl Carter / Brenda Johnson
+<xml><metadata><artist>Jonny Lang</artist><title> Back For A Taste Of Your Love</title>
+<songInfo>by Syl Johnson / Darryl Carter / Brenda Johnson
 recording of 1997
 from
 Lie To Me (Aamp;M 540640)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -85,5 +74,4 @@ You know, I've got to come back now baby
 
 
 
-
-
+</lyrics></xml>

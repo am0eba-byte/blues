@@ -1,17 +1,5 @@
-Muddy Waters - I Want To Be Loved
-
-
-I Want To Be Loved
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> I Want To Be Loved</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,8 +10,8 @@ Hard
 Again (Blue Sky ZK-34449, Columbia 34449)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -118,5 +106,4 @@ but baby I want's to be loved
 
 
 
-
-
+</lyrics></xml>

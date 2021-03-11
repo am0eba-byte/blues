@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - Say What!
-
-
-Say What!
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Say What!</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
 
@@ -21,8 +9,8 @@ from
 Soul
 To Soul (Epic EK-40036)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -119,5 +107,4 @@ soul
 
 
 
-
-
+</lyrics></xml>

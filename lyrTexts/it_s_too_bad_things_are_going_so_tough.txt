@@ -1,21 +1,5 @@
-Freddie King - It's Too Bad Things Are Going So Tough
-
-
-It's Too Bad Things Are Going So Tough
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> It's Too Bad Things Are Going So Tough</title>
+<songInfo>by 
 Freddie
 King
 
@@ -26,8 +10,8 @@ Hide
 Away: The Best of Freddie King (Rhino
 R2-71510)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +94,4 @@ Note: Federal Single #12415, April 1961.
 
 
 
-
-
+</lyrics></xml>

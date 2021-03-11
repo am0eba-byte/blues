@@ -1,17 +1,5 @@
-Sonny Boy Williamson I (John Lee) - Until My Love Come Down
-
-
-Until My Love Come Down
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Sonny Boy Williamson I (John Lee)</artist><title> Until My Love Come Down</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -22,8 +10,8 @@ Blues
 Classics by Sonny Boy Williamson, vol. 3 (Blues Classics
 3)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +111,4 @@ Lord until my love come down
 
 
 
-
-
+</lyrics></xml>

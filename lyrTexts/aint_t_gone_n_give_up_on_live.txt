@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - Ain't Gone 'N' Give Up On Love
-
-
-Ain't Gone 'N' Give Up On Love
-
-
-
-tab/chords
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Ain't Gone 'N' Give Up On Love</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
 
@@ -31,8 +15,8 @@ Alive (Epic EGK-40511)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -166,5 +150,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

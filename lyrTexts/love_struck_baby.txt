@@ -1,25 +1,5 @@
-Stevie Ray Vaughan - Love Struck Baby lyrics
-
-
-Love Struck Baby
-
-
-
-tab
-
-
-
-solo tab
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Love Struck Baby lyrics</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
 
@@ -42,8 +22,8 @@ Live
 At Carnegie Hall (Sony 68163)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -190,5 +170,4 @@ MusicSearcher.com
 
 
 
-
-
+</lyrics></xml>

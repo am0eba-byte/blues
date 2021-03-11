@@ -1,17 +1,5 @@
-Muddy Waters - Lonesome Road Blues
-
-
-Lonesome Road Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Lonesome Road Blues</title>
+<songInfo>by 
 Big
 Bill Broonzy
 
@@ -22,8 +10,8 @@ Muddy
 Waters on Chess 1951-1959, Vol. 2 (Vogue
 600059)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +98,4 @@ bed
 
 
 
-
-
+</lyrics></xml>

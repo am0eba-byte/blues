@@ -1,17 +1,5 @@
-Howlin' Wolf - Decoration Day
-
-
-Decoration Day
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Decoration Day</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ Cadillac
 Daddy: Memphis Recordings 1952 (Rounder
 28)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +89,4 @@ day"
 
 
 
-
-
+</lyrics></xml>

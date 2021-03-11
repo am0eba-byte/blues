@@ -1,17 +1,5 @@
-Albert Collins - Broke
-
-
-Broke
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Broke</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -22,7 +10,8 @@ Don't
 Lose Your Cool (Alligator ALCD-4730)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -188,5 +177,4 @@ Fading:
 
 
 
-
-
+</lyrics></xml>

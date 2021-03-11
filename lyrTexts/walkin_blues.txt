@@ -1,42 +1,12 @@
-Robert Johnson - Walkin' Blues
-
-
-
-
-
-
-Walkin'          Blues
-
-
-
-tab          v 1
-
-
-
-tab          v 2
-
-
-
-tab          v 3
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Robert Johnson</artist><title> Walkin' Blues</title>
+<songInfo>by
 Robert Johnson
 recording of 3rd of 5 sessions, November 27 1936, San Antonio, Texas
 from
 The Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222 & Columbia 4622 & Sony 64916)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 I woke up this mornin', feelin' round for my shoes
 Know 'bout 'at I got these, old walkin' blues
@@ -261,5 +231,4 @@ Top
 
 
 
-
-
+</lyrics></xml>

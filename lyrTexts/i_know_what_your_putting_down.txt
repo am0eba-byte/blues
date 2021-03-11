@@ -1,17 +1,5 @@
-B.B. King - I Know What Your Putting Down
-
-
-I Know What Your Putting Down
-
-
-
-
-
-
-
-
-
-by Bud Allen / 
+<xml><metadata><artist>B.B. King</artist><title> I Know What Your Putting Down</title>
+<songInfo>by Bud Allen / 
 Louis
 Jordan
 
@@ -21,8 +9,8 @@ from
 Blues
 Is King (MCA MCAD-31386)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -177,5 +165,4 @@ I know what you've been putting down
 
 
 
-
-
+</lyrics></xml>

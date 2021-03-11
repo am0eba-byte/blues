@@ -1,17 +1,5 @@
-B.B. King - Merry Christmas Baby
-
-
-Merry Christmas Baby
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Merry Christmas Baby</title>
+<songInfo>by
 
 recording of 1993
 
@@ -20,8 +8,8 @@ Grp
 Christmas Collection, Vol. 3 (MCA Special Products 9728, GRP
 GRD-9728)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -156,5 +144,4 @@ While you're standing beneath the mistletoe
 
 
 
-
-
+</lyrics></xml>

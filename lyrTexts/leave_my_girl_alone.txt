@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - Leave My Girl Alone
-
-
-Leave My Girl Alone
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Leave My Girl Alone</title>
+<songInfo>by 
 Buddy
 Guy
 
@@ -21,8 +9,8 @@ from
 In
 Step (Epic EK-45024)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -119,5 +107,4 @@ Lord before I get evil man, and I'm gonna do something wrong
 
 
 
-
-
+</lyrics></xml>

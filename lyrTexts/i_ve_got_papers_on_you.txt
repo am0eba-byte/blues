@@ -1,17 +1,5 @@
-B.B. King - I've Got Papers On You
-
-
-I've Got Papers On You
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I've Got Papers On You</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -25,8 +13,8 @@ B.B.
 King Anthology (ABC 5611)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -173,5 +161,4 @@ But you just gotta treat me right
 
 
 
-
-
+</lyrics></xml>

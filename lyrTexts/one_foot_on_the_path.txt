@@ -1,17 +1,5 @@
-Kenny Wayne Shepherd - One Foot On The Path
-
-
-One Foot On The Path
-
-
-
-
-
-
-
- 
-
-by 
+<xml><metadata><artist>Kenny Wayne Shepherd</artist><title> One Foot On The Path</title>
+<songInfo>by 
 Kenny
 Wayne Shepherd
  / 
@@ -24,8 +12,8 @@ from
 Ledbetter
 Heights (Giant 24621)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -135,5 +123,4 @@ I got on foot on the path
 
 
 
-
-
+</lyrics></xml>

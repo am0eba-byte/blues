@@ -1,38 +1,12 @@
-Robert Johnson - Come On In My Kitchen, take 1
-
-
-
-
-
-
-Come          On In My Kitchen (Take 1)
-
-
-
-tab          v 1
-
-
-
-tab          v 2
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Robert Johnson</artist><title> Come On In My Kitchen, take 1</title>
+<songInfo>by
 Robert Johnson
 recording of 1st of 5 sessions, November 23 1936, San Antonio, Texas
 from
 The Complete Recordings (CBS 467246 2 amp; Columbia/Legacy C2K-46222 amp; Columbia 4622 amp; Sony 64916)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -254,5 +228,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

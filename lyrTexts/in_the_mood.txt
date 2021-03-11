@@ -1,17 +1,5 @@
-John Lee Hooker - In The Mood
-
-
-In The Mood
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> In The Mood</title>
+<songInfo>by 
 John
 Lee Hooker
  / 
@@ -25,8 +13,8 @@ House
 Of The Blues (Vogue VG 651 500115)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -114,5 +102,4 @@ baby, I'm in the mood for love
 
 
 
-
-
+</lyrics></xml>

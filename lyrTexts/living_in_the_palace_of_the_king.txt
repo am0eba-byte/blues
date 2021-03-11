@@ -1,21 +1,5 @@
-Freddie King - Living In The Palace Of The King
-
-
-Living In The Palace Of The King
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> Living In The Palace Of The King</title>
+<songInfo>by 
 Freddie
 King
 
@@ -26,8 +10,8 @@ Palace
 of the King (Magnum America 24 & Blue Moon
 89)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -133,5 +117,4 @@ Note 1: city of the wind, the windy city or Chicago
 
 
 
-
-
+</lyrics></xml>

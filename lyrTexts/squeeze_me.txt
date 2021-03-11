@@ -1,17 +1,5 @@
-Bessie Smith - Squeeze Me
-
-
-Squeeze Me
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Squeeze Me</title>
+<songInfo>by 
 Thomas
 "Fats" Waller
  / 
@@ -27,8 +15,8 @@ C2K-47474)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -97,5 +85,4 @@ I just git so, you know, when you squeeze me
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-B.B. King - How Blue Can You Get
-
-
-How Blue Can You Get
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> How Blue Can You Get</title>
+<songInfo>by 
 Leonard
 Feather
 
@@ -23,8 +10,8 @@ Live
 In Japan (MCA Victor MVCM-253 & MCA
 11810)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +119,4 @@ Our love is nothing but the blues, baby, how blue can you get?
 
 
 
-
-
+</lyrics></xml>

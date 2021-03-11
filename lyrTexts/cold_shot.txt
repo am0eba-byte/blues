@@ -1,25 +1,5 @@
-Stevie Ray Vaughan - Cold Shot lyrics
-
-
-Cold Shot
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by M. Kendrid, arranged by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Cold Shot lyrics</title>
+<songInfo>by M. Kendrid, arranged by 
 Stevie
 Ray Vaughan
 
@@ -38,8 +18,8 @@ Live
 At Carnegie Hall (Sony 68163)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -164,5 +144,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

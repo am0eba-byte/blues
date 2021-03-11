@@ -1,18 +1,5 @@
-Keb' Mo' - Am I wrong
-
-
-Am I wrong
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Am I wrong</title>
+<songInfo>by 
 Kevin
 Moore
 
@@ -22,8 +9,8 @@ from
 Keb'
 Mo' (OKeh/Epic EK 57863)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -115,5 +102,4 @@ cheatin' and lyin', steppin' all over you
 
 
 
-
-
+</lyrics></xml>

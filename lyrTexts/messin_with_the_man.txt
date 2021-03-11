@@ -1,17 +1,5 @@
-Muddy Waters - Messin' With The Man
-
-
-Messin' With The Man
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Messin' With The Man</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,8 +10,8 @@ One
 More Mile (MCA/Chess CHD2-9348)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +111,4 @@ man
 
 
 
-
-
+</lyrics></xml>

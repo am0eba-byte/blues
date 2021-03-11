@@ -1,17 +1,5 @@
-Blind Lemon Jefferson - That Crawling Baby Blues
-
-
-That Crawling Baby Blues
-
-
-
-
-
-
-
-
-
-by probably 
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> That Crawling Baby Blues</title>
+<songInfo>by probably 
 Blind
 Lemon Jefferson
 
@@ -30,8 +18,8 @@ King
 of the Country Blues [LP] (Yazoo
 1069)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -117,5 +105,4 @@ Note: issued by Paramount under catalogue No. 12880.
 
 
 
-
-
+</lyrics></xml>

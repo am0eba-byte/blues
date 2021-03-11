@@ -1,18 +1,5 @@
-Albert King - Can't You See What You're Doing To Me
-
-
-Can't You See What You're Doing To Me
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> Can't You See What You're Doing To Me</title>
+<songInfo>by 
 Albert
 King
 
@@ -23,8 +10,8 @@ The
 Best Of Albert King (Stax 60-005 or Fantasy
 60005)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -129,5 +116,4 @@ Note: Stax single release 0069.
 
 
 
-
-
+</lyrics></xml>

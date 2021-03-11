@@ -1,17 +1,5 @@
-T-Bone Walker - You're My Best Poker Hand
-
-
-You're My Best Poker Hand
-
-
-
-
-
-
-
-
-
-by Burghardt Jr.
+<xml><metadata><artist>T-Bone Walker</artist><title> You're My Best Poker Hand</title>
+<songInfo>by Burghardt Jr.
 
 recording of 19
 
@@ -19,8 +7,8 @@ from
 Low
 Down Blues (Charly 7)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -100,5 +88,4 @@ But his face turned pale when he saw my queen high flush
 
 
 
-
-
+</lyrics></xml>

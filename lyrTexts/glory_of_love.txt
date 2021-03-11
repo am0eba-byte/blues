@@ -1,17 +1,5 @@
-B.B. King - Glory Of Love
-
-
-Glory Of Love
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Glory Of Love</title>
+<songInfo>by 
 Billy
 Hill
 
@@ -21,8 +9,8 @@ from
 Heart
 to Heart (GRP 9767)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -189,5 +177,4 @@ That's the glory of love
 
 
 
-
-
+</lyrics></xml>

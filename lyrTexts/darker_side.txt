@@ -1,23 +1,12 @@
-Jonny Lang - Darker Side
-
-
-Darker Side
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Darker Side</title>
+<songInfo>by
 Bruce McCabe
 recording of 1997
 from
 Lie To Me (Aamp;M 540640)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -83,5 +72,4 @@ Somewhere on the darker side
 
 
 
-
-
+</lyrics></xml>

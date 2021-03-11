@@ -1,21 +1,5 @@
-B.B. King - Saturday Night Fish Fry
-
-
-Saturday Night Fish Fry
-
-
-
-
-
-
-
-
-
-
-
-
-
-by E. Walsh / 
+<xml><metadata><artist>B.B. King</artist><title> Saturday Night Fish Fry</title>
+<songInfo>by E. Walsh / 
 Louis
 Jordan
 
@@ -26,8 +10,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -292,5 +276,4 @@ And shufflin' 'till the break of dawn
 
 
 
-
-
+</lyrics></xml>

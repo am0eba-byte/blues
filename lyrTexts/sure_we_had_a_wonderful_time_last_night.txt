@@ -1,21 +1,5 @@
-B.B. King - Sure We Had A Wonderful Time Last Night
-
-
-Sure We Had A Wonderful Time Last Night
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Sure We Had A Wonderful Time Last Night</title>
+<songInfo>by 
 Clause
 Demetrius
  / 
@@ -29,8 +13,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -195,5 +179,4 @@ But I sure had a wonderful time last night
 
 
 
-
-
+</lyrics></xml>

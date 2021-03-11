@@ -1,21 +1,5 @@
-Freddie King - You've Got To Love Her With A Feeling
-
-
-You've Got To Love Her With A Feeling
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> You've Got To Love Her With A Feeling</title>
+<songInfo>by 
 Freddie
 King
 
@@ -26,8 +10,8 @@ Hide
 Away: The Best of Freddie King (Rhino
 R2-71510)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -127,5 +111,4 @@ Note: Federal Single #12384, September 1960.
 
 
 
-
-
+</lyrics></xml>

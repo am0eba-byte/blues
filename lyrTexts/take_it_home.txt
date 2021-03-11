@@ -1,18 +1,5 @@
-B.B. King - Take It Home
-
-
-Take It Home
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Take It Home</title>
+<songInfo>by 
 Wilton
 Felder
  / 
@@ -25,8 +12,8 @@ from
 Take
 It Home (MCA 11770)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -159,5 +146,4 @@ Take it home
 
 
 
-
-
+</lyrics></xml>

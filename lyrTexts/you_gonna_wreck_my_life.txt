@@ -1,17 +1,5 @@
-Howlin' Wolf - You Gonna Wreck My Life
-
-
-You Gonna Wreck My Life
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> You Gonna Wreck My Life</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ More
 Real Folk Blues (MCA 9279)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -99,5 +87,4 @@ For where I go nobody knows
 
 
 
-
-
+</lyrics></xml>

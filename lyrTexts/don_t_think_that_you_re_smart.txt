@@ -1,18 +1,5 @@
-Memphis Slim - Don't Think That You're Smart
-
-
-Don't Think That You're Smart
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Memphis Slim</artist><title> Don't Think That You're Smart</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -23,7 +10,8 @@ The
 Bluebird Recordings 1940-1941 (RCA 66720)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +91,4 @@ that money can't earn
 
 
 
-
-
+</lyrics></xml>

@@ -1,21 +1,5 @@
-ZZ Top - Groovy Little Hippie Pad
-
-
-Groovy Little Hippie Pad
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Groovy Little Hippie Pad</title>
+<songInfo>by 
 Frank
 Beard
  / 
@@ -32,7 +16,8 @@ El
 Loco (Warner Brothers 2-3593)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +95,4 @@ said
 
 
 
-
-
+</lyrics></xml>

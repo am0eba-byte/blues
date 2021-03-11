@@ -1,21 +1,5 @@
-ZZ Top - Hi Fi Mama
-
-
-Hi Fi Mama
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Hi Fi Mama</title>
+<songInfo>by 
 Frank
 Beard
  / 
@@ -31,8 +15,8 @@ from
 Deguello
 (Warner Brothers 2-3361)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -106,5 +90,4 @@ I got your name and your number
 
 
 
-
-
+</lyrics></xml>

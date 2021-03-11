@@ -1,17 +1,5 @@
-B.B. King - Go Underground
-
-
-Go Underground
-
-
-
-
-
-
-
-
-
-by Dave Clark / 
+<xml><metadata><artist>B.B. King</artist><title> Go Underground</title>
+<songInfo>by Dave Clark / 
 B.B.
 King
 
@@ -22,7 +10,8 @@ Indianola
 Mississippi Seeds (MCA MCAD-31343)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -181,5 +170,4 @@ And move underground
 
 
 
-
-
+</lyrics></xml>

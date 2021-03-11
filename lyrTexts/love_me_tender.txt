@@ -1,18 +1,5 @@
-B.B. King - Love Me Tender
-
-
-Love Me Tender
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Love Me Tender</title>
+<songInfo>by 
 Vera
 Matson
  / 
@@ -25,8 +12,8 @@ from
 Love
 Me Tender (MCA MCAD-886)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +110,4 @@ Love me tender, love me dear
 
 
 
-
-
+</lyrics></xml>

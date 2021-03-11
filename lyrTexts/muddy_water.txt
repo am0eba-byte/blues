@@ -1,18 +1,5 @@
-Keb' Mo' - Muddy Water
-
-
-Muddy Water
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Muddy Water</title>
+<songInfo>by 
 Kevin
 Moore
  / G. Graper
@@ -24,8 +11,8 @@ Slow
 Down (OKeh/550/Epic/Sony 491613 9)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -151,5 +138,4 @@ It's gonna be ok
 
 
 
-
-
+</lyrics></xml>

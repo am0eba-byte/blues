@@ -1,17 +1,5 @@
-John Lee Hooker - I Got The Key (Key To The Highway)
-
-
-I Got The Key (Key To The Highway)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> I Got The Key (Key To The Highway)</title>
+<songInfo>by 
 John
 Lee Hooker
  / Bernard Besman
@@ -23,8 +11,8 @@ from
 Anniversary Album (DCC CZS 042)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +96,4 @@ Because when I leave this time, I won't be back no more
 
 
 
-
-
+</lyrics></xml>

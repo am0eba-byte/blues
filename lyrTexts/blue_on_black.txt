@@ -1,17 +1,5 @@
-Kenny Wayne Shepherd - Blue On Black
-
-
-Blue On Black
-
-
-
-
-
-
-
- 
-
-by 
+<xml><metadata><artist>Kenny Wayne Shepherd</artist><title> Blue On Black</title>
+<songInfo>by 
 Kenny
 Wayne Shepherd
  / 
@@ -28,8 +16,8 @@ Trouble
 Is (Revolution/Warner Brothers 24689)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -137,5 +125,4 @@ Blue on black
 
 
 
-
-
+</lyrics></xml>

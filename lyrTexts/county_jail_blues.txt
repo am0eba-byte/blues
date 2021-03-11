@@ -1,18 +1,5 @@
-Big Maceo Merriweather - County Jail Blues
-
-
-County Jail Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Big Maceo Merriweather</artist><title> County Jail Blues</title>
+<songInfo>by 
 Alfred
 Fields
 
@@ -23,8 +10,8 @@ Bluebird
 Recordings 1941-1942 (RCA 66715)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -112,5 +99,4 @@ Note: vocals by Big Maceo and Tampa Red.
 
 
 
-
-
+</lyrics></xml>

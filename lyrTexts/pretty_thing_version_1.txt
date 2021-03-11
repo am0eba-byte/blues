@@ -1,18 +1,5 @@
-Bo Diddley - Pretty Thing (version 1)
-
-
-Pretty Thing (version 1)
-
-
-
-
-
-
-
-
-
-
-by Willie Dixon
+<xml><metadata><artist>Bo Diddley</artist><title> Pretty Thing (version 1)</title>
+<songInfo>by Willie Dixon
 
 recording of 1956
 
@@ -21,8 +8,8 @@ Chuck
 Berry & Bo Diddley: Guitar Legends (MCA Special Products
 20974)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +97,4 @@ Oh you pretty thing
 
 
 
-
-
+</lyrics></xml>

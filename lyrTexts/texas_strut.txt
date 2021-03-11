@@ -1,22 +1,5 @@
-Gary Moore - Texas Strut
-
-
-Texas
-Strut
-
-
-
-
-
-
-
- 
-
-
-
-
-
-by 
+<xml><metadata><artist>Gary Moore</artist><title> Texas Strut</title>
+<songInfo>by 
 Gary
 Moore
 
@@ -27,7 +10,8 @@ Still
 Got The Blues (Virgin CDV 2612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -178,5 +162,4 @@ A-how-how-how-how
 
 
 
-
-
+</lyrics></xml>

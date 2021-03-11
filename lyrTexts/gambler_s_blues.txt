@@ -1,18 +1,5 @@
-B.B. King - Gambler's Blues
-
-
-Gambler's Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Gambler's Blues</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -26,8 +13,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -144,5 +131,4 @@ satisfy
 
 
 
-
-
+</lyrics></xml>

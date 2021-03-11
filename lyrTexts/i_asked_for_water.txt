@@ -1,17 +1,5 @@
-Howlin' Wolf - I Asked For Water
-
-
-I Asked For Water
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> I Asked For Water</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 Evil
 (Chess LP-1540)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -94,5 +82,4 @@ You know I love you baby, but you've been gone too long
 
 
 
-
-
+</lyrics></xml>

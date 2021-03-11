@@ -1,18 +1,5 @@
-B.B. King - Spirit In The Dark
-
-
-Spirit In The Dark
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Spirit In The Dark</title>
+<songInfo>by 
 Aretha
 Franklin
 
@@ -22,8 +9,8 @@ from
 Heart
 to Heart (GRP 9767)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -292,5 +279,4 @@ Get ready
 
 
 
-
-
+</lyrics></xml>

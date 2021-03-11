@@ -1,17 +1,5 @@
-B.B. King - I'm Putting All My Eggs In One Basket
-
-
-I'm Putting All My Eggs In One Basket
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I'm Putting All My Eggs In One Basket</title>
+<songInfo>by 
 Irving
 Berlin
 
@@ -21,8 +9,8 @@ from
 Heart
 to Heart (GRP 9767)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -205,5 +193,4 @@ I'm betting on you
 
 
 
-
-
+</lyrics></xml>

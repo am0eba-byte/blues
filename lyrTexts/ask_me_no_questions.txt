@@ -1,18 +1,5 @@
-B.B. King - Ask Me No Questions
-
-
-Ask Me No Questions
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Ask Me No Questions</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,8 +10,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +139,4 @@ I know there's somebody else that will
 
 
 
-
-
+</lyrics></xml>

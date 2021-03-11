@@ -1,17 +1,5 @@
-B.B. King - Growing Old
-
-
-Growing Old
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Growing Old</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -25,8 +13,8 @@ My
 Sweet Little Angel (Flair V2-39103)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -151,5 +139,4 @@ Yeah, 'till we old and grey
 
 
 
-
-
+</lyrics></xml>

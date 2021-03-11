@@ -1,21 +1,5 @@
-Janis Joplin - Winin' Boy
-
-
-Winin' Boy
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> Winin' Boy</title>
+<songInfo>by 
 Jelly
 Roll Morton
 
@@ -26,8 +10,8 @@ From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -115,5 +99,4 @@ Mm, the winin' boy, don't you deny now my name
 
 
 
-
-
+</lyrics></xml>

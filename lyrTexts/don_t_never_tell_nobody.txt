@@ -1,17 +1,5 @@
-Clara Smith - Don't Never Tell Nobody
-
-
-Don't Never Tell Nobody
-
-
-
-
-
-
-
-
-
-by (probably 
+<xml><metadata><artist>Clara Smith</artist><title> Don't Never Tell Nobody</title>
+<songInfo>by (probably 
 James
 P.) Johnson
 
@@ -22,8 +10,8 @@ Complete
 Recorded Works, Vol. 1 (1923-1924) (Document
 5364)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +99,4 @@ Do never tell nobody what your perfect good man can do
 
 
 
-
-
+</lyrics></xml>

@@ -1,23 +1,11 @@
-John Lee Hooker - Baby, How Can You Do It
-
-
-Baby, How Can You Do It
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>John Lee Hooker</artist><title> Baby, How Can You Do It</title>
+<songInfo>by
 
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +111,4 @@ Doo-doo, doo-doo doo-dop dah
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-B.B. King - Hummingbird
-
-
-Hummingbird
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Hummingbird</title>
+<songInfo>by 
 Leon
 Russell
 
@@ -23,8 +10,8 @@ Live
 In Japan (MCA Victor MVCM-253 & MCA
 11810)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -163,5 +150,4 @@ hummingbird don't fly away
 
 
 
-
-
+</lyrics></xml>

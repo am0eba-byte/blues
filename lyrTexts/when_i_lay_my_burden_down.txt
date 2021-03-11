@@ -1,17 +1,5 @@
-Mississippi Fred McDowell - When I Lay My Burden Down
-
-
-When I Lay My Burden Down
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Mississippi Fred McDowell</artist><title> When I Lay My Burden Down</title>
+<songInfo>by 
 Mississippi
 Fred McDowell
 
@@ -23,8 +11,8 @@ You
 Gotta Move (Arhoolie 304)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -98,5 +86,4 @@ Glory, glory, when I lay my burden down
 
 
 
-
-
+</lyrics></xml>

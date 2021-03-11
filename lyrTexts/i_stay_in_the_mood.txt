@@ -1,17 +1,5 @@
-B.B. King - I Stay In The Mood
-
-
-I Stay In The Mood
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Stay In The Mood</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -32,8 +20,8 @@ Had a Baby (ACE 271)
 Ambassador
 of the Blues (Crown 001)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -136,5 +124,4 @@ Please come back to me baby, 'cause I'm tired of livin' by myself
 
 
 
-
-
+</lyrics></xml>

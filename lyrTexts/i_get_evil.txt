@@ -1,18 +1,5 @@
-Albert King - I Get Evil
-
-
-I Get Evil
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> I Get Evil</title>
+<songInfo>by 
 Albert
 King
 
@@ -38,7 +25,8 @@ Live
 on Memory Lane (Monad 502)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -141,5 +129,4 @@ Whoo, come on, well all right
 
 
 
-
-
+</lyrics></xml>

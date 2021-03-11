@@ -1,21 +1,5 @@
-B.B. King - Choo Choo Ch'Boogie
-
-
-Choo Choo Ch'Boogie
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Choo Choo Ch'Boogie</title>
+<songInfo>by 
 Denver
 Darling
  / 
@@ -32,8 +16,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -177,5 +161,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

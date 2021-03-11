@@ -1,17 +1,5 @@
-Muddy Waters - I Just Want To Make Love To You
-
-
-I Just Want To Make Love To You
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> I Just Want To Make Love To You</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -22,8 +10,8 @@ Muddy
 Waters on Chess 1951-1959, Vol. 2 (Vogue
 600059)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +140,4 @@ Love to you
 
 
 
-
-
+</lyrics></xml>

@@ -1,16 +1,5 @@
-A.C. Reed - Woman In A Pick Up
-
-
-Woman In A Pick Up
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>A.C. Reed</artist><title> Woman In A Pick Up</title>
+<songInfo>by 
 Aaron
 Carthen Reed
 
@@ -20,8 +9,8 @@ from
 Junk
 Food (Delmark 3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -143,5 +132,4 @@ Goin' to New Orleans they were drivin' their pick up truck
 
 
 
-
-
+</lyrics></xml>

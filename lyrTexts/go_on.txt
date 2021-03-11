@@ -1,18 +1,5 @@
-B.B. King - Go On
-
-
-Go On
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Go On</title>
+<songInfo>by 
 Jerry
 Williams
 
@@ -23,8 +10,8 @@ King
 of Blues: 1989 (MCA MCAD-42183)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -195,5 +182,4 @@ Go on, baby, go on, go on ...
 
 
 
-
-
+</lyrics></xml>

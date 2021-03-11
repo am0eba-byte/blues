@@ -1,16 +1,5 @@
-Blind Lemon Jefferson - Change My Luck Blues
-
-
-Change My Luck Blues
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> Change My Luck Blues</title>
+<songInfo>by 
 Blind
 Lemon Jefferson
 
@@ -21,7 +10,8 @@ Blind
 Lemon Jefferson (Milestone 47022)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +98,4 @@ Be gone mama, be gone
 
 
 
-
-
+</lyrics></xml>

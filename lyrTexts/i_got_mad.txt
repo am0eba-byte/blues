@@ -1,17 +1,5 @@
-Albert Collins - I Got Mad
-
-
-I Got Mad
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> I Got Mad</title>
+<songInfo>by 
 A.C.
 Reed (Aaron Carthen Reed)
 
@@ -22,8 +10,8 @@ from
 Junk
 Food (3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -145,5 +133,4 @@ Food
 
 
 
-
-
+</lyrics></xml>

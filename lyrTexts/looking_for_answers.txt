@@ -1,18 +1,5 @@
-Susan Tedeschi - Looking For Answers
-
-
-Looking For Answers
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> Looking For Answers</title>
+<songInfo>by 
 Susan
 Tedeschi
 
@@ -23,7 +10,8 @@ Just
 Won't Burn (Tone-Cool 1164)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +120,4 @@ Ooh, ooh, oooh
 
 
 
-
-
+</lyrics></xml>

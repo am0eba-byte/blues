@@ -1,17 +1,5 @@
-Sonny Boy Williamson I (John Lee) - Win The War Blues
-
-
-Win The War Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Sonny Boy Williamson I (John Lee)</artist><title> Win The War Blues</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -21,8 +9,8 @@ from various albums listed
 here
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +99,4 @@ p47pilots.com
 
 
 
-
-
+</lyrics></xml>

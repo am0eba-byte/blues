@@ -1,17 +1,5 @@
-John Lee Hooker - Baby, Baby Lee (Version 2)
-
-
-Baby Lee (Version 2)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Baby, Baby Lee (Version 2)</title>
+<songInfo>by 
 John
 Lee Hooker
  / 
@@ -25,8 +13,8 @@ The
 Healer (Silvertone ZD74307)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +96,4 @@ I love you gal, hmmm
 
 
 
-
-
+</lyrics></xml>

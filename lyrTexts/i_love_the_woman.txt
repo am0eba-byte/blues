@@ -1,21 +1,5 @@
-Freddie King - I Love The Woman
-
-
-I Love The Woman
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> I Love The Woman</title>
+<songInfo>by 
 Billy
 Myles
  / Nath
@@ -27,8 +11,8 @@ Hide
 Away: The Best of Freddie King (Rhino
 R2-71510)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -114,5 +98,4 @@ Note: Federal Single #12401, January 1961.
 
 
 
-
-
+</lyrics></xml>

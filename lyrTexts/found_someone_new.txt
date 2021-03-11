@@ -1,18 +1,5 @@
-Susan Tedeschi - Found Someone New
-
-
-Found Someone New
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> Found Someone New</title>
+<songInfo>by 
 Susan
 Tedeschi
 
@@ -23,7 +10,8 @@ Just
 Won't Burn (Tone-Cool 1164)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +111,4 @@ I've been strong
 
 
 
-
-
+</lyrics></xml>

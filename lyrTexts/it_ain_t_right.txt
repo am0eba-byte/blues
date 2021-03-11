@@ -1,17 +1,5 @@
-John Mayall's Bluesbreakers - It Ain't Right
-
-
-It Ain't Right
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> It Ain't Right</title>
+<songInfo>by 
 Walter
 Jacobs a.k.a. Little Walter
 
@@ -22,8 +10,8 @@ Bluesbreakers
 with Eric Clapton (Deram 800086 or Mobile Fidelity
 616)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -85,5 +73,4 @@ Well, you know, my baby, you done something wrong
 
 
 
-
-
+</lyrics></xml>

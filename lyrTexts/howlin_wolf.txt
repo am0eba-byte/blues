@@ -1,17 +1,5 @@
-Muddy Waters - Howlin' Wolf
-
-
-Howlin' Wolf
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Howlin' Wolf</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,8 +10,8 @@ Sail
 on (Chess LPS-1539, Wolf 120893)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +101,4 @@ I get real bad..., and I be jumpin' from limb to limb!
 
 
 
-
-
+</lyrics></xml>

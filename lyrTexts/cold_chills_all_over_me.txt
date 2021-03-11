@@ -1,17 +1,5 @@
-John Lee Hooker - Cold Chills All Over Me
-
-
-Cold Chills All Over Me
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Cold Chills All Over Me</title>
+<songInfo>by 
 John
 Lee Hooker
  / Bernard Besman
@@ -19,8 +7,8 @@ Lee Hooker
 recording of 1952(?)
 
 from Cold Chills (), 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -97,5 +85,4 @@ You didn't come home last night, baby and that lasted four days
 
 
 
-
-
+</lyrics></xml>

@@ -1,23 +1,11 @@
-B.B. King - The Road I Travel
-
-
-The Road I Travel
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> The Road I Travel</title>
+<songInfo>by
 
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -142,5 +130,4 @@ Seem like I could just break down and die
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Howlin' Wolf - Smokestack Lightnin'
-
-
-Smokestack Lightnin'
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Smokestack Lightnin'</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 Evil
 (Chess 1540)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -147,5 +135,4 @@ are discharged.
 
 
 
-
-
+</lyrics></xml>

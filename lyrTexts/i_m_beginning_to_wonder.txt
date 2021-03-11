@@ -1,17 +1,5 @@
-Albert Collins - I'm Beginning To Wonder
-
-
-I'm Beginning To Wonder
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> I'm Beginning To Wonder</title>
+<songInfo>by 
 Gwendolyn
 Collins
  / 
@@ -25,7 +13,8 @@ Iceman
 (Capitol or Virgin 86197)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -93,5 +82,4 @@ What we did, we've never forgotten, what we had, we left behind
 
 
 
-
-
+</lyrics></xml>

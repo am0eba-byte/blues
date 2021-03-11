@@ -1,17 +1,5 @@
-Albert Collins - Tired Man
-
-
-Tired Man
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Tired Man</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -27,7 +15,8 @@ Collins
 Mix (Virgin 39097 or Pointblank V2-39097)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -107,5 +96,4 @@ Ev'ry night and ev'ry day
 
 
 
-
-
+</lyrics></xml>

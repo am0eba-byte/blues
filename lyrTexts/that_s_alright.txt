@@ -1,17 +1,5 @@
-John Lee Hooker - That's Alright
-
-
-That's Alright
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> That's Alright</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ The
 Healer (Silvertone ZD74307)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +140,4 @@ Thank you
 
 
 
-
-
+</lyrics></xml>

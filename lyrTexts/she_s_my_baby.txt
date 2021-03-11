@@ -1,18 +1,5 @@
-B.B. King - She's My Baby
-
-
-She's My Baby
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> She's My Baby</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,7 +10,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -160,5 +148,4 @@ Note: a.k.a. I've Got A Right To Love My Baby.
 
 
 
-
-
+</lyrics></xml>

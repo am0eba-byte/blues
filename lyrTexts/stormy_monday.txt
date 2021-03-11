@@ -1,17 +1,5 @@
-Albert Collins - Stormy Monday
-
-
-Stormy Monday
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Stormy Monday</title>
+<songInfo>by 
 T-Bone
 Walker
 
@@ -22,7 +10,8 @@ Live
 In Japan (Alligator ALCD-4733)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -121,5 +110,4 @@ love best
 
 
 
-
-
+</lyrics></xml>

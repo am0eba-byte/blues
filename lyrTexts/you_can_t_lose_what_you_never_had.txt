@@ -1,17 +1,5 @@
-Muddy Waters - You Can't Lose What You Never Had
-
-
-You Can't Lose What You Never Had
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> You Can't Lose What You Never Had</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -26,8 +14,8 @@ One
 More Mile (MCA/Chess CHD2-9348)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -122,5 +110,4 @@ you can't lose some little girl you ain't never had
 
 
 
-
-
+</lyrics></xml>

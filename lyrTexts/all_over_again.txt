@@ -1,18 +1,5 @@
-B.B. King - All Over Again
-
-
-All Over Again
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> All Over Again</title>
+<songInfo>by 
 B.B.
 King
  / Adams
@@ -24,8 +11,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +113,4 @@ Yes, because it's all over now, and baby you can bet on that
 
 
 
-
-
+</lyrics></xml>

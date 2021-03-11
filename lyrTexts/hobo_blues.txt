@@ -1,17 +1,5 @@
-John Lee Hooker - Hobo Blues
-
-
-Hobo Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Hobo Blues</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -20,8 +8,8 @@ recording of 1959
 from The Vee Jay Years 1955-1964 (Charly 82333-1754-2) &
 
 Vee Jay No. 1071, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -116,5 +104,4 @@ words
 
 
 
-
-
+</lyrics></xml>

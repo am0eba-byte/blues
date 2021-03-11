@@ -1,18 +1,5 @@
-Ida Cox - Any Woman's Blues
-
-
-Any Woman's Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Any Woman's Blues</title>
+<songInfo>by 
 Lovie
 Austin
 
@@ -24,8 +11,8 @@ Complete
 Recorded Works, Vol. 1 (1923) (Document
 5322)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -125,5 +112,4 @@ Gonna kill somebody if they don't let my man alone
 
 
 
-
-
+</lyrics></xml>

@@ -1,22 +1,11 @@
-Jonny Lang  - Right Back
-
-
-Right Back
-
-
-
-
-
-
-
-
-
-by Jerry Lynn Williams / Danny Kortchmar
+<xml><metadata><artist>Jonny Lang </artist><title> Right Back</title>
+<songInfo>by Jerry Lynn Williams / Danny Kortchmar
 recording of 1998
 from
 Wander This World (A&M 540984)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -116,5 +105,4 @@ Right back
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Ida Cox - Fogyism
-
-
-Fogyism
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Ida Cox</artist><title> Fogyism</title>
+<songInfo>by
 
 recording of July 1928
 
@@ -21,8 +8,8 @@ Complete
 Recorded Works, Vol. 4 (1927-1938) (Document
 5325)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +100,4 @@ Note: foyism, fogy, a person with old-fashioned ideas.
 
 
 
-
-
+</lyrics></xml>

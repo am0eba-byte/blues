@@ -1,18 +1,5 @@
-Albert King - I Wanna Get Funky
-
-
-Killing Floor
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> I Wanna Get Funky</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -23,8 +10,8 @@ The
 Best Of Albert King (Stax 60-005 or Fantasy
 60005)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +90,4 @@ I let you put me on the killin' floor
 
 
 
-
-
+</lyrics></xml>

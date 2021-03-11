@@ -1,18 +1,5 @@
-Junior Parker - Jivin' Woman
-
-
-Jivin' Woman
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Junior Parker</artist><title> Jivin' Woman</title>
+<songInfo>by 
 Deadric
 Malone
  / 
@@ -26,8 +13,8 @@ Junior's
 Blues/The Duke Recordings, Vol. 1 (MCA
 MCAD-10669)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +88,4 @@ Well you better hurry baby, someone else will take your place
 
 
 
-
-
+</lyrics></xml>

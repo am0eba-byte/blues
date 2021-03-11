@@ -1,23 +1,12 @@
-Jonny Lang - Second Guessing
-
-
-Second Guessing
-
-
-
-
-
-
-
-
-
-by David Z /
+<xml><metadata><artist>Jonny Lang</artist><title> Second Guessing</title>
+<songInfo>by David Z /
 Bruce McCabe
 recording of 1998
 from
 Wander This World (A&M 540984)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -92,5 +81,4 @@ by the way you feel
 
 
 
-
-
+</lyrics></xml>

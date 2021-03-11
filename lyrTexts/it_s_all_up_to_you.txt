@@ -1,17 +1,5 @@
-Big Maceo Merriweather - It's All Up To You
-
-
-It's All Up To You
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Big Maceo Merriweather</artist><title> It's All Up To You</title>
+<songInfo>by 
 Big
 Maceo Merriweather
 
@@ -22,8 +10,8 @@ Bluebird
 Recordings 1941-1942 (RCA 66715)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -99,5 +87,4 @@ She told me when I was leavin', that your love wasn't really true
 
 
 
-
-
+</lyrics></xml>

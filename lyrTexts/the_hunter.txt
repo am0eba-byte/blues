@@ -1,18 +1,5 @@
-Albert King - The Hunter
-
-
-The Hunter
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> The Hunter</title>
+<songInfo>by 
 Steve
 Cropper
  / 
@@ -37,7 +24,8 @@ King
 of the Blues Guitar (Atlantic 8213)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -127,5 +115,4 @@ How can I miss when I've got dead aim
 
 
 
-
-
+</lyrics></xml>

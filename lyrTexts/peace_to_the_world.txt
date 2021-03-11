@@ -1,18 +1,5 @@
-B.B. King - Peace To The World
-
-
-Peace To The World
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Peace To The World</title>
+<songInfo>by 
 Trade
 Martin
 
@@ -23,7 +10,8 @@ B.B.
 King Live At The Apollo (GRP GRD-9637)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -146,5 +134,4 @@ Let's all get together, bring peace to the world
 
 
 
-
-
+</lyrics></xml>

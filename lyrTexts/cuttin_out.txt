@@ -1,17 +1,5 @@
-John Lee Hooker - Cuttin' Out
-
-
-Cuttin' Out
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Cuttin' Out</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ The
 Healer (Silvertone ZD74307)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -153,5 +141,4 @@ Ooh
 
 
 
-
-
+</lyrics></xml>

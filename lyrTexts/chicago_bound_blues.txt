@@ -1,17 +1,5 @@
-Bessie Smith - Chicago Bound Blues
-
-
-Chicago Bound Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Chicago Bound Blues</title>
+<songInfo>by 
 Lovie
 Austin
 
@@ -24,8 +12,8 @@ C2K-47091)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -106,5 +94,4 @@ existence today.
 
 
 
-
-
+</lyrics></xml>

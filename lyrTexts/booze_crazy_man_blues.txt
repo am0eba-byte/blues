@@ -1,17 +1,5 @@
-Ida Cox - Booze Crazy Man Blues
-
-
-Booze Crazy Man Blues
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Ida Cox</artist><title> Booze Crazy Man Blues</title>
+<songInfo>by
 
 recording of July 1928
 
@@ -20,8 +8,8 @@ Complete
 Recorded Works, Vol. 4 (1927-1938) (Document
 5325)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +91,4 @@ Your goin' to let bad whiskey carry you to your grave
 
 
 
-
-
+</lyrics></xml>

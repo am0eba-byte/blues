@@ -1,16 +1,5 @@
-Stevie Ray Vaughan - May I have A talk With You
-
-
-May I have A talk With You
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> May I have A talk With You</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +10,8 @@ The
 Sky Is Crying (Epic EK-47390)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -137,5 +126,4 @@ MusicSearcher.com
 
 
 
-
-
+</lyrics></xml>

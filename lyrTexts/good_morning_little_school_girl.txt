@@ -1,23 +1,12 @@
-Jonny Lang - Good Morning Little School Girl
-
-
-Good Morning Little School Girl
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Good Morning Little School Girl</title>
+<songInfo>by
 Sonny Boy Williamson II (Rice Miller)
 recording of 1997
 from
 Lie To Me (A&M 540640)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -98,5 +87,4 @@ I can't help myself
 
 
 
-
-
+</lyrics></xml>

@@ -1,16 +1,5 @@
-John Lee Hooker - It Hurts Me So
-
-
-It Hurts Me So
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> It Hurts Me So</title>
+<songInfo>by 
 John
 Lee Hooker
  / Bernard Besman
@@ -22,8 +11,8 @@ from
 Anniversary Album (DCC CZS 042)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -125,5 +114,4 @@ it hurts me so, it hurts me so
 
 
 
-
-
+</lyrics></xml>

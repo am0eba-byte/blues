@@ -1,21 +1,5 @@
-George Thorogood - Louie To Frisco
-
-
-Louie To Frisco
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>George Thorogood</artist><title> Louie To Frisco</title>
+<songInfo>by 
 Chuck
 Berry
 
@@ -26,8 +10,8 @@ The
 Baddest Of George Thorogood And The Destroyers (EMI E2-97718 or
 Capitol 97718)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -143,5 +127,4 @@ lyrics anyway
 
 
 
-
-
+</lyrics></xml>

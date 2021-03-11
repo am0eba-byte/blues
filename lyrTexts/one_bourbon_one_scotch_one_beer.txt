@@ -1,21 +1,5 @@
-George Thorogood - One Bourbon, One Scotch, One Beer
-
-
-One Bourbon, One Scotch, One Beer
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>George Thorogood</artist><title> One Bourbon, One Scotch, One Beer</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -33,8 +17,8 @@ The
 Baddest Of George Thorogood And The Destroyers (EMI E2-97718 or
 Capitol 97718)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -281,5 +265,4 @@ One bourbon, one scotch, one beer
 
 
 
-
-
+</lyrics></xml>

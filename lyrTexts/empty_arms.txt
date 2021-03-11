@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - Empty Arms lyrics
-
-
-Empty Arms
-
-
-
-chords
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Empty Arms lyrics</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
 
@@ -30,8 +14,8 @@ The
 Sky Is Crying (Epic EK-47390)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -130,5 +114,4 @@ Low down and dead, and all alone
 
 
 
-
-
+</lyrics></xml>

@@ -1,21 +1,5 @@
-B.B. King - Did You Ever Love A Woman
-
-
-Did You Ever Love A Woman
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Did You Ever Love A Woman</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -28,8 +12,8 @@ from
 RPM
 Hits 1951-1957 (ACE 712)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -172,5 +156,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

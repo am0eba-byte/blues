@@ -1,28 +1,5 @@
-Robert Johnson - Milkcow's Calf Blues, take 2
-
-
-Milkcow's Calf Blues (Take 2)
-
-
-
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> Milkcow's Calf Blues, take 2</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -34,7 +11,8 @@ Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222
 & Columbia 4622 & Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -146,5 +124,4 @@ hoo hoo, in this strange man's town
 
 
 
-
-
+</lyrics></xml>

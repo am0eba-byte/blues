@@ -1,22 +1,11 @@
-Muddy Waters - Caldonia
-
-
-Caldonia
-
-
-
-
-
-
-
-
-by Fleecie Moore
+<xml><metadata><artist>Muddy Waters</artist><title> Caldonia</title>
+<songInfo>by Fleecie Moore
 
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -255,5 +244,4 @@ Crazy 'bout ya baby)
 
 
 
-
-
+</lyrics></xml>

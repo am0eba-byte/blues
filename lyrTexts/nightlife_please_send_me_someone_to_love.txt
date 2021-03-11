@@ -1,17 +1,5 @@
-B.B. King - Nightlife Please Send Me Someone To Love
-
-
-Nightlife Please Send Me Someone To Love
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Nightlife Please Send Me Someone To Love</title>
+<songInfo>by 
 Willie
 Nelson
  / 
@@ -27,8 +15,8 @@ from
 Love
 Me Tender (MCA MCAD-886)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -191,5 +179,4 @@ Someone to love
 
 
 
-
-
+</lyrics></xml>

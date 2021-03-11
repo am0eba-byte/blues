@@ -1,17 +1,5 @@
-Mississippi Fred McDowell - Write Me A Few Lines
-
-
-Write Me A Few Lines
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Mississippi Fred McDowell</artist><title> Write Me A Few Lines</title>
+<songInfo>by 
 Mississippi
 Fred McDowell
 
@@ -23,8 +11,8 @@ You
 Gotta Move (Arhoolie 304)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -93,5 +81,4 @@ I'm gonna let the waves of water, Lord, wash my troubles down
 
 
 
-
-
+</lyrics></xml>

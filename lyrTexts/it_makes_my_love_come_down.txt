@@ -1,17 +1,5 @@
-Bessie Smith - It Makes My Love Come Down
-
-
-It Makes My Love Come Down
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> It Makes My Love Come Down</title>
+<songInfo>by 
 Bessie
 Smith
 
@@ -24,8 +12,8 @@ Complete Recordings, Vol. 4 (Columbia/Legacy
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -151,5 +139,4 @@ Note 3: daffy, crazy or foolish, in this context it means crazy.
 
 
 
-
-
+</lyrics></xml>

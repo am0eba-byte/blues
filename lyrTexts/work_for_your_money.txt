@@ -1,17 +1,5 @@
-Howlin' Wolf - Work For Your Money
-
-
-Work For Your Money
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Work For Your Money</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ More
 Real Folk Blues (MCA 9279)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -94,5 +82,4 @@ I want to love you baby, but you keep driving me from your door
 
 
 
-
-
+</lyrics></xml>

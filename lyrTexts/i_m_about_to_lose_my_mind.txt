@@ -1,17 +1,5 @@
-T-Bone Walker - I'm About To Lose My Mind
-
-
-I'm About To Lose My Mind
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>T-Bone Walker</artist><title> I'm About To Lose My Mind</title>
+<songInfo>by 
 Aaron
 Thibeaux "T-Bone" Walker
 
@@ -22,8 +10,8 @@ The
 Very Best Of T-Bone Walker (Koch International
 8066)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -96,5 +84,4 @@ You keep me so worried baby, I'm 'bout to lose my mind
 
 
 
-
-
+</lyrics></xml>

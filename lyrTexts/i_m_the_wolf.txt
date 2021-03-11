@@ -1,17 +1,5 @@
-Howlin' Wolf - I'm The Wolf
-
-
-I'm The Wolf
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> I'm The Wolf</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ More
 Real Folk Blues (MCA 9279)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +91,4 @@ oh the Wolf gonna wreck her life
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Albert King - Everybody Wants To Go To Heaven
-
-
-Everybody Wants To Go To Heaven
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> Everybody Wants To Go To Heaven</title>
+<songInfo>by 
 Don
 Nix
 
@@ -23,8 +10,8 @@ The
 Best Of Albert King (Stax 60-005 or Fantasy
 60005)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -112,5 +99,4 @@ But nobody wants to die
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Albert Collins - Give Me My Blues
-
-
-Give Me My Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Give Me My Blues</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -21,8 +9,8 @@ from
 Frostbite
 (Alligator ALCD-4719)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -128,5 +116,4 @@ Ooh-ho, yeah
 
 
 
-
-
+</lyrics></xml>

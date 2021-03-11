@@ -1,17 +1,5 @@
-John Lee Hooker - Let's Make It
-
-
-Let's Make It
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Let's Make It</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -20,8 +8,8 @@ recording of 1961
 from The Vee Jay Years 1955-1964 (Charly 82333-1754-2) &
 
 Vee Jay No. 2210, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -91,5 +79,4 @@ Let's make it, let's make it, let's make it
 
 
 
-
-
+</lyrics></xml>

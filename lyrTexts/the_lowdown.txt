@@ -1,18 +1,5 @@
-B.B. King - The Lowdown
-
-
-The Lowdown
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> The Lowdown</title>
+<songInfo>by 
 Will
 Jennings
  / 
@@ -26,7 +13,8 @@ There
 Is Always One More Time (MCA MCAD-10295)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -195,5 +183,4 @@ Ride it high
 
 
 
-
-
+</lyrics></xml>

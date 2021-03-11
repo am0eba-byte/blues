@@ -1,21 +1,5 @@
-Freddie King - Pack It Up
-
-
-Pack It Up
-
-
-
-
-
-
-
-
-
-
-
-
-
-by G. Chandler / Gonzales
+<xml><metadata><artist>Freddie King</artist><title> Pack It Up</title>
+<songInfo>by G. Chandler / Gonzales
 
 recording of 1974
 
@@ -23,8 +7,8 @@ from
 Burglar
 (Polygram 831815)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -164,5 +148,4 @@ Whoa Yeah
 
 
 
-
-
+</lyrics></xml>

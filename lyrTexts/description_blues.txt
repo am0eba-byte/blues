@@ -1,18 +1,5 @@
-T-Bone Walker - Description Blues
-
-
-Description Blues
-
-
-
-
-
-
-
-
-
-
-by Reiner
+<xml><metadata><artist>T-Bone Walker</artist><title> Description Blues</title>
+<songInfo>by Reiner
 
 recording of 19
 
@@ -21,8 +8,8 @@ The
 Very Best Of T-Bone Walker (Koch International
 8066)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +88,4 @@ for me?
 
 
 
-
-
+</lyrics></xml>

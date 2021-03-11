@@ -1,18 +1,5 @@
-Keb' Mo' - Perpetual Blues Machine
-
-
-Perpetual Blues Machine
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Perpetual Blues Machine</title>
+<songInfo>by 
 Kevin
 Moore
  / G. Graper
@@ -24,8 +11,8 @@ Just
 Like You (OKeh/Epic/Sony 484117 6)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -141,5 +128,4 @@ But there was just no way to tell u so
 
 
 
-
-
+</lyrics></xml>

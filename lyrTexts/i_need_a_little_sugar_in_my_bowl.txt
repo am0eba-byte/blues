@@ -1,17 +1,5 @@
-Bessie Smith - I Need A Little Sugar In My Bowl
-
-
-I Need A Little Sugar In My Bowl
-
-
-
-
-
-
-
-
-
-by Brymn / Small / Williams
+<xml><metadata><artist>Bessie Smith</artist><title> I Need A Little Sugar In My Bowl</title>
+<songInfo>by Brymn / Small / Williams
 
 recording of November 20 1931
 
@@ -20,8 +8,8 @@ Complete
 Recordings, Vol. 5: The Final Chapter (Columbia/Legacy
 57546)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -112,5 +100,4 @@ stop your foolin', and drop somethin', in my bowl)
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - The Things (That) I Used To Do
-
-
-The Things (That) I Used To Do
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> The Things (That) I Used To Do</title>
+<songInfo>by 
 E.
 Jones
 
@@ -26,8 +14,8 @@ Live
 At Carnegie Hall (Sony 68163)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -137,5 +125,4 @@ you
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Muddy Waters - Corrina, Corrina
-
-
-Corrina, Corrina
-
-
-
-
-
-
-
-
-
-by Chatman / Williams / Parish
+<xml><metadata><artist>Muddy Waters</artist><title> Corrina, Corrina</title>
+<songInfo>by Chatman / Williams / Parish
 
 recording of 19
 
@@ -20,8 +8,8 @@ In
 Concert (Prestige Jazz 150)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -116,5 +104,4 @@ Well I know you didn#180;t mean it, no good, no how!
 
 
 
-
-
+</lyrics></xml>

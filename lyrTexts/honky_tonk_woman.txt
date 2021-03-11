@@ -1,18 +1,5 @@
-Albert King - Honky Tonk Woman
-
-
-Honky Tonk Woman
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> Honky Tonk Woman</title>
+<songInfo>by 
 Mick
 Jagger
  / 
@@ -26,8 +13,8 @@ The
 Best Of Albert King (Stax 60-005 or Fantasy
 60005)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -119,5 +106,4 @@ Gimme, gimme, gimme, the honky tonk blues
 
 
 
-
-
+</lyrics></xml>

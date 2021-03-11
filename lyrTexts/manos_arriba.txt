@@ -1,18 +1,5 @@
-Alvin Youngblood Hart - Manos Arriba
-
-
-Manos Arriba
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Alvin Youngblood Hart</artist><title> Manos Arriba</title>
+<songInfo>by 
 Alvin
 Youngblood Hart
 
@@ -23,7 +10,8 @@ Start
 With The Soul (Rykodisc or Hannibal 1449)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +111,4 @@ That I'm the one takin' over
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-John Lee Hooker - The Healer
-
-
-The Healer
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> The Healer</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ The
 Healer (Silvertone ZD74307)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -183,5 +171,4 @@ Can heal you, can heal you, heal you, if you let it
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Albert Collins - A Good Fool Is Hard To Find
-
-
-A Good Fool Is Hard To Find
-
-
-
-
-
-
-
-
-
-by Houston / Shackleford
+<xml><metadata><artist>Albert Collins</artist><title> A Good Fool Is Hard To Find</title>
+<songInfo>by Houston / Shackleford
 
 recording of 1986
 
@@ -20,7 +8,8 @@ Cold
 Snap (Alligator ALCD-4752)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +92,4 @@ You take the lesson from me woman, a good fool is hard to find
 
 
 
-
-
+</lyrics></xml>

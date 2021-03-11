@@ -1,18 +1,5 @@
-B.B. King - I Was Blind
-
-
-I Was Blind
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Was Blind</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -30,8 +17,8 @@ Heart
 & Soul (Virgin 40072)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +139,4 @@ So baby please, baby please think of you and me
 
 
 
-
-
+</lyrics></xml>

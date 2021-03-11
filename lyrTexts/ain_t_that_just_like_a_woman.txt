@@ -1,21 +1,5 @@
-B.B. King - Ain't That Just Like A Woman
-
-
-Ain't That Just Like A Woman
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Ain't That Just Like A Woman</title>
+<songInfo>by 
 Claude
 Demetrius
  / 
@@ -29,8 +13,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -194,5 +178,4 @@ They'll do it every time
 
 
 
-
-
+</lyrics></xml>

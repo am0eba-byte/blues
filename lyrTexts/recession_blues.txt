@@ -1,18 +1,5 @@
-B.B. King - Recession Blues
-
-
-Recession Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Recession Blues</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,8 +10,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -139,5 +126,4 @@ help me get out of this misery
 
 
 
-
-
+</lyrics></xml>

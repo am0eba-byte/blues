@@ -1,17 +1,5 @@
-John Lee Hooker - Democrat Man
-
-
-Democrat Man
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Democrat Man</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ That's
 My Story (Original Blues Classics 538)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +112,4 @@ And I'll be until the day I die
 
 
 
-
-
+</lyrics></xml>

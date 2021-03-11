@@ -1,17 +1,5 @@
-B.B. King - I Can't Stop Loving You
-
-
-I Can't Stop Loving You
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Can't Stop Loving You</title>
+<songInfo>by 
 Don
 Gibson
 
@@ -21,8 +9,8 @@ from
 Heart
 to Heart (GRP 9767)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -207,5 +195,4 @@ Yeah, yeah, yeah, yeah
 
 
 
-
-
+</lyrics></xml>

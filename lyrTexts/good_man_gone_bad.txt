@@ -1,18 +1,5 @@
-B.B. King - Good Man Gone Bad
-
-
-Good Man Gone Bad
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Good Man Gone Bad</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -29,8 +16,8 @@ Soul of B. B. King (United 7714)
 Blues
 on the Bayou (MCA 11879)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -145,5 +132,4 @@ Makes me mad as a man can be
 
 
 
-
-
+</lyrics></xml>

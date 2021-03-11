@@ -1,21 +1,5 @@
-B.B. King - Catfish Blues
-
-
-Catfish Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Catfish Blues</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -36,8 +20,8 @@ amp;
 B.B.'s
 Boogie (Mastertone 8342)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -194,5 +178,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

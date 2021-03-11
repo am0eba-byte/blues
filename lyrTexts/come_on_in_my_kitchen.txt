@@ -1,18 +1,5 @@
-Keb' Mo' - Come On In My Kitchen
-
-
-Come On In My Kitchen
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Come On In My Kitchen</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -22,8 +9,8 @@ from
 Keb'
 Mo' (OKeh/Epic EK 57863)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -100,5 +87,4 @@ take
 
 
 
-
-
+</lyrics></xml>

@@ -1,16 +1,5 @@
-John Lee Hooker - Let's Talk It Over
-
-
-Let's Talk It Over
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Let's Talk It Over</title>
+<songInfo>by 
 John
 Lee Hooker
  / Bernard Besman
@@ -22,8 +11,8 @@ from
 Anniversary Album (DCC CZS 042)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +97,4 @@ Come back, baby, let's talk it over one more time
 
 
 
-
-
+</lyrics></xml>

@@ -1,21 +1,5 @@
-B.B. King - Rusty Dusty Blues (Mama Mama Blues)
-
-
-Rusty Dusty Blues (Mama Mama Blues)
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Rusty Dusty Blues (Mama Mama Blues)</title>
+<songInfo>by 
 J.
 Mayo Williams
 
@@ -26,8 +10,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -160,5 +144,4 @@ Get up mama, before it gets too rusty
 
 
 
-
-
+</lyrics></xml>

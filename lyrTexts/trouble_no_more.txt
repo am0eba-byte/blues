@@ -1,17 +1,5 @@
-Muddy Waters - Trouble No More
-
-
-Trouble No More
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Trouble No More</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,7 +10,8 @@ Chess
 Box (MCA/Chess CHD3-80002)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -106,5 +95,4 @@ Someday baby, you ain't gonna trouble poor me, anymore
 
 
 
-
-
+</lyrics></xml>

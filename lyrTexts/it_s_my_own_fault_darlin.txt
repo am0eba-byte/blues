@@ -1,17 +1,5 @@
-John Lee Hooker - It's My Own Fault Darlin'
-
-
-It's My Own Fault Darlin'
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> It's My Own Fault Darlin'</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ House
 Of The Blues (Vogue VG 651 500115)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -94,5 +82,4 @@ did
 
 
 
-
-
+</lyrics></xml>

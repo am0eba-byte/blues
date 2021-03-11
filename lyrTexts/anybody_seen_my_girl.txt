@@ -1,18 +1,5 @@
-Keb' Mo' - Anybody Seen My Girl
-
-
-Anybody Seen My Girl
-
-
-
-
-
-
-
- 
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Anybody Seen My Girl</title>
+<songInfo>by 
 Kevin
 Moore
 
@@ -22,8 +9,8 @@ from
 Keb'
 Mo' (OKeh/Epic EK 57863)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -131,5 +118,4 @@ Send my baby home to me
 
 
 
-
-
+</lyrics></xml>

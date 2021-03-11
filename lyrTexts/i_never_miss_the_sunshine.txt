@@ -1,18 +1,5 @@
-Clara Smith - I Never Miss The Sunshine (I'm So Used To The Rain)
-
-
-I Never Miss The Sunshine
-(I'm So Used To The Rain)
-
-
-
-
-
-
-
-
-
-by Harvey
+<xml><metadata><artist>Clara Smith</artist><title> I Never Miss The Sunshine (I'm So Used To The Rain)</title>
+<songInfo>by Harvey
 
 recording of September 7, 1923
 
@@ -21,8 +8,8 @@ Complete
 Recorded Works, Vol. 1 (1923-1924) (Document
 5364)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -114,5 +101,4 @@ Oh, I never miss the sunshine, I'm so used to the rain
 
 
 
-
-
+</lyrics></xml>

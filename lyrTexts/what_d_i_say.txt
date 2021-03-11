@@ -1,17 +1,5 @@
-John Mayall's Bluesbreakers - What'd I Say
-
-
-What'd I Say
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> What'd I Say</title>
+<songInfo>by 
 Ray
 Charles
 
@@ -22,8 +10,8 @@ Bluesbreakers
 with Eric Clapton (Deram 800086 or Mobile Fidelity
 616)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +89,4 @@ All right, baby
 
 
 
-
-
+</lyrics></xml>

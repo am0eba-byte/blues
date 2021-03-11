@@ -1,17 +1,5 @@
-John Lee Hooker - Baby, Baby Lee (Version 1)
-
-
-Baby Lee (Version 1)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Baby, Baby Lee (Version 1)</title>
+<songInfo>by 
 John
 Lee Hooker
  / 
@@ -27,8 +15,8 @@ The Vee Jay Years 1955-1964 (Charly
 82333-1754-2) amp;
 
 Vee Jay No. 55-444, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -114,5 +102,4 @@ You won't treat me right
 
 
 
-
-
+</lyrics></xml>

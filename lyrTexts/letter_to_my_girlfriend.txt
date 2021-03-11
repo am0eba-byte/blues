@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - Letter To My Girlfriend
-
-
-Letter To My Girlfriend
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Letter To My Girlfriend</title>
+<songInfo>by 
 E.
 Jones
 
@@ -22,8 +10,8 @@ Live
 At Carnegie Hall (Sony 68163)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -134,5 +122,4 @@ stay with ya, sleep with ya all of my life
 
 
 
-
-
+</lyrics></xml>

@@ -1,20 +1,5 @@
-Janis Joplin - Blindman
-
-
-Blindman
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> Blindman</title>
+<songInfo>by 
 Peter
 Albin
  / 
@@ -37,8 +22,8 @@ Big
 Brother amp; the Holding Company Featuring Janis Joplin (Sony
 66425)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +109,4 @@ Show me the way, the way to go home"
 
 
 
-
-
+</lyrics></xml>

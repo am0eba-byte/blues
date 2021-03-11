@@ -1,18 +1,5 @@
-B.B. King - I Love You So
-
-
-I Love You So
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Love You So</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -34,8 +21,8 @@ Heart
 & Soul (Virgin 40072)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -158,5 +145,4 @@ I mean you, baby
 
 
 
-
-
+</lyrics></xml>

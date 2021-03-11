@@ -1,18 +1,5 @@
-B.B. King - Broken Heart
-
-
-Broken Heart
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Broken Heart</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,7 +10,8 @@ Blues
 'n' Jazz (MCA MCAD-27119)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -139,5 +127,4 @@ You know I need my lady home
 
 
 
-
-
+</lyrics></xml>

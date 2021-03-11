@@ -1,17 +1,5 @@
-Susan Tedeschi - Ain't Nobody's Business
-
-
-Ain't Nobody's Business
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> Ain't Nobody's Business</title>
+<songInfo>by 
 Porter
 Grainger
  / Robbins
@@ -22,8 +10,8 @@ from
 Better
 Days (Oarfin 950215)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -99,5 +87,4 @@ Ain't nobody's business if I do
 
 
 
-
-
+</lyrics></xml>

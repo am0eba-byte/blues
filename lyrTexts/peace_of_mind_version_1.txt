@@ -1,18 +1,5 @@
-B.B. King - Peace Of Mind (Version 1)
-
-
-Peace Of Mind (Version 1)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Peace Of Mind (Version 1)</title>
+<songInfo>by 
 B.B.
 King 
  / 
@@ -22,8 +9,8 @@ Josea
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +113,4 @@ Oh, but I've never had peace of mind, darling, in my life time
 
 
 
-
-
+</lyrics></xml>

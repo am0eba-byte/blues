@@ -1,18 +1,5 @@
-B.B. King - Same Old Story (Same Old Song)
-
-
-Same Old Story (Same Old Song)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Same Old Story (Same Old Song)</title>
+<songInfo>by 
 B.B.
 King
 
@@ -22,8 +9,8 @@ from
 Take
 It Home (MCA 11770)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -136,5 +123,4 @@ Same old story, same old song
 
 
 
-
-
+</lyrics></xml>

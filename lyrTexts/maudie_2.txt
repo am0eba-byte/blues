@@ -1,25 +1,13 @@
-John Lee Hooker - Maudie (Version 2)
-
-
-Maudie (Version 2)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Maudie (Version 2)</title>
+<songInfo>by 
 John
 Lee Hooker
 
 recording
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -79,5 +67,4 @@ You've been gone so long, 'cause I miss you so
 
 
 
-
-
+</lyrics></xml>

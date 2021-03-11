@@ -1,17 +1,5 @@
-Memphis Slim - Old Taylor
-
-
-Old Taylor
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Memphis Slim</artist><title> Old Taylor</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -22,7 +10,8 @@ The
 Bluebird Recordings 1940-1941 (RCA 66720)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -175,5 +164,4 @@ Notes: This song was a tribute to Lester Melrose (Melrose Music Co.
 
 
 
-
-
+</lyrics></xml>

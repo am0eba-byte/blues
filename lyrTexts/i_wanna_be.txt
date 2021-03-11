@@ -1,21 +1,5 @@
-B.B. King - I Wanna Be
-
-
-I Wanna Be
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Wanna Be</title>
+<songInfo>by 
 Doyle
 Bramhall II
  / 
@@ -29,7 +13,8 @@ Riding
 With The King (Warner Brothers 47612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -174,5 +159,4 @@ Anything you want me to
 
 
 
-
-
+</lyrics></xml>

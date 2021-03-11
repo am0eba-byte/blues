@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - Dirty Pool
-
-
-Dirty Pool
-
-
-
-tab/chords
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Dirty Pool</title>
+<songInfo>by 
 Doyle
 Bramhall
  / 
@@ -34,8 +18,8 @@ Flood (Epic EK-38734)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -154,5 +138,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

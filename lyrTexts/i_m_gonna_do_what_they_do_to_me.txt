@@ -1,18 +1,5 @@
-B.B. King - I'm Gonna Do What They Do To Me
-
-
-I'm Gonna Do What They Do To Me
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I'm Gonna Do What They Do To Me</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,8 +10,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -181,5 +168,4 @@ The same thing they been doing to me
 
 
 
-
-
+</lyrics></xml>

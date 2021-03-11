@@ -1,21 +1,5 @@
-ZZ Top - Just Got Back From Baby's
-
-
-Just Got Back From Baby's
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Just Got Back From Baby's</title>
+<songInfo>by 
 Billy
 Gibbons
  / 
@@ -29,8 +13,8 @@ ZZ
 Top's First Album (Warner brothers
 2-3268)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -107,5 +91,4 @@ If her lovin' don't get me, I know her husband will
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-B.B. King - I'm In the Wrong Business
-
-
-I'm In the Wrong Business
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I'm In the Wrong Business</title>
+<songInfo>by 
 A.C.
 Reed
 
@@ -23,7 +10,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -226,5 +214,4 @@ I ain't lyin'
 
 
 
-
-
+</lyrics></xml>

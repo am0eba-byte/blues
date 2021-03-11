@@ -1,18 +1,5 @@
-B.B. King - Broken Promise
-
-
-Broken Promise
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Broken Promise</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -25,8 +12,8 @@ from
 Blues
 on the Bayou (MCA 11879)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -144,5 +131,4 @@ I said I was loving you all the while
 
 
 
-
-
+</lyrics></xml>

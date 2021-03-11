@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - They Call Me Guitar Hurricane
-
-
-They Call Me Guitar Hurricane
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> They Call Me Guitar Hurricane</title>
+<songInfo>by 
 E.
 Jones
 
@@ -22,8 +10,8 @@ In
 The Beginning (Epic EK-53168)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -123,5 +111,4 @@ If I can't play this guitar I'm sure gonna drive to your town
 
 
 
-
-
+</lyrics></xml>

@@ -1,37 +1,12 @@
-Robert Johnson - Terraplane Blues
-
-
-
-
-
-
-Terraplane          Blues
-
-
-
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Robert Johnson</artist><title> Terraplane Blues</title>
+<songInfo>by
 Robert Johnson
 recording of 1st of 5 sessions, November 23 1936, San Antonio, Texas
 from
 The Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222 & Columbia 4622 & Sony 64916)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -296,5 +271,4 @@ see
 
 
 
-
-
+</lyrics></xml>

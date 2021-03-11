@@ -1,24 +1,13 @@
-Blind Lemon Jefferson - One Kind Favor
-
-
-One Kind Favor
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> One Kind Favor</title>
+<songInfo>by 
 Blind
 Lemon Jefferson
 
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +99,4 @@ Grave Is Kept Clean
 
 
 
-
-
+</lyrics></xml>

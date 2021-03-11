@@ -1,17 +1,5 @@
-Albert Collins - All About My Girl
-
-
-All About My Girl
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> All About My Girl</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -22,7 +10,8 @@ The
 Complete Imperial Recordings (EMI 96740)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +100,4 @@ Oh the future look good to me (future look so good to me) alright
 
 
 
-
-
+</lyrics></xml>

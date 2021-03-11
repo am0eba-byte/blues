@@ -1,21 +1,5 @@
-B.B. King - Knock Me A Kiss
-
-
-Knock Me A Kiss
-
-
-
-
-
-
-
-
-
-
-
-
-
-by Mike Jackson / 
+<xml><metadata><artist>B.B. King</artist><title> Knock Me A Kiss</title>
+<songInfo>by Mike Jackson / 
 Andy
 Razaf
 
@@ -26,8 +10,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -148,5 +132,4 @@ Baby! C'mon and knock me a kiss
 
 
 
-
-
+</lyrics></xml>

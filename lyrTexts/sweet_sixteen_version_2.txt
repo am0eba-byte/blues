@@ -1,18 +1,5 @@
-B.B. King - Sweet Sixteen (Version 2)
-
-
-Sweet Sixteen (Version 2)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Sweet Sixteen (Version 2)</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -26,7 +13,8 @@ Why
 I Sing The Blues (MCA MCAD-20256 )
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -159,5 +147,4 @@ hear someone call my name
 
 
 
-
-
+</lyrics></xml>

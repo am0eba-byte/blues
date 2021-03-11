@@ -1,17 +1,5 @@
-John Lee Hooker - Boom Boom
-
-
-Boom Boom
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Boom Boom</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -21,8 +9,8 @@ from The Vee Jay Years 1955-1964 (Charly
 82333-1754-2) amp;
 
 Vee Jay No. 2204, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +114,4 @@ Oh, yeah!
 
 
 
-
-
+</lyrics></xml>

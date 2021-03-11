@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - C.O.D.
-
-
-C.O.D.
-
-
-
-tab/chords
-
-
-
-
-
-
-
-
-
-by L. Gooden
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> C.O.D.</title>
+<songInfo>by L. Gooden
 
 recording of 1997
 
@@ -24,8 +8,8 @@ Live
 At Carnegie Hall (Sony 68163)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -170,5 +154,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

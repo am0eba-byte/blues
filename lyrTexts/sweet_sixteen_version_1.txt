@@ -1,18 +1,5 @@
-B.B. King - Sweet Sixteen (Version 1)
-
-
-Sweet Sixteen (Version 1)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Sweet Sixteen (Version 1)</title>
+<songInfo>by 
 B.B.
 King 
  / 
@@ -26,7 +13,8 @@ Live
 At San Quentin (MCA MCAD-6455)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -170,5 +158,4 @@ I wonder what in the world's gonna happen to me
 
 
 
-
-
+</lyrics></xml>

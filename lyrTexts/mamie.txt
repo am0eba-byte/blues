@@ -1,17 +1,5 @@
-Muddy Waters - Mamie
-
-
-Mamie
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Mamie</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -21,8 +9,8 @@ from
 Blues
 Sky (Columbia ZK-46172)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +101,4 @@ That's why I'm beggin you please, please
 
 
 
-
-
+</lyrics></xml>

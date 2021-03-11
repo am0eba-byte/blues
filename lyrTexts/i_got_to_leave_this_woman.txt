@@ -1,18 +1,5 @@
-B.B. King - I Got To Leave This Woman
-
-
-I Got To Leave This Woman
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Got To Leave This Woman</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,7 +10,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -144,5 +132,4 @@ She owns everything, even the carpet on the floor
 
 
 
-
-
+</lyrics></xml>

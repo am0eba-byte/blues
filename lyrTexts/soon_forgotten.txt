@@ -1,25 +1,13 @@
-Muddy Waters - Soon Forgotten
-
-
-Soon Forgotten
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Soon Forgotten</title>
+<songInfo>by 
 James
 Burke Oden
 
 recording of 19
 
 from, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -114,5 +102,4 @@ forget you...
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Alvin Youngblood Hart - A Prophet's Mission
-
-
-A Prophet's Mission
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Alvin Youngblood Hart</artist><title> A Prophet's Mission</title>
+<songInfo>by 
 Alvin
 Youngblood Hart
 
@@ -22,7 +10,8 @@ Start
 With The Soul (Rykodisc or Hannibal 1449)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -106,5 +95,4 @@ Gonna carry it to the world
 
 
 
-
-
+</lyrics></xml>

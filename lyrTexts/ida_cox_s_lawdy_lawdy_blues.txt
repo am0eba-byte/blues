@@ -1,17 +1,5 @@
-Ida Cox - Ida Cox's Lawdy Lawdy Blues
-
-
-Ida Cox's Lawdy Lawdy Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Ida Cox's Lawdy Lawdy Blues</title>
+<songInfo>by 
 Ida
 Cox
 
@@ -22,8 +10,8 @@ Complete
 Recorded Works, Vol. 1 (1923) (Document
 5322)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -105,5 +93,4 @@ Than hear the man I love say. "I don't want you no more"
 
 
 
-
-
+</lyrics></xml>

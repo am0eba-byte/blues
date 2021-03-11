@@ -1,21 +1,5 @@
-B.B. King - Don't Get Around Much Anymore
-
-
-Don't Get Around Much Anymore
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Don't Get Around Much Anymore</title>
+<songInfo>by 
 Duke
 Ellington
  / 
@@ -29,8 +13,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -141,5 +125,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

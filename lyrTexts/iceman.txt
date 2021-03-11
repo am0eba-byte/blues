@@ -1,18 +1,5 @@
-Albert Collins - Iceman
-
-
-Iceman
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Iceman</title>
+<songInfo>by 
 Gwendolyn
 Collins
  / 
@@ -26,7 +13,8 @@ Iceman
 (Capitol or Virgin 86197)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -102,5 +90,4 @@ If you follow my instructions, my ice will last all night
 
 
 
-
-
+</lyrics></xml>

@@ -1,29 +1,5 @@
-Stevie Ray Vaughan - Couldn't Stand The Weather lyrics
-
-
-Couldn't Stand The Weather
-
-
-
-bass tab
-
-
-
-chords
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Couldn't Stand The Weather lyrics</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
 
@@ -34,8 +10,8 @@ Couldn't
 Stand The Weather (Epic EK-39304)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -159,5 +135,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

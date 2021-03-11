@@ -1,21 +1,5 @@
-Freddie King - That's What You Think
-
-
-That's What You Think
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> That's What You Think</title>
+<songInfo>by 
 Margaret
 Whitfield
  / Washington
@@ -27,8 +11,8 @@ Hide
 Away: The Best of Freddie King (Rhino
 R2-71510)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -178,5 +162,4 @@ Note: El-Bee Single #157, 1957.
 
 
 
-
-
+</lyrics></xml>

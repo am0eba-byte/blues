@@ -1,21 +1,5 @@
-Freddie King - Have You Ever Loved A Woman
-
-
-Have You Ever Loved A Woman
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> Have You Ever Loved A Woman</title>
+<songInfo>by 
 Billy
 Myles
 
@@ -26,8 +10,8 @@ Hide
 Away: The Best of Freddie King (Rhino
 R2-71510)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +85,4 @@ Note Federal Single #12384 Sept. 1960.
 
 
 
-
-
+</lyrics></xml>

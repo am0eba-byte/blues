@@ -1,18 +1,5 @@
-B.B. King - Mr. Pawnbroker
-
-
-Mr. Pawnbroker
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Mr. Pawnbroker</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -41,8 +28,8 @@ Paying
 the Cost to Be the Boss (Delta 17141)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -156,5 +143,4 @@ Well, you can't ever tell, what bad luck may come your way
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Bessie Smith - Cake Walking Babies From Home
-
-
-Cake Walking Babies From Home
-
-
-
-
-
-
-
-
-
-by Chris Smith / 
+<xml><metadata><artist>Bessie Smith</artist><title> Cake Walking Babies From Home</title>
+<songInfo>by Chris Smith / 
 Harold
 Troy
  / 
@@ -25,8 +13,8 @@ The
 Complete Recordings, Vol. 2 (1924-1925) (Columbia/Legacy
 C2K-47471)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -141,5 +129,4 @@ of the beat which follows.
 
 
 
-
-
+</lyrics></xml>

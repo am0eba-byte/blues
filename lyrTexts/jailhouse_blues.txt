@@ -1,18 +1,5 @@
-Bessie Smith - Jailhouse Blues
-
-
-Jailhouse Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Jailhouse Blues</title>
+<songInfo>by 
 Bessie
 Smith
  / 
@@ -28,8 +15,8 @@ C2K-47091)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +95,4 @@ Well, I just come here to have a few words with you
 
 
 
-
-
+</lyrics></xml>

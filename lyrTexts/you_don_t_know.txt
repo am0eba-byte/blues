@@ -1,18 +1,5 @@
-B.B. King - You Don't Know
-
-
-You Don't Know
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> You Don't Know</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -34,7 +21,8 @@ The
 Best of B.B. King, Vol. 1 (Virgin 86230)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -183,5 +171,4 @@ And you can't know just how I feel
 
 
 
-
-
+</lyrics></xml>

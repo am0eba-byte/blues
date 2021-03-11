@@ -1,21 +1,5 @@
-B.B. King - Don't Answer The Door
-
-
-Don't Answer The Door
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Don't Answer The Door</title>
+<songInfo>by 
 James
 Johnson
 
@@ -26,8 +10,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -168,5 +152,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

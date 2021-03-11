@@ -1,18 +1,5 @@
-Jimmy Witherspoon - How Long Blues
-
-
-How Long Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Jimmy Witherspoon</artist><title> How Long Blues</title>
+<songInfo>by 
 Leroy
 Carr
 
@@ -23,8 +10,8 @@ Evenin'
 Blues (Original Blues Classics 511)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -98,5 +85,4 @@ Baby, baby, baby, how long?
 
 
 
-
-
+</lyrics></xml>

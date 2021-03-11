@@ -1,21 +1,5 @@
-ZZ Top - Brown Sugar
-
-
-Brown Sugar
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Brown Sugar</title>
+<songInfo>by 
 Billy
 Gibbons
 
@@ -26,8 +10,8 @@ ZZ
 Top's First Album (Warner brothers
 2-3268)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -115,5 +99,4 @@ I gotta have some of that brown sugar, gotta try it before I die
 
 
 
-
-
+</lyrics></xml>

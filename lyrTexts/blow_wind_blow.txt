@@ -1,17 +1,5 @@
-Muddy Waters - Blow Wind Blow
-
-
-Blow Wind Blow
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Blow Wind Blow</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -21,8 +9,8 @@ from probably
 The
 Chess Box (MCA 80002)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -112,5 +100,4 @@ way
 
 
 
-
-
+</lyrics></xml>

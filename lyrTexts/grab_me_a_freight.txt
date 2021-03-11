@@ -1,18 +1,5 @@
-Jimmy Witherspoon - Grab Me A Freight
-
-
-Grab Me A Freight
-
-
-
-
-
-
-
-
-
-
-by Larraine Walton
+<xml><metadata><artist>Jimmy Witherspoon</artist><title> Grab Me A Freight</title>
+<songInfo>by Larraine Walton
 
 recording of 1963
 
@@ -21,8 +8,8 @@ Evenin'
 Blues (Original Blues Classics 511)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -88,5 +75,4 @@ And tomorrow mornin', I'll be a long ways from home
 
 
 
-
-
+</lyrics></xml>

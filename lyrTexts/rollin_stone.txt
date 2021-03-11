@@ -1,17 +1,5 @@
-Muddy Waters - Rollin' Stone
-
-
-Rollin' Stone
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Rollin' Stone</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,7 +10,8 @@ Chess
 Box (MCA/Chess CHD3-80002)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -131,5 +120,4 @@ Sure 'nough back, sure 'nough back
 
 
 
-
-
+</lyrics></xml>

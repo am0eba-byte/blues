@@ -1,20 +1,5 @@
-Janis Joplin - See See Rider
-
-
-See See Rider
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> See See Rider</title>
+<songInfo>by 
 Gertrude
 'Ma' Rainey
 
@@ -25,8 +10,8 @@ From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +95,4 @@ I say hey hey, hey hey
 
 
 
-
-
+</lyrics></xml>

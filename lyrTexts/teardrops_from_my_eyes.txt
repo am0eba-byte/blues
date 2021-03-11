@@ -1,18 +1,5 @@
-B.B. King - Teardrops From My Eyes
-
-
-Teardrops From My Eyes
-
-
-
-
-
-
-
-
-
-
-by Rudolph Toombs
+<xml><metadata><artist>B.B. King</artist><title> Teardrops From My Eyes</title>
+<songInfo>by Rudolph Toombs
 
 recording of 1983
 
@@ -21,7 +8,8 @@ Blues
 'n' Jazz (MCA MCAD-27119)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -194,5 +182,4 @@ Teardrops from my eyes
 
 
 
-
-
+</lyrics></xml>

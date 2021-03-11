@@ -1,17 +1,5 @@
-Bessie Smith - At The Christmas Ball
-
-
-At The Christmas Ball
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> At The Christmas Ball</title>
+<songInfo>by 
 Fred
 Longshaw
 
@@ -22,8 +10,8 @@ The
 Complete Recordings, Vol. 2 (1924-1925) (Columbia/Legacy
 C2K-47471)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -114,5 +102,4 @@ Note 1: rep, short for reputation.
 
 
 
-
-
+</lyrics></xml>

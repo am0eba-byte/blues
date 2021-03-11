@@ -1,18 +1,5 @@
-Susan Tedeschi - Just Won't Burn
-
-
-Just Won't Burn
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> Just Won't Burn</title>
+<songInfo>by 
 Susan
 Tedeschi
 
@@ -23,7 +10,8 @@ Just
 Won't Burn (Tone-Cool 1164)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -143,5 +131,4 @@ Oh, they just won't burn
 
 
 
-
-
+</lyrics></xml>

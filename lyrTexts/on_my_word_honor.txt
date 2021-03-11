@@ -1,18 +1,5 @@
-B.B. King - On My Word Honor
-
-
-On My Word Honor
-
-
-
-
-
-
-
-
-
-
-by Katherine Harrison / Jean Miles
+<xml><metadata><artist>B.B. King</artist><title> On My Word Honor</title>
+<songInfo>by Katherine Harrison / Jean Miles
 
 recording of 19
 
@@ -21,7 +8,8 @@ Heart
 & Soul (Virgin 40072)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -154,5 +142,4 @@ I'll keep my word, my love
 
 
 
-
-
+</lyrics></xml>

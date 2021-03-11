@@ -1,17 +1,5 @@
-John Mayall's Bluesbreakers - Ridin' On The L&N
-
-
-Ridin' On The L&N
-
-
-
-
-
-
-
-
-
-by Burley / Hampton
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> Ridin' On The L&N</title>
+<songInfo>by Burley / Hampton
 
 recording of April 19-21 1987, Frankfurt, Germany
 
@@ -20,8 +8,8 @@ Life
 in the Jungle: Charly Blues Masterworks 4 (Charly
 BM4)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -131,5 +119,4 @@ welcome
 
 
 
-
-
+</lyrics></xml>

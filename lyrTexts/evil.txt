@@ -1,17 +1,5 @@
-Howlin' Wolf - Evil
-
-
-Evil
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Evil</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 Evil
 (Chess 1540)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -118,5 +106,4 @@ I am warnin' ya brother, you better watch your happy home
 
 
 
-
-
+</lyrics></xml>

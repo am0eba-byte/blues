@@ -1,17 +1,5 @@
-Muddy Waters - I Want You To Love Me
-
-
-I Want You To Love Me
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> I Want You To Love Me</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,7 +10,8 @@ His
 Best: 1947-1955 (Chess 9370)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +90,4 @@ I want you to love me baby, till you know I wish that I was dead
 
 
 
-
-
+</lyrics></xml>

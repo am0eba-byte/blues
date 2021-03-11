@@ -1,17 +1,5 @@
-Albert Collins - Lights Are On But Nobody's Home
-
-
-Lights Are On But Nobody's Home
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Lights Are On But Nobody's Home</title>
+<songInfo>by 
 Gwendolyn
 Collins
 
@@ -22,7 +10,8 @@ Cold
 Snap (Alligator ALCD-4752)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -118,5 +107,4 @@ But I can't see, I can't see nobody home
 
 
 
-
-
+</lyrics></xml>

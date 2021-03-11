@@ -1,17 +1,5 @@
-Kenny Wayne Shepherd - Deja Voodoo
-
-
-Deja Voodoo
-
-
-
-
-
-
-
- 
-
-by 
+<xml><metadata><artist>Kenny Wayne Shepherd</artist><title> Deja Voodoo</title>
+<songInfo>by 
 Kenny
 Wayne Shepherd
  / 
@@ -27,8 +15,8 @@ from
 Ledbetter
 Heights (Giant 24621)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -131,5 +119,4 @@ Deja voodoo
 
 
 
-
-
+</lyrics></xml>

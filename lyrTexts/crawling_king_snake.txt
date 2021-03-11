@@ -1,17 +1,5 @@
-John Lee Hooker - Crawlin' Kingsnake
-
-
-Crawlin' Kingsnake
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Crawlin' Kingsnake</title>
+<songInfo>by 
 Bernard
 Bessman
  / 
@@ -24,8 +12,8 @@ from The Vee Jay Years 1955-1964 (Charly
 82333-1754-2) amp;
 
 Vee Jay No. 1072, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -107,5 +95,4 @@ I don't want you hangin' around my mate, wanna use her for myself
 
 
 
-
-
+</lyrics></xml>

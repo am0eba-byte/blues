@@ -1,18 +1,5 @@
-The Fabulous Thunderbirds - Why Get Up
-
-
-Why Get Up
-
-
-
-
-
-
-
-
-
-
-by B. Carter / R. Ellsworth
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> Why Get Up</title>
+<songInfo>by B. Carter / R. Ellsworth
 
 recording of 1986 resp. 1992
 
@@ -25,7 +12,8 @@ Hot
 Stuff: The Greatest Hits (Epic ZK-53007)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -135,5 +123,4 @@ Chorus
 
 
 
-
-
+</lyrics></xml>

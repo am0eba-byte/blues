@@ -1,16 +1,5 @@
-A.C. Reed - Give It Up (Smoking)
-
-
-Give It Up (Smoking)
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>A.C. Reed</artist><title> Give It Up (Smoking)</title>
+<songInfo>by 
 Aaron
 Carthen Reed
 
@@ -20,8 +9,8 @@ from
 Junk
 Food (Delmark 3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -259,5 +248,4 @@ John Vaughn
 
 
 
-
-
+</lyrics></xml>

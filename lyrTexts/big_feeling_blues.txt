@@ -1,17 +1,5 @@
-Ma Rainey - Big Feeling Blues
-
-
-Big Feeling Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ma Rainey</artist><title> Big Feeling Blues</title>
+<songInfo>by 
 rev.
 Charlie Jackson
  / 
@@ -26,8 +14,8 @@ of the Blues: 1923-1928 (Epm Musique
 159232)
 nbsp;amp; Rarities MRR - 4010,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -156,5 +144,4 @@ Charlie Jackson
 
 
 
-
-
+</lyrics></xml>

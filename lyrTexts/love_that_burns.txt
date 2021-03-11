@@ -1,21 +1,5 @@
-Gary Moore - Love That Burns
-
-
-Love That Burns
-
-
-
-
-
-
-
- 
-
-
-
-
-
-by 
+<xml><metadata><artist>Gary Moore</artist><title> Love That Burns</title>
+<songInfo>by 
 Peter
 Green
  / C.G. Adams
@@ -27,7 +11,8 @@ Blues
 For Greeny (Virgin CDV 2784)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -128,5 +113,4 @@ to cry
 
 
 
-
-
+</lyrics></xml>

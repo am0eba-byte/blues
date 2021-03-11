@@ -1,23 +1,11 @@
-John Lee Hooker - Baby, Blues Before Sunrise (Version 1)
-
-
-Blues Before Sunrise (Version 1)
-
-
-
-
-
-
-
-
-
-by Leroy Carr
+<xml><metadata><artist>John Lee Hooker</artist><title> Baby, Blues Before Sunrise (Version 1)</title>
+<songInfo>by Leroy Carr
 
 recording 
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -95,5 +83,4 @@ way
 
 
 
-
-
+</lyrics></xml>

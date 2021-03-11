@@ -1,29 +1,5 @@
-Stevie Ray Vaughan - Voodoo Chile (Slight Return) lyrics
-
-
-Voodoo Chile (Slight Return)
-
-
-
-tab version 1
-
-
-
-tab version 2
-
-
-
-bass tab
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Voodoo Chile (Slight Return) lyrics</title>
+<songInfo>by 
 Jimmy
 Hendrix
 
@@ -37,8 +13,8 @@ Stand The Weather (Epic EK-39304)
 Live
 Alive (Epic EGK-40511)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -167,5 +143,4 @@ MusicSearcher.com
 
 
 
-
-
+</lyrics></xml>

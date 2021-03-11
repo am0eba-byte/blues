@@ -1,18 +1,5 @@
-B.B. King - It's Still Called The Blues
-
-
-It's Still Called The Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> It's Still Called The Blues</title>
+<songInfo>by 
 Tony
 Joe White
 
@@ -23,7 +10,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -208,5 +196,4 @@ And start it all over again
 
 
 
-
-
+</lyrics></xml>

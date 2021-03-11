@@ -1,17 +1,5 @@
-Memphis Slim - Lend Me Your Love (Take # 2)
-
-
-Lend Me Your Love (Take # 2)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Memphis Slim</artist><title> Lend Me Your Love (Take # 2)</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -22,7 +10,8 @@ The
 Bluebird Recordings 1940-1941 (RCA 66720)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -91,5 +80,4 @@ gonna buy your love mortgage out
 
 
 
-
-
+</lyrics></xml>

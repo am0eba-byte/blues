@@ -1,17 +1,5 @@
-Ida Cox - Blues Ain't Nothin' Else But!
-
-
-Blues Ain't Nothin' Else But!
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Ida Cox</artist><title> Blues Ain't Nothin' Else But!</title>
+<songInfo>by
 
 recording of April 1924
 
@@ -20,8 +8,8 @@ Complete
 Recorded Works, Vol. 2 (1924-1925) (Document
 5323)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +101,4 @@ Oh the blues ain't nothin' but a good woman feelin' bad
 
 
 
-
-
+</lyrics></xml>

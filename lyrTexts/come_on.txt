@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - Come On lyrics
-
-
-Come On
-
-
-
-bass tab
-
-
-
-
-
-
-
-
-
-by E. King
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Come On lyrics</title>
+<songInfo>by E. King
 
 recording of 1985
 
@@ -23,8 +7,8 @@ from
 Soul
 To Soul (Epic EK-40036)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -147,5 +131,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

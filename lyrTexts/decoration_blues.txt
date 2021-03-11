@@ -1,18 +1,5 @@
-Sonny Boy Williamson I (John Lee) - Decoration Blues
-
-
-Decoration Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Sonny Boy Williamson I (John Lee)</artist><title> Decoration Blues</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -23,8 +10,8 @@ The
 Bluebird Recordings 1937-1938 (RCA 66723)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -115,5 +102,4 @@ states of the U.S. in remembrance of war dead.
 
 
 
-
-
+</lyrics></xml>

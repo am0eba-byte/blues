@@ -1,17 +1,5 @@
-Alvin Youngblood Hart - Cryin' Shame
-
-
-Cryin' Shame
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Alvin Youngblood Hart</artist><title> Cryin' Shame</title>
+<songInfo>by 
 Black
 Oak Arkansas
 
@@ -22,7 +10,8 @@ Start
 With The Soul (Rykodisc or Hannibal 1449)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -134,5 +123,4 @@ Cryin' shame
 
 
 
-
-
+</lyrics></xml>

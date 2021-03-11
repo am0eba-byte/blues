@@ -1,19 +1,5 @@
-Albert King - Ain't Nothing You Can Do
-
-
-Ain't Nothing You Can Do
-
-
-
-
-
-
-
-
-
-
-
-by Brooks
+<xml><metadata><artist>Albert King</artist><title> Ain't Nothing You Can Do</title>
+<songInfo>by Brooks
 
 recording of 1976
 
@@ -21,8 +7,8 @@ from
 Albert
 (Rhino 70398)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -194,5 +180,4 @@ Well, alright!
 
 
 
-
-
+</lyrics></xml>

@@ -1,16 +1,5 @@
-John Lee Hooker - Rock Me, Mama
-
-
-Rock Me, Mama
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Rock Me, Mama</title>
+<songInfo>by 
 John
 Lee Hooker
  / Bernard Besman
@@ -18,8 +7,8 @@ Lee Hooker
 recording 19
 
 from Cold Chills (), 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -114,5 +103,4 @@ Rock me, mama, rock me all night long
 
 
 
-
-
+</lyrics></xml>

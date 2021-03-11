@@ -1,20 +1,5 @@
-Gary Moore - The Sky Is Crying
-
-
-The Sky Is Crying
-
-
-
-
-
-
- 
-
-
-
-
-
-by 
+<xml><metadata><artist>Gary Moore</artist><title> The Sky Is Crying</title>
+<songInfo>by 
 Elmore
 James
  / Lewis / Robinson
@@ -25,8 +10,8 @@ from
 Blues
 Alive (Virgin CDV 2716)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -135,5 +120,4 @@ I been lookin' for my baby, I wonder where my baby can be
 
 
 
-
-
+</lyrics></xml>

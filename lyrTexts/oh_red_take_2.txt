@@ -1,17 +1,5 @@
-Howlin' Wolf - Oh Red! (Take 2)
-
-
-Oh Red! (Take 2)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Oh Red! (Take 2)</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ Cadillac
 Daddy: Memphis Recordings 1952 (Rounder
 28)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -107,5 +95,4 @@ I'm sick an tired, tellin' ya to hold my hand
 
 
 
-
-
+</lyrics></xml>

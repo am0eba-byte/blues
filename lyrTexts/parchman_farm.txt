@@ -1,17 +1,5 @@
-John Mayall's Bluesbreakers - Parchman Farm
-
-
-Parchman Farm
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> Parchman Farm</title>
+<songInfo>by 
 Mose
 Allison
 
@@ -22,8 +10,8 @@ Bluesbreakers
 with Eric Clapton (Deram 800086 or Mobile Fidelity
 616)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +91,4 @@ both the contractor and the state who sold them.
 
 
 
-
-
+</lyrics></xml>

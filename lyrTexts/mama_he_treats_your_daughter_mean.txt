@@ -1,18 +1,5 @@
-Susan Tedeschi - Mama, He Treats Your Daughter Mean
-
-
-Mama, He Treats Your Daughter Mean
-
-
-
-
-
-
-
-
-
-
-by Lance / Wallace
+<xml><metadata><artist>Susan Tedeschi</artist><title> Mama, He Treats Your Daughter Mean</title>
+<songInfo>by Lance / Wallace
 
 recording of 1998
 
@@ -21,7 +8,8 @@ Just
 Won't Burn (Tone-Cool 1164)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -162,5 +150,4 @@ Oh, No, So Mean!
 
 
 
-
-
+</lyrics></xml>

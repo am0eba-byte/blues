@@ -1,18 +1,5 @@
-Albert King - Blues At Sunrise
-
-
-Blues At Sunrise
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> Blues At Sunrise</title>
+<songInfo>by 
 Albert
 King
 
@@ -24,8 +11,8 @@ Live
 at Montreux Blues at Sunrise (Stax or Fantasy
 8546)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -164,5 +151,4 @@ Woo, thank you!
 
 
 
-
-
+</lyrics></xml>

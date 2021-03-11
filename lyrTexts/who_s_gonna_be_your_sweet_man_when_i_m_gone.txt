@@ -1,17 +1,5 @@
-Muddy Waters - Who's Gonna Be Your Sweet Man When I'm Gone
-
-
-Who's Gonna Be Your Sweet Man When I'm Gone
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Who's Gonna Be Your Sweet Man When I'm Gone</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -25,8 +13,8 @@ Box (MCA/Chess CHD3-80002)
 Chess
 Blues (MCA 9340)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +97,4 @@ Because I won't ever stay at home
 
 
 
-
-
+</lyrics></xml>

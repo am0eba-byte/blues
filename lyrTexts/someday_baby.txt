@@ -1,17 +1,5 @@
-B.B. King - Someday Baby
-
-
-Someday Baby
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Someday Baby</title>
+<songInfo>by 
 Sam
 "Lightnin'" Hopkins
  or 
@@ -35,8 +23,8 @@ Great B.B. King (B. B. King and His Orchestra) (Crown CLP
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -174,5 +162,4 @@ line of this verse, many thanks to him for his contribution.
 
 
 
-
-
+</lyrics></xml>

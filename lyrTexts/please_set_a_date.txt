@@ -1,17 +1,5 @@
-B.B. King - Please Set A Date
-
-
-Please Set A Date
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Please Set A Date</title>
+<songInfo>by 
 Ernest
 Lawlers
 
@@ -27,8 +15,8 @@ on to B.B. King (United 7763)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -159,5 +147,4 @@ Well, don't say tomorrow
 
 
 
-
-
+</lyrics></xml>

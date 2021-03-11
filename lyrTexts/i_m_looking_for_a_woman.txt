@@ -1,18 +1,5 @@
-Bo Diddley - I'm Looking For AWoman
-
-
-I'm Looking For AWoman
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bo Diddley</artist><title> I'm Looking For AWoman</title>
+<songInfo>by 
 Ellas
 McDaniel a.k.a. Bo Diddley
 
@@ -23,8 +10,8 @@ Bo
 Diddley's 16 All-Time Greatest Hits (Checker LP
 2989)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -97,5 +84,4 @@ Well now bye-bye baby, with a tear in your eye
 
 
 
-
-
+</lyrics></xml>

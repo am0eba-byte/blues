@@ -1,16 +1,5 @@
-A.C. Reed - Party With Y'all
-
-
-Party With Y'all
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>A.C. Reed</artist><title> Party With Y'all</title>
+<songInfo>by 
 Aaron
 Carthen Reed
 
@@ -20,8 +9,8 @@ from
 Junk
 Food (Delmark 3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +121,4 @@ I ain't got much money but we'll really, really have a ball
 
 
 
-
-
+</lyrics></xml>

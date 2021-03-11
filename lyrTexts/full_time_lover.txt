@@ -1,18 +1,5 @@
-The Fabulous Thunderbirds - Full Time Lover
-
-
-Full Time Lover
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> Full Time Lover</title>
+<songInfo>by
 
 recording of 1982 resp. 1987
 
@@ -24,8 +11,8 @@ Bird Rhythm (Chrysalis 41395)
 Portfolio
 (Chrysalis 2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +98,4 @@ lover now
 
 
 
-
-
+</lyrics></xml>

@@ -1,25 +1,5 @@
-Stevie Ray Vaughan - Life By The Drop lyrics
-
-
-Life By The Drop
-
-
-
-tab
-
-
-
-ChordPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Life By The Drop lyrics</title>
+<songInfo>by 
 Doyle
 Bramhall
  / B. Logan
@@ -31,8 +11,8 @@ The
 Sky Is Crying (Epic EK-47390)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -175,5 +155,4 @@ MusicSearcher.com
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Keb' Mo' - Love In Vain
-
-
-Love In Vain
-
-
-
-
-
-
-
- 
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Love In Vain</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -23,8 +10,8 @@ Slow
 Down (OKeh/550/Epic/Sony 491613 9)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -104,5 +91,4 @@ take
 
 
 
-
-
+</lyrics></xml>

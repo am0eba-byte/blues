@@ -1,18 +1,5 @@
-B.B. King - Inflation Blues
-
-
-Inflation Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Inflation Blues</title>
+<songInfo>by 
 Alger
 "Texas" Alexander
  / 
@@ -27,7 +14,8 @@ Blues
 'n' Jazz (MCA MCAD-27119)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -172,5 +160,4 @@ Got those inflation blues
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Howlin' Wolf - I'm Leavin' You
-
-
-I'm Leavin' You
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> I'm Leavin' You</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -19,8 +7,8 @@ recording of 19??
 
 from Moanin' At Midnight (Blue City 2652292),
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -144,5 +132,4 @@ I'm leavin'
 
 
 
-
-
+</lyrics></xml>

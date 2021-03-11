@@ -1,17 +1,5 @@
-Ida Cox - Give Me A Break Blues
-
-
-Give Me A Break Blues
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Ida Cox</artist><title> Give Me A Break Blues</title>
+<songInfo>by
 
 recording of 1927
 
@@ -20,8 +8,8 @@ Complete
 Recorded Works, Vol. 4 (1927-1938) (Document
 5325)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +91,4 @@ Won't you give me a break papa, like I gave you?
 
 
 
-
-
+</lyrics></xml>

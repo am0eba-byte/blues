@@ -1,18 +1,5 @@
-The Fabulous Thunderbirds - I Believe I'min Love
-
-
-I Believe I'mIn Love
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> I Believe I'min Love</title>
+<songInfo>by 
 Kim
 Wilson
 
@@ -30,7 +17,8 @@ Butt
 Rockin'/T-Bird Rhythm (Beat Goes On 193)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +112,4 @@ I'm in love with you
 
 
 
-
-
+</lyrics></xml>

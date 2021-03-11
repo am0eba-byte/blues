@@ -1,17 +1,5 @@
-Howlin' Wolf - I Didn't Know
-
-
-I Didn't Know
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> I Didn't Know</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 Change
 My Way (MCA 93001)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -100,5 +88,4 @@ I didn't know, but I know now
 
 
 
-
-
+</lyrics></xml>

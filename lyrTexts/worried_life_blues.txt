@@ -1,21 +1,5 @@
-B.B. King - Worried Life Blues
-
-
-Worried Life Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by probably 
+<xml><metadata><artist>B.B. King</artist><title> Worried Life Blues</title>
+<songInfo>by probably 
 Lightnin'
 Hopkins
 
@@ -26,7 +10,8 @@ Riding
 With The King (Warner Brothers 47612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -153,5 +138,4 @@ But someday baby, I ain't gonna worry my life anymore
 
 
 
-
-
+</lyrics></xml>

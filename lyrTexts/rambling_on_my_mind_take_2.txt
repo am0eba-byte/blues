@@ -1,25 +1,5 @@
-Robert Johnson - Rambling On My Mind, take 2
-
-
-Rambling On My Mind (Take 2)
-
-
-
-tab
-
-
-
-GuitarPro
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Robert Johnson</artist><title> Rambling On My Mind, take 2</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -32,7 +12,8 @@ Complete Recordings (CBS 467246 2 & Columbia/Legacy C2K-46222
 & Columbia 4622 & Sony 64916)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -165,5 +146,4 @@ discomfort or annoyance in others
 
 
 
-
-
+</lyrics></xml>

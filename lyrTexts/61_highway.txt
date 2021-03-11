@@ -1,19 +1,5 @@
-Mississippi Fred McDowell - 61 Highway
-
-
-61
-
-Highway
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Mississippi Fred McDowell</artist><title> 61 Highway</title>
+<songInfo>by 
 Mississippi
 Fred McDowell
 
@@ -25,8 +11,8 @@ You
 Gotta Move (Arhoolie 304)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +110,4 @@ is hard to decipher, I'm open for suggestions here.
 
 
 
-
-
+</lyrics></xml>

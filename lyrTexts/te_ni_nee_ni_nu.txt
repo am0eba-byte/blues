@@ -1,18 +1,5 @@
-Slim Harpo - Te Ni Nee Ni Nu
-
-
-Te Ni Nee Ni Nu
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Slim Harpo</artist><title> Te Ni Nee Ni Nu</title>
+<songInfo>by 
 Slim
 Harpo (James Moore)
 
@@ -27,7 +14,8 @@ The
 Best of Slim Harpo (HIP-O 40072)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +89,4 @@ etc..
 
 
 
-
-
+</lyrics></xml>

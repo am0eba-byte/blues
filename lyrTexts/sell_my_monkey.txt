@@ -1,18 +1,5 @@
-B.B. King - Sell My Monkey
-
-
-Sell My Monkey
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Sell My Monkey</title>
+<songInfo>by 
 B.B.
 King
 
@@ -23,7 +10,8 @@ Blues
 'n' Jazz (MCA MCAD-27119)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -176,5 +164,4 @@ But that'll never do
 
 
 
-
-
+</lyrics></xml>

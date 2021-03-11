@@ -1,20 +1,5 @@
-Gary Moore - As The Years Go Passing By
-
-
-As The Years Go Passing By
-
-
-
-
-
-
-
-
-
-
-
-
-by Dan Malone
+<xml><metadata><artist>Gary Moore</artist><title> As The Years Go Passing By</title>
+<songInfo>by Dan Malone
 
 recording of 1990
 
@@ -23,7 +8,8 @@ Still
 Got The Blues (Virgin CDV 2612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -109,5 +95,4 @@ You know my love will follow you, as the years go passing
 
 
 
-
-
+</lyrics></xml>

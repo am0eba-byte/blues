@@ -1,18 +1,5 @@
-B.B. King - You've Always Got The Blues
-
-
-You've Always Got The Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> You've Always Got The Blues</title>
+<songInfo>by 
 Mickey
 Newbury
 
@@ -22,8 +9,8 @@ from
 Love
 Me Tender (MCA MCAD-886)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -162,5 +149,4 @@ You've always got the blues
 
 
 
-
-
+</lyrics></xml>

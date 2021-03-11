@@ -1,17 +1,5 @@
-Mississippi Fred McDowell - I'm Going Over The Hill
-
-
-I'm Going Over The Hill
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Mississippi Fred McDowell</artist><title> I'm Going Over The Hill</title>
+<songInfo>by 
 Mississippi
 Fred McDowell
 
@@ -22,8 +10,8 @@ Good
 Morning Little School Girl (Arhoolie 424)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -100,5 +88,4 @@ Askin' master, just to get my starry down
 
 
 
-
-
+</lyrics></xml>

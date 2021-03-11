@@ -1,17 +1,5 @@
-Muddy Waters - Blues Before Sunrise
-
-
-Blues Before Sunrise
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Blues Before Sunrise</title>
+<songInfo>by 
 Leroy
 Carr
 
@@ -21,8 +9,8 @@ from probably
 The
 Chess Box (MCA 80002)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -116,5 +104,4 @@ You can go ahead now little darling,
 
 
 
-
-
+</lyrics></xml>

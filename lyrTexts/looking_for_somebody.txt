@@ -1,21 +1,5 @@
-Gary Moore - Looking For Somebody
-
-
-Looking For Somebody
-
-
-
-
-
-
-
- 
-
-
-
-
-
-by 
+<xml><metadata><artist>Gary Moore</artist><title> Looking For Somebody</title>
+<songInfo>by 
 Peter
 Green
 
@@ -26,7 +10,8 @@ Blues
 For Greeny (Virgin CDV 2784)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -122,5 +107,4 @@ Oh, I got a feelin', blues gonna be my only way
 
 
 
-
-
+</lyrics></xml>

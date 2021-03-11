@@ -1,24 +1,12 @@
-Blind Lemon Jefferson - That Black Snake Moan
-
-
-That Black Snake Moan
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> That Black Snake Moan</title>
+<songInfo>by
 Blind Lemon Jefferson
 recording of circa June 1926, Chicago, Illinois
 from
 Blind Lemon Jefferson (Milestone 47022)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 I - I ain't got no mama now
 I - I ain't got no mama now
@@ -96,5 +84,4 @@ Note 2: lyric is garbled, "Most seen all you do" is a best guess.
 
 
 
-
-
+</lyrics></xml>

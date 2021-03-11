@@ -1,21 +1,5 @@
-ZZ Top - Blue Jean Blues
-
-
-Blue Jean Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Blue Jean Blues</title>
+<songInfo>by 
 Frank
 Beard
  / 
@@ -31,8 +15,8 @@ from
 Fandango
 (Warner Brothers 2-3271)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -98,5 +82,4 @@ If I ever get back my blue jean, Lord, how happy could one man be
 
 
 
-
-
+</lyrics></xml>

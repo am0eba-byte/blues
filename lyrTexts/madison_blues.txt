@@ -1,21 +1,5 @@
-George Thorogood - Madison Blues
-
-
-Madison Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>George Thorogood</artist><title> Madison Blues</title>
+<songInfo>by 
 Elmore
 James
 
@@ -29,8 +13,8 @@ CD-3013)
 Live
 (EMI E 2-46329)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -136,5 +120,4 @@ Rock away your blues
 
 
 
-
-
+</lyrics></xml>

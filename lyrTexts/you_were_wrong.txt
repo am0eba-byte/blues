@@ -1,26 +1,11 @@
-Freddie King - You Were Wrong
-
-
-
-
-
-
-You Were Wrong
-
-
-
-
-
-
-
-
-
-by Hill
+<xml><metadata><artist>Freddie King</artist><title> You Were Wrong</title>
+<songInfo>by Hill
 recording of 1972
 from
 The Texas Cannonball (Capitol 53867B)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 You were wrong, you were wrong
 You were wrong, yeah, you were       wrong
@@ -97,5 +82,4 @@ You know it ain't right, it ain't right
 
 
 
-
-
+</lyrics></xml>

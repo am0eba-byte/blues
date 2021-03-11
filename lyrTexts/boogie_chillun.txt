@@ -1,17 +1,5 @@
-John Lee Hooker - Baby, Boogie Chillun
-
-
-Boogie Chillun
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Baby, Boogie Chillun</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -21,8 +9,8 @@ from The Vee Jay Years 1955-1964 (Charly
 82333-1754-2) amp;
 
 Vee Jay No. 1070, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -118,5 +106,4 @@ Modern Records and rose to Number One on the Ramp;B chart in
 
 
 
-
-
+</lyrics></xml>

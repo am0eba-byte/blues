@@ -1,16 +1,5 @@
-A.C. Reed - Florine
-
-
-Florine
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>A.C. Reed</artist><title> Florine</title>
+<songInfo>by 
 Aaron
 Carthen Reed
 
@@ -20,8 +9,8 @@ from
 Junk
 Food (Delmark 3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -160,5 +149,4 @@ Woo-hoo
 
 
 
-
-
+</lyrics></xml>

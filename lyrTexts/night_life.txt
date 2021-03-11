@@ -1,18 +1,5 @@
-B.B. King - Night Life
-
-
-Night Life
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Night Life</title>
+<songInfo>by 
 Willie
 Nelson
  / 
@@ -28,8 +15,8 @@ from
 Blues
 Is King (MCA MCAD-31386)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -142,5 +129,4 @@ it ain't no good life but it's my life
 
 
 
-
-
+</lyrics></xml>

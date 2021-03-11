@@ -1,18 +1,5 @@
-B.B. King - It's My Own Fault
-
-
-It's My Own Fault
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> It's My Own Fault</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +9,8 @@ from
 Live
 at the Regal (MCA 11646)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +139,4 @@ At that time, little girl, I didn't love you
 
 
 
-
-
+</lyrics></xml>

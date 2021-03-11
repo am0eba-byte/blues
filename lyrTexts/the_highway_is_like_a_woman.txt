@@ -1,17 +1,5 @@
-Albert Collins - The Highway Is Like A Woman
-
-
-The Highway Is Like A Woman
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> The Highway Is Like A Woman</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -21,8 +9,8 @@ from
 Frostbite
 (Alligator ALCD-4719)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -92,5 +80,4 @@ sign
 
 
 
-
-
+</lyrics></xml>

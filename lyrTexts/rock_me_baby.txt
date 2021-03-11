@@ -1,18 +1,5 @@
-B.B. King - Rock Me Baby
-
-
-Rock Me Baby
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Rock Me Baby</title>
+<songInfo>by 
 B.B.
 King 
  / 
@@ -26,8 +13,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +111,4 @@ Want you to rock me baby, till I want no more
 
 
 
-
-
+</lyrics></xml>

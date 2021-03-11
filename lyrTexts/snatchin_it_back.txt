@@ -1,17 +1,5 @@
-Albert Collins - Snatchin' It Back
-
-
-Snatchin' It Back
-
-
-
-
-
-
-
-
-
-by Clarence Carter / George Jackson
+<xml><metadata><artist>Albert Collins</artist><title> Snatchin' It Back</title>
+<songInfo>by Clarence Carter / George Jackson
 
 recording of 1986
 
@@ -20,7 +8,8 @@ Cold
 Snap (Alligator ALCD-4752)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -177,5 +166,4 @@ Um, hey baby, uh, ow ow
 
 
 
-
-
+</lyrics></xml>

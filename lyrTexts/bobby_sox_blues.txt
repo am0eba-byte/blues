@@ -1,18 +1,5 @@
-T-Bone Walker - Bobby Sox Blues
-
-
-Bobby Sox Blues
-
-
-
-
-
-
-
-
-
-
-by Dootsie Williams
+<xml><metadata><artist>T-Bone Walker</artist><title> Bobby Sox Blues</title>
+<songInfo>by Dootsie Williams
 
 recording of 19
 
@@ -21,8 +8,8 @@ The
 Very Best Of T-Bone Walker (Koch International
 8066)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -122,5 +109,4 @@ But stage, screen an radio
 
 
 
-
-
+</lyrics></xml>

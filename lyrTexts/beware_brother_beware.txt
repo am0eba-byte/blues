@@ -1,21 +1,5 @@
-B.B. King - Beware, Brother, Beware
-
-
-Beware, Brother, Beware
-
-
-
-
-
-
-
-
-
-
-
-
-
-by Adams / Lasco / 
+<xml><metadata><artist>B.B. King</artist><title> Beware, Brother, Beware</title>
+<songInfo>by Adams / Lasco / 
 Fleecie
 Moore
 
@@ -26,8 +10,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -252,5 +236,4 @@ Brother, you better beware
 
 
 
-
-
+</lyrics></xml>

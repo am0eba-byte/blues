@@ -1,16 +1,5 @@
-John Mayall's Bluesbreakers - My Pretty Girl
-
-
-My Pretty Girl
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> My Pretty Girl</title>
+<songInfo>by 
 John
 Mayall
 
@@ -20,8 +9,8 @@ from
 U.S.A.
 Union (Polygram 527458)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -93,5 +82,4 @@ I only want to treat her right
 
 
 
-
-
+</lyrics></xml>

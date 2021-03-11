@@ -1,25 +1,13 @@
-Howlin' Wolf - I Ain't Superstitious
-
-
-I Ain't Superstitious
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> I Ain't Superstitious</title>
+<songInfo>by 
 Willie
 Dixon
 
 recording of 19??
 
 from Chess single no. 1823, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -107,5 +95,4 @@ That's bad luck for me
 
 
 
-
-
+</lyrics></xml>

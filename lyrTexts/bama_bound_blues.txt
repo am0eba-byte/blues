@@ -1,18 +1,5 @@
-Ida Cox - Bama Bound Blues
-
-
-Bama Bound Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Bama Bound Blues</title>
+<songInfo>by 
 Ida
 Cox
  / 
@@ -26,8 +13,8 @@ Complete
 Recorded Works, Vol. 1 (1923) (Document
 5322)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -125,5 +112,4 @@ Note 1: Bama, Alabama.
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-B.B. King - I Don't Want You Cutting Off Your Hair
-
-
-I Don't Want You Cutting Off Your Hair
-
-
-
-
-
-
-
-
-
-
-by Johnson
+<xml><metadata><artist>B.B. King</artist><title> I Don't Want You Cutting Off Your Hair</title>
+<songInfo>by Johnson
 
 recording of 19
 
@@ -25,8 +12,8 @@ The
 Electric B.B.: His Best (MCA MCAD-27007)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -139,5 +126,4 @@ your hair
 
 
 
-
-
+</lyrics></xml>

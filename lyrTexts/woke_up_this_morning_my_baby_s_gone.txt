@@ -1,18 +1,5 @@
-B.B. King - Woke Up This Morning (My Baby's Gone)
-
-
-Woke Up This Morning (My Baby's Gone)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Woke Up This Morning (My Baby's Gone)</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -26,7 +13,8 @@ Live
 At The Regal (ABC/MCA MCAD-31106)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -151,5 +139,4 @@ I ain't had no lovin' since my baby been gone
 
 
 
-
-
+</lyrics></xml>

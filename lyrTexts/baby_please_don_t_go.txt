@@ -1,17 +1,5 @@
-Muddy Waters - Baby Please Don't Go
-
-
-Baby Please Don't Go
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Baby Please Don't Go</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -21,8 +9,8 @@ from
 Chess
 Box (Chess 9340)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -143,5 +131,4 @@ contribution.
 
 
 
-
-
+</lyrics></xml>

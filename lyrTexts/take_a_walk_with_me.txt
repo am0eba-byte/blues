@@ -1,17 +1,5 @@
-Muddy Waters - Take A Walk With Me
-
-
-Take A Walk With Me
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Take A Walk With Me</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
  /
@@ -26,8 +14,8 @@ The
 Complete Plantation Recordings (Chess/MCA
 CHD-9344)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -135,5 +123,4 @@ Back to the same old place, gal where we long to be
 
 
 
-
-
+</lyrics></xml>

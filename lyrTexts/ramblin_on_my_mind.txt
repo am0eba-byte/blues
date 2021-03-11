@@ -1,17 +1,5 @@
-John Mayall's Bluesbreakers - Ramblin' On My Mind
-
-
-Ramblin' On My Mind
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> Ramblin' On My Mind</title>
+<songInfo>by 
 Robert
 Johnson
 
@@ -22,8 +10,8 @@ Bluesbreakers
 with Eric Clapton (Deram 800086 or Mobile Fidelity
 616)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -97,5 +85,4 @@ On My Mind
 
 
 
-
-
+</lyrics></xml>

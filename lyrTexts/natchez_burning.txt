@@ -1,17 +1,5 @@
-Howlin' Wolf - Natchez Burning
-
-
-Natchez Burning
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Natchez Burning</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -22,8 +10,8 @@ More
 Real Folk Blues (MCA 9279)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -94,5 +82,4 @@ I stood back, was lookin', and the old building come tumble down
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-B.B. King - If I Lost You
-
-
-If I Lost You
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> If I Lost You</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -31,8 +18,8 @@ on the Bayou (MCA 11879)
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -145,5 +132,4 @@ You've been so true I'd lose my mind if I lost you
 
 
 
-
-
+</lyrics></xml>

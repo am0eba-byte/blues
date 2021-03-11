@@ -1,21 +1,5 @@
-ZZ Top - Move Me On Down The Line
-
-
-Move Me On Down The Line
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Move Me On Down The Line</title>
+<songInfo>by 
 Billy
 Gibbons
  / 
@@ -29,7 +13,8 @@ Tres
 Hombres (Warner Brothers 2-3270)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -121,5 +106,4 @@ Move me on down the line, move me ...
 
 
 
-
-
+</lyrics></xml>

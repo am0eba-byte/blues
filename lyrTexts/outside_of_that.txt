@@ -1,17 +1,5 @@
-Bessie Smith - Outside Of That
-
-
-Outside Of That
-
-
-
-
-
-
-
-
-
-by Trent / Williams
+<xml><metadata><artist>Bessie Smith</artist><title> Outside Of That</title>
+<songInfo>by Trent / Williams
 
 recording of March 20, 1923
 
@@ -20,8 +8,8 @@ The
 Complete Recordings, Vol. 1 (Columbia/Legacy
 C2K-47091)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -107,5 +95,4 @@ Outside of that, he's all right with me
 
 
 
-
-
+</lyrics></xml>

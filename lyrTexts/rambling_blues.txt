@@ -1,17 +1,5 @@
-Ida Cox - Rambling Blues
-
-
-Rambling Blues
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Ida Cox</artist><title> Rambling Blues</title>
+<songInfo>by
 
 recording of August 1925
 
@@ -20,8 +8,8 @@ Complete
 Recorded Works, Vol. 3 (1925-1927) (Document
 5324)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -95,5 +83,4 @@ The last time you were here you made me cry and walk the floor
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-The Fabulous Thunderbirds - True Love
-
-
-True Love
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> True Love</title>
+<songInfo>by 
 Kim
 Wilson
 
@@ -21,8 +9,8 @@ from
 Tuff
 Enuff (Epic ZK-40304)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -134,5 +122,4 @@ Baby come on and go with me
 
 
 
-
-
+</lyrics></xml>

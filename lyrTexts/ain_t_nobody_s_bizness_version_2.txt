@@ -1,18 +1,5 @@
-B.B. King - Ain't Nobody's Bizness (Version 2)
-
-
-Ain't Nobody's Bizness (Version 2)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Ain't Nobody's Bizness (Version 2)</title>
+<songInfo>by 
 Porter
 Grainger
  / 
@@ -22,8 +9,8 @@ Robbins
 recording of early 60's
 
 from, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -139,5 +126,4 @@ It ain't nobody's bizness what I do
 
 
 
-
-
+</lyrics></xml>

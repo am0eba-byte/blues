@@ -1,18 +1,5 @@
-B.B. King - Make Love To Me
-
-
-Make Love To Me
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Make Love To Me</title>
+<songInfo>by 
 Allan
 Copeland
  / 
@@ -35,7 +22,8 @@ Blues
 'n' Jazz (MCA MCAD-27119)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -228,5 +216,4 @@ Make love to me
 
 
 
-
-
+</lyrics></xml>

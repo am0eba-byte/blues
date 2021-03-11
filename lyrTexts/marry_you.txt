@@ -1,21 +1,5 @@
-B.B. King - Marry You
-
-
-Marry You
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Marry You</title>
+<songInfo>by 
 Doyle
 Bramhall II
  / Susannah Salvoin
@@ -27,7 +11,8 @@ Riding
 With The King (Warner Brothers 47612)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -186,5 +171,4 @@ Isn't that what you want too
 
 
 
-
-
+</lyrics></xml>

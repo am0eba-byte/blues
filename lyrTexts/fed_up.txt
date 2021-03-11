@@ -1,16 +1,5 @@
-A.C. Reed - Fed Up
-
-
-Fed Up
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>A.C. Reed</artist><title> Fed Up</title>
+<songInfo>by 
 Aaron
 Carthen Reed
 
@@ -20,8 +9,8 @@ from
 Junk
 Food (Delmark 3970)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -164,5 +153,4 @@ An' get me a job like the average man
 
 
 
-
-
+</lyrics></xml>

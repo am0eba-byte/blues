@@ -1,18 +1,5 @@
-Keb' Mo' - The Action
-
-
-The Action
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> The Action</title>
+<songInfo>by 
 Kevin
 Moore
 
@@ -23,8 +10,8 @@ Just
 Like You (OKeh/Epic/Sony 484117 6)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -160,5 +147,4 @@ The feelings I have for you they're no mistake
 
 
 
-
-
+</lyrics></xml>

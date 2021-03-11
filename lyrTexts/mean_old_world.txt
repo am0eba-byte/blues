@@ -1,18 +1,5 @@
-B.B. King - Mean Old World
-
-
-Mean Old World
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Mean Old World</title>
+<songInfo>by 
 Big
 Bill Broonzy
 
@@ -22,8 +9,8 @@ from
 Blues
 on the Bayou (MCA 11879)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -138,5 +125,4 @@ You won't be able to mistreat me no more then, baby
 
 
 
-
-
+</lyrics></xml>

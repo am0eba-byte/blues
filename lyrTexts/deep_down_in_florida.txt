@@ -1,17 +1,5 @@
-Muddy Waters - Deep Down In Florida
-
-
-Deep Down In Florida
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Deep Down In Florida</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,8 +10,8 @@ Hard
 Again (Blue Sky ZK-34449, Columbia 34449)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -137,5 +125,4 @@ and sit down under the old orange tree
 
 
 
-
-
+</lyrics></xml>

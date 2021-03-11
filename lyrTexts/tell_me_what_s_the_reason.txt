@@ -1,17 +1,5 @@
-T-Bone Walker - Tell Me What's The Reason
-
-
-Tell Me What's The Reason
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>T-Bone Walker</artist><title> Tell Me What's The Reason</title>
+<songInfo>by 
 Aaron
 Thibeaux "T-Bone" Walker
 
@@ -22,8 +10,8 @@ The
 Very Best Of T-Bone Walker (Koch International
 8066)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -104,5 +92,4 @@ Said that you don't love me, then please just set me free
 
 
 
-
-
+</lyrics></xml>

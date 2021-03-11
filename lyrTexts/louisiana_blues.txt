@@ -1,17 +1,5 @@
-Muddy Waters - Louisiana Blues
-
-
-Louisiana Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Louisiana Blues</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -21,8 +9,8 @@ from probably
 Chess
 Box (Chess 9340)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +98,4 @@ Yes, how to treat your love
 
 
 
-
-
+</lyrics></xml>

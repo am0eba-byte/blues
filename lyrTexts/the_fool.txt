@@ -1,17 +1,5 @@
-B.B. King - The Fool
-
-
-The Fool
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> The Fool</title>
+<songInfo>by
 
 recording of 19
 
@@ -19,8 +7,8 @@ from
 B.B.
 King Wails (Crown 147)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -128,5 +116,4 @@ long
 
 
 
-
-
+</lyrics></xml>

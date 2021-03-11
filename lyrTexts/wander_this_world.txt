@@ -1,23 +1,12 @@
-Jonny Lang - Wander This World
-
-
-Wander This World
-
-
-
-
-
-
-
-
-
-by Paul Diethelm /
+<xml><metadata><artist>Jonny Lang</artist><title> Wander This World</title>
+<songInfo>by Paul Diethelm /
 Bruce McCabe
 recording of 1998
 from
 Wander This World (A&M 540984)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -91,5 +80,4 @@ Wander this world, wander this world all alone
 
 
 
-
-
+</lyrics></xml>

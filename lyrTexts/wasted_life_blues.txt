@@ -1,17 +1,5 @@
-Bessie Smith - Wasted Life Blues
-
-
-Wasted Life Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Wasted Life Blues</title>
+<songInfo>by 
 Bessie
 Smith
 
@@ -24,8 +12,8 @@ Complete Recordings, Vol. 4 (Columbia/Legacy
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +99,4 @@ Oh, me! Oh, me! Wonder what will become of poor me?
 
 
 
-
-
+</lyrics></xml>

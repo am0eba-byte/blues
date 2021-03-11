@@ -1,17 +1,5 @@
-B.B. King - I Can't Explain
-
-
-I Can't Explain
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> I Can't Explain</title>
+<songInfo>by
 
 recording of 1962-1965
 
@@ -28,8 +16,8 @@ Let
 Me Love You (United 7734)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -158,5 +146,4 @@ Oh that any man has ever seen
 
 
 
-
-
+</lyrics></xml>

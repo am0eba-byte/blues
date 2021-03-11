@@ -1,18 +1,5 @@
-B.B. King - Something You Got
-
-
-Something You Got
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Something You Got</title>
+<songInfo>by 
 Chris
 Kenner
 
@@ -22,8 +9,8 @@ from
 Blues
 Summit (MCA 10710)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -238,5 +225,4 @@ I like it, too, baby. Can't have it no other way ...
 
 
 
-
-
+</lyrics></xml>

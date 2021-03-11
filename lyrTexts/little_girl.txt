@@ -1,17 +1,5 @@
-John Mayall's Bluesbreakers - Little Girl
-
-
-Little Girl
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> Little Girl</title>
+<songInfo>by 
 John
 Mayall
 
@@ -22,8 +10,8 @@ Bluesbreakers
 with Eric Clapton (Deram 800086 or Mobile Fidelity
 616)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -91,5 +79,4 @@ You're gonna remember the love, child, that made you satisfied
 
 
 
-
-
+</lyrics></xml>

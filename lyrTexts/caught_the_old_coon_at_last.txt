@@ -1,18 +1,5 @@
-Memphis Slim - Caught The Old Coon At Last
-
-
-Caught The Old Coon At Last
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Memphis Slim</artist><title> Caught The Old Coon At Last</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -23,7 +10,8 @@ The
 Bluebird Recordings 1940-1941 (RCA 66720)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +99,4 @@ Note 1: coon, usually an offensive word for black person.
 
 
 
-
-
+</lyrics></xml>

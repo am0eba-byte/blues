@@ -1,16 +1,5 @@
-Muddy Waters - I Love The Life I Live, I Live The Life I Love
-
-
-I Love The Life I Live, I Live The Life I Love
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> I Love The Life I Live, I Live The Life I Love</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -21,8 +10,8 @@ Chess
 Box (MCA/Chess CHD3-80002)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -117,5 +106,4 @@ I life the life I love and I love the life I live
 
 
 
-
-
+</lyrics></xml>

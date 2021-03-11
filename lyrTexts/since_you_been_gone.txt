@@ -1,18 +1,5 @@
-Big Maceo Merriweather - Since You Been Gone
-
-
-Since You Been Gone
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Big Maceo Merriweather</artist><title> Since You Been Gone</title>
+<songInfo>by 
 Big
 Maceo Merriweather
 
@@ -23,8 +10,8 @@ Bluebird
 Recordings 1941-1942 (RCA 66715)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -100,5 +87,4 @@ I get the blues for my baby, ever since she been gone away
 
 
 
-
-
+</lyrics></xml>

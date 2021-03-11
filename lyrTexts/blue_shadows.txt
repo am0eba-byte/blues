@@ -1,18 +1,5 @@
-B.B. King - Blue Shadows
-
-
-Blue Shadows
-
-
-
-
-
-
-
-
-
-
-by Glenn
+<xml><metadata><artist>B.B. King</artist><title> Blue Shadows</title>
+<songInfo>by Glenn
 
 recording of 1971
 
@@ -21,8 +8,8 @@ King
 Of The Blues 4 CD Box Set (MCA
 MCAD4-10677)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -130,5 +117,4 @@ You better treat her like an angel and keep her home at any price
 
 
 
-
-
+</lyrics></xml>

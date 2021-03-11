@@ -1,7 +1,5 @@
-Mississippi Fred McDowell - Bye And Bye
-
-
-Bye And Bye
+<xml><metadata><artist>Mississippi Fred McDowell</artist><title> Bye And Bye</title>
+<songInfo>Bye And Bye
 
 
 
@@ -22,8 +20,8 @@ Good
 Morning Little School Girl (Arhoolie 424)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -83,5 +81,4 @@ Lord, I wouldn't mind dyin' down there
 
 
 
-
-
+</lyrics></xml>

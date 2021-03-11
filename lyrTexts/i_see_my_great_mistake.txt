@@ -1,17 +1,5 @@
-Memphis Slim - I See My Great Mistake
-
-
-I See My Great Mistake
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Memphis Slim</artist><title> I See My Great Mistake</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -22,7 +10,8 @@ The
 Bluebird Recordings 1940-1941 (RCA 66720)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +100,4 @@ After these long many years, I just see my great mistake
 
 
 
-
-
+</lyrics></xml>

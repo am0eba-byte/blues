@@ -1,19 +1,5 @@
-John Mayall's Bluesbreakers - All Your Love
-
-
-All Your Love
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> All Your Love</title>
+<songInfo>by 
 Otis
 Rush
  / 
@@ -27,8 +13,8 @@ Bluesbreakers
 with Eric Clapton (Deram 800086 or Mobile Fidelity
 616)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -92,5 +78,4 @@ Since I first met you baby, never knew what I was missing
 
 
 
-
-
+</lyrics></xml>

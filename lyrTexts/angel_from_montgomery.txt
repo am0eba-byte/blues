@@ -1,18 +1,5 @@
-Susan Tedeschi - Angel From Montgomery
-
-
-Angel From Montgomery
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> Angel From Montgomery</title>
+<songInfo>by 
 John
 Prine
 
@@ -23,7 +10,8 @@ Just
 Won't Burn (Tone-Cool 1164)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -141,5 +129,4 @@ To believe in this living is just a, hard way to go
 
 
 
-
-
+</lyrics></xml>

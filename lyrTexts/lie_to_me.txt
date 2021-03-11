@@ -1,23 +1,12 @@
-Jonny Lang - Lie To Me
-
-
-Lie To Me
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Lie To Me</title>
+<songInfo>by
 Bruce McCabe
 recording of 1997
 from
 Lie To Me (A&M 540640)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -76,5 +65,4 @@ Lie to me, go ahead and lie to me
 
 
 
-
-
+</lyrics></xml>

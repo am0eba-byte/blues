@@ -1,18 +1,5 @@
-B.B. King - Makin' Love Is Good For You
-
-
-Makin' Love Is Good For You
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Makin' Love Is Good For You</title>
+<songInfo>by 
 Tony
 Joe White
 
@@ -23,7 +10,8 @@ Makin'
 Love Is Good for You (MCA 112241)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -176,5 +164,4 @@ Make a little love today
 
 
 
-
-
+</lyrics></xml>

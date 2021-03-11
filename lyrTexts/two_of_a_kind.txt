@@ -1,17 +1,5 @@
-Memphis Slim - Two Of A Kind
-
-
-Two Of A Kind
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Memphis Slim</artist><title> Two Of A Kind</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -22,7 +10,8 @@ The
 Bluebird Recordings 1940-1941 (RCA 66720)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +92,4 @@ I'll talk baby talk to you, if you'll talk baby talk to me
 
 
 
-
-
+</lyrics></xml>

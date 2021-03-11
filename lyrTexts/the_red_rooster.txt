@@ -1,17 +1,5 @@
-Howlin' Wolf - The Red Rooster
-
-
-The Red Rooster
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> The Red Rooster</title>
+<songInfo>by 
 Willie
 Dixon
  / 
@@ -25,8 +13,8 @@ The
 Rocking Chair (Vogue 600111)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -96,5 +84,4 @@ been gone
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - Scratch-N-Sniff
-
-
-Scratch-N-Sniff
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Scratch-N-Sniff</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
  / 
@@ -24,8 +12,8 @@ from
 In
 Step (Epic EK-45024)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +120,4 @@ No
 
 
 
-
-
+</lyrics></xml>

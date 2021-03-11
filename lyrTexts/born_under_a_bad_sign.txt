@@ -1,18 +1,5 @@
-Albert King - Born Under A Bad Sign
-
-
-Born Under A Bad Sign
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> Born Under A Bad Sign</title>
+<songInfo>by 
 Booker
 T. Jones
  / 
@@ -44,7 +31,8 @@ The
 Ultimate Collection (Rhino 71268)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -144,5 +132,4 @@ Been havin' bad luck all of my days, yes
 
 
 
-
-
+</lyrics></xml>

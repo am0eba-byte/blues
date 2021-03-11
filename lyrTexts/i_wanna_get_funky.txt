@@ -1,18 +1,5 @@
-Albert King - I Wanna Get Funky
-
-
-I Wanna Get Funky
-
-
-
-
-
-
-
-
-
-
-by Carl Smith
+<xml><metadata><artist>Albert King</artist><title> I Wanna Get Funky</title>
+<songInfo>by Carl Smith
 
 recording of 1973
 
@@ -21,8 +8,8 @@ The
 Best Of Albert King (Stax 60-005 or Fantasy
 60005)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -164,5 +151,4 @@ Oh
 
 
 
-
-
+</lyrics></xml>

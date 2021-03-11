@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - Tick Tock lyrics
-
-
-Tick Tock
-
-
-
-chords
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Tick Tock lyrics</title>
+<songInfo>by 
 Jimmy
 Vaughan
  / 
@@ -29,8 +13,8 @@ from
 Family
 Style (Epic ZK-46225)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -196,5 +180,4 @@ Tick tock, tick tock, tick tock people, time's tickin' away
 
 
 
-
-
+</lyrics></xml>

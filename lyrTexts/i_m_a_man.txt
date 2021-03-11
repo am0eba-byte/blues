@@ -1,18 +1,5 @@
-Bo Diddley - I'm A Man
-
-
-I'm A Man
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bo Diddley</artist><title> I'm A Man</title>
+<songInfo>by 
 Ellas
 McDaniel a.k.a. Bo Diddley
 
@@ -23,8 +10,8 @@ Bo
 Diddley's 16 All-Time Greatest Hits (Checker LP
 2989)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -140,5 +127,4 @@ I spell M-A-N, man
 
 
 
-
-
+</lyrics></xml>

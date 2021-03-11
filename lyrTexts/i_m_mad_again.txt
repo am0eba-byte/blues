@@ -1,17 +1,5 @@
-John Lee Hooker - I'mMad Again
-
-
-I'mMad Again
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> I'mMad Again</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -20,8 +8,8 @@ recording of 1961
 from The Vee Jay Years 1955-1964 (Charly 82333-1754-2) &
 
 Vee Jay No. 1720, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -115,5 +103,4 @@ you're sinkin', I'm mad
 
 
 
-
-
+</lyrics></xml>

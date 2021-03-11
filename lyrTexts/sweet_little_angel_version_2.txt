@@ -1,18 +1,5 @@
-B.B. King - Sweet Little Angel (Version 2)
-
-
-Sweet Little Angel (Version 2)
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Sweet Little Angel (Version 2)</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -31,8 +18,8 @@ Virgin
 86230 or 91691 / Capitol 86230)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -137,5 +124,4 @@ and she bought me a Cadillac Seville
 
 
 
-
-
+</lyrics></xml>

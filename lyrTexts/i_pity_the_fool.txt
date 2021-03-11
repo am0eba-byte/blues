@@ -1,18 +1,5 @@
-B.B. King - I Pity The Fool
-
-
-I Pity The Fool
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Pity The Fool</title>
+<songInfo>by 
 Deadric
 Malone
 
@@ -22,8 +9,8 @@ from
 Blues
 Summit (MCA 10710)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -252,5 +239,4 @@ Watching you make a fool of me
 
 
 
-
-
+</lyrics></xml>

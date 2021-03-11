@@ -1,18 +1,5 @@
-Keb' Mo' - More Than One Way Home
-
-
-More Than One Way Home
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> More Than One Way Home</title>
+<songInfo>by 
 Kevin
 Moore
  / 
@@ -26,8 +13,8 @@ Just
 Like You (OKeh/Epic/Sony 484117 6)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -167,5 +154,4 @@ But they were just like us
 
 
 
-
-
+</lyrics></xml>

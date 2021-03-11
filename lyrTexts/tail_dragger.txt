@@ -1,17 +1,5 @@
-Howlin' Wolf - Tail Dragger
-
-
-Tail Dragger
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Tail Dragger</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -21,8 +9,8 @@ from
 Real
 Folk Blues (MCA 9273)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +114,4 @@ Well I don't come sneakin' back
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Albert King - My Babe
-
-
-My Babe
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> My Babe</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -22,8 +9,8 @@ from
 Albert
 (Rhino 70398)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -147,5 +134,4 @@ Fading:
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Muddy Waters - Forty Days And Forty Nights
-
-
-Forty Days And Forty Nights
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Forty Days And Forty Nights</title>
+<songInfo>by 
 Bernie
 Roth
 
@@ -22,8 +10,8 @@ The
 Chess Box (MCA 80002)
  & Legends Of
 Blues Collectors Edition (), 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +112,4 @@ I hope she come back home tonight
 
 
 
-
-
+</lyrics></xml>

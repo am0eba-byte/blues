@@ -1,21 +1,5 @@
-George Thorogood - Cocaine Blues
-
-
-Cocaine Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by T.J. Amall
+<xml><metadata><artist>George Thorogood</artist><title> Cocaine Blues</title>
+<songInfo>by T.J. Amall
 
 recording of 1978
 
@@ -28,8 +12,8 @@ Let's
 Work Together Live (EMI 31948 or EMI
 3718)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -171,5 +155,4 @@ stay off that whiskey and let that cocaine be
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Keb' Mo' - Rainmaker
-
-
-Rainmaker
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Keb' Mo'</artist><title> Rainmaker</title>
+<songInfo>by 
 Kevin
 Moore
  / P. Shepard
@@ -24,8 +11,8 @@ Slow
 Down (OKeh/550/Epic/Sony 491613 9)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -139,5 +126,4 @@ There's been a change in the weather
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Ma Rainey - Counting The Blues
-
-
-Counting The Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ma Rainey</artist><title> Counting The Blues</title>
+<songInfo>by 
 Ma
 Rainey
 
@@ -23,8 +10,8 @@ Complete
 Recorded Works, Vol. 2 (1924-1925) (Document
 5582)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -145,5 +132,4 @@ railroad line
 
 
 
-
-
+</lyrics></xml>

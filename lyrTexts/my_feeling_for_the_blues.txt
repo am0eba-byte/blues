@@ -1,20 +1,5 @@
-Freddie King - My Feeling For The Blues
-
-
-My Feeling For The Blues
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Freddie King</artist><title> My Feeling For The Blues</title>
+<songInfo>by 
 Freddie
 King
  / 
@@ -28,8 +13,8 @@ Hide
 Away: The Best of Freddie King (Rhino
 R2-71510)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -89,5 +74,4 @@ I'll give you my feeling of the blues, because I think I got 'em
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Albert King - Sky Is Crying
-
-
-Sky Is Crying
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert King</artist><title> Sky Is Crying</title>
+<songInfo>by 
 Elmore
 James
  / 
@@ -26,8 +13,8 @@ The
 Best Of Albert King (Stax 60-005 or Fantasy
 60005)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +97,4 @@ The sky is cryin', look at the tears roll down the street
 
 
 
-
-
+</lyrics></xml>

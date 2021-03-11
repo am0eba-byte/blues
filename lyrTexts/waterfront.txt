@@ -1,17 +1,5 @@
-John Lee Hooker - (The) Waterfront
-
-
-(The) Waterfront
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> (The) Waterfront</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,7 +10,8 @@ House
 Of The Blues (Vogue VG 651 500115)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -121,5 +110,4 @@ Note: also known under the titles "I cover The Waterfront" and
 
 
 
-
-
+</lyrics></xml>

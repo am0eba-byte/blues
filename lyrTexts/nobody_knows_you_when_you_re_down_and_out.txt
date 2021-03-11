@@ -1,21 +1,5 @@
-B.B. King - Nobody Knows You When You're Down And Out
-
-
-Nobody Knows You When You're Down And Out
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Nobody Knows You When You're Down And Out</title>
+<songInfo>by 
 Ida
 Cox
 
@@ -26,8 +10,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -166,5 +150,4 @@ Nobody wants you when you're down and out
 
 
 
-
-
+</lyrics></xml>

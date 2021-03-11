@@ -1,16 +1,5 @@
-Blind Lemon Jefferson - Long Distance Moan
-
-
-Long Distance Moan
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> Long Distance Moan</title>
+<songInfo>by 
 Blind
 Lemon Jefferson
 
@@ -21,7 +10,8 @@ Blind
 Lemon Jefferson (Milestone 47022)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -124,5 +114,4 @@ me
 
 
 
-
-
+</lyrics></xml>

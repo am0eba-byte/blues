@@ -1,17 +1,5 @@
-John Lee Hooker - I'mIn The Mood (Version 1)
-
-
-I'mIn The Mood (Version 1)
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> I'mIn The Mood (Version 1)</title>
+<songInfo>by 
 John
 Lee Hooker
  / 
@@ -23,8 +11,8 @@ recording of 1959
 from The Vee Jay Years 1955-1964 (Charly 82333-1754-2) &
 
 Vee Jay No. 1069, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -88,5 +76,4 @@ I'm in the mood, I'm in the mood, baby, in the mood for love
 
 
 
-
-
+</lyrics></xml>

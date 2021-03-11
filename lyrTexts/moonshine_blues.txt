@@ -1,18 +1,5 @@
-Ma Rainey - Moonshine Blues
-
-
-Moonshine Blues
-
-
-
-
-
-
-
-
-
-
-by K. Winters
+<xml><metadata><artist>Ma Rainey</artist><title> Moonshine Blues</title>
+<songInfo>by K. Winters
 
 recording of December 1923
 
@@ -21,8 +8,8 @@ Complete
 Recorded Works, Vol. 1 (1923-1924) (Document
 5581)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -135,5 +122,4 @@ distribute illicitly or without authorization, CD's for example.
 
 
 
-
-
+</lyrics></xml>

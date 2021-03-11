@@ -1,18 +1,5 @@
-Junior Parker - Next Time You See Me
-
-
-Next Time You See Me
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Junior Parker</artist><title> Next Time You See Me</title>
+<songInfo>by 
 Don
 Robey
  / 
@@ -26,8 +13,8 @@ Junior's
 Blues/The Duke Recordings, Vol. 1 (MCA
 MCAD-10669)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -108,5 +95,4 @@ And if it hurts you my darlin', you only have yourself to blame
 
 
 
-
-
+</lyrics></xml>

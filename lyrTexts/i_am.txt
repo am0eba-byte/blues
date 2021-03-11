@@ -1,22 +1,11 @@
-Jonny Lang - I Am
-
-
-I Am
-
-
-
-
-
-
-
-
-
-by Prince / David Z. / Levi Seacer / Jr.
+<xml><metadata><artist>Jonny Lang</artist><title> I Am</title>
+<songInfo>by Prince / David Z. / Levi Seacer / Jr.
 recording of 1998
 from
 Wander This World (A&M 540984)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -94,5 +83,4 @@ and you're the only one for me
 
 
 
-
-
+</lyrics></xml>

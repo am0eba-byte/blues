@@ -1,21 +1,5 @@
-B.B. King - Caldonia (Version 1)
-
-
-Caldonia (Version 1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Caldonia (Version 1)</title>
+<songInfo>by 
 Fleecie
 Moore
 
@@ -25,8 +9,8 @@ from
 In
 London (MCA 10843)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -133,5 +117,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

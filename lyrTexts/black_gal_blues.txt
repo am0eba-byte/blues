@@ -1,17 +1,5 @@
-Sonny Boy Williamson I (John Lee) - Black Gal Blues
-
-
-Black Gal Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Sonny Boy Williamson I (John Lee)</artist><title> Black Gal Blues</title>
+<songInfo>by 
 Sonny
 Boy Williamson I (John Lee)
 
@@ -22,8 +10,8 @@ The
 Bluebird Recordings 1937-1938 (RCA 66723)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -143,5 +131,4 @@ You ought to be a fool about me
 
 
 
-
-
+</lyrics></xml>

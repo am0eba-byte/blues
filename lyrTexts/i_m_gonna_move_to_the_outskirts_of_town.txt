@@ -1,21 +1,5 @@
-B.B. King - I'm Gonna Move To The Outskirts Of Town
-
-
-I'm Gonna Move To The Outskirts Of Town
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I'm Gonna Move To The Outskirts Of Town</title>
+<songInfo>by 
 Will
 Weldon
  / possibly co-written with
@@ -30,8 +14,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -142,5 +126,4 @@ I don't want nobody always hanging around
 
 
 
-
-
+</lyrics></xml>

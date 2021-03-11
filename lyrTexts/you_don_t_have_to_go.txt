@@ -1,17 +1,5 @@
-Muddy Waters - You Don't Have To Go
-
-
-You Don't Have To Go
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> You Don't Have To Go</title>
+<songInfo>by 
 Jimmy
 Reed
 
@@ -22,8 +10,8 @@ One
 More Mile (MCA/Chess CHD2-9348)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -102,5 +90,4 @@ I beg you all night baby, you don't have to go
 
 
 
-
-
+</lyrics></xml>

@@ -1,16 +1,5 @@
-John Mayall's Bluesbreakers - Deep Blues Sea
-
-
-Deep Blues Sea
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Mayall's Bluesbreakers</artist><title> Deep Blues Sea</title>
+<songInfo>by 
 John
 Mayall
 
@@ -20,8 +9,8 @@ from
 U.S.A.
 Union (Polygram 527458)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -107,5 +96,4 @@ We are on our own
 
 
 
-
-
+</lyrics></xml>

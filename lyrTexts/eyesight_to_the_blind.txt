@@ -1,21 +1,5 @@
-B.B. King - Eyesight To The Blind
-
-
-Eyesight To The Blind
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Eyesight To The Blind</title>
+<songInfo>by 
 B.B.
 King
 
@@ -26,8 +10,8 @@ Live
 In Japan (MCA Victor MVCM-253 & MCA
 11810)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +136,4 @@ she brings eyesight to the blind
 
 
 
-
-
+</lyrics></xml>

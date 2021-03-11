@@ -1,25 +1,5 @@
-Stevie Ray Vaughan - Taxman
-
-
-Taxman
-
-
-
-tab
-
-
-
-bass tab
-
-
-
-
-
-
-
-
-
-by G. Harrison
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Taxman</title>
+<songInfo>by G. Harrison
 
 recording of 1995
 
@@ -28,8 +8,8 @@ Greatest
 Hits (Epic 66817 or Sony 66217)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -128,5 +108,4 @@ if you don't want to pay some more
 
 
 
-
-
+</lyrics></xml>

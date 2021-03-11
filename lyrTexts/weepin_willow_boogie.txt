@@ -1,17 +1,5 @@
-John Lee Hooker - Weepin' Willow Boogie
-
-
-Weepin' Willow Boogie
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Weepin' Willow Boogie</title>
+<songInfo>by 
 John
 Lee Hooker
  / Bernard Besman
@@ -23,8 +11,8 @@ The
 Ultimate Collection (1948-1990) (Rhino
 R2-70572)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -96,5 +84,4 @@ Yeah, love me, love me, daddy and love me all night long
 
 
 
-
-
+</lyrics></xml>

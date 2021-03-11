@@ -1,24 +1,13 @@
-Jonny Lang - Breakin' Me
-
-
-Breakin' Me
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>Jonny Lang</artist><title> Breakin' Me</title>
+<songInfo>by
 Jonny Lang
 / Kevin Bowe
 recording of 1998
 from
 Wander This World (Aamp;M 540984)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -92,5 +81,4 @@ It's breakin' me
 
 
 
-
-
+</lyrics></xml>

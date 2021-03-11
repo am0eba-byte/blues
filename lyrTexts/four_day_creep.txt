@@ -1,17 +1,5 @@
-Ida Cox - Four Day Creep
-
-
-Four Day Creep
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Four Day Creep</title>
+<songInfo>by 
 Ida
 Cox
 
@@ -22,8 +10,8 @@ Complete
 Recorded Works, Vol. 4 (1927-1938) (Document
 5325)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -131,5 +119,4 @@ one's wife or lover with another lover.
 
 
 
-
-
+</lyrics></xml>

@@ -1,18 +1,5 @@
-Susan Tedeschi - Rock Me Right
-
-
-Rock Me Right
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> Rock Me Right</title>
+<songInfo>by 
 Tom
 Hambridge
 
@@ -23,7 +10,8 @@ Just
 Won't Burn (Tone-Cool 1164)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -144,5 +132,4 @@ Rock me all night
 
 
 
-
-
+</lyrics></xml>

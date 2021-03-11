@@ -1,21 +1,5 @@
-B.B. King - Everyday I Have The Blues (Version 3)
-
-
-Everyday I Have The Blues (Version 3)
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Everyday I Have The Blues (Version 3)</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -26,7 +10,8 @@ B.B.
 King Wails (Blues Interactions PCD-3044)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -131,5 +116,4 @@ Where there ain't nobody worried, and there ain't nobody crying
 
 
 
-
-
+</lyrics></xml>

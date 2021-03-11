@@ -1,19 +1,5 @@
-Ma Rainey - Chain Gang Blues
-
-
-Chain Gang
-Blues
-
-
-
-
-
-
-
-
-
-
-by Parker / Williams
+<xml><metadata><artist>Ma Rainey</artist><title> Chain Gang Blues</title>
+<songInfo>by Parker / Williams
 
 recording of 19
 
@@ -22,8 +8,8 @@ Complete
 Recorded Works, Vol. 3 (1925-1926) (Document
 5583)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -95,5 +81,4 @@ Ninety days on the county road, and judge didn't even smile
 
 
 
-
-
+</lyrics></xml>

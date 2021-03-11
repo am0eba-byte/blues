@@ -1,17 +1,5 @@
-Muddy Waters - You Got To Take Sick And Die Some Of These Days
-
-
-You Got To Take Sick And Die Some Of These Days
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> You Got To Take Sick And Die Some Of These Days</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -23,8 +11,8 @@ The
 Complete Plantation Recordings (Chess/MCA
 CHD-9344)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -119,5 +107,4 @@ You got to take... (guitar ending)
 
 
 
-
-
+</lyrics></xml>

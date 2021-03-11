@@ -1,17 +1,5 @@
-Muddy Waters - Rock Me
-
-
-Rock Me
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Rock Me</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -21,8 +9,8 @@ from
 Chess
 Box (Chess 9340)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -118,5 +106,4 @@ I want you to call, call me daddy, let me lay down in your arms
 
 
 
-
-
+</lyrics></xml>

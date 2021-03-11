@@ -1,21 +1,5 @@
-Janis Joplin - Kansas City Blues
-
-
-Kansas City Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by C. Parker
+<xml><metadata><artist>Janis Joplin</artist><title> Kansas City Blues</title>
+<songInfo>by C. Parker
 
 recording of 19
 
@@ -24,8 +8,8 @@ From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -105,5 +89,4 @@ Goin' to Kansas City tryin' to find a man of my own, yeah
 
 
 
-
-
+</lyrics></xml>

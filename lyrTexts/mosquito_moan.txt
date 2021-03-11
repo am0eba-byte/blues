@@ -1,17 +1,5 @@
-Blind Lemon Jefferson - Mosquito Moan
-
-
-Mosquito Moan
-
-
-
-
-
-
-
-
-
-by probably 
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> Mosquito Moan</title>
+<songInfo>by probably 
 Blind
 Lemon Jefferson
 
@@ -22,7 +10,8 @@ Blind
 Lemon Jefferson (Milestone 47022)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -99,5 +88,4 @@ or crane fly, mainly used in the south and midland.
 
 
 
-
-
+</lyrics></xml>

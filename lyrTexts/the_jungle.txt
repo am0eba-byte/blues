@@ -1,17 +1,5 @@
-B.B. King - The Jungle
-
-
-The Jungle
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> The Jungle</title>
+<songInfo>by
 
 recording of June 1967
 
@@ -28,7 +16,8 @@ The
 Best of B.B. King, Vol. 2 (ACE 199)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -167,5 +156,4 @@ Well, I ain't doin' myself no good
 
 
 
-
-
+</lyrics></xml>

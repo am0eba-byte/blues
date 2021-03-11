@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - Let Me Love You Baby
-
-
-Let Me Love You Baby
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Let Me Love You Baby</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -21,8 +9,8 @@ from
 In
 Step (Epic EK-45024)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -139,5 +127,4 @@ MusicSearcher.com
 
 
 
-
-
+</lyrics></xml>

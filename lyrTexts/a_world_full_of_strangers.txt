@@ -1,17 +1,5 @@
-B.B. King - A World Full Of Strangers
-
-
-A World Full Of Strangers
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> A World Full Of Strangers</title>
+<songInfo>by 
 Will
 Jennings
  / 
@@ -25,7 +13,8 @@ Midnight
 Believer (MCA MCAD-27011)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -169,5 +158,4 @@ Just come on home
 
 
 
-
-
+</lyrics></xml>

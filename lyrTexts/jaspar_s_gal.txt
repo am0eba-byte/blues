@@ -1,17 +1,5 @@
-Memphis Slim - Jaspar's Gal
-
-
-Jaspar's Gal
-
-
-
-
-
-
-
-
-
-by Leroy Batchelor
+<xml><metadata><artist>Memphis Slim</artist><title> Jaspar's Gal</title>
+<songInfo>by Leroy Batchelor
 
 recording of 1940-1941
 
@@ -20,7 +8,8 @@ The
 Bluebird Recordings 1940-1941 (RCA 66720)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -163,5 +152,4 @@ Note 1: b.o., body odor.
 
 
 
-
-
+</lyrics></xml>

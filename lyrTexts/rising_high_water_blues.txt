@@ -1,17 +1,5 @@
-Blind Lemon Jefferson - Rising High Water Blues
-
-
-Rising High Water Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> Rising High Water Blues</title>
+<songInfo>by 
 Blind
 Lemon Jefferson
 
@@ -31,7 +19,8 @@ Best
 of Blind Lemon Jefferson (Wolf 16)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -129,5 +118,4 @@ levees
 
 
 
-
-
+</lyrics></xml>

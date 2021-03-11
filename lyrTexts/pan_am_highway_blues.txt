@@ -1,21 +1,5 @@
-ZZ Top - Pan Am Highway Blues
-
-
-Pan Am Highway Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Pan Am Highway Blues</title>
+<songInfo>by 
 Frank
 Beard
  / 
@@ -31,8 +15,8 @@ from
 Tejas
 (Warner Brothers 2-3272)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +97,4 @@ anyhow
 
 
 
-
-
+</lyrics></xml>

@@ -1,20 +1,5 @@
-B.B. King - Come Back Baby
-
-
-Come Back Baby
-
-
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Come Back Baby</title>
+<songInfo>by
 
 recording of 1966
 
@@ -23,7 +8,8 @@ The
 Soul of B. B. King (United 7714)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -138,5 +124,4 @@ nbsp;
 
 
 
-
-
+</lyrics></xml>

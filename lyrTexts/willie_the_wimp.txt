@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - Willie The Wimp
-
-
-Willie The Wimp
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Willie The Wimp</title>
+<songInfo>by 
 Ruth
 Ellsworth
  / B. Carter
@@ -22,8 +10,8 @@ from
 Live
 Alive (Epic EGK-40511)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -144,5 +132,4 @@ Yeah, Willie the Wimp and his cadillac coffin
 
 
 
-
-
+</lyrics></xml>

@@ -1,21 +1,5 @@
-ZZ Top - Certified Blues
-
-
-Certified Blues
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Certified Blues</title>
+<songInfo>by 
 Frank
 Beard
  / 
@@ -32,8 +16,8 @@ ZZ
 Top's First Album (Warner brothers
 2-3268)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -129,5 +113,4 @@ These certified blues are gonna take their time
 
 
 
-
-
+</lyrics></xml>

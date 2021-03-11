@@ -1,17 +1,5 @@
-Bessie Smith - New Orleans Hop Scop Blues
-
-
-New Orleans Hop Scop Blues
-
-
-
-
-
-
-
-
-
-by George W. Thomas
+<xml><metadata><artist>Bessie Smith</artist><title> New Orleans Hop Scop Blues</title>
+<songInfo>by George W. Thomas
 
 recording of 19
 
@@ -22,8 +10,8 @@ Complete Recordings, Vol. 4 (Columbia/Legacy
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -110,5 +98,4 @@ I'll never git tired of dancin' those Hop Scop Blues
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Bessie Smith - Yodling Blues
-
-
-Yodling Blues
-
-
-
-
-
-
-
-
-
-by Hill / Williams
+<xml><metadata><artist>Bessie Smith</artist><title> Yodling Blues</title>
+<songInfo>by Hill / Williams
 
 recording of June 14, 1923
 
@@ -20,8 +8,8 @@ The
 Complete Recordings, Vol. 1 (Columbia/Legacy
 C2K-47091)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -116,5 +104,4 @@ the German word Jodeln.
 
 
 
-
-
+</lyrics></xml>

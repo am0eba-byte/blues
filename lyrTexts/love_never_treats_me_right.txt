@@ -1,18 +1,5 @@
-Susan Tedeschi - Love Never Treats Me Right
-
-
-Love Never Treats Me Right
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> Love Never Treats Me Right</title>
+<songInfo>by 
 Susan
 Tedeschi
 
@@ -22,8 +9,8 @@ from
 Better
 Days (Oarfin 950215)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -105,5 +92,4 @@ Why won't love ever treat me right?
 
 
 
-
-
+</lyrics></xml>

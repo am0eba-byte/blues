@@ -1,17 +1,5 @@
-Bessie Smith - Hard Time Blues
-
-
-Haunted House Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Hard Time Blues</title>
+<songInfo>by 
 J.C.
 Johnson
 
@@ -22,8 +10,8 @@ The
 Complete Recordings, Vol. 1 (Columbia/Legacy
 C2K-47091)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -112,5 +100,4 @@ Tear this house on down
 
 
 
-
-
+</lyrics></xml>

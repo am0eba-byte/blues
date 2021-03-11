@@ -1,17 +1,5 @@
-Howlin' Wolf - Nature
-
-
-Nature
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Nature</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 Real
 Folk Blues (MCA 9273)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -98,5 +86,4 @@ I'm sorry baby, nature caused me to mess up my life
 
 
 
-
-
+</lyrics></xml>

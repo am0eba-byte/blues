@@ -1,18 +1,5 @@
-Susan Tedeschi - It Hurt So Bad
-
-
-It Hurt So Bad
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Susan Tedeschi</artist><title> It Hurt So Bad</title>
+<songInfo>by 
 Tom
 Hambridge
 
@@ -23,7 +10,8 @@ Just
 Won't Burn (Tone-Cool 1164)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -149,5 +137,4 @@ Oh I miss you baby
 
 
 
-
-
+</lyrics></xml>

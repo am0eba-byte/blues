@@ -1,17 +1,5 @@
-Muddy Waters - I Got A Rich Man's Woman
-
-
-I Got A Rich Man's Woman
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> I Got A Rich Man's Woman</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -26,8 +14,8 @@ Top
 Of The Boogaloo (Signal 88112)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -128,5 +116,4 @@ but the woman she's livin' on a poor man's pay
 
 
 
-
-
+</lyrics></xml>

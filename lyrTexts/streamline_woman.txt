@@ -1,17 +1,5 @@
-Muddy Waters - Streamline Woman
-
-
-Streamline Woman
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Streamline Woman</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,7 +10,8 @@ Chess
 Box (MCA/Chess CHD3-80002)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +90,4 @@ Won't hear that old troubadour whine
 
 
 
-
-
+</lyrics></xml>

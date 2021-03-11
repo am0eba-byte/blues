@@ -1,17 +1,5 @@
-Slim Harpo - One More Day
-
-
-One More Day
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Slim Harpo</artist><title> One More Day</title>
+<songInfo>by 
 Jerry
 West
 
@@ -22,7 +10,8 @@ The
 Best of Slim Harpo (HIP-O 40072)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -91,5 +80,4 @@ long
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Howlin' Wolf - Wang Dang Doodle
-
-
-Wang Dang Doodle
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Wang Dang Doodle</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -22,8 +10,8 @@ The
 Rocking Chair (Vogue 600111)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -132,5 +120,4 @@ All night long
 
 
 
-
-
+</lyrics></xml>

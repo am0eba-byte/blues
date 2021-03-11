@@ -1,17 +1,5 @@
-B.B. King - Gonna Miss You Around Here
-
-
-Gonna Miss You Around Here
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Gonna Miss You Around Here</title>
+<songInfo>by
 
 recording of 19
 
@@ -20,7 +8,8 @@ The
 Soul Of B.B. King (United 7714)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -138,5 +127,4 @@ Yes, I'm gonna tell you, baby, they gonna miss you around here
 
 
 
-
-
+</lyrics></xml>

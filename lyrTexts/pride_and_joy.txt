@@ -1,21 +1,5 @@
-Stevie Ray Vaughan - Pride And Joy lyrics
-
-
-Pride And Joy
-
-
-
-tab
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Pride And Joy lyrics</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
 
@@ -34,8 +18,8 @@ Live
 At Carnegie Hall (Sony 68163)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -170,5 +154,4 @@ MusicSearcher.com
 
 
 
-
-
+</lyrics></xml>

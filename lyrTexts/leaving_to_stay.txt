@@ -1,23 +1,12 @@
-Jonny Lang - Leaving To Stay
-
-
-Leaving To Stay
-
-
-
-
-
-
-
-
-
-by Kevin Bowe /
+<xml><metadata><artist>Jonny Lang</artist><title> Leaving To Stay</title>
+<songInfo>by Kevin Bowe /
 Jonny Lang
 recording of 1998
 from
 Wander This World (A&M 540984)
 ,
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -75,5 +64,4 @@ Like the last lonely rose hung on the vine
 
 
 
-
-
+</lyrics></xml>

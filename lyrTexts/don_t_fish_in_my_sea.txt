@@ -1,18 +1,5 @@
-Ma Rainey - Don't Fish In My Sea
-
-
-Don't Fish In My Sea
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ma Rainey</artist><title> Don't Fish In My Sea</title>
+<songInfo>by 
 Ma
 Rainey
 
@@ -23,8 +10,8 @@ Complete
 Recorded Works, Vol. 4 (1926-1927) (Document
 5584)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -119,5 +106,4 @@ delude or mislead, to treat someone or something as unimportant.
 
 
 
-
-
+</lyrics></xml>

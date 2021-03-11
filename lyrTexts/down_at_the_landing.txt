@@ -1,17 +1,5 @@
-John Lee Hooker - Down At The Landing
-
-
-Down At The Landing
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Down At The Landing</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ House
 Of The Blues (Vogue VG 651 500115)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -99,5 +87,4 @@ down
 
 
 
-
-
+</lyrics></xml>

@@ -1,16 +1,5 @@
-Albert Collins - Soul Food
-
-
-Soul Food
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Albert Collins</artist><title> Soul Food</title>
+<songInfo>by 
 Albert
 Collins
 
@@ -21,7 +10,8 @@ The
 Complete Imperial Recordings (EMI 96740)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -105,5 +95,4 @@ It's soul food
 
 
 
-
-
+</lyrics></xml>

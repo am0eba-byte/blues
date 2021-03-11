@@ -1,17 +1,5 @@
-B.B. King - You Won't Listen
-
-
-You Won't Listen
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> You Won't Listen</title>
+<songInfo>by
 
 recording of 19
 
@@ -20,7 +8,8 @@ The
 Soul of B. B. King (United 7714)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -135,5 +124,4 @@ a empty room
 
 
 
-
-
+</lyrics></xml>

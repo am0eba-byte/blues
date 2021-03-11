@@ -1,18 +1,5 @@
-Albert King - Don't Burn Down The Bridge
-
-
-Don't Burn Down The Bridge
-
-
-
-
-
-
-
-
-
-
-by Jones / Wells
+<xml><metadata><artist>Albert King</artist><title> Don't Burn Down The Bridge</title>
+<songInfo>by Jones / Wells
 
 recording of July 1 1973, Jazz Festival Montreux,
 Switzerland
@@ -22,8 +9,8 @@ Live
 at Montreux Blues at Sunrise (Stax or Fantasy
 8546)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -159,5 +146,4 @@ Across".
 
 
 
-
-
+</lyrics></xml>

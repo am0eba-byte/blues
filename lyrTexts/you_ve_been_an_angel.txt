@@ -1,17 +1,5 @@
-B.B. King - You've Been An Angel
-
-
-You've Been An Angel
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> You've Been An Angel</title>
+<songInfo>by 
 B.B.
 King
  / 
@@ -25,7 +13,8 @@ My
 Sweet Little Angel (Flair V2-39103)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -150,5 +139,4 @@ And it's not my fault there's somebody else
 
 
 
-
-
+</lyrics></xml>

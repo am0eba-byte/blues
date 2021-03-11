@@ -1,17 +1,5 @@
-John Lee Hooker - Want Ad Blues
-
-
-Want Ad Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Want Ad Blues</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -20,8 +8,8 @@ recording of 1961
 from The Vee Jay Years 1955-1964 (Charly 82333-1754-2) &
 
 Vee Jay No. 1715, 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +91,4 @@ Got a whole lotta talkin', Johnny wanna talk to you, alright
 
 
 
-
-
+</lyrics></xml>

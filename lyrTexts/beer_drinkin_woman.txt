@@ -1,19 +1,5 @@
-Memphis Slim - Beer Drinkin' Woman
-
-
-Beer Drinkin' Woman
-
-
-
-
-
-
-
- 
-
-
-
-by 
+<xml><metadata><artist>Memphis Slim</artist><title> Beer Drinkin' Woman</title>
+<songInfo>by 
 Peter
 Chatman a.k.a. Memphis Slim
 
@@ -24,7 +10,8 @@ The
 Bluebird Recordings 1940-1941 (RCA 66720)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -162,5 +149,4 @@ I don't wanna see her no more
 
 
 
-
-
+</lyrics></xml>

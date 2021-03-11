@@ -1,21 +1,5 @@
-ZZ Top - Dust My Broom
-
-
-Dust My Broom
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> Dust My Broom</title>
+<songInfo>by 
 Elmore
 James
 
@@ -25,8 +9,8 @@ from
 Deguello
 (Warner Brothers 2-3361)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -97,5 +81,4 @@ I've had to quit my baby and give up my happy home
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Bessie Smith - Shipwreck Blues
-
-
-Shipwreck Blues
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Bessie Smith</artist><title> Shipwreck Blues</title>
+<songInfo>by 
 Bessie
 Smith
 
@@ -24,8 +12,8 @@ Complete Recordings, Vol. 4 (Columbia/Legacy
 ,
 
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -99,5 +87,4 @@ I feel like somebody has shipwrecked poor me
 
 
 
-
-
+</lyrics></xml>

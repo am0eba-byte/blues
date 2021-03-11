@@ -1,18 +1,5 @@
-B.B. King - Buzz Me (Version 1)
-
-
-Buzz Me (Version 1)
-
-
-
-
-
-
-
-
-
-
-by Baxter / 
+<xml><metadata><artist>B.B. King</artist><title> Buzz Me (Version 1)</title>
+<songInfo>by Baxter / 
 Fleecie
 Moore
 
@@ -22,8 +9,8 @@ from
 Blues
 Is King (MCA MCAD-31386)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -137,5 +124,4 @@ If I ever get my arms around you, I ain't gonna let go till 1973
 
 
 
-
-
+</lyrics></xml>

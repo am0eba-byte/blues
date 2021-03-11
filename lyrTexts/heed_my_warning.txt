@@ -1,18 +1,5 @@
-B.B. King - Heed My Warning
-
-
-Heed My Warning
-
-
-
-
-
-
-
-
-
-
-by H. Bowman / 
+<xml><metadata><artist>B.B. King</artist><title> Heed My Warning</title>
+<songInfo>by H. Bowman / 
 Louis
 Jordan
 
@@ -23,7 +10,8 @@ Blues
 'n' Jazz (MCA MCAD-27119)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -184,5 +172,4 @@ You'd better heed my warning
 
 
 
-
-
+</lyrics></xml>

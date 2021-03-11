@@ -1,23 +1,11 @@
-B.B. King - A Woman Don't Care
-
-
-A Woman Don't Care
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> A Woman Don't Care</title>
+<songInfo>by
 
 recording of 19
 
 from , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -155,5 +143,4 @@ She don't care who she gives the blues
 
 
 
-
-
+</lyrics></xml>

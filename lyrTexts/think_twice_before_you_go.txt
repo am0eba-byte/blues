@@ -1,17 +1,5 @@
-John Lee Hooker - Think Twice Before You Go
-
-
-Think Twice Before You Go
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>John Lee Hooker</artist><title> Think Twice Before You Go</title>
+<songInfo>by 
 John
 Lee Hooker
 
@@ -22,8 +10,8 @@ The
 Healer (Silvertone ZD74307)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +89,4 @@ Ha
 
 
 
-
-
+</lyrics></xml>

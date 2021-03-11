@@ -1,18 +1,5 @@
-Ida Cox - Hard Time Blues
-
-
-Hard Time Blues
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Ida Cox</artist><title> Hard Time Blues</title>
+<songInfo>by 
 Ida
 Cox
 
@@ -23,7 +10,8 @@ I
 Can't Quit My Man (Affinity 1015)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -113,5 +101,4 @@ In his mama's potato patch, five and ten times a week?
 
 
 
-
-
+</lyrics></xml>

@@ -1,17 +1,5 @@
-Howlin' Wolf - Little Baby
-
-
-Little Baby
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Little Baby</title>
+<songInfo>by 
 Willie
 Dixon
 
@@ -22,8 +10,8 @@ The
 Rocking Chair (Vogue 600111)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -173,5 +161,4 @@ Ooh, little baby
 
 
 
-
-
+</lyrics></xml>

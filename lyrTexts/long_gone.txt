@@ -1,21 +1,5 @@
-George Thorogood - Long Gone
-
-
-Long Gone
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>George Thorogood</artist><title> Long Gone</title>
+<songInfo>by 
 George
 Thorogood
 
@@ -29,8 +13,8 @@ The
 Baddest Of George Thorogood And The Destroyers (EMI E2-97718 or
 Capitol 97718)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -128,5 +112,4 @@ You'll look for me, and me you won't see
 
 
 
-
-
+</lyrics></xml>

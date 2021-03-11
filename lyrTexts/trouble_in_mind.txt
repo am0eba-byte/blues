@@ -1,21 +1,5 @@
-Janis Joplin - Trouble In Mind
-
-
-Trouble In Mind
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Janis Joplin</artist><title> Trouble In Mind</title>
+<songInfo>by 
 Richard
 M. Jones
 
@@ -26,8 +10,8 @@ From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -101,5 +85,4 @@ Child, that wind's gonna come and blow my blues away!
 
 
 
-
-
+</lyrics></xml>

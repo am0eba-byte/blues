@@ -1,18 +1,5 @@
-The Fabulous Thunderbirds - Tell Me
-
-
-Tell Me
-
-
-
-
-
-
-
-
-
-
-by Schuler / Semien
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> Tell Me</title>
+<songInfo>by Schuler / Semien
 
 recording of 1986
 
@@ -20,8 +7,8 @@ from
 Tuff
 Enuff (Epic ZK-40304)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -103,5 +90,4 @@ Note:
 
 
 
-
-
+</lyrics></xml>

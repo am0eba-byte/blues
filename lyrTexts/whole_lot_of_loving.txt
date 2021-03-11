@@ -1,18 +1,5 @@
-B.B. King - Whole Lot Of Loving
-
-
-Whole Lot Of Loving
-
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Whole Lot Of Loving</title>
+<songInfo>by
 
 recording of 19
 
@@ -20,8 +7,8 @@ from
 RPM
 Hits 1951-1957 (Ace 712)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -136,5 +123,4 @@ Because you've got those little dreamy eyes
 
 
 
-
-
+</lyrics></xml>

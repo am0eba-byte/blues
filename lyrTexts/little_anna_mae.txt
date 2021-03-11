@@ -1,17 +1,5 @@
-Muddy Waters - Little Anna Mae
-
-
-Little Anna Mae
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Muddy Waters</artist><title> Little Anna Mae</title>
+<songInfo>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
@@ -22,8 +10,8 @@ Chess
 Box (Chess 9340)
  & (Chess CHD 91080)
 & The Beginnings Of Rock (Aristocrat 1302), 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +114,4 @@ before Aristocrat asked him to record again.
 
 
 
-
-
+</lyrics></xml>

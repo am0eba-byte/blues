@@ -1,17 +1,5 @@
-B.B. King - Hold That Train
-
-
-Hold That Train
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Hold That Train</title>
+<songInfo>by 
 Joe
 Josea
  / 
@@ -29,7 +17,8 @@ Let
 Me Love You (United 7734)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -142,5 +131,4 @@ treat me right
 
 
 
-
-
+</lyrics></xml>

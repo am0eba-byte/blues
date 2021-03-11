@@ -1,17 +1,5 @@
-Howlin' Wolf - Sittin' On Top Of The World
-
-
-Sittin' On Top Of The World
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Sittin' On Top Of The World</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -21,8 +9,8 @@ from
 More
 Real Folk Blues (MCA 9279)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -96,5 +84,4 @@ Sittin' on top of the world
 
 
 
-
-
+</lyrics></xml>

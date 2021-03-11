@@ -1,17 +1,5 @@
-B.B. King - Please Remember Me
-
-
-Please Remember Me
-
-
-
-
-
-
-
-
-
-by
+<xml><metadata><artist>B.B. King</artist><title> Please Remember Me</title>
+<songInfo>by
 
 recording of 19
 
@@ -25,7 +13,8 @@ Had a Baby (ACE 271)
 ,
 
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -137,5 +126,4 @@ place
 
 
 
-
-
+</lyrics></xml>

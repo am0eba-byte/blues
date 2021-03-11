@@ -1,18 +1,5 @@
-Albert King - Almost Lost My Mind
-
-
-Almost Lost My Mind
-
-
-
-
-
-
-
-
-
-
-by Hunter
+<xml><metadata><artist>Albert King</artist><title> Almost Lost My Mind</title>
+<songInfo>by Hunter
 
 recording of probably 1984
 
@@ -20,8 +7,8 @@ from
 Laundromat
 Blues (Edsel 130)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -93,5 +80,4 @@ When I lost my baby, I almost lost my mind
 
 
 
-
-
+</lyrics></xml>

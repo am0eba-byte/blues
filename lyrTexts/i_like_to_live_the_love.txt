@@ -1,18 +1,5 @@
-B.B. King - I Like To Live The Love
-
-
-I Like To Live The Love
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> I Like To Live The Love</title>
+<songInfo>by 
 Dave
 Crawford
  / 
@@ -26,8 +13,8 @@ To
 Know You Is to Love You (MCA MCAD-10414)
 ,
 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -186,5 +173,4 @@ That I sing about in my song
 
 
 
-
-
+</lyrics></xml>

@@ -1,16 +1,5 @@
-Howlin' Wolf - Ooh Baby (Hold Me)
-
-
-Ooh Baby (Hold Me)
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Howlin' Wolf</artist><title> Ooh Baby (Hold Me)</title>
+<songInfo>by 
 Chester
 Burnett a.k.a. Howlin' Wolf
 
@@ -20,8 +9,8 @@ from
 Real
 Folk Blues (MCA 9273)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -104,5 +93,4 @@ Back in my mind baby, what are ya' doin' to me
 
 
 
-
-
+</lyrics></xml>

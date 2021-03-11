@@ -1,18 +1,5 @@
-The Fabulous Thunderbirds - Look At That, Look At That
-
-
-Look At That, Look At That
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>The Fabulous Thunderbirds</artist><title> Look At That, Look At That</title>
+<songInfo>by 
 Kim
 Wilson
  / 
@@ -34,7 +21,8 @@ Hot
 Stuff: The Greatest Hits (Epic ZK-53007)
 ,
 
-copyright notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -126,5 +114,4 @@ At a hip-shakin' party on a Saturday night
 
 
 
-
-
+</lyrics></xml>

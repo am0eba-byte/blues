@@ -1,17 +1,5 @@
-Stevie Ray Vaughan - Long Way From Home
-
-
-Long Way From Home
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>Stevie Ray Vaughan</artist><title> Long Way From Home</title>
+<songInfo>by 
 Stevie
 Ray Vaughan
  / 
@@ -24,8 +12,8 @@ from
 Family
 Style (Epic ZK-46225)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -152,5 +140,4 @@ And that's a long long way from home
 
 
 
-
-
+</lyrics></xml>

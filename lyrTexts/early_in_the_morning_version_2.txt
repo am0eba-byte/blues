@@ -1,21 +1,5 @@
-B.B. King - Early In The Morning (Version 2)
-
-
-Early In The Morning (Version 2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>B.B. King</artist><title> Early In The Morning (Version 2)</title>
+<songInfo>by 
 Dallas
 Bartley
  / L. Hickman / 
@@ -29,8 +13,8 @@ Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -187,5 +171,4 @@ I ain't got nothin' but the blues
 
 
 
-
-
+</lyrics></xml>

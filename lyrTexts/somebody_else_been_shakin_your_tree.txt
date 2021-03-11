@@ -1,21 +1,5 @@
-ZZ Top - (Somebody Else Been) Shakin' Your Tree
-
-
-(Somebody Else Been) Shakin' Your Tree
-
-
-
-
-
-
-
-
-
-
-
-
-
-by 
+<xml><metadata><artist>ZZ Top</artist><title> (Somebody Else Been) Shakin' Your Tree</title>
+<songInfo>by 
 Billy
 Gibbons
 
@@ -26,8 +10,8 @@ ZZ
 Top's First Album (Warner brothers
 2-3268)
 , 
-copyright
-notice
+</songInfo></metadata>
+<lyrics>
 
 
 
@@ -111,5 +95,4 @@ tree
 
 
 
-
-
+</lyrics></xml>
