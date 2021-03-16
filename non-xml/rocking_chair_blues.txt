@@ -1,7 +1,6 @@
-<xml><artist>Bessie Smith</artist><title> Rocking Chair Blues
+<xml><artist>Bessie Smith</artist><title> Rocking Chair Blues</title>
 
-
-Rocking Chair Blues</title><songInfo>lyrics by 
+<songInfo>lyrics by 
 Bessie
 Smith
 , music by 
@@ -60,41 +59,4 @@ Blues jumped a rabbit, run him for a solid mile
 Blues jumped a rabbit, run him for a solid mile
 
 The rabbit turned over and he cried like a natural
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </lyrics></xml>

@@ -1,7 +1,5 @@
-<xml><artist>Bessie Smith</artist><title> Down In The Dumps
+<xml><artist>Bessie Smith</artist><title> Down In The Dumps</title>
 
-
-Down In The Dumps</title>
 <songInfo>lyrics by 
 Leola
 P. Wilson

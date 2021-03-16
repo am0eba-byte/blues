@@ -1,7 +1,6 @@
-<xml><artist>Alvin Youngblood Hart</artist><title> Will I Ever Get Back Home?
+<xml><artist>Alvin Youngblood Hart</artist><title> Will I Ever Get Back Home?</title>
 
-
-Will I Ever Get Back Home?</title><songInfo>traditional, arranged by 
+<songInfo>traditional, arranged by 
 Alvin
 Youngblood Hart
 
@@ -59,43 +58,4 @@ And Lord, I wonder will I, ooo-ooo ever get back ho-oome?
 Cryin' Lord I wonder will I, ooo-ooo ever get back ho-oome?
 
 Cryin' I wonder ooo, will I ever, ooo-hoo, get back home?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </lyrics></xml>

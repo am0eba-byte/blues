@@ -1,7 +1,5 @@
-<xml><artist>Janis Joplin</artist><title> I Know You Rider
-
-
-I Know You Rider</title><songInfo>Traditional arranged by 
+<xml><artist>Janis Joplin</artist><title> I Know You Rider</title>
+<songInfo>Traditional arranged by 
 Big
 Brother &amp; the Holding Company
 

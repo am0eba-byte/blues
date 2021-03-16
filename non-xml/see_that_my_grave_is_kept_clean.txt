@@ -1,7 +1,6 @@
-<xml><artist>Blind Lemon Jefferson</artist><title> See That My Grave Is Kept Clean
+<xml><artist>Blind Lemon Jefferson</artist><title> See That My Grave Is Kept Clean</title>
 
-
-See That My Grave Is Kept Clean</title><songInfo>Traditional OR by 
+<songInfo>Traditional OR by 
 Blind
 Lemon Jefferson
 
@@ -95,51 +94,5 @@ Lemon Jefferson's most famous folk song contains a wish that has been
 fulfilled by some of his many admirers. A group of contemporary
 artists came together to get him a new headstone. The grave is in the
 segregated section of the Wortham, Texas, cemetery on Highway 14,
-some 85 miles south of Dallas. So, if you're in the 'hood... This is
-a 
-picture
-of his grave
-. For more info and pictures see 
-this
-site
-.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+some 85 miles south of Dallas.
 </note></xml>
