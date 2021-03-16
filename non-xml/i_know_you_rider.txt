@@ -1,20 +1,7 @@
-Janis Joplin - I Know You Rider
+<xml><artist>Janis Joplin</artist><title> I Know You Rider
 
 
-I Know You Rider
-
-
-
-
-
-
-
-
-
-
-
-
-Traditional arranged by 
+I Know You Rider</title><songInfo>Traditional arranged by 
 Big
 Brother &amp; the Holding Company
 
@@ -24,8 +11,8 @@ from
 Cheaper
 Thrills (Edsel ED CD135)
 , 
-copyright
-notice
+</songInfo>
+<lyrics>
 
 
 
@@ -80,38 +67,4 @@ I'll understand
 I know you rider
 
 Said you're gonna miss me when I'm gone
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</lyrics></xml>

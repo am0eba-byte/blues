@@ -1,17 +1,7 @@
-Alvin Youngblood Hart - Will I Ever Get Back Home?
+<xml><artist>Alvin Youngblood Hart</artist><title> Will I Ever Get Back Home?
 
 
-Will I Ever Get Back Home?
-
-
-
-
-
-
-
-
-
-traditional, arranged by 
+Will I Ever Get Back Home?</title><songInfo>traditional, arranged by 
 Alvin
 Youngblood Hart
 
@@ -22,7 +12,8 @@ Start
 With The Soul (Rykodisc or Hannibal 1449)
 ,
 
-copyright notice
+</songInfo>
+<lyrics>
 
 
 
@@ -107,5 +98,4 @@ Cryin' I wonder ooo, will I ever, ooo-hoo, get back home?
 
 
 
-
-
+</lyrics></xml>

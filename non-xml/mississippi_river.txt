@@ -1,20 +1,6 @@
-Janis Joplin - Mississippi River
+<xml><artist>Janis Joplin</artist> <title>Mississippi River</title>
 
-
-Mississippi River
-
-
-
-
-
-
-
-
-
-
-
-
-
+<songInfo>
 Traditonal
 
 recording of 19
@@ -24,10 +10,8 @@ From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
-copyright
-notice
-
-
+</songInfo>
+<lyrics>
 
 (Spoken: Ready?)
 
@@ -76,38 +60,5 @@ Well, I'm going down that Mississippi River, yes, I am, yes I am
 Well, I'm going down that Mississippi River, yes, I am, yes I am
 
 Yes I am, boy, yes I am
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</lyrics>
+</xml>

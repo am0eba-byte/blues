@@ -1,17 +1,8 @@
-Bessie Smith - Down In The Dumps
+<xml><artist>Bessie Smith</artist><title> Down In The Dumps
 
 
-Down In The Dumps
-
-
-
-
-
-
-
-
-
-lyrics by 
+Down In The Dumps</title>
+<songInfo>lyrics by 
 Leola
 P. Wilson
  / music by 
@@ -25,17 +16,17 @@ Complete
 Recordings, Vol. 5: The Final Chapter (Columbia/Legacy
 57546)
 , 
-copyright
-notice
+</songInfo>
+<lyrics>
 
 
 
 My man's got somethin', he gives me such a thrill
 
-Every time he smiles at me, Inbsp;can't keep my body still
+Every time he smiles at me, can't keep my body still
 
 I done cried so much, look like I've got the mumps
-1
+
 
 I can't keep from worryin' 'cause I'm down in the
 dumps
@@ -43,7 +34,7 @@ dumps
 
 
 
-I had a nightmare last night, whennbsp;I laid down
+I had a nightmare last night, when I laid down
 
 When I woke up this mornin', my sweet man couldn't be found
 
@@ -87,46 +78,10 @@ I need w whole lot's of lovin' 'cause I'm down in the dumps
 
 __________
 
-Note 1: mumps, a viral infectious disease, fever is one of the
+</lyrics>
+
+<note>Note 1: mumps, a viral infectious disease, fever is one of the
 symptoms;
 
 Note 2: down in the dumps, a gloomy state of mind.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</note></xml>

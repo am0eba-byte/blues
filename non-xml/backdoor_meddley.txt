@@ -1,21 +1,6 @@
-ZZ Top - Backdoor Medley
+<xml><artist>ZZ Top</artist><title> Backdoor Medley</title>
 
-
-Backdoor Medley
-
-
-
-
-
-
-
-
-
-
-
-
-
-I by 
+<songInfo>by 
 Billy
 Gibbons
  / 
@@ -34,8 +19,8 @@ from
 Fandango
 (Warner Brothers 2-3271)
 , 
-copyright
-notice
+</songInfo>
+<lyrics>
 
 
 
@@ -204,38 +189,4 @@ Boogie, children!
 
 
 Boogie, children!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</lyrics></xml>

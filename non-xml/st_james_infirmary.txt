@@ -1,28 +1,15 @@
-Janis Joplin - St. James Infirmary
+<xml><artist>Janis Joplin</artist><title> St. James Infirmary
 
 
-St. James Infirmary
-
-
-
-
-
-
-
-
-
-
-
-
-Traditional
+St. James Infirmary</title><songInfo>Traditional
 
 recording of 19
 
 from Janis Flexi
 1
 , 
-copyright
-notice
+</songInfo>
+<lyrics>
 
 
 
@@ -72,7 +59,9 @@ infirmary blues!
 
 __________
 
-Note 1: Flexi included with "Janis", written and edited by David
+</lyrics>
+
+<note>Note 1: Flexi included with "Janis", written and edited by David
 Dalton, a Stonehill Book, Simon and Schuster 1971, SBN 671-21088-2
 Casebound edition, SBN 671-21089-0 Touchstone paperback edition.
 
@@ -116,5 +105,4 @@ Casebound edition, SBN 671-21089-0 Touchstone paperback edition.
 
 
 
-
-
+</note></xml>

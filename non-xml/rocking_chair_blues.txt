@@ -1,17 +1,7 @@
-Bessie Smith - Rocking Chair Blues
+<xml><artist>Bessie Smith</artist><title> Rocking Chair Blues
 
 
-Rocking Chair Blues
-
-
-
-
-
-
-
-
-
-lyrics by 
+Rocking Chair Blues</title><songInfo>lyrics by 
 Bessie
 Smith
 , music by 
@@ -24,8 +14,8 @@ Johns
 recording of
 
 from , 
-copyright
-notice
+</songInfo>
+<lyrics>
 
 
 
@@ -107,5 +97,4 @@ The rabbit turned over and he cried like a natural
 
 
 
-
-
+</lyrics></xml>

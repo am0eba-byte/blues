@@ -1,21 +1,7 @@
-Blind Lemon Jefferson - See That My Grave Is Kept Clean
+<xml><artist>Blind Lemon Jefferson</artist><title> See That My Grave Is Kept Clean
 
 
-See That My Grave Is Kept Clean
-
-
-
-
-
-
-
-
-
-
-
-
-
-Traditional OR by 
+See That My Grave Is Kept Clean</title><songInfo>Traditional OR by 
 Blind
 Lemon Jefferson
 
@@ -33,8 +19,8 @@ of the Country Blues [LP] (Yazoo
 Matchbox
 Blues (Indigo 2075)
 , 
-copyright
-notice
+</songInfo>
+<lyrics>
 
 
 
@@ -100,7 +86,9 @@ See that my grave is kept clean
 
 __________
 
-Note: see also 
+</lyrics>
+
+<note>Note: see also 
 One Kind Favor
 . Blind
 Lemon Jefferson's most famous folk song contains a wish that has been
@@ -154,5 +142,4 @@ site
 
 
 
-
-
+</note></xml>

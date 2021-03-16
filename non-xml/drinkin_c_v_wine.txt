@@ -1,16 +1,8 @@
-Howlin' Wolf - Drinkin' C.V. Wine
+<xml><artist>Howlin' Wolf</artist><title> Drinkin' C.V. Wine
 
 
-Drinkin' C.V. Wine
-
-
-
-
-
-
-
-
-writer unknown
+Drinkin' C.V. Wine</title>
+<songInfo>writer unknown
 
 recording of 1952
 
@@ -19,8 +11,8 @@ Cadillac
 Daddy: Memphis Recordings 1952 (Rounder
 28)
 , 
-copyright
-notice
+</songInfo>
+<lyrics>
 
 
 
@@ -29,8 +21,8 @@ Oh baby baby, things are strictly on the line
 Oh baby baby, things are strickly on the line
 
 I'm gonna drink C.V.
-1
-, C.V.'s on my mind
+
+C.V.'s on my mind
 
 
 
@@ -78,55 +70,7 @@ Try C.V.
 
 __________
 
-Note 1: C.V., .
+</lyrics>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<note>Note 1: C.V., .
+</note></xml>
