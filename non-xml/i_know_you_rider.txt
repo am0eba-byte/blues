@@ -1,4 +1,4 @@
-<xml><artist>Janis Joplin</artist><title> I Know You Rider</title>
+<xml><metadata><artist>Janis Joplin</artist><title> I Know You Rider</title>
 <songInfo>Traditional arranged by 
 Big
 Brother &amp; the Holding Company
@@ -9,7 +9,7 @@ from
 Cheaper
 Thrills (Edsel ED CD135)
 , 
-</songInfo>
+</songInfo></metadata>
 <lyrics>
 
 

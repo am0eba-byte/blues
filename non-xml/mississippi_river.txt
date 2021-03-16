@@ -1,4 +1,4 @@
-<xml><artist>Janis Joplin</artist> <title>Mississippi River</title>
+<xml><metadata><artist>Janis Joplin</artist> <title>Mississippi River</title>
 
 <songInfo>
 Traditonal
@@ -10,7 +10,7 @@ From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
-</songInfo>
+</songInfo></metadata>
 <lyrics>
 
 (Spoken: Ready?)

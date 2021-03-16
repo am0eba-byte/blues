@@ -1,4 +1,4 @@
-<xml><artist>Howlin' Wolf</artist><title> Drinkin' C.V. Wine</title>
+<xml><metadata><artist>Howlin' Wolf</artist><title> Drinkin' C.V. Wine</title>
 <songInfo>writer unknown
 
 recording of 1952
@@ -8,7 +8,7 @@ Cadillac
 Daddy: Memphis Recordings 1952 (Rounder
 28)
 , 
-</songInfo>
+</songInfo></metadata>
 <lyrics>
 
 

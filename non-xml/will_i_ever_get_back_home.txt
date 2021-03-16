@@ -1,4 +1,4 @@
-<xml><artist>Alvin Youngblood Hart</artist><title> Will I Ever Get Back Home?</title>
+<xml><metadata><artist>Alvin Youngblood Hart</artist><title> Will I Ever Get Back Home?</title>
 
 <songInfo>traditional, arranged by 
 Alvin
@@ -11,7 +11,7 @@ Start
 With The Soul (Rykodisc or Hannibal 1449)
 ,
 
-</songInfo>
+</songInfo></metadata>
 <lyrics>
 
 

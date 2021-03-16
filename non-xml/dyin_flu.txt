@@ -1,4 +1,4 @@
-<xml><artist>Albert Collins</artist><title> Dyin' Flu</title>
+<xml><metadata><artist>Albert Collins</artist><title> Dyin' Flu</title>
 <songInfo>by 
 Albert Collins
 
@@ -8,7 +8,7 @@ Albert Collins
 Truckin' with Albert Collins (MCA
                   MCAD-10423)
 , 
-</songInfo>
+</songInfo></metadata>
 <lyrics>
 
             

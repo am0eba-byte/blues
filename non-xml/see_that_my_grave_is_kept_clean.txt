@@ -1,4 +1,4 @@
-<xml><artist>Blind Lemon Jefferson</artist><title> See That My Grave Is Kept Clean</title>
+<xml><metadata><artist>Blind Lemon Jefferson</artist><title> See That My Grave Is Kept Clean</title>
 
 <songInfo>Traditional OR by 
 Blind
@@ -18,7 +18,7 @@ of the Country Blues [LP] (Yazoo
 Matchbox
 Blues (Indigo 2075)
 , 
-</songInfo>
+</songInfo></metadata>
 <lyrics>
 
 

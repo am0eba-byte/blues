@@ -1,4 +1,4 @@
-<xml><artist>Bessie Smith</artist><title> Rocking Chair Blues</title>
+<xml><metadata><artist>Bessie Smith</artist><title> Rocking Chair Blues</title>
 
 <songInfo>lyrics by 
 Bessie
@@ -13,7 +13,7 @@ Johns
 recording of
 
 from , 
-</songInfo>
+</songInfo></metadata>
 <lyrics>
 
 

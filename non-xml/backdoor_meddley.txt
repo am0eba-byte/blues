@@ -1,4 +1,4 @@
-<xml><artist>ZZ Top</artist><title> Backdoor Medley</title>
+<xml><metadata><artist>ZZ Top</artist><title> Backdoor Medley</title>
 
 <songInfo>by 
 Billy
@@ -19,7 +19,7 @@ from
 Fandango
 (Warner Brothers 2-3271)
 , 
-</songInfo>
+</songInfo></metadata>
 <lyrics>
 
 

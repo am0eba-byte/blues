@@ -1,4 +1,4 @@
-<xml><artist>Bessie Smith</artist><title> Down In The Dumps</title>
+<xml><metadata><artist>Bessie Smith</artist><title> Down In The Dumps</title>
 
 <songInfo>lyrics by 
 Leola
@@ -14,7 +14,7 @@ Complete
 Recordings, Vol. 5: The Final Chapter (Columbia/Legacy
 57546)
 , 
-</songInfo>
+</songInfo></metadata>
 <lyrics>
 
 
