@@ -1,5 +1,5 @@
 <xml><metadata><artist>ZZ Top</artist><title> Pan Am Highway Blues</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Frank
 Beard
  / 
@@ -9,13 +9,13 @@ Gibbons
 Dusty
 Hill
 
-recording of 1976
+</songwriter><recordDate>recording of 1976
 
-from 
+</recordDate><album>from 
 Tejas
 (Warner Brothers 2-3272)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

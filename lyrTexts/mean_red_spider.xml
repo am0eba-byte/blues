@@ -1,11 +1,11 @@
 <xml><metadata><artist>Muddy Waters</artist><title> Mean Red Spider</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
-recording 1948
+</songwriter><recordDate>recording 1948
 
-from 
+</recordDate><album>from 
 Chess
 Box (MCA/Chess CHD3-80002)
  &amp;
@@ -14,7 +14,7 @@ Aristocrat
 of the Blues (Chess 50th Anniversary Collection) (MCA/Chess
 9387)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

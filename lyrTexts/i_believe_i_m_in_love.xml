@@ -1,11 +1,11 @@
 <xml><metadata><artist>The Fabulous Thunderbirds</artist><title> I Believe I'min Love</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Kim
 Wilson
 
-recording of 1987 resp. 1991 and 1996
+</songwriter><recordDate>recording of 1987 resp. 1991 and 1996
 
-from 
+</recordDate><album>from 
 Portfolio
 (Chrysalis 2)
  &amp; 
@@ -17,7 +17,7 @@ Butt
 Rockin'/T-Bird Rhythm (Beat Goes On 193)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

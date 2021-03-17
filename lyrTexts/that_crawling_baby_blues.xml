@@ -1,11 +1,11 @@
 <xml><metadata><artist>Blind Lemon Jefferson</artist><title> That Crawling Baby Blues</title>
-<songInfo>by probably 
+<songInfo><songwriter>by probably 
 Blind
 Lemon Jefferson
 
-recording of October 10 1929, Richmond
+</songwriter><recordDate>recording of October 10 1929, Richmond
 
-from 
+</recordDate><album>from 
 Blind
 Lemon Jefferson (Milestone 47022)
  &amp;
@@ -18,7 +18,7 @@ King
 of the Country Blues [LP] (Yazoo
 1069)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

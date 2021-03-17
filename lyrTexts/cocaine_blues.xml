@@ -1,9 +1,9 @@
 <xml><metadata><artist>George Thorogood</artist><title> Cocaine Blues</title>
-<songInfo>by T.J. Amall
+<songInfo><songwriter>by T.J. Amall
 
-recording of 1978
+</songwriter><recordDate>recording of 1978
 
-from 
+</recordDate><album>from 
 Move
 It on Over (Rounder CD-3024)
  amp;
@@ -12,7 +12,7 @@ Let's
 Work Together Live (EMI 31948 or EMI
 3718)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

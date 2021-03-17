@@ -1,9 +1,9 @@
 <xml><metadata><artist>B.B. King</artist><title> I Don't Want You Cutting Off Your Hair</title>
-<songInfo>by Johnson
+<songInfo><songwriter>by Johnson
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 The
 Electric B.B. King (ABC 1061)
  &amp;
@@ -12,7 +12,7 @@ The
 Electric B.B.: His Best (MCA MCAD-27007)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

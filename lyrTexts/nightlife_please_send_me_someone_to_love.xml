@@ -1,5 +1,5 @@
 <xml><metadata><artist>B.B. King</artist><title> Nightlife Please Send Me Someone To Love</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Willie
 Nelson
  / 
@@ -9,13 +9,13 @@ Buskirk
 Walt
 Breeland
 
-recording of 1982
+</songwriter><recordDate>recording of 1982
 
-from 
+</recordDate><album>from 
 Love
 Me Tender (MCA MCAD-886)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

@@ -1,11 +1,11 @@
 <xml><metadata><artist>Albert King</artist><title> I'll Play The Blues For You</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Jerry
 Beach
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 Live
 (Rhino 71622)
  &amp; 
@@ -27,7 +27,7 @@ Blues
 at Sunset (Stax SCD-8581-2)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

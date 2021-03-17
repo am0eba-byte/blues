@@ -1,5 +1,5 @@
 <xml><metadata><artist>ZZ Top</artist><title> Groovy Little Hippie Pad</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Frank
 Beard
  / 
@@ -9,14 +9,14 @@ Gibbons
 Dusty
 Hill
 
-recording of 1981
+</songwriter><recordDate>recording of 1981
 
-from 
+</recordDate><album>from 
 El
 Loco (Warner Brothers 2-3593)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

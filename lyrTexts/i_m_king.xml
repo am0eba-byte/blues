@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> I'm King</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
  / 
 Jules
 Taub
 
-recording of probably 1991-1992
+</songwriter><recordDate>recording of probably 1991-1992
 
-from m 
+</recordDate><album>from m 
 Best
 Of B.B. King Vol. 1 (Flair V2-86230 or 2-91691 (CD) /
 
@@ -23,7 +23,7 @@ Heart
 ,
 
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

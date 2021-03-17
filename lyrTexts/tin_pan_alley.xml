@@ -1,9 +1,9 @@
 <xml><metadata><artist>Stevie Ray Vaughan</artist><title> Tin Pan Alley lyrics</title>
-<songInfo>by R. Geddins
+<songInfo><songwriter>by R. Geddins
 
-recording of 1984
+</songwriter><recordDate>recording of 1984
 
-from 
+</recordDate><album>from 
 Couldn't
 Stand The Weather (Epic EK-39304)
  &amp;
@@ -12,7 +12,7 @@ In
 The Beginning (Epic EK-53168)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

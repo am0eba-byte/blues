@@ -1,0 +1,18 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = xml
+xml = element xml {metadata, lyrics}
+
+metadata = element metadata {artist, title, songInfo}
+artist = element artist {text}
+title = element title {text}
+
+songInfo = element songInfo {songwriter, recordDate, album}
+songwriter = element songwriter {text}
+recordDate = element recordDate {text}
+album = element album {text}
+
+
+
+lyrics = element lyrics {mixed{br, note?}}
+br = element br {empty}
+note = element note {text}

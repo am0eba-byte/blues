@@ -1,14 +1,14 @@
 <xml><metadata><artist>Albert King</artist><title> The Hunter</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Steve
 Cropper
  / 
 Donald
 "Duck" Dunn
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 Laundromat
 Blues (Edsel 130)
  &amp; 
@@ -24,7 +24,7 @@ King
 of the Blues Guitar (Atlantic 8213)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

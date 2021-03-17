@@ -1,12 +1,12 @@
 <xml><metadata><artist>B.B. King</artist><title> The Letter</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
  / Adams
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 B.B.'s
 Boogie (Mastertone 8342)
  &amp;
@@ -15,7 +15,7 @@ Paying
 the Cost to Be the Boss (Delta 17141)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

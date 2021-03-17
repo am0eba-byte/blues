@@ -1,9 +1,9 @@
 <xml><metadata><artist>B.B. King</artist><title> It's A Mean World</title>
-<songInfo>by
+<songInfo><songwriter>by
 
-recording of 1964 or 1967
+</songwriter><recordDate>recording of 1964 or 1967
 
-from 
+</recordDate><album>from 
 Rock
 Me Baby (Kebt KLP-5012)
  &amp;
@@ -11,7 +11,7 @@ Me Baby (Kebt KLP-5012)
 The
 Jungle (Kent 7742)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

@@ -1,11 +1,11 @@
 <xml><metadata><artist>Stevie Ray Vaughan</artist><title> Ain't Gone 'N' Give Up On Love</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Stevie
 Ray Vaughan
 
-recording of 1985
+</songwriter><recordDate>recording of 1985
 
-from 
+</recordDate><album>from 
 Soul
 To Soul (Epic EK-40036)
  amp;
@@ -15,7 +15,7 @@ Alive (Epic EGK-40511)
 ,
 
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

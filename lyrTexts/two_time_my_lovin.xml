@@ -1,11 +1,11 @@
 <xml><metadata><artist>The Fabulous Thunderbirds</artist><title> Two Time My Lovin'</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Kim
 Wilson
 
-recording of 1986 resp. 1992
+</songwriter><recordDate>recording of 1986 resp. 1992
 
-from 
+</recordDate><album>from 
 Tuff
 Enuff (Epic ZK-40304)
  &amp;
@@ -14,7 +14,7 @@ Hot
 Stuff: The Greatest Hits (Epic ZK-53007)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

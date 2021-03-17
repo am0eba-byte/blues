@@ -1,11 +1,11 @@
 <xml><metadata><artist>Freddie King</artist><title> Sugar Sweet</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Mel
 London
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 Freddy
 King 1934-1976 (Polygram 831817)
  &amp;
@@ -14,7 +14,7 @@ Burglar
 (Polygram 831815 &amp; BGO 137)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

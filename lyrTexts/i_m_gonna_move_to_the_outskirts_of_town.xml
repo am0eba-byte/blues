@@ -1,5 +1,5 @@
 <xml><metadata><artist>B.B. King</artist><title> I'm Gonna Move To The Outskirts Of Town</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Will
 Weldon
  / possibly co-written with
@@ -7,14 +7,14 @@ Weldon
 Andy
 Razaf
 
-recording of 1999
+</songwriter><recordDate>recording of 1999
 
-from 
+</recordDate><album>from 
 Let
 the Good Times Roll: The Music of Louis Jordan (MCA
 12042)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

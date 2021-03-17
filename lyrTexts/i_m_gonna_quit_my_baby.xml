@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> (I'm Gonna) Quit My Baby</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
  / 
 Sam
 Ling
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 The
 Great B.B. King (B. B. King and His Orchestra) (Crown
 5143)
@@ -22,7 +22,7 @@ Sweet Little Angel (Flair V2-39103)
 ,
 
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

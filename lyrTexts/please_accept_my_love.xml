@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> Please Accept My Love</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
  / 
 Sam
 Ling
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 King
 Of The Blues 4 CD Box Set (MCA MCAD4-10677)
 
@@ -21,7 +21,7 @@ How
 Blue Can You Get: Classic Live 1964-94 (MCA
 11443)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

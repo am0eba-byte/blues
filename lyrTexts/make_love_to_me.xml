@@ -1,5 +1,5 @@
 <xml><metadata><artist>B.B. King</artist><title> Make Love To Me</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Allan
 Copeland
  / 
@@ -15,14 +15,14 @@ Brunies
  / Leon Roppolo (...that's all
 folks...)
 
-recording of 1983
+</songwriter><recordDate>recording of 1983
 
-from 
+</recordDate><album>from 
 Blues
 'n' Jazz (MCA MCAD-27119)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

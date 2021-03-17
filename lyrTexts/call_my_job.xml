@@ -1,12 +1,12 @@
 <xml><metadata><artist>Albert King</artist><title> Call My Job</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Detroit
 Junior
  / Al Perkins
 
-recording of 1976 resp. 1977
+</songwriter><recordDate>recording of 1976 resp. 1977
 
-from 
+</recordDate><album>from 
 Tomato
 Years (Rhino/Tomato R2 71623)
  amp;
@@ -14,7 +14,7 @@ Years (Rhino/Tomato R2 71623)
 King
 Albert (Rhino 70395)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

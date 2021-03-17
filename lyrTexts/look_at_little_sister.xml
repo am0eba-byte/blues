@@ -1,9 +1,9 @@
 <xml><metadata><artist>Stevie Ray Vaughan</artist><title> Look At Little Sister</title>
-<songInfo>by H. Ballard
+<songInfo><songwriter>by H. Ballard
 
-recording of 1985
+</songwriter><recordDate>recording of 1985
 
-from 
+</recordDate><album>from 
 Soul
 To Soul (Epic EK-40036)
  &amp;
@@ -13,7 +13,7 @@ Alive (Epic EGK-40511)
 ,
 
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

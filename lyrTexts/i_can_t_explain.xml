@@ -1,9 +1,9 @@
 <xml><metadata><artist>B.B. King</artist><title> I Can't Explain</title>
-<songInfo>by
+<songInfo><songwriter>by
 
-recording of 1962-1965
+</songwriter><recordDate>recording of 1962-1965
 
-from 
+</recordDate><album>from 
 Heart
 Full of Blues (United 7703)
  &amp;
@@ -16,7 +16,7 @@ Let
 Me Love You (United 7734)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

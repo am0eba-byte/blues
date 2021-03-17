@@ -1,11 +1,11 @@
 <xml><metadata><artist>George Thorogood</artist><title> Move It On Over</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Hank
 Williams
 
-recording of 1978
+</songwriter><recordDate>recording of 1978
 
-from 
+</recordDate><album>from 
 Move
 It On Over (Rounder CD-3024)
  &amp;
@@ -18,7 +18,7 @@ The
 Baddest Of George Thorogood And The Destroyers (EMI E2-97718 or
 Capitol 97718)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

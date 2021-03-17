@@ -1,9 +1,9 @@
 <xml><metadata><artist>Albert King</artist><title> Oh Pretty Woman</title>
-<songInfo>by Williams
+<songInfo><songwriter>by Williams
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 Laundromat
 Blues (Edsel 130)
  &amp; 
@@ -22,7 +22,7 @@ of the Blues Guitar (Atlantic 8213)
 The
 Pinch (Stax 4101)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

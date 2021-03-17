@@ -1,11 +1,11 @@
 <xml><metadata><artist>George Thorogood</artist><title> I'm Ready</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Willie
 Dixon
 
-recording of 1979
+</songwriter><recordDate>recording of 1979
 
-from 
+</recordDate><album>from 
 Better
 Than the Rest (1974) (MCA LP 3091)
  &amp;
@@ -18,7 +18,7 @@ Let's
 Work Together Live (EMI 31948 or EMI
 3718)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

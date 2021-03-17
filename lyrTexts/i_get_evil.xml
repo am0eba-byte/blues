@@ -1,11 +1,11 @@
 <xml><metadata><artist>Albert King</artist><title> I Get Evil</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Albert
 King
 
-recording of 1978
+</songwriter><recordDate>recording of 1978
 
-from 
+</recordDate><album>from 
 New
 Orleans Heat (Rhino R2-70699)
  &amp;
@@ -25,7 +25,7 @@ Live
 on Memory Lane (Monad 502)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

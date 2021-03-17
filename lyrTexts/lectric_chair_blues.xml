@@ -1,11 +1,11 @@
 <xml><metadata><artist>Blind Lemon Jefferson</artist><title> 'Lectric Chair Blues</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Blind
 Lemon Jefferson
 
-recording of February 1928, Chicago, Illinois
+</songwriter><recordDate>recording of February 1928, Chicago, Illinois
 
-from 
+</recordDate><album>from 
 Complete
 Recorded Works, Vol. 3 (1928) (Document
 DOCD-5019)
@@ -14,7 +14,7 @@ Best
 of Blind Lemon Jefferson (Wolf 16)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

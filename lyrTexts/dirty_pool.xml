@@ -1,14 +1,14 @@
 <xml><metadata><artist>Stevie Ray Vaughan</artist><title> Dirty Pool</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Doyle
 Bramhall
  / 
 Stevie
 Ray Vaughan
 
-recording of 1983
+</songwriter><recordDate>recording of 1983
 
-from 
+</recordDate><album>from 
 Live
 At Carnegie Hall (Sony 68163)
  amp;
@@ -18,7 +18,7 @@ Flood (Epic EK-38734)
 ,
 
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

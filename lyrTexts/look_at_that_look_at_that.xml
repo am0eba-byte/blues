@@ -1,5 +1,5 @@
 <xml><metadata><artist>The Fabulous Thunderbirds</artist><title> Look At That, Look At That</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Kim
 Wilson
  / 
@@ -10,9 +10,9 @@ Fran
 Christina
  / P. Hubbard
 
-recording of 1986 resp. 1992
+</songwriter><recordDate>recording of 1986 resp. 1992
 
-from 
+</recordDate><album>from 
 Tuff
 Enuff (Epic ZK-40304)
  &amp;
@@ -21,7 +21,7 @@ Hot
 Stuff: The Greatest Hits (Epic ZK-53007)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

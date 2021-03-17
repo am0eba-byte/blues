@@ -1,11 +1,11 @@
 <xml><metadata><artist>Stevie Ray Vaughan</artist><title> Cold Shot lyrics</title>
-<songInfo>by M. Kendrid, arranged by 
+<songInfo><songwriter>by M. Kendrid, arranged by 
 Stevie
 Ray Vaughan
 
-recording of 1984
+</songwriter><recordDate>recording of 1984
 
-from 
+</recordDate><album>from 
 Couldn't
 Stand The Weather (Epic EK-39304)
  amp;
@@ -18,7 +18,7 @@ Live
 At Carnegie Hall (Sony 68163)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

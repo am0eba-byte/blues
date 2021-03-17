@@ -1,11 +1,11 @@
 <xml><metadata><artist>Muddy Waters</artist><title> I Got A Rich Man's Woman</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 Rollin'
 &amp; Tumblin' &amp; Other Classics (Masters
 1123)
@@ -14,7 +14,7 @@ Top
 Of The Boogaloo (Signal 88112)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

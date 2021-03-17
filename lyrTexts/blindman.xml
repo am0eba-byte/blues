@@ -1,5 +1,5 @@
 <xml><metadata><artist>Janis Joplin</artist><title> Blindman</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Peter
 Albin
  / 
@@ -15,14 +15,14 @@ Gurley
 Janis
 Joplin
 
-recording of 1967
+</songwriter><recordDate>recording of 1967
 
-from 
+</recordDate><album>from 
 Big
 Brother amp; the Holding Company Featuring Janis Joplin (Sony
 66425)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

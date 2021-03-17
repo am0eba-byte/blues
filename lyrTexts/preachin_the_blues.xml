@@ -1,24 +1,23 @@
 <xml><metadata><artist>Bessie Smith</artist><title> Preachin' The Blues</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Bessie
 Smith
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 The
 Complete Recordings, Vol. 3 (Columbia/Legacy
 C2K-47474)
 ,
 
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 
 
-Down in Atlanta, GA, under the viaduct ev'ry day, drinking
-corn and hollerin' hooray
+Down in Atlanta, GA, under the viaduct ev'ry day, drinking corn and hollerin' hooray
 
 Pianos playing till the break of day
 
@@ -43,9 +42,7 @@ Let me tell you I don't mean no wrong
 I will learn you something if you listen to this song
 
 I ain't here to try to save your soul, just want to teach you how to
-save your good 
-jelly
-roll
+save your good jelly roll
 
 
 

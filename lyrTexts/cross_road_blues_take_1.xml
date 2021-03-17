@@ -1,18 +1,18 @@
 <xml><metadata><artist>Robert Johnson</artist><title> Cross Road Blues, take 1</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Robert
 Johnson
 
-recording of 3rd of 5 sessions, November 27 1936, San Antonio,
+</songwriter><recordDate>recording of 3rd of 5 sessions, November 27 1936, San Antonio,
 Texas
 
-from 
+</recordDate><album>from 
 The
 Complete Recordings (CBS 467246 2 amp; Columbia/Legacy C2K-46222
 amp; Columbia 4622 amp; Sony 64916)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 
@@ -66,24 +66,18 @@ distress
 
 __________
 
-Note 1: this could either be the close friend of Son House named
+<note>Note 1: this could either be the close friend of Son House named
 Willie Brown with whom he played together when Robert Johnson first
 began to play, or the younger Willie Brown who did some recordings
 for the Library of Congress or yet another completely unknown Willie
 Brown, who knows(?);
 
-<note>Note: did Robert Johnson sell his soul to the devil at the
-crossroads?. Read about it at 
-The
-Mudcat Cafeacute;
-.
+Note: did Robert Johnson sell his soul to the devil at the
+crossroads?
 
 
 
-In the 
-Delta of the
-Mississippi River
-, where Robert Johnson was born, they said that
+In the Delta of the Mississippi River, where Robert Johnson was born, they said that
 if an aspiring bluesman waited by the side of a deserted country
 crossroads in the dark of a moonless night, then Satan himself might
 come and tune his guitar, sealing a pact for the bluesman's soul and

@@ -1,5 +1,5 @@
 <xml><metadata><artist>ZZ Top</artist><title> Hi Fi Mama</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Frank
 Beard
  / 
@@ -9,13 +9,13 @@ Gibbons
 Dusty
 Hill
 
-recording of 1979
+</songwriter><recordDate>recording of 1979
 
-from 
+</recordDate><album>from 
 Deguello
 (Warner Brothers 2-3361)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

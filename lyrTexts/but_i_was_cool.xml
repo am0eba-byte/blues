@@ -1,11 +1,11 @@
 <xml><metadata><artist>Albert Collins</artist><title> But I Was Cool</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Albert
 Collins
 
-recording of 1983 resp. 1997
+</songwriter><recordDate>recording of 1983 resp. 1997
 
-from 
+</recordDate><album>from 
 Don't
 Lose Your Cool (Alligator ALCD-4730)
  amp;
@@ -14,7 +14,7 @@ Albert
 Collins Deluxe Edition (Alligator 5601)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

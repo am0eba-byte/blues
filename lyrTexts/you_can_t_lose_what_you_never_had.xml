@@ -1,11 +1,11 @@
 <xml><metadata><artist>Muddy Waters</artist><title> You Can't Lose What You Never Had</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
 
-recording June 13 1972
+</songwriter><recordDate>recording June 13 1972
 
-from 
+</recordDate><album>from 
 Chess
 Box (MCA/Chess CHD3-80002)
  &amp;
@@ -14,7 +14,7 @@ One
 More Mile (MCA/Chess CHD2-9348)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

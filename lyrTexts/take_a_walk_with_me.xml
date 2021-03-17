@@ -1,5 +1,5 @@
 <xml><metadata><artist>Muddy Waters</artist><title> Take A Walk With Me</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 McKinley
 Morganfield a.k.a. Muddy Waters
  /
@@ -7,14 +7,14 @@ Morganfield a.k.a. Muddy Waters
 Henry
 "Son" Simms
 
-recording of July 24, 1942, Stovall, Mississippi
+</songwriter><recordDate>recording of July 24, 1942, Stovall, Mississippi
 
-from 
+</recordDate><album>from 
 The
 Complete Plantation Recordings (Chess/MCA
 CHD-9344)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

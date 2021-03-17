@@ -1,14 +1,14 @@
 <xml><metadata><artist>Albert King</artist><title> Born Under A Bad Sign</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Booker
 T. Jones
  / 
 William
 Bell
 
-recording of 1978
+</songwriter><recordDate>recording of 1978
 
-from 
+</recordDate><album>from 
 Laundromat
 Blues (Edsel 130)
  amp; 
@@ -31,7 +31,7 @@ The
 Ultimate Collection (Rhino 71268)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

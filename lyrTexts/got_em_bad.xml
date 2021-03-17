@@ -1,9 +1,9 @@
 <xml><metadata><artist>B.B. King</artist><title> Got'em Bad</title>
-<songInfo>by
+<songInfo><songwriter>by
 
-recording of 1962-1967
+</songwriter><recordDate>recording of 1962-1967
 
-from 
+</recordDate><album>from 
 Blues
 in My Heart (Crown CLP-5309)
  &amp;
@@ -15,7 +15,7 @@ Jungle (United 7742)
 Rock
 Me Baby (Kent KLP-5012)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

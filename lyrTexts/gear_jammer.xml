@@ -1,11 +1,11 @@
 <xml><metadata><artist>George Thorogood</artist><title> Gear Jammer</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 George
 Thorogood
 
-recording of 1985
+</songwriter><recordDate>recording of 1985
 
-from 
+</recordDate><album>from 
 Maverick
 (Rounder 3045)
  &amp; 
@@ -17,7 +17,7 @@ The
 Baddest Of George Thorogood And The Destroyers (EMI E2-97718 or
 Capitol 97718)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

@@ -1,18 +1,18 @@
 <xml><metadata><artist>Bessie Smith</artist><title> Backwater Blues Version 2</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Bessie
 Smith
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 The
 Complete Recordings, Vol. 3 (Columbia/Legacy
 C2K-47474)
 ,
 
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 
@@ -87,8 +87,7 @@ Mississippi flood of 1927
 ;
 
 Note 1: backwater, mostly old river beds which are left to take the
-excess flood water to relieve pressure on the 
-levees
+excess flood water to relieve pressure on the levees
 
 (embankments). As the height of the water is excessive, however,
 breaches in the levee walls are deliberately made at certain points
@@ -97,13 +96,5 @@ water. These are the "backwaters," which occur in the St. Francis
 Basin to the west of the river between 
 Memphis
 
-and Helena, in the great 
-Yazoo-Mississippi
-Delta
- north of 
-Vicksburg
-,
-in the Tensas Basin west of 
-Natchez
-,
-and at other selected points.</note></lyrics></xml>
+and Helena, in the great Yazoo-MississippiDelta north of Vicksburg, 
+in the Tensas Basin west of Natchez, and at other selected points.</note></lyrics></xml>

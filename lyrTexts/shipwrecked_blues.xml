@@ -1,11 +1,11 @@
 <xml><metadata><artist>Clara Smith</artist><title> Shipwrecked Blues</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Spencer
 Williams
 
-recording of April 3, 1925
+</songwriter><recordDate>recording of April 3, 1925
 
-from 
+</recordDate><album>from 
 Complete
 Recorded Works, Vol. 3 (1925) (Document
 5366)
@@ -14,7 +14,7 @@ Ladies
 of Blues (Columbia River 1124)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

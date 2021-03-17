@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> I Stay In The Mood</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
  / 
 Joe
 Josea
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 Rock
 Me Baby (Kent KLP-5012)
  &amp;
@@ -20,7 +20,7 @@ Had a Baby (ACE 271)
 Ambassador
 of the Blues (Crown 001)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

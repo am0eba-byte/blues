@@ -1,9 +1,9 @@
 <xml><metadata><artist>B.B. King</artist><title> I Can Hear My Name</title>
-<songInfo>by
+<songInfo><songwriter>by
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 The
 Jungle (United 7742)
  &amp;
@@ -11,7 +11,7 @@ Jungle (United 7742)
 Rock
 Me Baby (Kent 5012)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

@@ -1,9 +1,9 @@
 <xml><metadata><artist>B.B. King</artist><title> Sweet Thing</title>
-<songInfo>by
+<songInfo><songwriter>by
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 B.B.
 King Anthology (ABC 5611)
 
@@ -13,7 +13,7 @@ King Wails (Crown 147)
 ,
 
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

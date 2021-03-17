@@ -1,5 +1,5 @@
 <xml><metadata><artist>ZZ Top</artist><title> I Got The Message</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Frank
 Beard
  / 
@@ -9,14 +9,14 @@ Gibbons
 Dusty
 Hill
 
-recording of 1985
+</songwriter><recordDate>recording of 1985
 
-from 
+</recordDate><album>from 
 Afterburner
 (Warner Brothers 2-25342)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

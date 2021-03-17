@@ -1,9 +1,9 @@
 <xml><metadata><artist>Ma Rainey</artist><title> Yonder Come The Blues</title>
-<songInfo>by
+<songInfo><songwriter>by
 
-recording of 1926
+</songwriter><recordDate>recording of 1926
 
-from 
+</recordDate><album>from 
 Complete
 Recorded Works, Vol. 3 (1925-1926) (Document
 5583)
@@ -12,7 +12,7 @@ Classic
 Blues Women (Rhino R2 71134)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

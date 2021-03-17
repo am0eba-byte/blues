@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> You Shouldn't Have Left Me</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
  / 
 Joe
 Josea
 
-recording of 1993 resp. 1966
+</songwriter><recordDate>recording of 1993 resp. 1966
 
-from 
+</recordDate><album>from 
 My
 Sweet Little Angel (Flair V2-39103)
  &amp;
@@ -17,7 +17,7 @@ The
 Soul of B. B. King (United 7714)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> A Whole Lot Of Lovin'</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Joe
 Josea
  / 
 Maxwell
 Davis
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 Best
 Of B.B. King Vol. 1 (Flair V2-86230 or 2-91691 (CD) /
 
@@ -18,7 +18,7 @@ Virgin
 86230 or 91691 / Capitol 86230)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

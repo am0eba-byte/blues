@@ -1,5 +1,5 @@
 <xml><metadata><artist>Janis Joplin</artist><title> Hey Baby</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Peter
 Albin
  / 
@@ -15,13 +15,13 @@ Gurley
 Janis
 Joplin
 
-recording of July 28 1966, San Francisco
+</songwriter><recordDate>recording of July 28 1966, San Francisco
 
-from 
+</recordDate><album>from 
 Cheaper
 Thrills (Edsel ED CD135)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

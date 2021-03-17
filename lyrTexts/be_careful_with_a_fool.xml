@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> Be Careful With A Fool</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
  / 
 Joe
 Josea
 
-recording of probably 1960
+</songwriter><recordDate>recording of probably 1960
 
-from 
+</recordDate><album>from 
 The
 Great B.B. King (B. B. King and His Orchestra) (Crown CLP
 5143)
@@ -16,7 +16,7 @@ Great B.B. King (B. B. King and His Orchestra) (Crown CLP
 Across
 the Tracks (ACE 230)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

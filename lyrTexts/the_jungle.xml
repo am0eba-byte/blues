@@ -1,9 +1,9 @@
 <xml><metadata><artist>B.B. King</artist><title> The Jungle</title>
-<songInfo>by
+<songInfo><songwriter>by
 
-recording of June 1967
+</songwriter><recordDate>recording of June 1967
 
-from 
+</recordDate><album>from 
 The
 Jungle (United 7742)
  &amp;
@@ -16,7 +16,7 @@ The
 Best of B.B. King, Vol. 2 (ACE 199)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

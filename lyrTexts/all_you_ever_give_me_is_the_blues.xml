@@ -1,5 +1,5 @@
 <xml><metadata><artist>B.B. King</artist><title> All You Ever Give Me Is The Blues</title>
-<songInfo>by probably 
+<songInfo><songwriter>by probably 
 Jon
 Tiven
  / 
@@ -9,14 +9,14 @@ Tiven
 Gary
 Nicholson
 
-recording of 1995
+</songwriter><recordDate>recording of 1995
 
-from 
+</recordDate><album>from 
 Lucille
 amp; Friends (MCA 33008)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

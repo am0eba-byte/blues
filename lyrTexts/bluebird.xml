@@ -1,11 +1,11 @@
 <xml><metadata><artist>John Lee Hooker</artist><title> Bluebird</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 John
 Lee Hooker
 
-recording of 1951-1952
+</songwriter><recordDate>recording of 1951-1952
 
-from 
+</recordDate><album>from 
 The
 Complete 50's Chess Recordings (MCA 9391)
 
@@ -18,7 +18,7 @@ John
 Lee Hooker Plays and Sings the Blues (MCA/Chess
 CHD-9199)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

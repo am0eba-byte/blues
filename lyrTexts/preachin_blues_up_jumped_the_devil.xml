@@ -1,18 +1,18 @@
 <xml><metadata><artist>Robert Johnson</artist><title> Preachin' Blues (Up Jumped The Devil)</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Robert
 Johnson
 
-recording of 3rd of 5 sessions, November 27 1936, San Antonio,
+</songwriter><recordDate>recording of 3rd of 5 sessions, November 27 1936, San Antonio,
 Texas
 
-from 
+</recordDate><album>from 
 The
 Complete Recordings (CBS 467246 2 &amp; Columbia/Legacy C2K-46222
 &amp; Columbia 4622 &amp; Sony 64916)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 
@@ -69,9 +69,13 @@ Goin' to the 'stil'ry
 
 __________
 
+
+
+<note>Note 1: alternatively "steeray" instead of " 'stil'ry" as for
+distiller
+
 This is Robert Johnson's version of 
 Preachin' The Blues Parts 1
 and 2
- that Son House Recorded in 1930.
-<note>Note 1: alternatively "steeray" instead of " 'stil'ry" as for
-distiller</note></lyrics></xml>
+that Son House Recorded in 1930.
+</note></lyrics></xml>

@@ -1,5 +1,5 @@
 <xml><metadata><artist>B.B. King</artist><title> Inflation Blues</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Alger
 "Texas" Alexander
  / 
@@ -7,14 +7,14 @@ Louis
 Jordan
  / T. Southern
 
-recording of 1983
+</songwriter><recordDate>recording of 1983
 
-from 
+</recordDate><album>from 
 Blues
 'n' Jazz (MCA MCAD-27119)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

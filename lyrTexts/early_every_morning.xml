@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> Early Every Morning</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
  / 
 Joe
 Josea
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 The
 Best of B.B. King, Vol. 1 (Virgin 86230)
 
@@ -21,7 +21,7 @@ Singin'
 the Blues/The Blues (ACE CHD-320)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

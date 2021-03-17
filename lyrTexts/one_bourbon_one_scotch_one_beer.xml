@@ -1,11 +1,11 @@
 <xml><metadata><artist>George Thorogood</artist><title> One Bourbon, One Scotch, One Beer</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 John
 Lee Hooker
 
-recording of 1977
+</songwriter><recordDate>recording of 1977
 
-from 
+</recordDate><album>from 
 George
 Thorogood &amp; The Destroyers (Rounder
 CD-3013)
@@ -17,7 +17,7 @@ The
 Baddest Of George Thorogood And The Destroyers (EMI E2-97718 or
 Capitol 97718)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

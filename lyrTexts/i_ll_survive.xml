@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> I'll Survive</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
  / 
 Sam
 Ling
 
-recording of 1998 or 1992
+</songwriter><recordDate>recording of 1998 or 1992
 
-from 
+</recordDate><album>from 
 Blues
 on the Bayou (MCA 11879)
  &amp;
@@ -18,7 +18,7 @@ Heart
 ,
 
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

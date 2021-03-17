@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> Someday Baby</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Sam
 "Lightnin'" Hopkins
  or 
 Lowell
 Fulson
 
-recording of 1966, 1961 resp. 1960
+</songwriter><recordDate>recording of 1966, 1961 resp. 1960
 
-from 
+</recordDate><album>from 
 The
 Soul of B. B. King (United 7714)
  &amp;
@@ -23,7 +23,7 @@ Great B.B. King (B. B. King and His Orchestra) (Crown CLP
 ,
 
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

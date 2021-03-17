@@ -1,11 +1,11 @@
 <xml><metadata><artist>B.B. King</artist><title> Beautician Blues</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 The
 Soul of B. B. King (United 7714)
  amp;
@@ -18,7 +18,7 @@ The
 Best of B.B. King, Vol. 1 (Virgin 86230)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

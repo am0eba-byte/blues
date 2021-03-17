@@ -1,5 +1,5 @@
 <xml><metadata><artist>ZZ Top</artist><title> My Head's In Mississippi</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Frank
 Beard
  / 
@@ -9,14 +9,14 @@ Gibbons
 Dusty
 Hill
 
-recording of 1990
+</songwriter><recordDate>recording of 1990
 
-from 
+</recordDate><album>from 
 Recycler
 (Warner Brothers 2-26265)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

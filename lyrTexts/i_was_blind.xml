@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> I Was Blind</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
  / 
 Joe
 Josea
 
-recording of 1960's resp. 1950's
+</songwriter><recordDate>recording of 1960's resp. 1950's
 
-from 
+</recordDate><album>from 
 The
 Great B.B. King (B. B. King and His Orchestra) (Crown CLP
 5143)
@@ -17,7 +17,7 @@ Heart
 &amp; Soul (Virgin 40072)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

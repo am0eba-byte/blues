@@ -1,14 +1,14 @@
 <xml><metadata><artist>B.B. King</artist><title> Everything I Do Is Wrong</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 B.B.
 King
  / 
 Jules
 Bihari
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 The
 Incredible Soul of B.B. King (United 7756)
 
@@ -24,7 +24,7 @@ the Tracks (ACE 230)
 One
 Nighter Blues (ACE 201)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

@@ -1,11 +1,11 @@
 <xml><metadata><artist>Albert Collins</artist><title> Master Charge (version 1)</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Gwendolyn
 Collins
 
-recording of 1978 resp. 1993
+</songwriter><recordDate>recording of 1978 resp. 1993
 
-from 
+</recordDate><album>from 
 Ice
 Pickin (Alligator ALCD-4713)
  &amp;
@@ -14,7 +14,7 @@ Collins
 Mix (Virgin 39097 or Pointblank V2-39097)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

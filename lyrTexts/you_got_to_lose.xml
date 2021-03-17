@@ -1,11 +1,11 @@
 <xml><metadata><artist>George Thorogood</artist><title> You Got To Lose</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Earl
 Hooker
 
-recording of 1977
+</songwriter><recordDate>recording of 1977
 
-from 
+</recordDate><album>from 
 George
 Thorogood &amp; The Destroyers (Rounder
 CD-3013)
@@ -13,7 +13,7 @@ CD-3013)
 Live
 (EMI E 2-46329)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

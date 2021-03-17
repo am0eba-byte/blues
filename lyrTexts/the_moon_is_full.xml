@@ -1,11 +1,11 @@
 <xml><metadata><artist>Albert Collins</artist><title> The Moon Is Full</title>
-<songInfo>by 
+<songInfo><songwriter>by 
 Gwendolyn
 Collins
 
-recording of 1985 resp. 1993
+</songwriter><recordDate>recording of 1985 resp. 1993
 
-from 
+</recordDate><album>from 
 Showdown
 (Alligator ALCD-4743)
  &amp;
@@ -14,7 +14,7 @@ Collins
 Mix (Virgin 39097 or Pointblank V2-39097)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 
