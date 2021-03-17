@@ -1,12 +1,12 @@
 <xml><metadata><artist>Blind Lemon Jefferson</artist><title> See That My Grave Is Kept Clean</title>
 
-<songInfo>Traditional OR by 
+<songInfo><songwriter>Traditional OR by 
 Blind
 Lemon Jefferson
 
-recording of 1928
+</songwriter><recordDate>recording of 1928
 
-from 
+</recordDate><album>from 
 Complete
 Recorded Works, Vol. 3 (1928) (Document
 DOCD-5019)
@@ -18,7 +18,7 @@ of the Country Blues [LP] (Yazoo
 Matchbox
 Blues (Indigo 2075)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

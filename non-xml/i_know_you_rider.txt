@@ -1,15 +1,15 @@
 <xml><metadata><artist>Janis Joplin</artist><title> I Know You Rider</title>
-<songInfo>Traditional arranged by 
+<songInfo><songwriter>Traditional arranged by 
 Big
 Brother &amp; the Holding Company
 
-recording of July 28 1966
+</songwriter><recordDate>recording of July 28 1966
 
-from 
+</recordDate><album>from 
 Cheaper
 Thrills (Edsel ED CD135)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

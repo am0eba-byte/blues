@@ -1,17 +1,17 @@
 <xml><metadata><artist>Alvin Youngblood Hart</artist><title> Will I Ever Get Back Home?</title>
 
-<songInfo>traditional, arranged by 
+<songInfo><songwriter>traditional, arranged by 
 Alvin
 Youngblood Hart
 
-recording of 2000
+</songwriter><recordDate>recording of 2000
 
-from 
+</recordDate><album>from 
 Start
 With The Soul (Rykodisc or Hannibal 1449)
 ,
 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

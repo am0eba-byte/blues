@@ -1,13 +1,13 @@
 <xml><metadata><artist>Janis Joplin</artist><title> St. James Infirmary</title>
 
-<songInfo>Traditional
+<songInfo><songwriter>Traditional
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from Janis Flexi
+</recordDate><album>from Janis Flexi
 1
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 

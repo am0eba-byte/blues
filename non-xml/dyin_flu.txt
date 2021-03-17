@@ -1,13 +1,14 @@
 <xml><metadata><artist>Albert Collins</artist><title> Dyin' Flu</title>
-<songInfo>by 
-Albert Collins
+<songInfo><songwriter>by 
+Albert Collins</songwriter>
 
-               recording of 1969
+<recordDate>               recording of 1969</recordDate>
 
-            from 
+<album>            from 
 Truckin' with Albert Collins (MCA
                   MCAD-10423)
 , 
+</album>
 </songInfo></metadata>
 <lyrics>
 

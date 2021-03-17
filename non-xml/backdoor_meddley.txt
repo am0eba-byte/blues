@@ -1,24 +1,22 @@
 <xml><metadata><artist>ZZ Top</artist><title> Backdoor Medley</title>
 
-<songInfo>by 
+<songInfo><songwriter>by 
 Billy
 Gibbons
  / 
 Bill
-Ham
-, II by 
+Ham, II 
+/
 Willie
-Dixon
-, III by 
-Billy
-Gibbons
+Dixon, III </songwriter>
 
-recording of 1975
+<recordDate>recording of 1975</recordDate>
 
-from 
+<album>from 
 Fandango
 (Warner Brothers 2-3271)
 , 
+</album>
 </songInfo></metadata>
 <lyrics>
 

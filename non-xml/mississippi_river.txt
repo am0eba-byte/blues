@@ -1,15 +1,16 @@
 <xml><metadata><artist>Janis Joplin</artist> <title>Mississippi River</title>
 
 <songInfo>
-Traditonal
+<songwriter>Traditonal</songwriter>
 
-recording of 19
+<recordDate>recording of 19</recordDate>
 
-from 
+<album>from 
 From
 the Soundtrack of the Motion Picture "Janis" (Columbia 467
 4D6-2)
 , 
+</album>
 </songInfo></metadata>
 <lyrics>
 

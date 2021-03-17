@@ -1,20 +1,20 @@
 <xml><metadata><artist>Bessie Smith</artist><title> Down In The Dumps</title>
 
-<songInfo>lyrics by 
+<songInfo><songwriter>lyrics by 
 Leola
 P. Wilson
  / music by 
 Wesley
 Wilson
 
-recording of 19
+</songwriter><recordDate>recording of 19
 
-from 
+</recordDate><album>from 
 Complete
 Recordings, Vol. 5: The Final Chapter (Columbia/Legacy
 57546)
 , 
-</songInfo></metadata>
+</album></songInfo></metadata>
 <lyrics>
 
 
