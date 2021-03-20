@@ -9,21 +9,22 @@ Smokin' (Oarfin 9523)
 <lyrics>
 
 
-
-
-
-Can't wait to get back home
+<l>Can't wait to get back home
 where the sun is always
 nice and warm
 
-Can't wait to get back home
+</l>
+<l>Can't wait to get back home
 where the sun is always
 nice and warm
 
-You know it's freezin' out here
+</l>
+<l>You know it's freezin' out here
 and that howlin' wind sends a nasty chill through my bones
 
-Oh you know I
+</l>
+<l>Oh you know I
+
 shivered myself to sleep last night
 the cold won't let me be
 That's when I woke up and realized that
@@ -32,10 +33,14 @@ and I can't
 can't wait to get back home
 where the sun is always nice and warm
 
-You know it's freezin' out here
+
+</l>
+<l>You know it's freezin' out here
 and that howlin' wind sends a nasty chill through my bones
 
-Some good old friends got together
+</l>
+<l>Some good old friends got together
+
 and they took me away
 from this cold old alley babe
 to a warm place I could stay
@@ -43,5 +48,7 @@ oh I can't
 can't wait to get back home
 where the sun is always nice and warm
 
-I'm so happy to see you all
-and that old nasty chill is gone</lyrics></xml>
+
+</l><l>I'm so happy to see you all</l>
+<l>and that old nasty chill is gone</l></lyrics></xml>
+

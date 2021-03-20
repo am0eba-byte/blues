@@ -13,6 +13,9 @@ album = element album {text}
 
 
 
-lyrics = element lyrics {mixed{br, note?}}
-br = element br {empty}
+
+lyrics = element lyrics {mixed{l+, note?}}
+l = element l {text}
+
+
 note = element note {text}

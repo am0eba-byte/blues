@@ -1,3 +1,4 @@
+
 <xml><metadata><artist>Ma Rainey</artist><title> Barrel House Blues</title>
 <songInfo><songwriter>by 
 Lovie
@@ -13,35 +14,41 @@ Recorded Works, Vol. 1 (1923-1924) (Document
 </album></songInfo></metadata>
 <lyrics>
 
-
-
-Got the 
+<l>Got the 
 barrel
 house
- blues, feeling awfully dry
-
+blues, feeling awfully dry </l>
+<l>
 Got the barrel house blues, feeling awfully dry
 
-I can't drink 
+</l>
+<l>I can't drink 
 moonshine
 
-'cause I'm afraid I'd die
+</l>
+<l>'cause I'm afraid I'd die
 
 
 
-Papa likes his sherry, mama likes her port
+</l>
+<l>Papa likes his sherry, mama likes her port
 
-Papa likes his sherry, mama likes her port
+</l>
+<l>Papa likes his sherry, mama likes her port
 
-Papa likes to shimmy, mama likes to sport
+</l>
+<l>Papa likes to shimmy, mama likes to sport
 
 
 
-Papa likes his bourbon, mama likes her gin
+</l>
+<l>Papa likes his bourbon, mama likes her gin
 
-Papa likes his bourbon, mama likes her gin
+</l>
+<l>Papa likes his bourbon, mama likes her gin
 
-Papa likes his outside women
+</l>
+<l>Papa likes his outside women
 1
 , mama likes outside
 men
@@ -49,6 +56,7 @@ men
 
 
 
-__________
-<note>Note 1: outside women, slang for a mistress or "woman on the side".
+</l>
+<note>Note 1: outside women, slang for a mistress or "woman on the side".
 Outside men, male lover</note></lyrics></xml>
+
