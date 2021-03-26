@@ -1,15 +1,15 @@
 <xml><metadata><artist>ZZ Top</artist><title> Blue Jean Blues</title>
-<songInfo><songwriter>by 
+<songInfo><songwriter><name> 
 Frank
 Beard
- / 
+ </name><name> 
 Billy
 Gibbons
- / 
+ </name><name> 
 Dusty
 Hill
 
-</songwriter><recordDate>recording of 1975
+</name></songwriter><recordDate>recording of 1975
 
 </recordDate><album>from 
 Fandango

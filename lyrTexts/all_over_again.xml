@@ -1,10 +1,10 @@
 <xml><metadata><artist>B.B. King</artist><title> All Over Again</title>
-<songInfo><songwriter>by 
+<songInfo><songwriter><name> 
 B.B.
 King
- / Adams
+ </name><name> Adams
 
-</songwriter><recordDate>recording of 1965
+</name></songwriter><recordDate>recording of 1965
 
 </recordDate><album>from 
 King

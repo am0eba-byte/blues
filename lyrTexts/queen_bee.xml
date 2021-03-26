@@ -1,10 +1,10 @@
 <xml><metadata><artist>John Lee Hooker</artist><title> Queen Bee</title>
-<songInfo><songwriter>by 
+<songInfo><songwriter><name> 
 John
 Lee Hooker
- / Bernard Besman
+ </name><name> Bernard Besman
 
-</songwriter><recordDate>recording
+</name></songwriter><recordDate>recording
 
 </recordDate><album>from 
 Half

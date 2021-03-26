@@ -1,21 +1,21 @@
 <xml><metadata><artist>Janis Joplin</artist><title> Hey Baby</title>
-<songInfo><songwriter>by 
+<songInfo><songwriter><name> 
 Peter
 Albin
- / 
+ </name><name> 
 Sam
 Andrew
- / 
+ </name><name> 
 Dave
 Getz
- / 
+ </name><name> 
 James
 Gurley
- / 
+ </name><name> 
 Janis
 Joplin
 
-</songwriter><recordDate>recording of July 28 1966, San Francisco
+</name></songwriter><recordDate>recording of July 28 1966, San Francisco
 
 </recordDate><album>from 
 Cheaper

@@ -1,10 +1,10 @@
 <xml><metadata><artist>John Lee Hooker</artist><title> Rock Me, Mama</title>
-<songInfo><songwriter>by 
+<songInfo><songwriter><name> 
 John
 Lee Hooker
- / Bernard Besman
+ </name><name> Bernard Besman
 
-</songwriter><recordDate>recording 19
+</name></songwriter><recordDate>recording 19
 
 </recordDate><album>from Cold Chills , 
 </album></songInfo></metadata>

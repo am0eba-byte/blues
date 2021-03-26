@@ -1,12 +1,12 @@
 <xml><metadata><artist>B.B. King</artist><title> B.B.'s Blues</title>
-<songInfo><songwriter>by 
+<songInfo><songwriter><name> 
 B.B.
 King
- / 
+ </name><name> 
 Branford
 Marsalis
 
-</songwriter><recordDate>recording of 1995
+</name></songwriter><recordDate>recording of 1995
 
 </recordDate><album>from 
 Lucille

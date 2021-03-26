@@ -1,14 +1,11 @@
 <xml><metadata><artist>Bessie Smith</artist><title> Rocking Chair Blues</title>
 
-<songInfo><songwriter>lyrics by 
-Bessie
-Smith
-, music by 
-Bessie
-Smith
- and 
-Irving
-Johns
+<songInfo><songwriter>
+<name>Bessie
+Smith</name>
+
+<name>Irving
+Johns</name>
 
 </songwriter><recordDate>recording of
 

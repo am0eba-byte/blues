@@ -1,12 +1,11 @@
 <xml><metadata><artist>Susan Tedeschi</artist><title> I Don't Want No Woman</title>
-<songInfo><songwriter>by 
-Robey
+<songInfo><songwriter>
+<name>Robey
+</name>
 
-(original title: I Don't Want Nobody), adapted lyrics by
-
-Susan
+<name>Susan
 Tedeschi
-
+</name>
 </songwriter><recordDate>recording of 1998
 
 </recordDate><album>from 
@@ -68,5 +67,6 @@ Days (Oarfin 950215)
 </l>
 <l>I don't want nobody telling me what to do
 
-</l><l>Oh I'm gonna leave you darlin', 'cause I'm just as grown as you</l></lyrics></xml>
+</l><l>Oh I'm gonna leave you darlin', 'cause I'm just as grown as you</l>
+<note>Note: (original title: I Don't Want Nobody)</note></lyrics></xml>
 

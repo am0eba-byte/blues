@@ -1,11 +1,11 @@
 <xml><metadata><artist>Bo Diddley</artist><title> I'm Sorry</title>
-<songInfo><songwriter>by 
+<songInfo><songwriter><name> 
 Ellas
 McDaniel a.k.a. Bo Diddley
- / Harvey Fuqua
-/ Alan Freed
+ </name><name> Harvey Fuqua
+</name><name> Alan Freed
 
-</songwriter><recordDate>recording of 1958
+</name></songwriter><recordDate>recording of 1958
 
 </recordDate><album>from 
 Bo

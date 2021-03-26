@@ -1,11 +1,11 @@
 
 <xml><metadata><artist>B.B. King</artist><title> Why I Sing The Blues</title>
-<songInfo><songwriter>by 
+<songInfo><songwriter><name> 
 B.B.
 King
- / Dave Clark
+ </name><name> Dave Clark
 
-</songwriter><recordDate>recording of 1956
+</name></songwriter><recordDate>recording of 1956
 
 </recordDate><album>from 
 Do

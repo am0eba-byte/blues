@@ -1,10 +1,10 @@
 <xml><metadata><artist>B.B. King</artist><title> Who Are You</title>
-<songInfo><songwriter>by 
+<songInfo><songwriter><name> 
 Dave
 Crawford
- / Howard Johnson
+ </name><name> Howard Johnson
 
-</songwriter><recordDate>recording of 1973
+</name></songwriter><recordDate>recording of 1973
 
 </recordDate><album>from 
 To

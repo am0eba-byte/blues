@@ -1,12 +1,12 @@
 <xml><metadata><artist>B.B. King</artist><title> A World I Never Made</title>
-<songInfo><songwriter>by 
+<songInfo><songwriter><name> 
 Doc
 Pomus
- / 
+ </name><name> 
 Mac
 Rebennack
 
-</songwriter><recordDate>recording of 1982
+</name></songwriter><recordDate>recording of 1982
 
 </recordDate><album>from 
 Love

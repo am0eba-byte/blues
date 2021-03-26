@@ -1,11 +1,11 @@
 
 <xml><metadata><artist>Bessie Smith</artist><title> Baby Doll</title>
-<songInfo><songwriter>by 
+<songInfo><songwriter><name> 
 Bessie
 Smith
- / Webman
+ </name><name> Webman
 
-</songwriter><recordDate>recording of 19
+</name></songwriter><recordDate>recording of 19
 
 </recordDate><album>from 
 The
