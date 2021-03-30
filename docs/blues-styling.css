@@ -1,7 +1,10 @@
-            /* GENERAL STYLING */
-            
+/* GENERAL STYLING */
+
 body {
-    
+    background-image:url("images/blue_music_bckgrnd.jpg");
+    background-size: cover;
+    color: white;
+    font-size: larger;
 }
 
 header {
@@ -10,34 +13,42 @@ header {
 
 div.navbar {
     padding-bottom: 20px;
-    padding-top:10px;
+    padding-top: 10px;
 }
 
 a.navLink {
-    padding-left:20px;
+    padding-left: 20px;
     padding-right: 20px;
     font-size: 1.2em;
 }
 
 footer {
-    display:flex;
+    display: flex;
 }
 
 p.foot {
-    flex:1;
-    text-align:center;
+    flex: 1;
+    text-align: center;
+}
+
+p.foot a {
+    color: lime;
 }
 
 
-                /* HOMEPAGE STYLING */
-               
+/* HOMEPAGE STYLING */
+
 section.index {
     padding-top: 20px;
+     margin-left:5%;
+    margin-right:5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 div.homeImage {
-    display:flex;
-    margin:auto;
+    display: flex;
+    margin: auto;
     justify-content: center;
 }
 
@@ -48,13 +59,13 @@ img#bluesArt {
 div.homePara {
     text-align: center;
     padding-top: 20px;
-    padding-bottom:10px;
+    padding-bottom: 10px;
 }
 
 
 
-                /* 404 ERROR PAGE STYLING */
-         
+/* 404 ERROR PAGE STYLING */
+
 section.error {
     padding-top: 20px;
 }
@@ -65,22 +76,81 @@ h3.errorPara {
 
 
 
-                /* ABOUT PAGE STYLING */
+/* ABOUT PAGE STYLING */
 
 section.about {
+    text-align: center;
+    margin-left:5%;
+    margin-right:5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
+div.bios {
+    display: flex;
+}
+div.Nicky {
+    flex: 1
+
+}
+img#Nickpic {
+    width: 40%;
+}
+
+div.Katherine {
+    flex: 1;
+}
+
+div.Mia {
+    flex: 1;
+}
+img#miaPic {
+    width: 56%;
+}
+
+
+
+
+
+
+                            /* SOURCE PAGE */
+
+
+section.source {
+     margin-left:5%;
+    margin-right:5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+section.source h2 {
+    text-align: center;
+}
+
+div.sourcetop {
     
 }
 
-<<<<<<< HEAD
-=======
-div.bios{
+p.source {
     
 }
-div.Nicky{
-    
-    display:flex;
-} 
-img#Nickpic{width:200px}
 
->>>>>>> 3c1cd63e9985b0e8cbbcb5c120158adc43ca3adb
+p.source a {
+    color: lime;
+}
+
+div.sourceimg {
+    /*display:flex;*/
+    justify-content:right;
+    display: flex;
+    margin: auto;
+    
+}
+
+img#source {
+    width: 45%;
+}
+
+
 
