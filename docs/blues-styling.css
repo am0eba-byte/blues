@@ -68,6 +68,26 @@ div.homePara {
     padding-bottom: 10px;
 }
 
+h2.index {
+    text-indent: 2em;
+}
+
+div.research {
+    padding-left: 3%;
+    padding-right:3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+p.research {
+    padding-bottom: 1%;
+}
+
+li.research {
+    line-height: 2em;
+}
+
+
 
 
 /* 404 ERROR PAGE STYLING */
