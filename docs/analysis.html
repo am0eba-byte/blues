@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Analysis</title>
+        <meta charset="UTF-8" />
+        <meta name="author" content="Project Team" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=New+Tegomin" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="blues-styling.css" />
+    </head>
+    <body>
+        <header>
+            <h1>Blues Analysis Project</h1>
+            <div class="navbar"><a class="navLink" href="index.html">Home</a> | <a class="navLink"
+                    href="about.html">About</a> | <a class="navLink" href="source.html">Source
+                    Lyrics</a> | <a class="navLink" href="analysis.html">Analysis</a></div>
+        </header>
+        <hr />
+        <section class="analysis">
+            <div class="analysis">
+                <h2 class="analysis">Analysis of our Blues Collection</h2>
+
+                <div class="method">
+                    <h3 class="method"><u>Our Methods</u></h3>
+                    <div class="imgTextWrap">
+                        <div class="analysisText">
+                            <p class="method">In order to markup the important data, format, and
+                                syntax of each of the song lyrics files in our gigantic collection,
+                                we used oXygen's "Find and Replace in Files" tool to create REGEX
+                                which captured the regular formatting patterns which occurred
+                                throughout the blues lyrics files, then wrapped corresponding XML
+                                tags around our capturing groups accordingly. </p>
+                            <p class="method">We created XML tags to markup the following
+                                information from the files:</p>
+                            <ul class="methodInfo">
+                                <li>The "metadata" section, which contained the song title,
+                                    performing artist, recording date/year, and album</li>
+                                <li>The content within the "metadata" section, including all those
+                                    listed above</li>
+                                <li>The entirety of the song's lyrics, as well as each line within
+                                    the lyrics</li>
+                                <li>At times, the original website had a "Notes" section beneath the
+                                    song lyrics which contained neat facts about the song, explained
+                                    what certain references or allegories within the song's lyrics
+                                    referred to, or fun facts about the artist who sang the
+                                    song.</li>
+                            </ul>
+                        </div>
+                        <div class="analysisImg">
+                            <img class="analyimg" src="images/flamin_frets.jpg" alt="flamin frets"
+                             />
+                        </div>
+                    </div>
+                    <h3 class="method"><u>XQuery</u></h3>
+                    <p class="method">Once we had all relevant data and formatting tagged in our
+                        collection, we used the eXist software to create and conduct XQueries which
+                        could pull and query the information we were after from our XML tags en
+                        masse using XPath functions. Once we had functioning XQueries, we used the
+                        FLWOR method of XQuerying to create SVG graphics and TSV (Tab-Separated
+                        Values) files from the queried data. From these, we created visualizations
+                        of our research results from our blues collection!(<a
+                            href="https://github.com/am0eba-byte/blues/tree/main/xquery">Here's the
+                            GitHub view of our XQuery Files</a>)</p>
+                    <h3 class="method"><u>Networking Analysis Graphics</u></h3>
+                    <div class="graphics">
+                        <p class="method"><i>Coming soon!</i></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <hr />
+        <footer>
+            <p class="foot">We are at <a href="https://behrend.psu.edu/">Penn State Erie, the
+                    Behrend College</a></p>
+            <p class="foot">View of our <a href="https://github.com/am0eba-byte/blues">Blues
+                    Repository on GitHub</a></p>
+            <p class="foot">Mentored and hosted by <a href="https://newtfire.org/">NewtFire</a></p>
+        </footer>
+    </body>
+</html>

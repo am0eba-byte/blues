@@ -1,7 +1,7 @@
 /* GENERAL STYLING */
 
 body {
-    background-image:url("images/blue_music_bckgrnd.jpg");
+    background-image: url("images/blue_music_bckgrnd.jpg");
     background-size: cover;
     color: white;
     font-size: larger;
@@ -37,13 +37,17 @@ p.foot a {
     color: lime;
 }
 
+a {
+    color: lime;
+}
+
 
 /* HOMEPAGE STYLING */
 
 section.index {
     padding-top: 20px;
-     margin-left:5%;
-    margin-right:5%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 2%;
     margin-bottom: 2%;
 }
@@ -76,14 +80,26 @@ h3.errorPara {
     text-align: center;
 }
 
+div.error {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+img#error {
+    flex: 1;
+    width: 50%;
+}
 
 
 /* ABOUT PAGE STYLING */
 
 section.about {
     text-align: center;
-    margin-left:5%;
-    margin-right:5%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 2%;
     margin-bottom: 2%;
 }
@@ -98,6 +114,7 @@ div.Nicky {
 }
 img#Nickpic {
     width: 40%;
+    border-radius: 25px;
 }
 
 div.Katherine {
@@ -109,6 +126,7 @@ div.Mia {
 }
 img#miaPic {
     width: 56%;
+    border-radius: 25px;
 }
 
 
@@ -116,12 +134,12 @@ img#miaPic {
 
 
 
-                            /* SOURCE PAGE */
+/* SOURCE PAGE */
 
 
 section.source {
-     margin-left:5%;
-    margin-right:5%;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 2%;
     margin-bottom: 2%;
 }
@@ -131,11 +149,26 @@ section.source h2 {
 }
 
 div.sourcetop {
-    
+   
+}
+
+div.noteBckgrnd {
+    background-image: url(images/stencil_artist.jpg);
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius:30px;
+    opacity: .7;
+    background-position: 10% 10%
 }
 
 p.source {
-    
+
+}
+
+p.note {
+    padding-right: 40%
 }
 
 p.source a {
@@ -144,15 +177,77 @@ p.source a {
 
 div.sourceimg {
     /*display:flex;*/
-    justify-content:right;
+    justify-content: right;
     display: flex;
     margin: auto;
-    
+
 }
 
 img#source {
-    width: 45%;
+    width: 50%;
+    border-radius: 35px;
+    opacity: .75;
+    flex-shrink: 1;
 }
 
 
 
+
+/* ANALYSIS PAGE */
+
+
+section.analysis {
+    margin: 10px;
+}
+
+div.analysis {
+    margin: 15px;
+}
+
+h2.analysis {
+    text-align: center;
+}
+
+div.imgTextWrap {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+div.analysisImg {
+    /*display:flex;*/
+    justify-content: right;
+    position: relative;
+    flex: 2;
+    display: contents;
+}
+
+img.analyimg {
+    max-width: 40%;
+    height: 30%;
+    border-radius: 30px;
+    padding-left: 10px;
+}
+
+div.method {
+    margin: 15px;
+}
+
+h3.method {
+    text-indent: 3em;
+    font-weight: bold;
+}
+
+div.analysisText {
+    flex: 1;
+    position: relative;
+}
+
+p.method {
+    text-indent: 2em;
+
+}
+
+ul.methodInfo {
+
+}

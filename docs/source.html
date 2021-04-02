@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>About our Bluesy Sources</title>
+        <title>Our Bluesy Sources</title>
         <meta charset="UTF-8" />
         <meta name="author" content="Project Team" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="preconnect" href="https://fonts.gstatic.com"/>
-        <link href="https://fonts.googleapis.com/css2?family=New+Tegomin" rel="stylesheet"/>
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=New+Tegomin" rel="stylesheet" />
         <link rel="stylesheet" type="text/css" href="blues-styling.css" />
     </head>
     <body>
@@ -26,21 +26,46 @@
                         archive,</a> chock-full of blues lyrics, created in 1999. Shockingly, we
                     would've had thousands more song lyric files to markup and create intriguing
                     data from if it weren't for the unfortunate "link rot" which plagued the entire
-                    site archive. The majority of the links to song lyrics pages became obsolete
-                    and therefore dysfunctional as HTML standards outgrew this outmoded goldmine of
-                    an archival website. As such, much work was done to scrape the text from every
-                    song lyric page possible and clean them all of their ancient HTML code to
-                    produce clean, uniform text files from which we conducted our analyses.</p>
+                    site archive. The majority of the links to song lyrics pages became obsolete and
+                    therefore dysfunctional as HTML standards outgrew this outmoded goldmine of an
+                    archival website. As such, much work was done to scrape the raw text from every
+                    song lyric page possible. To do this, we had tremendous help from our lovely
+                    mentor and code guru Dr. Beshero Bondar, who created a Python script <a
+                        href="https://github.com/am0eba-byte/blues/tree/main/python">(link to the
+                        GitHub file view)</a> which successfully collected 1,088 song lyrics from
+                    the website and scrubbed them of their ancient HTML code. We were then able to
+                    use these raw text files created by Dr. B's Python script to produce clean,
+                    uniform XML from which we conducted our analyses.</p>
+                <div class="noteBckgrnd"><h4 class="sourceNote"><u>An Important Note About Our Data:</u></h4>
+                <p class="note">Unfortuantely, due to the "link rot" which affected our source website, 
+                    our collection of blues lyrics files were confined to the inconsistent parameters of our source. We
+                    were not able to obtain any song lyrics files from a few key blues artists. The fact
+                    that we cannot represent all of the crucial pillars to the blues in our project
+                    is saddening to us, and we want to ensure our viewers that we did not forget about them,
+                    and we mean no disrespect to any of the honorable artists that we could not extract data for!
+                     Further source-searching and Python-scraping will be done to add
+                    more songs from the artists whom we were unable to gather lyrics for as soon as possible.</p>
+                <p class="note">Here is a non-comprehensive list of some of the blues legends who
+                    are not represented in our project (for now!)</p>
+                <ul>
+                    <li>Lightnin' Hopkins</li>
+                    <li>Buddy Guy</li>
+                    <li>Lucille Bogan</li>
+                    <li>Elmore James</li>
+                    <li>Taj Mahal</li>
+                    <li>Quite a few others! ):</li>
+                </ul></div>
             </div>
-            <div class="sourceimg">
-                <img id="source" src="images/stencil_artist.jpg" />
-            </div>
+            
         </section>
         <hr />
         <footer>
             <p class="foot">We are at <a href="https://behrend.psu.edu/">Penn State Erie, the
                     Behrend College</a></p>
+            <p class="foot">View of our <a href="https://github.com/am0eba-byte/blues">Blues
+                    Repository on GitHub</a></p>
             <p class="foot">Mentored and hosted by <a href="https://newtfire.org/">NewtFire</a></p>
+
         </footer>
     </body>
 </html>
