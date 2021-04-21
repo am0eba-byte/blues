@@ -229,7 +229,7 @@ div.sourceSVG h2 {
 
 
 
-/* ANALYSIS PAGE */
+                        /* ANALYSIS PAGE */
 
 
 section.analysis {
@@ -247,7 +247,15 @@ h2.analysis {
 div.imgTextWrap {
     display: flex;
     flex-wrap: wrap;
+    flex-direction:row;
 
+}
+
+div.text {
+    display:flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    flex:2;
 }
 
 div.analysisImg {
@@ -259,8 +267,8 @@ div.analysisImg {
 }
 
 img.analyimg {
-    max-width: 40%;
-    height: 30%;
+    width: 40%;
+    max-height: 110vh;
     border-radius: 30px;
     padding-left: 10px;
 }
