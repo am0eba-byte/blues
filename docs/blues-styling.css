@@ -210,6 +210,22 @@ img#source {
     flex-shrink: 1;
 }
 
+div.sourceSVG {
+    background-color: black;
+border-radius: 25px;
+margin: 1%;
+opacity:.75;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+div.sourceSVG h2 {
+    font-size:1.5em;
+    padding-top: 1%;
+}
+
 
 
 
