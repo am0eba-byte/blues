@@ -8,6 +8,15 @@ body {
     font-family: 'New Tegomin', serif;
 }
 
+body.contain {
+    background-image: url("images/blue_music_bckgrnd.jpg");
+    background-size: contain;
+    color: white;
+    font-size: larger;
+    font-family: 'New Tegomin', serif;
+
+}
+
 header {
     text-align: center;
 }
