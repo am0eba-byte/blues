@@ -295,3 +295,55 @@ p.method {
 ul.methodInfo {
 
 }
+
+
+
+            /* GRAPHS STYLING */
+
+embed.decGraph {
+    width: 30vw;
+    object-fit:contain;
+}
+
+div.spacySVG {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;;
+    /*align-items: center;*/
+    margin:auto;
+}
+
+figure.ent {
+    width:50vw;
+}
+
+div.decSect {
+    display:flex;
+    flex-direction:column;
+   justify-content: space-around;
+    align-items: center;
+    /*margin:auto;*/
+}
+
+div.row {
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+    /*padding-right: 5%;
+    padding-left:5%;*/
+    padding-top:1%;
+    padding-bottom:1%;
+}
+
+div.row figure {
+    margin:auto;
+}
+
+figcaption {
+    text-align:center;
+}
+
+
+
+
