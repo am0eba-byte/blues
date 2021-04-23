@@ -363,6 +363,7 @@ figcaption {
      /*background-color:white;*/
      display:flex;
      margin:auto;
+     border-style:double;
      
  }
  
