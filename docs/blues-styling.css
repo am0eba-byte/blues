@@ -354,5 +354,27 @@ figcaption {
 }
 
 
+                    /* CYTOSCAPE */
+               
+ #cy {
+     width: 65vw;
+     height:100vh;
+     position:absolute;
+     /*background-color:white;*/
+     display:flex;
+     margin:auto;
+     
+ }
+ 
+ h4.cytoTitle {
+     text-align:center;
+ }
+
+div.graphics {
+    display:flex;
+   /* position:absolute;*/
+    height:100vh;
+    justify-content:center;
+}
 
 

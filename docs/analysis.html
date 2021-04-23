@@ -8,6 +8,7 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=New+Tegomin" rel="stylesheet" />
         <link rel="stylesheet" type="text/css" href="blues-styling.css" />
+        <script src="cyto/networks.js"></script>
     </head>
     <body class="contain">
         <header>
@@ -69,24 +70,46 @@
                              />
                         </div>
                     </div>
-                    <h3 class="method"><u>Networking Analysis Graphics</u></h3>
-                    <div class="graphics">
-                        <p class="method"><i>Coming soon!</i></p>
+                    <div class="cyto">
+                        <h3 class="method"><u>Networking Analysis Graphics</u></h3>
+                        <h4 class="cytoTitle">Network of Interactions between Songwriters and Performing Artists</h4>
+                        <div class="graphics">
+                            <div id="cy">
+                                <script type="cyto/text/ng-template" id="main.html"></script>
+                                <script src="cyto/networks.js"> </script>
+                                <script src="cyto/styles.js"> </script>
+
+
+                                <script src="cyto/scripts/vendor.js"></script>
+                                <script src="cyto/scripts/main.js"></script>
+                                <script src="cyto/scripts/custom.js"></script>
+
+                                <!--<script src="networks.js"></script>
+                        <script src="styles.js"></script>
+                        
+                        <script src="scripts/vendor.js"></script>
+                        <script src="scripts/main.js"></script>
+                        <script src="scripts/custom.js"></script>-->
+                            </div>
+                            
+                        </div>
                     </div>
-                    <h3 class="method"><u>Python and SpaCy</u></h3>
-                    <p class="method">In order to compare aspects of the blues lyrics themselves
-                        within our collection, we used Python and spaCy's Natural Language Processor
-                        (NLP) to auto-magically analyze any collection of lyrics we give it and find
-                        parts of speech, entities, and the like within each line and produce
-                        beautiful bar graphs using pyGal. </p>
-                    <p class="method">For our purposes, we used the NLP to create visual graphics of
-                        the most common nouns, verbs, and geopolitical entities within songs which
-                        were written and performed in each decade. In doing so, we created a
-                        marvelous visual for what sorts of things blues music was serenading about,
-                        what topics or subjects may have been a popular/common hardship to have the
-                        (emotional) blues over at the time, and in the case of the geopolitical
-                        entities graphs, where these artists were emotionally experiencing and
-                        musically sharing the blues from.</p>
+                    <div class="text">
+                        <h3 class="method"><u>Python and SpaCy</u></h3>
+                        <p class="method">In order to compare aspects of the blues lyrics themselves
+                            within our collection, we used Python and spaCy's Natural Language
+                            Processor (NLP) to auto-magically analyze any collection of lyrics we
+                            give it and find parts of speech, entities, and the like within each
+                            line and produce beautiful bar graphs using pyGal. </p>
+                        <p class="method">For our purposes, we used the NLP to create visual
+                            graphics of the most common nouns, verbs, and geopolitical entities
+                            within songs which were written and performed in each decade. In doing
+                            so, we created a marvelous visual for what sorts of things blues music
+                            was serenading about, what topics or subjects may have been a
+                            popular/common hardship to have the (emotional) blues over at the time,
+                            and in the case of the geopolitical entities graphs, where these artists
+                            were emotionally experiencing and musically sharing the blues from.</p>
+                    </div>
                     <div class="spacyWrap">
                         <h3><u>Our spaCy Graphs</u></h3>
                         <div class="spacySVG">
@@ -119,48 +142,41 @@
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/nouns/topTen/40sNOUNbar_TopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/nouns/topTen/40sNOUNbar_TopTen.svg" />
                                         <figcaption>1940's</figcaption>
                                     </figure>
                                 </div>
                                 <div class="row">
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/nouns/topTen/50sNOUNbar_TopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/nouns/topTen/50sNOUNbar_TopTen.svg" />
                                         <figcaption>1950's</figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/nouns/topTen/60sNOUNbar_chartTopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/nouns/topTen/60sNOUNbar_chartTopTen.svg" />
                                         <figcaption>1960's</figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/nouns/topTen/70sNOUNbar_TopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/nouns/topTen/70sNOUNbar_TopTen.svg" />
                                         <figcaption>1970's</figcaption>
                                     </figure>
                                 </div>
                                 <div class="row">
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/nouns/topTen/80sNOUNbar_TopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/nouns/topTen/80sNOUNbar_TopTen.svg" />
                                         <figcaption>1980's</figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/nouns/topTen/90sNOUNbar_TopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/nouns/topTen/90sNOUNbar_TopTen.svg" />
                                         <figcaption>1990's</figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/nouns/topTen/00sNOUNbar_TopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/nouns/topTen/00sNOUNbar_TopTen.svg" />
                                         <figcaption>2000's</figcaption>
                                     </figure>
                                 </div>
@@ -171,20 +187,17 @@
                                 <div class="row">
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/verbs/topTen/20sVERBbar_chartTopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/verbs/topTen/20sVERBbar_chartTopTen.svg" />
                                         <figcaption>1920's</figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/verbs/topTen/30sVERBbar_chartTopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/verbs/topTen/30sVERBbar_chartTopTen.svg" />
                                         <figcaption>1930's</figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/verbs/topTen/40sVERBbar_chartTopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/verbs/topTen/40sVERBbar_chartTopTen.svg" />
                                         <figcaption>1940's</figcaption>
                                     </figure>
 
@@ -192,40 +205,34 @@
                                 <div class="row">
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/verbs/topTen/50sVERBbar_chartTopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/verbs/topTen/50sVERBbar_chartTopTen.svg" />
                                         <figcaption>1950's</figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/verbs/topTen/60sVERBbar_chartTopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/verbs/topTen/60sVERBbar_chartTopTen.svg" />
                                         <figcaption>1960's</figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/verbs/topTen/70sVERBbar_chartTopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/verbs/topTen/70sVERBbar_chartTopTen.svg" />
                                         <figcaption>1970's</figcaption>
                                     </figure>
                                 </div>
                                 <div class="row">
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/verbs/topTen/80sVERBbar_chartTopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/verbs/topTen/80sVERBbar_chartTopTen.svg" />
                                         <figcaption>1980's</figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/verbs/topTen/90sVERBbar_chartTopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/verbs/topTen/90sVERBbar_chartTopTen.svg" />
                                         <figcaption>1990's</figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/verbs/topTen/00sVERBbar_chartTopTen.svg"
-                                         />
+                                            src="images/spacyGraphs/verbs/topTen/00sVERBbar_chartTopTen.svg" />
                                         <figcaption>2000's</figcaption>
                                     </figure>
                                 </div>
@@ -234,7 +241,7 @@
                         </div>
                     </div>
                     <p class="method"></p>
-                    
+
 
                 </div>
             </div>
