@@ -9,6 +9,7 @@
         <link href="https://fonts.googleapis.com/css2?family=New+Tegomin" rel="stylesheet" />
         <link rel="stylesheet" type="text/css" href="blues-styling.css" />
         <script src="cyto/networks.js"></script>
+        
     </head>
     <body class="contain">
         <header>
@@ -73,27 +74,51 @@
                     <div class="cyto">
                         <h3 class="method"><u>Networking Analysis Graphics</u></h3>
                         <h4 class="cytoTitle">Network of Interactions between Songwriters and Performing Artists</h4>
+                        
                         <div class="graphics">
+                            
                             <div id="cy">
-                                <script type="cyto/text/ng-template" id="main.html"></script>
+                                
+                                
+                                <!--<script type="cyto/text/ng-template" id="main.html"></script>-->
                                 <script src="cyto/networks.js"> </script>
                                 <script src="cyto/styles.js"> </script>
 
 
                                 <script src="cyto/scripts/vendor.js"></script>
                                 <script src="cyto/scripts/main.js"></script>
-                                <script src="cyto/scripts/custom.js"></script>
+                                <!--<script src="cyto/scripts/custom.js"></script>-->
 
-                                <!--<script src="networks.js"></script>
-                        <script src="styles.js"></script>
-                        
-                        <script src="scripts/vendor.js"></script>
-                        <script src="scripts/main.js"></script>
-                        <script src="scripts/custom.js"></script>-->
+                                
                             </div>
-                            
                         </div>
+                        
+                        <div class="networkDesc">
+                            <p>This network, created in Cytoscape, utilizes all of our <code>"artist"</code> and <code>"songwriter"</code> tags
+                            in our collection of 1,088 song XML files to create a visualization of the shared interactions between
+                            <span class="artists">performing artists</span> (big blue circles/rectangles) and <span class="songwrit">songwriters</span> (large and small pink squares) as they
+                            are connected through songs. Each connecting line represents song(s) - the direction of the line's arrows
+                            shows who wrote the song(dotted end), and who performed it(arrow end).</p>
+                            <p>The larger pink squares represent <span class="songwrit">songwriters</span> who connect two of more performing artists together - 
+                            meaning that those people wrote songs which were performed by two or more performing artists in our collection.</p>
+                            <p>The red lines indicate <span class="songs">songs</span> that were written by a performing artist orignially, and were covered
+                            by one or more other performing artists.</p>
+                            <p>This network alone shows the massive amount of blues songs that have been passed down and shared among 
+                            blues artists, in our limited collection alone.</p>
+                            <p><b>IMPORTANT NOTE:</b> This network does not accurately represent ALL of the interactions between
+                            blues artists and songwriters throughout the whole genre. This network's dataset is limited to our 
+                            source files, which is <a href="source.html">far from being fully representative or complete data of the blues.</a> This accounts for
+                            why B.B. King's songwriter connections is so much bigger than the others' - it's not that B.B. King ACTUALLY 
+                            has more songs which connect him to more songwriters - our collection simply has a disproportionate amount of 
+                            his songs, compared to the other artists in our collection. In the future we hope to add more song files from 
+                            our artists and other blues artists we have no songs for, to create a more representative network for the blues as a whole!</p>
+                        </div>
+                        
                     </div>
+                    
+                    
+                    
+                    
                     <div class="text">
                         <h3 class="method"><u>Python and SpaCy</u></h3>
                         <p class="method">In order to compare aspects of the blues lyrics themselves
@@ -125,6 +150,25 @@
                                     <figcaption>Names Mentioned in Entire Collection</figcaption>
                                 </figure>
                             </div>
+                            <div class="graphDesc">
+                                <p>These graphs, created using Python's spaCy NLP and pyGal word processor, shows our entire collection's
+                                most common geopolitical enities mentioned and most common names of people mentioned within all of our song lyrics.</p>
+                                <p>While our collection is indeed limited, it's interesting to contemplate why places such as Chicago, Texas, New Orleans, and Tennessee
+                                are mentioned most often in our blues songs. It could be that many of the songs were written and/or performed in these places,
+                                and it's reasonable to conclude that they were referenced so many times in our collection of blues songs due to
+                                hardships being endured in these places most often. It could also be argued that these places are mentioned most often
+                                because they are sung about in a positive light - maybe these are places that blues artists and songwriters
+                                wished to escape <em>to,</em> instead of <em>from.</em></p>
+                                <p>The graph representing most common names of people mentioned within our collection's lyrics is harder to decipher - there are 
+                                a number of reasons why these names in particular were mentioned so many times throughout songs. The fact that half of these names are presumably female
+                                may relfect that many of these blues songs were expressing the woes of heartbreak, and it's possible that these female
+                                names are used as a general reference to a significant other. It's also fascinating that Uncle Sam is on this list - as it 
+                                reflects how many of our collection's songs were written to express the woes and neglect brought upon by America's government to
+                                many of our collecton's artists and songwriters at the time.</p>
+                                <p><b>NOTE:</b> Again, this graph is not comprehensive. Some work was done to fix bugs that spaCy created when formulating these
+                                entity word frequencies - there may be some inaccuracies, beyond the fact that our dataset itself is incomprehensive.</p>
+                            </div>
+                        <hr/>
                             <div class="decSect">
                                 <h4>Most Common Nouns Appearing in our Blues Collection through the
                                     Decades</h4>
@@ -133,55 +177,61 @@
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/20sNOUNbar_chartTopTen.svg" />
-                                        <figcaption>1920's</figcaption>
+                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/20sNOUNbar_chartTopTen.svg">1920's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/30sNOUNbar_chartTopTen.svg" />
-                                        <figcaption>1930's</figcaption>
+                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/30sNOUNbar_chartTopTen.svg">1930's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/40sNOUNbar_TopTen.svg" />
-                                        <figcaption>1940's</figcaption>
+                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/40sNOUNbar_TopTen.svg">1940's</a></figcaption>
                                     </figure>
-                                </div>
-                                <div class="row">
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/50sNOUNbar_TopTen.svg" />
-                                        <figcaption>1950's</figcaption>
+                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/50sNOUNbar_TopTen.svg">1950's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/60sNOUNbar_chartTopTen.svg" />
-                                        <figcaption>1960's</figcaption>
+                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/60sNOUNbar_chartTopTen.svg">1960's</a></figcaption>
                                     </figure>
-                                    <figure>
-                                        <embed class="decGraph" type="image/svg+xml"
-                                            src="images/spacyGraphs/nouns/topTen/70sNOUNbar_TopTen.svg" />
-                                        <figcaption>1970's</figcaption>
-                                    </figure>
+                                    
                                 </div>
                                 <div class="row">
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
+                                            src="images/spacyGraphs/nouns/topTen/70sNOUNbar_TopTen.svg" />
+                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/70sNOUNbar_TopTen.svg">1970's</a></figcaption>
+                                    </figure>
+                                    <figure>
+                                        <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/80sNOUNbar_TopTen.svg" />
-                                        <figcaption>1980's</figcaption>
+                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/80sNOUNbar_TopTen.svg">1980's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/90sNOUNbar_TopTen.svg" />
-                                        <figcaption>1990's</figcaption>
+                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/90sNOUNbar_TopTen.svg">1990's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/00sNOUNbar_TopTen.svg" />
-                                        <figcaption>2000's</figcaption>
+                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/00sNOUNbar_TopTen.svg">2000's</a></figcaption>
+                                    </figure>
+                                </div>
+                                <div class="row">
+                                    <figure>
+                                        <embed class="collec" type="image/svg+xml"
+                                            src="images/spacyGraphs/nouns/topTen/collectionNOUNbar_TopTen.svg"/>
+                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/collectionNOUNbar_TopTen.svg">Entire Collection</a></figcaption>
                                     </figure>
                                 </div>
                             </div>
-                            <div class="decSect">
+                            <!--<div class="decSect">
                                 <h4>Most Common Verbs Appearing in our Blues Collection through the
                                     Decades</h4>
                                 <div class="row">
@@ -236,7 +286,7 @@
                                         <figcaption>2000's</figcaption>
                                     </figure>
                                 </div>
-                            </div>
+                            </div>-->
 
                         </div>
                     </div>

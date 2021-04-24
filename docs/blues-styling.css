@@ -54,7 +54,7 @@ a {
 /* HOMEPAGE STYLING */
 
 section.index {
-    padding-top: 20px;
+    padding-top: 10px;
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 2%;
@@ -68,13 +68,18 @@ div.homeImage {
 }
 
 img#bluesArt {
-    width: 500px;
+    width: 50vw;
+    object-fit:contain;
 }
 
 div.homePara {
     text-align: center;
-    padding-top: 20px;
+    padding-top: 5px;
     padding-bottom: 10px;
+}
+
+div.cytoText h3{
+    text-align:center;
 }
 
 h2.index {
@@ -310,8 +315,12 @@ ul.methodInfo {
             /* GRAPHS STYLING */
 
 embed.decGraph {
-    width: 30vw;
+    width: 20vw;
     object-fit:contain;
+}
+
+embed.collec {
+    width:40vw;
 }
 
 div.spacySVG {
@@ -353,6 +362,15 @@ figcaption {
     text-align:center;
 }
 
+figcaption a {
+    text-decoration:none;
+}
+
+div.graphDesc p {
+    text-indent: 2em;
+}
+
+
 
                     /* CYTOSCAPE */
                
@@ -373,9 +391,40 @@ figcaption {
 
 div.graphics {
     display:flex;
-   /* position:absolute;*/
+   
     height:100vh;
     justify-content:center;
 }
+
+
+#cy2 {
+    width: 65vw;
+     height:100vh;
+     position:absolute;
+     /*background-color:white;*/
+     display:flex;
+     margin:auto;
+     border-style:double;
+     
+}
+
+
+div.networkDesc p{
+    text-indent: 2em;
+}
+
+span.artists {
+    color:aqua;
+}
+
+span.songwrit {
+    color:lightpink
+}
+
+span.songs {
+    color:red;
+}
+
+
 
 
