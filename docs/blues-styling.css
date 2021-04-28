@@ -376,7 +376,7 @@ div.graphDesc p {
                
  #cy {
      width: 65vw;
-     height:100vh;
+     height:70vh;
      position:absolute;
      /*background-color:white;*/
      display:flex;
@@ -392,14 +392,14 @@ div.graphDesc p {
 div.graphics {
     display:flex;
    
-    height:100vh;
+    height:75vh;
     justify-content:center;
 }
 
 
 #cy2 {
-    width: 65vw;
-     height:100vh;
+     width: 80vw;
+     height:70vh;
      position:absolute;
      /*background-color:white;*/
      display:flex;
@@ -425,6 +425,19 @@ span.songs {
     color:red;
 }
 
+span.tradit {
+    color:aquamarine;
+}
 
+p.center {
+    text-align:center;
+}
 
+div.cytoText {
+    margin-top:4%;
+}
 
+div.sourceCytoTxt {
+    text-align:center;
+    margin-top: 5%;
+}

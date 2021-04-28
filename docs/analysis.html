@@ -9,7 +9,7 @@
         <link href="https://fonts.googleapis.com/css2?family=New+Tegomin" rel="stylesheet" />
         <link rel="stylesheet" type="text/css" href="blues-styling.css" />
         <script src="cyto/networks.js"></script>
-        
+
     </head>
     <body class="contain">
         <header>
@@ -73,13 +73,14 @@
                     </div>
                     <div class="cyto">
                         <h3 class="method"><u>Networking Analysis Graphics</u></h3>
-                        <h4 class="cytoTitle">Network of Interactions between Songwriters and Performing Artists</h4>
-                        
+                        <h4 class="cytoTitle">Network of Interactions between Songwriters and
+                            Performing Artists</h4>
+
                         <div class="graphics">
-                            
+
                             <div id="cy">
-                                
-                                
+
+
                                 <!--<script type="cyto/text/ng-template" id="main.html"></script>-->
                                 <script src="cyto/networks.js"> </script>
                                 <script src="cyto/styles.js"> </script>
@@ -89,43 +90,59 @@
                                 <script src="cyto/scripts/main.js"></script>
                                 <!--<script src="cyto/scripts/custom.js"></script>-->
 
-                                
+
                             </div>
                         </div>
-                        
+
                         <div class="networkDesc">
-                            <p>This network, created in Cytoscape, utilizes all of our <code>"artist"</code> and <code>"songwriter"</code> tags
-                            in our collection of 1,088 song XML files to create a visualization of the shared interactions between
-                            <span class="artists">performing artists</span> (big blue circles/rectangles) and <span class="songwrit">songwriters</span> (large and small pink squares) as they
-                            are connected through songs. Each connecting line represents song(s) - the direction of the line's arrows
-                            shows who wrote the song(dotted end), and who performed it(arrow end).</p>
-                            <p>The larger pink squares represent <span class="songwrit">songwriters</span> who connect two of more performing artists together - 
-                            meaning that those people wrote songs which were performed by two or more performing artists in our collection.</p>
-                            <p>The red lines indicate <span class="songs">songs</span> that were written by a performing artist orignially, and were covered
-                            by one or more other performing artists.</p>
-                            <p>This network alone shows the massive amount of blues songs that have been passed down and shared among 
-                            blues artists, in our limited collection alone.</p>
-                            <p><b>IMPORTANT NOTE:</b> This network does not accurately represent ALL of the interactions between
-                            blues artists and songwriters throughout the whole genre. This network's dataset is limited to our 
-                            source files, which is <a href="source.html">far from being fully representative or complete data of the blues.</a> This accounts for
-                            why B.B. King's songwriter connections is so much bigger than the others' - it's not that B.B. King ACTUALLY 
-                            has more songs which connect him to more songwriters - our collection simply has a disproportionate amount of 
-                            his songs, compared to the other artists in our collection. In the future we hope to add more song files from 
-                            our artists and other blues artists we have no songs for, to create a more representative network for the blues as a whole!</p>
+                            <p>This network, created in Cytoscape, utilizes all of our
+                                    <code>"artist"</code> and <code>"songwriter"</code> tags in our
+                                collection of 1,088 song XML files to create a visualization of the
+                                shared interactions between <span class="artists">performing
+                                    artists</span> (big blue circles/rectangles) and <span
+                                    class="songwrit">songwriters</span> (large and small pink
+                                squares) as they are connected through songs. Each connecting line
+                                represents song(s) - the direction of the line's arrows shows who
+                                wrote the song(dotted end), and who performed it(arrow end).</p>
+                            <p>The larger pink squares represent <span class="songwrit"
+                                    >songwriters</span> who connect two of more performing artists
+                                together - meaning that those people wrote songs which were
+                                performed by two or more performing artists in our collection.</p>
+                            <p>The red lines indicate <span class="songs">songs</span> that were
+                                written by a performing artist orignially, and were covered by one
+                                or more other performing artists.</p>
+                            <p>The green squares represent songs that are either <span class="tradit">traditional</span> in origins, meaning
+                            the lyrics were written a long time ago and they have been passed down through many generations to the performing arists,
+                            or <span class="tradit">unknown</span> in origin, meaning the original writer of the song could not be confirmed by our source.</p>
+                            <p>This network alone shows the massive amount of blues songs that have
+                                been passed down and shared among blues artists, in our limited
+                                collection alone.</p>
+                            <p><b>IMPORTANT NOTE:</b> This network does not accurately represent ALL
+                                of the interactions between blues artists and songwriters throughout
+                                the whole genre. This network's dataset is limited to our source
+                                files, which is <a href="source.html">far from being fully
+                                    representative or complete data of the blues.</a> This accounts
+                                for why B.B. King's songwriter connections is so much bigger than
+                                the others' - it's not that B.B. King ACTUALLY has more songs which
+                                connect him to more songwriters - our collection simply has a
+                                disproportionate amount of his songs, compared to the other artists
+                                in our collection. In the future we hope to add more song files from
+                                our artists and other blues artists we have no songs for, to create
+                                a more representative network for the blues as a whole!</p>
                         </div>
-                        
+
                     </div>
-                    
-                    
-                    
-                    
+
+
+
+
                     <div class="text">
                         <h3 class="method"><u>Python and SpaCy</u></h3>
                         <p class="method">In order to compare aspects of the blues lyrics themselves
                             within our collection, we used Python and spaCy's Natural Language
                             Processor (NLP) to auto-magically analyze any collection of lyrics we
                             give it and find parts of speech, entities, and the like within each
-                            line and produce beautiful bar graphs using pyGal. </p>
+                            line and produce beautiful bar graphs using pyGal. (<a href="">Take a look at our Python code on GitHub</a>)</p>
                         <p class="method">For our purposes, we used the NLP to create visual
                             graphics of the most common nouns, verbs, and geopolitical entities
                             within songs which were written and performed in each decade. In doing
@@ -151,24 +168,39 @@
                                 </figure>
                             </div>
                             <div class="graphDesc">
-                                <p>These graphs, created using Python's spaCy NLP and pyGal word processor, shows our entire collection's
-                                most common geopolitical enities mentioned and most common names of people mentioned within all of our song lyrics.</p>
-                                <p>While our collection is indeed limited, it's interesting to contemplate why places such as Chicago, Texas, New Orleans, and Tennessee
-                                are mentioned most often in our blues songs. It could be that many of the songs were written and/or performed in these places,
-                                and it's reasonable to conclude that they were referenced so many times in our collection of blues songs due to
-                                hardships being endured in these places most often. It could also be argued that these places are mentioned most often
-                                because they are sung about in a positive light - maybe these are places that blues artists and songwriters
-                                wished to escape <em>to,</em> instead of <em>from.</em></p>
-                                <p>The graph representing most common names of people mentioned within our collection's lyrics is harder to decipher - there are 
-                                a number of reasons why these names in particular were mentioned so many times throughout songs. The fact that half of these names are presumably female
-                                may relfect that many of these blues songs were expressing the woes of heartbreak, and it's possible that these female
-                                names are used as a general reference to a significant other. It's also fascinating that Uncle Sam is on this list - as it 
-                                reflects how many of our collection's songs were written to express the woes and neglect brought upon by America's government to
-                                many of our collecton's artists and songwriters at the time.</p>
-                                <p><b>NOTE:</b> Again, this graph is not comprehensive. Some work was done to fix bugs that spaCy created when formulating these
-                                entity word frequencies - there may be some inaccuracies, beyond the fact that our dataset itself is incomprehensive.</p>
+                                <p>These graphs, created using Python's spaCy NLP and pyGal word
+                                    processor, shows our entire collection's most common
+                                    geopolitical enities mentioned and most common names of people
+                                    mentioned within all of our song lyrics.</p>
+                                <p>While our collection is indeed limited, it's interesting to
+                                    contemplate why places such as Chicago, Texas, New Orleans, and
+                                    Tennessee are mentioned most often in our blues songs. It could
+                                    be that many of the songs were written and/or performed in these
+                                    places, and it's reasonable to conclude that they were
+                                    referenced so many times in our collection of blues songs due to
+                                    hardships being endured in these places most often. It could
+                                    also be argued that these places are mentioned most often
+                                    because they are sung about in a positive light - maybe these
+                                    are places that blues artists and songwriters wished to escape
+                                        <em>to,</em> instead of <em>from.</em></p>
+                                <p>The graph representing most common names of people mentioned
+                                    within our collection's lyrics is harder to decipher - there are
+                                    a number of reasons why these names in particular were mentioned
+                                    so many times throughout songs. The fact that half of these
+                                    names are presumably female may relfect that many of these blues
+                                    songs were expressing the woes of heartbreak, and it's possible
+                                    that these female names are used as a general reference to a
+                                    significant other. It's also fascinating that Uncle Sam is on
+                                    this list - as it reflects how many of our collection's songs
+                                    were written to express the woes and neglect brought upon by
+                                    America's government to many of our collecton's artists and
+                                    songwriters at the time.</p>
+                                <p><b>NOTE:</b> Again, this graph is not comprehensive. Some work
+                                    was done to fix bugs that spaCy created when formulating these
+                                    entity word frequencies - there may be some inaccuracies, beyond
+                                    the fact that our dataset itself is incomprehensive.</p>
                             </div>
-                        <hr/>
+                            <hr />
                             <div class="decSect">
                                 <h4>Most Common Nouns Appearing in our Blues Collection through the
                                     Decades</h4>
@@ -177,74 +209,116 @@
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/20sNOUNbar_chartTopTen.svg" />
-                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/20sNOUNbar_chartTopTen.svg">1920's</a></figcaption>
+                                        <figcaption><a
+                                                href="images/spacyGraphs/nouns/topTen/20sNOUNbar_chartTopTen.svg"
+                                                >1920's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/30sNOUNbar_chartTopTen.svg" />
-                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/30sNOUNbar_chartTopTen.svg">1930's</a></figcaption>
+                                        <figcaption><a
+                                                href="images/spacyGraphs/nouns/topTen/30sNOUNbar_chartTopTen.svg"
+                                                >1930's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/40sNOUNbar_TopTen.svg" />
-                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/40sNOUNbar_TopTen.svg">1940's</a></figcaption>
+                                        <figcaption><a
+                                                href="images/spacyGraphs/nouns/topTen/40sNOUNbar_TopTen.svg"
+                                                >1940's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/50sNOUNbar_TopTen.svg" />
-                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/50sNOUNbar_TopTen.svg">1950's</a></figcaption>
+                                        <figcaption><a
+                                                href="images/spacyGraphs/nouns/topTen/50sNOUNbar_TopTen.svg"
+                                                >1950's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/60sNOUNbar_chartTopTen.svg" />
-                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/60sNOUNbar_chartTopTen.svg">1960's</a></figcaption>
+                                        <figcaption><a
+                                                href="images/spacyGraphs/nouns/topTen/60sNOUNbar_chartTopTen.svg"
+                                                >1960's</a></figcaption>
                                     </figure>
-                                    
+
                                 </div>
                                 <div class="row">
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/70sNOUNbar_TopTen.svg" />
-                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/70sNOUNbar_TopTen.svg">1970's</a></figcaption>
+                                        <figcaption><a
+                                                href="images/spacyGraphs/nouns/topTen/70sNOUNbar_TopTen.svg"
+                                                >1970's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/80sNOUNbar_TopTen.svg" />
-                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/80sNOUNbar_TopTen.svg">1980's</a></figcaption>
+                                        <figcaption><a
+                                                href="images/spacyGraphs/nouns/topTen/80sNOUNbar_TopTen.svg"
+                                                >1980's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/90sNOUNbar_TopTen.svg" />
-                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/90sNOUNbar_TopTen.svg">1990's</a></figcaption>
+                                        <figcaption><a
+                                                href="images/spacyGraphs/nouns/topTen/90sNOUNbar_TopTen.svg"
+                                                >1990's</a></figcaption>
                                     </figure>
                                     <figure>
                                         <embed class="decGraph" type="image/svg+xml"
                                             src="images/spacyGraphs/nouns/topTen/00sNOUNbar_TopTen.svg" />
-                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/00sNOUNbar_TopTen.svg">2000's</a></figcaption>
+                                        <figcaption><a
+                                                href="images/spacyGraphs/nouns/topTen/00sNOUNbar_TopTen.svg"
+                                                >2000's</a></figcaption>
                                     </figure>
                                 </div>
                                 <div class="row">
                                     <figure>
                                         <embed class="collec" type="image/svg+xml"
-                                            src="images/spacyGraphs/nouns/topTen/collectionNOUNbar_TopTen.svg"/>
-                                        <figcaption><a href="images/spacyGraphs/nouns/topTen/collectionNOUNbar_TopTen.svg">Entire Collection</a></figcaption>
+                                            src="images/spacyGraphs/nouns/topTen/collectionNOUNbar_TopTen.svg" />
+                                        <figcaption><a
+                                                href="images/spacyGraphs/nouns/topTen/collectionNOUNbar_TopTen.svg"
+                                                >Entire Collection</a></figcaption>
                                     </figure>
                                 </div>
                             </div>
-            So as we can see from these graphs, the word "baby" has an overwhelming usage over time, but before We look into that
-            Let's have a look at the 1920s where the most popular noun was man. This could be a result of how most blues songs were
-            about hard work and because this was the 1920's a large majority of blue collar workers were men. Now onto The next decades,
-            if we take a look at all the other decades we see a heavy use of the word "baby" This could be because in the 1930s, blues were 
-            more about love, The Correlation here is World War 1 had ended, and at the end of every war what we generally see is people
-            will start to settle down and find lovers/partners. This could have inspired more blues to take on such themes. Another large explanation
-            is that the term "baby" was used to act as filler for when an artist forgot the lyrics. This was for the purpose of concerts in the event 
-            a singer was performing. And if we look to the 50s and 60s, That is when the use of "baby" starts to skyrocket, which is ALSO the time when
-            concerts started to become extremely popular. Before then attending concerts was a luxury but concerts rapidly became more
-            popular when they became available for the common person.
+                            
+                            <p>Our project team decided to run all of the lyrics from each song and group them together
+                           by the decade in which they were performed, then ran each decade of song lyrics through
+                           spaCy's NLP in PyCharm, using Python code to automatically grab and calculate the ten most common
+                           nouns used in each decade of blues lyrics. We executed this experiment in hopes of finding 
+                           interesting correlations between the era in which songs were performed, and the popular
+                            subjects of the blues songs at the time.</p>
+                            <p>From these graphs, you'll notice the word "baby" has an
+                                overwhelmingly abundant usage throughout most of the decades of
+                                songs in our collection. All except the 1920's, where the most
+                                popular noun in the songs' lyrics was "man." Our team speculates that this could be a reflection
+                                 of how many blues songs were about the struggle of hard work - and in
+                                the 1920's, a large majority of blue collar workers were men. The
+                                frequent use of the word "baby" is hardly surprising, seeing as even most
+                                songs you'd hear on the radio today hardly go a verse without the word
+                                "baby" - but in the case of the blues, and throughout the history of 
+                                the blues, the word "baby" could have a wide variety of different 
+                                connotations. </p>
+                                
+                                <!--This is purely speculation, but it could be that since because in the
+                                1930s, blues were more about love, The correlation here is World War
+                                1 had ended, and at the end of every war what we generally see is
+                                people will start to settle down and find lovers/partners. This
+                                could have inspired more blues to take on such themes. Another large
+                                explanation is that the term "baby" was used to act as filler for
+                                when an artist forgot the lyrics. This was for the purpose of
+                                concerts in the event a singer was performing. And if we look to the
+                                50s and 60s, That is when the use of "baby" starts to skyrocket,
+                                which is ALSO the time when concerts started to become extremely
+                                popular. Before then attending concerts was a luxury but concerts
+                                rapidly became more popular when they became available for the
+                                common person.-->
 
                         </div>
                     </div>
-                    <p class="method"></p>
+                    
 
 
                 </div>
