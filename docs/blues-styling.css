@@ -21,6 +21,10 @@ header {
     text-align: center;
 }
 
+header h1 {
+    margin-top: 0px;
+}
+
 div.navbar {
     padding-bottom: 20px;
     padding-top: 10px;
@@ -197,12 +201,15 @@ div.noteBckgrnd {
     background-position: 10% 10%
 }
 
-p.source {
 
+
+p.source {
+    text-indent: 2em;
 }
 
 p.note {
-    padding-right: 40%
+    padding-right: 40%;
+   
 }
 
 p.source a {
@@ -317,6 +324,11 @@ ul.methodInfo {
 embed.decGraph {
     width: 20vw;
     object-fit:contain;
+    transition: .4s;
+}
+
+embed.decGraph:hover {
+    width: 30vw;
 }
 
 embed.collec {
@@ -343,6 +355,17 @@ div.decSect {
     /*margin:auto;*/
 }
 
+div.row1 {
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    justify-content:space-around;
+    /*padding-right: 5%;
+    padding-left:5%;*/
+    padding-top:1%;
+    padding-bottom:1%;
+}
+
 div.row {
     display:flex;
     flex-direction:row;
@@ -352,6 +375,7 @@ div.row {
     padding-left:5%;*/
     padding-top:1%;
     padding-bottom:1%;
+    flex-wrap:wrap;
 }
 
 div.row figure {
@@ -364,6 +388,12 @@ figcaption {
 
 figcaption a {
     text-decoration:none;
+    transition: .3s;
+}
+
+figcaption a:hover {
+    color: aqua;
+    text-decoration:underline;
 }
 
 div.graphDesc p {
@@ -441,3 +471,5 @@ div.sourceCytoTxt {
     text-align:center;
     margin-top: 3%;
 }
+
+

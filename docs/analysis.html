@@ -12,6 +12,10 @@
 
     </head>
     <body class="contain">
+        <a style="text-align:right;" rel="license"
+            href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
+                alt="Creative Commons License" style="border-width:0"
+                src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
         <header>
             <h1>Blues Analysis Project</h1>
             <div class="navbar"><a class="navLink" href="index.html">Home</a> | <a class="navLink"
@@ -111,9 +115,12 @@
                             <p>The red lines indicate <span class="songs">songs</span> that were
                                 written by a performing artist orignially, and were covered by one
                                 or more other performing artists.</p>
-                            <p>The green squares represent songs that are either <span class="tradit">traditional</span> in origins, meaning
-                            the lyrics were written a long time ago and they have been passed down through many generations to the performing arists,
-                            or <span class="tradit">unknown</span> in origin, meaning the original writer of the song could not be confirmed by our source.</p>
+                            <p>The green squares represent songs that are either <span
+                                    class="tradit">traditional</span> in origins, meaning the lyrics
+                                were written a long time ago and they have been passed down through
+                                many generations to the performing arists, or <span class="tradit"
+                                    >unknown</span> in origin, meaning the original writer of the
+                                song could not be confirmed by our source.</p>
                             <p>This network alone shows the massive amount of blues songs that have
                                 been passed down and shared among blues artists, in our limited
                                 collection alone.</p>
@@ -142,7 +149,8 @@
                             within our collection, we used Python and spaCy's Natural Language
                             Processor (NLP) to auto-magically analyze any collection of lyrics we
                             give it and find parts of speech, entities, and the like within each
-                            line and produce beautiful bar graphs using pyGal. (<a href="">Take a look at our Python code on GitHub</a>)</p>
+                            line and produce beautiful bar graphs using pyGal. (<a href="">Take a
+                                look at our Python code on GitHub</a>)</p>
                         <p class="method">For our purposes, we used the NLP to create visual
                             graphics of the most common nouns, verbs, and geopolitical entities
                             within songs which were written and performed in each decade. In doing
@@ -155,7 +163,7 @@
                     <div class="spacyWrap">
                         <h3><u>Our spaCy Graphs</u></h3>
                         <div class="spacySVG">
-                            <div class="row">
+                            <div class="row1">
                                 <figure class="ent">
                                     <embed type="image/svg+xml"
                                         src="images/spacyGraphs/entities/COLLECTION_GPENTITYbar_chartTopTwenty.svg"
@@ -283,42 +291,39 @@
                                     </figure>
                                 </div>
                             </div>
-                            
-                            <p>Our project team decided to run all of the lyrics from each song and group them together
-                           by the decade in which they were performed, then ran each decade of song lyrics through
-                           spaCy's NLP in PyCharm, using Python code to automatically grab and calculate the ten most common
-                           nouns used in each decade of blues lyrics. We executed this experiment in hopes of finding 
-                           interesting correlations between the era in which songs were performed, and the popular
-                            subjects of the blues songs at the time.</p>
-                            <p>From these graphs, you'll notice the word "baby" has an
-                                overwhelmingly abundant usage throughout most of the decades of
+
+                            <p class="method">Our project team decided to run all of the lyrics from
+                                each song and group them together by the decade in which they were
+                                performed, then ran each decade of song lyrics through spaCy's NLP
+                                in PyCharm, using Python code to automatically grab and calculate
+                                the ten most common nouns used in each decade of blues lyrics. We
+                                executed this experiment in hopes of finding interesting
+                                correlations between the era in which songs were performed, and the
+                                popular subjects of the blues songs at the time.</p>
+                            <p class="method">
+                                Keep in mind, these
+                                graphs represent findings from non-comprehensive data, so more raw
+                                lyrics will be needed in certain decades to more accurately
+                                represent the most common nouns in blues songs through the decades.
+                                The 1920's, 1930's, and 1940's are three of the decades we have the
+                                least amount of song lyric data from.
+                            </p>
+                            <p class="method">From these graphs, you'll notice the word "baby" has
+                                an overwhelmingly abundant usage throughout most of the decades of
                                 songs in our collection. All except the 1920's, where the most
-                                popular noun in the songs' lyrics was "man." Our team speculates that this could be a reflection
-                                 of how many blues songs were about the struggle of hard work - and in
-                                the 1920's, a large majority of blue collar workers were men. The
-                                frequent use of the word "baby" is hardly surprising, seeing as even most
-                                songs you'd hear on the radio today hardly go a verse without the word
-                                "baby" - but in the case of the blues, and throughout the history of 
-                                the blues, the word "baby" could have a wide variety of different 
-                                connotations. </p>
-                                
-                                <!--This is purely speculation, but it could be that since because in the
-                                1930s, blues were more about love, The correlation here is World War
-                                1 had ended, and at the end of every war what we generally see is
-                                people will start to settle down and find lovers/partners. This
-                                could have inspired more blues to take on such themes. Another large
-                                explanation is that the term "baby" was used to act as filler for
-                                when an artist forgot the lyrics. This was for the purpose of
-                                concerts in the event a singer was performing. And if we look to the
-                                50s and 60s, That is when the use of "baby" starts to skyrocket,
-                                which is ALSO the time when concerts started to become extremely
-                                popular. Before then attending concerts was a luxury but concerts
-                                rapidly became more popular when they became available for the
-                                common person.-->
+                                popular noun in the songs' lyrics was "man." Our team speculates
+                                that this could be a reflection of how many blues songs were about
+                                the struggle of hard work - and in the 1920's, a large majority of
+                                blue collar workers were men. The frequent use of the word "baby" is
+                                hardly surprising, seeing as even most songs you'd hear on the radio
+                                today hardly go a verse without the word "baby" - but in the case of
+                                the blues, and throughout the history of the blues, the word "baby"
+                                could have a wide variety of different connotations. </p>
+
 
                         </div>
                     </div>
-                    
+
 
 
                 </div>
