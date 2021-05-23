@@ -7,7 +7,7 @@
 * Evaluated by: @ebeshero
 
 ### Project orientation and research questions
-This project has been a fun series of research questions from the start, from testing what thousands of blues lyrics we could draw from the worldwide web first of all, to learning more about performing artists and composers over the twentieth century, and tracking patterns in the language. This was an ambitious project from the start, and one of the best things about it is that the research questions continue! Among them are:
+This project has been a fun series of research questions from the start, from testing what thousands of blues lyrics we could draw from the worldwide web first of all, to learning more about performing artists and composers over the twentieth century, and tracking patterns in the language of blues lyrics. This was an ambitious project from the start, and one of the best things about it is that the research questions continue! Besides the excellent questions you present on the first page of your website, the ongoing questions include:
 
 * Can we find more blues lyrics and add them to the archive you have organized? 
 * Will the patterns you have found change significantly if we can find more lyrics from the 1920s - 40s? 
