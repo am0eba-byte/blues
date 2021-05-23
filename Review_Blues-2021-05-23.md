@@ -1,4 +1,4 @@
-## *The Legend of Zelda* Text Analysis: Project Review
+## *Blues Analysis Project*: Review
 
 * Site publication: <https://am0eba-byte.github.io/blues/>
 * GitHub: <https://github.com/am0eba-byte/blues>
