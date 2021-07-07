@@ -2,10 +2,11 @@ from collections import Counter
 import pygal
 import spacy
 
+# nlp = spacy.cli.download("en_core_web_sm")
 nlp = spacy.load('en_core_web_sm')
 lemmatizer = nlp.get_pipe("lemmatizer")
 
-nineties = open("rawText/twothouLyricsNLP.txt", "r")
+nineties = open("rawLyrics/twothouLyricsNLP.txt", "r")
 
 words = nineties.read()
 ninetiesWords = nlp(words)
