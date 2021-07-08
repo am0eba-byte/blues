@@ -296,11 +296,17 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
+align-self:center;
 }
 
 div.sourceSVG h2 {
     font-size:1.5em;
     padding-top: 1%;
+}
+
+div.SVGcontain {
+    display:flex;
+    justify-content:center;
 }
 
 
