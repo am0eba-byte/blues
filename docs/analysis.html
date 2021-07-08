@@ -28,10 +28,12 @@
                 <h2 class="analysis">Analysis of our Blues Collection</h2>
 
                 <div class="method">
-                    <h3 class="method"><u>Our Methods</u></h3>
+                    <!--<h3 class="method"><u>Our Methods</u></h3>-->
                     <div class="imgTextWrap">
                         <div class="text">
                             <div class="analysisText">
+                                <h3 class="method"><u>Our Methods</u></h3>
+                                
                                 <p class="method">In order to markup the important data, format, and
                                     syntax of each of the song lyrics files in our gigantic
                                     collection, we used oXygen's "Find and Replace in Files" tool to
@@ -55,24 +57,25 @@
                                 </ul>
                             </div>
 
-                            <div class="text">
-                                <h3 class="method"><u>XQuery</u></h3>
-                                <p class="method">Once we had all relevant data and formatting
-                                    tagged in our collection, we used the eXist software to create
-                                    and conduct XQueries which could pull and query the information
-                                    we were after from our XML tags en masse using XPath functions.
-                                    Once we had functioning XQueries, we used the FLWOR method of
-                                    XQuerying to create SVG graphics, collections of raw text files
-                                    for Python, and TSV (Tab-Separated Values) files from the
-                                    queried data. From these, we created visualizations of our
-                                    research results from our blues collection!(<a
-                                        href="https://github.com/am0eba-byte/blues/tree/main/xquery"
-                                        >Here's the GitHub view of our XQuery Files</a>)</p>
-                            </div>
+                            
                         </div>
                         <div class="analysisImg">
                             <img class="analyimg" src="images/flamin_frets.jpg" alt="flamin frets"
                              />
+                        </div>
+                        <div class="xqueryText">
+                            <h3 class="method"><u>XQuery</u></h3>
+                            <p class="method">Once we had all relevant data and formatting
+                                tagged in our collection, we used the eXist software to create
+                                and conduct XQueries which could pull and query the information
+                                we were after from our XML tags en masse using XPath functions.
+                                Once we had functioning XQueries, we used the FLWOR method of
+                                XQuerying to create SVG graphics, collections of raw text files
+                                for Python, and TSV (Tab-Separated Values) files from the
+                                queried data. From these, we created visualizations of our
+                                research results from our blues collection!(<a
+                                    href="https://github.com/am0eba-byte/blues/tree/main/xquery"
+                                    >Here's the GitHub view of our XQuery Files</a>)</p>
                         </div>
                     </div>
                     <div class="cyto">
@@ -143,7 +146,7 @@
 
 
 
-                    <div class="text">
+                    <div class="spacyText">
                         <h3 class="method"><u>Python and SpaCy</u></h3>
                         <p class="method">In order to compare aspects of the blues lyrics themselves
                             within our collection, we used Python and spaCy's Natural Language
@@ -292,7 +295,7 @@
                                 </div>
                             </div>
 
-                            <p class="method">Our project team decided to run all of the lyrics from
+                            <div class="graphText"><p class="method">Our project team decided to run all of the lyrics from
                                 each song and group them together by the decade in which they were
                                 performed, then ran each decade of song lyrics through spaCy's NLP
                                 in PyCharm, using Python code to automatically grab and calculate
@@ -302,13 +305,15 @@
                                 popular subjects of the blues songs at the time.</p>
                             <p class="method">
                                 Keep in mind, these
-                                graphs represent findings from non-comprehensive data, so more raw
-                                lyrics will be needed in certain decades to more accurately
-                                represent the most common nouns in blues songs through the decades.
+                                graphs represent findings from non-comprehensive data; more raw source
+                                lyrics are needed in certain decades to more accurately and evenly
+                                represent the most common nouns in blues songs throughout the decades.
                                 The 1920's, 1930's, and 1940's are three of the decades we have the
-                                least amount of song lyric data from.
+                                least amount of song lyric data from, as you can see by the generally smaller 
+                                amount of nouns
+                                 appearing in the graphs we've created from them.
                             </p>
-                            <p class="method">From these graphs, you'll notice the word "baby" has
+                            <!--<p class="method">From these graphs, you'll notice the word "baby" has
                                 an overwhelmingly abundant usage throughout most of the decades of
                                 songs in our collection. All except the 1920's, where the most
                                 popular noun in the songs' lyrics was "man." Our team speculates
@@ -319,8 +324,8 @@
                                 today hardly go a verse without the word "baby" - but in the case of
                                 the blues, and throughout the history of the blues, the word "baby"
                                 could have a wide variety of different connotations. </p>
-
-
+-->
+</div>
                         </div>
                     </div>
 

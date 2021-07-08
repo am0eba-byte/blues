@@ -17,12 +17,28 @@ body.contain {
 
 }
 
+a {
+    color: #ffe300;
+    text-shadow: 1px 1px black;
+    transition: .3s;
+}
+
+a:hover {
+    color:lime;
+    text-shadow:1.5px 1.5px black;
+}
+
 header {
     text-align: center;
 }
 
 header h1 {
     margin-top: 0px;
+    text-shadow: 2px 2px black;
+}
+
+h1, h2, h3, h4 {
+    text-shadow: 2px 2px black;
 }
 
 div.navbar {
@@ -34,8 +50,19 @@ a.navLink {
     padding-left: 20px;
     padding-right: 20px;
     font-size: 1.2em;
-    color: lime;
+    color: #ffe300;
+    text-shadow: 1px 1px black;
+    transition:.3s;
 }
+
+a.navLink:hover {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 1.2em;
+    color:lime;
+    text-shadow:1.5px 1.5px black;
+}
+
 
 footer {
     display: flex;
@@ -46,14 +73,11 @@ p.foot {
     text-align: center;
 }
 
-p.foot a {
+
+/*a {
     color: lime;
 }
-
-a {
-    color: lime;
-}
-
+*/
 
 /* HOMEPAGE STYLING */
 
@@ -63,12 +87,36 @@ section.index {
     margin-right: 5%;
     margin-top: 2%;
     margin-bottom: 2%;
+   
+}
+
+div.index {
+       background-color: hsla(0, 0%, 0%, 0.4);
+    border-radius:25px;
+   padding-left: 25px;
+   /*  
+padding-right: 25px;
+padding-top: 5px;
+padding-bottom: 5px;*/
 }
 
 div.homeImage {
     display: flex;
     margin: auto;
     justify-content: center;
+    
+}
+
+figure {
+    position:relative;
+}
+
+figcaption.imgSource {
+    text-align:right;
+    font-size:small;
+    position:absolute;
+     bottom: 8px;
+  left: 16px;
 }
 
 img#bluesArt {
@@ -88,6 +136,7 @@ div.cytoText h3{
 
 h2.index {
     text-indent: 2em;
+  
 }
 
 div.research {
@@ -198,13 +247,20 @@ div.noteBckgrnd {
     padding-bottom: 1%;
     border-radius:30px;
     opacity: .7;
-    background-position: 10% 10%
+    /*background-position: 10% 10%*/
+    background-position: -160% top;
 }
 
 
 
 p.source {
     text-indent: 2em;
+    background-color: hsla(0, 0%, 0%, 0.4);
+    border-radius:25px;
+    padding-left: 25px;
+padding-right: 25px;
+padding-top: 5px;
+padding-bottom: 5px;
 }
 
 p.note {
@@ -212,9 +268,9 @@ p.note {
    
 }
 
-p.source a {
+/*p.source a {
     color: lime;
-}
+}*/
 
 div.sourceimg {
     /*display:flex;*/
@@ -277,6 +333,17 @@ div.text {
     flex-direction:column;
     flex-wrap: wrap;
     flex:2;
+  
+}
+
+div.xqueryText {
+    background-color: hsla(0, 0%, 0%, 0.4);
+    border-radius:25px;
+    padding-left: 15px;
+padding-right: 15px;
+padding-top: 2px;
+padding-bottom: 2px;
+margin-top:5px;
 }
 
 div.analysisImg {
@@ -289,7 +356,8 @@ div.analysisImg {
 
 img.analyimg {
     width: 40%;
-    max-height: 65vh;
+    min-height: 70vh;
+    max-height: 75vh;
     border-radius: 30px;
     padding-left: 10px;
 }
@@ -306,6 +374,23 @@ h3.method {
 div.analysisText {
     flex: 1;
     position: relative;
+    background-color: hsla(0, 0%, 0%, 0.4);
+    border-radius:15px;
+    padding-left: 15px;
+padding-right: 25px;
+padding-top: 2px;
+padding-bottom: 2px;
+margin-bottom:5px;
+}
+
+div.spacyText {
+       background-color: hsla(0, 0%, 0%, 0.4);
+    border-radius:25px;
+    padding-left: 15px;
+padding-right: 15px;
+padding-top: 2px;
+padding-bottom: 2px;
+margin-top:15px;
 }
 
 p.method {
@@ -315,6 +400,25 @@ p.method {
 
 ul.methodInfo {
 
+}
+
+div.networkDesc {
+    background-color: hsla(0, 0%, 0%, 0.4);
+    border-radius:25px;
+    padding-left: 25px;
+padding-right: 25px;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+div.graphText {
+    background-color: hsla(0, 0%, 0%, 0.4);
+    border-radius:25px;
+    padding-left: 25px;
+padding-right: 25px;
+padding-top: 5px;
+padding-bottom: 5px;
+margin-top:5px;
 }
 
 
@@ -392,12 +496,22 @@ figcaption a {
 }
 
 figcaption a:hover {
-    color: aqua;
+    color: lime;
     text-decoration:underline;
+}
+
+div.graphDesc {
+    background-color: hsla(0, 0%, 0%, 0.4);
+    border-radius:25px;
+    padding-left: 25px;
+padding-right: 25px;
+padding-top: 5px;
+padding-bottom: 5px;
 }
 
 div.graphDesc p {
     text-indent: 2em;
+    
 }
 
 
@@ -461,6 +575,7 @@ span.tradit {
 
 p.center {
     text-align:center;
+    margin: 0;
 }
 
 div.cytoText {
