@@ -252,6 +252,22 @@ div.noteBckgrnd {
 }
 
 
+            /* START KEYSTONE DH SETTINGS */
+            
+div.noteBckgrndKDH {
+    background-image: url(images/stencil_artist.jpg);
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius:30px;
+    opacity: .7;
+    /*background-position: 10% 10%*/
+    background-position: -2210% top;
+}
+
+
+        /* END KEYSTONE DH SETTINGS */
 
 p.source {
     text-indent: 2em;
