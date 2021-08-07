@@ -8,9 +8,9 @@ $(function() {
         }
         return null
     }
-    var n = "#cy",
-        network = networks[Object.keys(networks)[0]],
-        style = styles[0];
+    var n = "#cy2",
+        network = networks2[Object.keys(networks2)[0]],
+        style = styles2[0];
     $(n).cytoscape({
         layout: {
             name: "preset",

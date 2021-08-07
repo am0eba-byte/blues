@@ -1,4 +1,4 @@
-var networks = {"bluesDecades-Artists.tsv": {
+var networks2 = {"bluesDecades-Artists.tsv": {
   "format_version" : "1.0",
   "generated_by" : "cytoscape-3.8.2",
   "target_cytoscapejs_version" : "~2.1",
